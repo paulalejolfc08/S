@@ -1,0 +1,1131 @@
+1
+00:01:33,553 --> 00:01:34,763
+<i>¿Listo, Shinji?</i>
+
+2
+00:01:35,513 --> 00:01:36,473
+Sí, señorita.
+
+3
+00:01:36,765 --> 00:01:38,600
+¡Liberen los últimos seguros!
+
+4
+00:01:39,893 --> 00:01:42,562
+Evangelion Unidad 01, ¡despega!
+
+5
+00:01:45,690 --> 00:01:46,858
+¿Shinji?
+
+6
+00:01:46,942 --> 00:01:49,194
+<i>Quiero que te concentres en caminar.</i>
+
+7
+00:01:49,569 --> 00:01:51,196
+<i>Camina...</i>
+
+8
+00:02:00,246 --> 00:02:01,081
+¡Lo logró!
+
+9
+00:02:04,250 --> 00:02:05,168
+<i>Camina...</i>
+
+10
+00:02:14,135 --> 00:02:16,388
+<i>Shinji, ¿me oyes?</i>
+
+11
+00:02:16,972 --> 00:02:18,765
+<i>¡De prisa! ¡Tienes que levantarte!</i>
+
+12
+00:02:29,985 --> 00:02:32,779
+<i>Shinji, ¡tranquilízate!</i>
+<i>¡Solo es una sensación!</i>
+
+13
+00:02:36,992 --> 00:02:40,078
+- ¿Qué pasa con su sistema de defensa?
+- La señal no responde.
+
+14
+00:02:40,161 --> 00:02:41,579
+¡Su escudo no se activa!
+
+15
+00:02:42,122 --> 00:02:43,248
+¿No funciona?
+
+16
+00:02:47,877 --> 00:02:49,921
+- <i>¡Brazo dañado!</i>
+- <i>¡Circuitos rotos!</i>
+
+17
+00:02:52,882 --> 00:02:54,300
+Shinji, ¡libérate!
+
+18
+00:03:00,390 --> 00:03:01,808
+¡Fractura en el casco!
+
+19
+00:03:01,891 --> 00:03:03,476
+¡La armadura no resistirá mucho!
+
+20
+00:03:12,193 --> 00:03:13,069
+EMERGENCIA
+
+21
+00:03:13,153 --> 00:03:14,362
+¡Cabeza dañada!
+
+22
+00:03:14,779 --> 00:03:17,365
+¡Los controles neuronales
+se están desconectando!
+
+23
+00:03:17,449 --> 00:03:18,950
+¡El piloto no responde!
+
+24
+00:03:20,035 --> 00:03:20,869
+¡Shinji!
+
+25
+00:03:53,026 --> 00:03:54,360
+Es un techo extraño.
+
+26
+00:04:01,367 --> 00:04:02,994
+{\an8}PELIGRO
+ALÉJESE
+
+27
+00:04:10,126 --> 00:04:13,213
+Los ángeles han vuelto. Es muy repentino.
+
+28
+00:04:13,588 --> 00:04:19,094
+Es justo como hace 15 años.
+La desgracia nunca avisa antes de atacar.
+
+29
+00:04:19,969 --> 00:04:21,846
+Podríamos verlo como una bendición.
+
+30
+00:04:21,971 --> 00:04:25,600
+Nuestras inversiones previas
+valieron la pena.
+
+31
+00:04:26,226 --> 00:04:27,727
+Eso aún está por verse.
+
+32
+00:04:28,436 --> 00:04:30,730
+Si no resulta útil,
+habrá sido un gasto inútil.
+
+33
+00:04:30,814 --> 00:04:31,856
+Cierto.
+
+34
+00:04:31,940 --> 00:04:35,485
+La información de los ángeles
+se extiende entre la población.
+
+35
+00:04:36,027 --> 00:04:37,821
+Hay que desinformar.
+
+36
+00:04:37,904 --> 00:04:43,910
+El trabajo de NERV debe realizarse
+rápida y apropiadamente.
+
+37
+00:04:44,327 --> 00:04:47,122
+Ya nos encargamos de eso.
+
+38
+00:04:47,205 --> 00:04:48,164
+No se preocupe.
+
+39
+00:04:48,248 --> 00:04:51,543
+<i>Esta mañana, en la oficina</i>
+<i>del primer ministro en Tokio-2,</i>
+
+40
+00:04:51,626 --> 00:04:54,129
+<i>el gobierno dio una conferencia...</i>
+
+41
+00:04:54,212 --> 00:04:56,297
+<i>- El gobierno...</i>
+<i>- Las tropas de la ONU...</i>
+
+42
+00:04:56,381 --> 00:04:59,050
+Veo que usaron el escenario B-22.
+
+43
+00:04:59,884 --> 00:05:01,761
+Ocultan la verdad una vez más.
+
+44
+00:05:02,303 --> 00:05:05,890
+En Relaciones Públicas
+estaban felices de ser útiles por fin.
+
+45
+00:05:06,391 --> 00:05:08,393
+Qué montón de optimistas.
+
+46
+00:05:08,643 --> 00:05:11,563
+La verdad, sospecho que están aterrados.
+
+47
+00:05:12,730 --> 00:05:13,857
+Hacen bien.
+
+48
+00:05:15,024 --> 00:05:16,734
+Bueno, eso es cierto.
+
+49
+00:05:17,443 --> 00:05:22,407
+Aun así,  Ikari, ¿no podrían
+controlar mejor a NERV y los Eva?
+
+50
+00:05:22,991 --> 00:05:27,912
+Primero, la Unidad 00.
+Ahora, la 01 también debe ser reparada.
+
+51
+00:05:28,413 --> 00:05:29,831
+El país podría quebrar.
+
+52
+00:05:30,582 --> 00:05:34,377
+Oí que le diste ese juguete
+a tu propio hijo.
+
+53
+00:05:34,961 --> 00:05:37,839
+Personal, tiempo y dinero.
+
+54
+00:05:38,423 --> 00:05:41,217
+Tu hijo y tú están sedientos de recursos.
+
+55
+00:05:41,509 --> 00:05:44,053
+Y ese no es tu único trabajo.
+
+56
+00:05:44,137 --> 00:05:45,972
+CONFIDENCIAL
+INSTRUMENTALIZACIÓN HUMANA
+
+57
+00:05:46,055 --> 00:05:48,600
+El Proyecto de Instrumentalización
+es tu prioridad.
+
+58
+00:05:49,017 --> 00:05:55,356
+Exacto. Es el único rayo de luz
+en esta situación desesperada.
+
+59
+00:05:55,440 --> 00:05:56,482
+Nuestra esperanza.
+
+60
+00:05:57,066 --> 00:06:00,904
+En todo caso, no se puede echar atrás
+el plazo del proyecto
+
+61
+00:06:00,987 --> 00:06:02,780
+por la llegada de los ángeles.
+
+62
+00:06:03,031 --> 00:06:05,867
+Tu petición presupuestaria
+será tomada en cuenta.
+
+63
+00:06:05,992 --> 00:06:08,494
+El consejo se encargará a partir de ahora.
+
+64
+00:06:08,870 --> 00:06:10,997
+Buen trabajo, comandante Ikari.
+
+65
+00:06:13,666 --> 00:06:16,544
+Ikari, no hay marcha atrás.
+
+66
+00:06:19,756 --> 00:06:20,882
+Lo sé bien.
+
+67
+00:06:22,091 --> 00:06:24,260
+La humanidad tiene el tiempo contado.
+
+68
+00:06:51,537 --> 00:06:54,040
+¡El aire acondicionado
+es el mejor invento!
+
+69
+00:06:54,123 --> 00:06:55,833
+Vaya triunfo de la ciencia.
+
+70
+00:06:56,626 --> 00:06:58,086
+Shinji recuperó la consciencia.
+
+71
+00:06:58,878 --> 00:07:00,588
+Y bien, ¿cuál es su estado?
+
+72
+00:07:01,005 --> 00:07:04,425
+No hay daño externo,
+pero su memoria está algo alterada.
+
+73
+00:07:04,968 --> 00:07:06,594
+¿Es contaminación psicológica?
+
+74
+00:07:07,387 --> 00:07:08,888
+Dicen que no hay riesgo de eso.
+
+75
+00:07:09,722 --> 00:07:10,807
+Oh.
+
+76
+00:07:12,183 --> 00:07:14,936
+Sí, no me sorprende.
+Lo lanzamos al abismo.
+
+77
+00:07:15,436 --> 00:07:18,856
+Con razón. Su sistema nervioso
+sufrió mucha presión.
+
+78
+00:07:19,524 --> 00:07:21,901
+¿No querrás decir "su mente"?
+
+79
+00:07:37,834 --> 00:07:40,461
+AVISO DE CONSTRUCCIÓN
+
+80
+00:07:42,547 --> 00:07:44,841
+- ¡Bien!
+- ¡Un poco más!
+
+81
+00:07:44,924 --> 00:07:45,925
+¡Bien, justo ahí!
+
+82
+00:07:49,846 --> 00:07:53,891
+Cuando los Eva y la ciudad
+estén operando, tendremos oportunidad.
+
+83
+00:07:54,225 --> 00:07:55,518
+¿Crees que podemos ganar?
+
+84
+00:07:56,185 --> 00:07:57,979
+Siempre optimista, por lo que veo.
+
+85
+00:07:58,062 --> 00:08:02,108
+Un panorama brillante es esencial
+para que la gente viva su vida.
+
+86
+00:08:04,193 --> 00:08:07,113
+Supongo. Tu panorama es útil a veces.
+
+87
+00:08:08,448 --> 00:08:09,449
+Nos vemos.
+
+88
+00:08:09,532 --> 00:08:12,952
+<i>Doctor Ugai, del Departamento Uno</i>
+<i>de Medicina Interna.</i>
+
+89
+00:08:13,036 --> 00:08:16,539
+<i>Contacte al doctor Azuma,</i>
+<i>del Departamento Uno de Cirugía.</i>
+
+90
+00:08:18,708 --> 00:08:22,754
+<i>La conferencia médica del incidente B</i>
+<i>tomará lugar según lo planeado.</i>
+
+91
+00:08:22,837 --> 00:08:26,674
+<i>Por favor, diríjanse</i>
+<i>a la sala de conferencias dos.</i>
+
+92
+00:08:48,154 --> 00:08:50,990
+¿Así que vivirán separados?
+
+93
+00:08:51,532 --> 00:08:56,454
+<i>Para los Ikari, la vida en solitario</i>
+<i>es la regla.</i>
+
+94
+00:08:56,871 --> 00:09:00,249
+<i>Entonces, vivir juntos les sería raro.</i>
+
+95
+00:09:00,917 --> 00:09:02,168
+¿Vivirá solo?
+
+96
+00:09:02,460 --> 00:09:05,922
+Así es. Estará en una habitación cercana
+en el Bloque Seis.
+
+97
+00:09:06,339 --> 00:09:08,132
+- ¿Es aceptable?
+- Sí, señor.
+
+98
+00:09:09,759 --> 00:09:12,178
+¿Estás seguro, Shinji?
+
+99
+00:09:12,720 --> 00:09:14,347
+Sí, prefiero estar solo.
+
+100
+00:09:15,765 --> 00:09:17,058
+Me da lo mismo.
+
+101
+00:09:17,850 --> 00:09:19,268
+¿Qué dijiste?
+
+102
+00:09:19,352 --> 00:09:23,439
+¡Dije que llevaré a Shinji
+a vivir conmigo!
+
+103
+00:09:23,940 --> 00:09:25,691
+Tengo permiso del alto mando.
+
+104
+00:09:26,275 --> 00:09:28,903
+Descuida, no voy a meterme con un niño.
+
+105
+00:09:28,986 --> 00:09:32,615
+<i>¡Por supuesto que no!</i>
+<i>¡Ni siquiera lo digas!</i>
+
+106
+00:09:32,698 --> 00:09:35,284
+- <i>¡Siempre igual!</i>
+- Qué poco sentido del humor.
+
+107
+00:09:38,746 --> 00:09:42,625
+¡Bien! ¡Esta noche
+tenemos que celebrar con estilo!
+
+108
+00:09:43,668 --> 00:09:44,502
+¿Celebrar qué?
+
+109
+00:09:44,919 --> 00:09:47,964
+¡La llegada de un nuevo compañero
+de piso, claro!
+
+110
+00:09:53,052 --> 00:09:54,929
+Entonces, ¿te mudarás?
+
+111
+00:09:56,556 --> 00:10:00,852
+Sí. Nunca pensamos que esta ciudad
+se convertiría en un campo de batalla.
+
+112
+00:10:01,185 --> 00:10:02,645
+¿Quién lo imaginaba?
+
+113
+00:10:02,728 --> 00:10:06,274
+Mi esposo quiere que los niños
+y yo evacuemos también.
+
+114
+00:10:06,732 --> 00:10:07,942
+Evacuar...
+
+115
+00:10:08,192 --> 00:10:12,280
+Dicen que la ciudad es una fortaleza,
+pero dudamos de que nos proteja.
+
+116
+00:10:12,488 --> 00:10:15,658
+¡Me estremezco al pensar
+en lo que pasó ayer!
+
+117
+00:10:16,951 --> 00:10:17,785
+¡Lo sé!
+
+118
+00:10:21,372 --> 00:10:24,750
+Si no te importa, nos desviaremos un poco.
+
+119
+00:10:25,209 --> 00:10:26,085
+¿Adónde?
+
+120
+00:10:27,044 --> 00:10:28,421
+A un lugar especial.
+
+121
+00:10:34,677 --> 00:10:35,595
+Es...
+
+122
+00:10:36,804 --> 00:10:38,473
+...una ciudad desierta, ¿no?
+
+123
+00:10:40,141 --> 00:10:41,058
+Es hora.
+
+124
+00:11:06,876 --> 00:11:08,169
+¡Vaya!
+
+125
+00:11:08,586 --> 00:11:10,296
+¡Los edificios brotan del suelo!
+
+126
+00:11:25,269 --> 00:11:28,564
+Es la ciudad-fortaleza,
+hecha para vencer a los ángeles.
+
+127
+00:11:29,482 --> 00:11:32,944
+Esto es Tokio-3. Esta es nuestra ciudad.
+
+128
+00:11:35,446 --> 00:11:39,283
+Y... es la ciudad que protegiste.
+
+129
+00:11:53,089 --> 00:11:55,633
+Me parece que tus cosas ya están aquí.
+
+130
+00:11:56,425 --> 00:12:00,513
+De hecho, yo me mudé aquí recientemente.
+
+131
+00:12:01,264 --> 00:12:02,348
+¡Vamos, entra!
+
+132
+00:12:03,724 --> 00:12:06,602
+Gracias por recibirme...
+
+133
+00:12:07,645 --> 00:12:10,398
+Shinji, esta es tu casa.
+
+134
+00:12:17,572 --> 00:12:19,490
+Estoy en casa.
+
+135
+00:12:20,032 --> 00:12:21,158
+Bienvenido a casa.
+
+136
+00:12:23,160 --> 00:12:27,707
+Sé que está un poco desordenado,
+pero no te fijes.
+
+137
+00:12:30,001 --> 00:12:31,502
+¿Esto es...?
+
+138
+00:12:32,587 --> 00:12:33,754
+...¿poco?
+
+139
+00:12:34,505 --> 00:12:37,300
+¿Acomodarías las compras
+en el refrigerador?
+
+140
+00:12:37,842 --> 00:12:38,968
+Seguro.
+
+141
+00:12:40,386 --> 00:12:41,470
+Hielo...
+
+142
+00:12:41,846 --> 00:12:42,722
+Bocadillos...
+
+143
+00:12:43,806 --> 00:12:45,016
+Cerveza. ¿Solo tiene eso?
+
+144
+00:12:46,183 --> 00:12:47,602
+¿Qué hace en esta casa?
+
+145
+00:12:56,068 --> 00:12:58,237
+¿Para qué es este otro refrigerador?
+
+146
+00:12:58,404 --> 00:13:01,699
+Déjalo. Detesto molestar
+al otro cuando duerme.
+
+147
+00:13:02,450 --> 00:13:03,492
+¿Cuando duerme?
+
+148
+00:13:05,870 --> 00:13:07,204
+¡Comamos!
+
+149
+00:13:07,496 --> 00:13:08,372
+Comamos...
+
+150
+00:13:17,214 --> 00:13:21,552
+¡Esto hace que la vida valga la pena!
+
+151
+00:13:23,304 --> 00:13:26,974
+¿No tienes hambre?
+Es comida congelada, pero sabe muy bien.
+
+152
+00:13:27,725 --> 00:13:31,270
+Bueno... no estoy acostumbrado
+a comer esto.
+
+153
+00:13:31,479 --> 00:13:34,106
+¡Oye! ¡Aquí no aguantamos
+a los remilgosos!
+
+154
+00:13:35,107 --> 00:13:36,901
+No, yo... ¡No quise decir eso!
+
+155
+00:13:37,860 --> 00:13:38,736
+Yo...
+
+156
+00:13:39,403 --> 00:13:40,404
+¿No es divertido?
+
+157
+00:13:41,864 --> 00:13:43,699
+Compartir la comida con alguien así.
+
+158
+00:13:45,785 --> 00:13:46,619
+Sí, señorita.
+
+159
+00:13:49,205 --> 00:13:50,122
+¡Muy bien,
+
+160
+00:13:50,331 --> 00:13:51,499
+hagamos lo siguiente!
+
+161
+00:13:51,916 --> 00:13:53,459
+¡Piedra, papel o tijera!
+
+162
+00:13:54,502 --> 00:13:57,046
+¡Piedra, papel o tijera!
+
+163
+00:13:57,546 --> 00:13:58,381
+¡Ahora!
+
+164
+00:13:58,839 --> 00:14:01,175
+¡Perdiste, Shinji!
+
+165
+00:14:01,967 --> 00:14:06,305
+¡Bien, dividimos las tareas diarias
+de manera justa!
+
+166
+00:14:07,098 --> 00:14:07,932
+Sí, señorita.
+
+167
+00:14:08,057 --> 00:14:10,851
+Bueno, a partir de hoy,
+este lugar es tu hogar.
+
+168
+00:14:11,686 --> 00:14:13,521
+¡Así que deja los formalismos!
+
+169
+00:14:14,438 --> 00:14:15,523
+Sí, señorita.
+
+170
+00:14:15,773 --> 00:14:19,235
+¡Y dale con el "sí, señorita"!
+¡No seas tan estirado!
+
+171
+00:14:19,694 --> 00:14:23,072
+Eres un muchacho, ¿no?
+Quiero oírte seguro y con fuerza.
+
+172
+00:14:23,698 --> 00:14:24,615
+Sí, señora.
+
+173
+00:14:25,282 --> 00:14:26,117
+Como sea.
+
+174
+00:14:26,784 --> 00:14:31,247
+¿Por qué no te das un baño
+y lavas tus preocupaciones?
+
+175
+00:14:31,956 --> 00:14:33,999
+¡Un baño te limpia la vida y el alma!
+
+176
+00:14:43,092 --> 00:14:44,510
+¡Señorita Misato!
+
+177
+00:14:45,386 --> 00:14:46,387
+¿Qué?
+
+178
+00:14:49,348 --> 00:14:50,182
+¿Eh?
+
+179
+00:14:51,142 --> 00:14:52,017
+¿Él?
+
+180
+00:14:52,435 --> 00:14:54,437
+Es un pingüino de aguas termales.
+
+181
+00:15:03,487 --> 00:15:04,613
+¿Un qué?
+
+182
+00:15:05,030 --> 00:15:06,198
+Se llama PenPen.
+
+183
+00:15:06,574 --> 00:15:08,409
+Nuestro otro compañero de piso.
+
+184
+00:15:08,993 --> 00:15:11,287
+Y... ¿te importaría cubrirte?
+
+185
+00:15:18,043 --> 00:15:20,463
+<i>Tal vez fui demasiado efusiva.</i>
+
+186
+00:15:21,464 --> 00:15:23,299
+<i>Quizá se dé cuenta.</i>
+
+187
+00:15:24,884 --> 00:15:26,719
+<i>Misato Katsuragi...</i>
+
+188
+00:15:27,970 --> 00:15:29,346
+<i>No es una mala persona.</i>
+
+189
+00:15:30,723 --> 00:15:32,391
+¡Un baño te limpia vida y alma!
+
+190
+00:15:33,476 --> 00:15:37,271
+<i>Pero... yo suelo pensar</i>
+<i>en todo lo triste cuando me baño.</i>
+
+191
+00:15:38,647 --> 00:15:39,607
+<i>En mi padre...</i>
+
+192
+00:15:41,066 --> 00:15:42,151
+...y en Rei Ayanami.
+
+193
+00:15:46,238 --> 00:15:47,990
+¿Cómo estaba Rei, señor?
+
+194
+00:15:50,117 --> 00:15:52,828
+Oí que esta tarde
+fue a visitarla al hospital.
+
+195
+00:15:54,288 --> 00:15:56,373
+Estará de pie en 20 días.
+
+196
+00:15:56,499 --> 00:16:00,336
+Necesitamos que la Unidad 00 funcione
+y esté lista para entonces.
+
+197
+00:16:01,128 --> 00:16:03,339
+Será difícil... para esos niños.
+
+198
+00:16:04,298 --> 00:16:06,759
+<i>Nadie más puede controlar los Eva.</i>
+
+199
+00:16:07,301 --> 00:16:09,637
+<i>Mientras ellos vivan, es lo que harán.</i>
+
+200
+00:16:09,804 --> 00:16:12,389
+<i>¿Sin importar cómo se sientan al respecto?</i>
+
+201
+00:16:13,974 --> 00:16:15,810
+HABITACIÓN DE SHINJI
+
+202
+00:16:22,441 --> 00:16:24,109
+TRANSFERENCIA ESCOLAR:
+SHINJI IKARI
+
+203
+00:16:31,700 --> 00:16:36,622
+<i>Es cierto, lo llevamos al extremo.</i>
+<i>No sé si lo hará de nuevo.</i>
+
+204
+00:16:37,414 --> 00:16:40,251
+<i>Asegurarte de que coopere</i>
+<i>es parte de tu trabajo.</i>
+
+205
+00:16:41,126 --> 00:16:43,921
+Tengo miedo. No sé cómo acercarme a él.
+
+206
+00:16:44,338 --> 00:16:47,883
+¿Ya te estás quejando?
+¿Y el drama para acogerlo?
+
+207
+00:16:47,967 --> 00:16:48,801
+<i>¡Cállate!</i>
+
+208
+00:16:50,678 --> 00:16:54,849
+<i>Cuando dije eso solo veía</i>
+<i>a Shinji como una herramienta.</i>
+
+209
+00:16:55,641 --> 00:16:57,059
+<i>Soy igual que Ritsuko.</i>
+
+210
+00:16:58,018 --> 00:16:59,937
+<i>Sé que venció al Ángel.</i>
+
+211
+00:17:01,897 --> 00:17:03,190
+¿Por qué no me hace feliz?
+
+212
+00:17:06,110 --> 00:17:08,279
+<i>Otro techo que nunca había visto.</i>
+
+213
+00:17:10,656 --> 00:17:15,244
+<i>No es sorpresa...</i>
+<i>Nada me es familiar en esta ciudad.</i>
+
+214
+00:17:16,287 --> 00:17:18,163
+<i>¡Bienvenido a casa!</i>
+
+215
+00:17:21,166 --> 00:17:22,626
+<i>¿Por qué estoy aquí?</i>
+
+216
+00:17:45,024 --> 00:17:46,650
+¡Cabeza dañada!
+
+217
+00:17:46,984 --> 00:17:48,444
+¡Capacidad comprometida!
+
+218
+00:17:48,527 --> 00:17:49,361
+¡Informe!
+
+219
+00:17:49,445 --> 00:17:52,072
+¡La sincronización se invierte!
+¡El pulso se revierte!
+
+220
+00:17:52,531 --> 00:17:54,116
+¡Corten circuitos! ¡Bloqueen flujo!
+
+221
+00:17:54,199 --> 00:17:56,911
+¡No puedo! ¡Rechazó la señal!
+¡No la recibe!
+
+222
+00:17:57,328 --> 00:18:00,289
+- ¿El estado de Shinji?
+- ¡Desconocido! ¡Sin lectura biométrica!
+
+223
+00:18:00,748 --> 00:18:02,207
+¡Se apagó por completo!
+
+224
+00:18:02,583 --> 00:18:03,584
+¡Misato!
+
+225
+00:18:04,043 --> 00:18:05,127
+Se acabó.
+
+226
+00:18:05,419 --> 00:18:08,088
+¡Aborten! ¡La prioridad
+es rescatar al piloto!
+
+227
+00:18:08,172 --> 00:18:09,423
+Lanzamiento de emergencia.
+
+228
+00:18:09,757 --> 00:18:11,842
+¡No puedo! ¡El sistema no responde!
+
+229
+00:18:12,176 --> 00:18:13,010
+¿No responde?
+
+230
+00:18:21,644 --> 00:18:22,895
+<i>¡El Eva se reinició!</i>
+
+231
+00:18:22,978 --> 00:18:24,897
+¡Imposible! ¡Debería estar inoperante!
+
+232
+00:18:26,190 --> 00:18:28,150
+- ¿Se puso en modo...?
+- ¿Berserk?
+
+233
+00:18:49,296 --> 00:18:50,547
+Ganamos, ¿no es así?
+
+234
+00:18:56,136 --> 00:18:57,262
+¡Un escudo AT!
+
+235
+00:18:57,972 --> 00:19:00,057
+¡Mientras el escudo esté activo...!
+
+236
+00:19:00,432 --> 00:19:01,725
+¡...no podrá tocar al ángel!
+
+237
+00:19:05,354 --> 00:19:06,730
+¡Brazo izquierdo restaurado!
+
+238
+00:19:06,814 --> 00:19:07,815
+¡Increíble!
+
+239
+00:19:11,610 --> 00:19:13,320
+¡La 01 también generó un escudo AT!
+
+240
+00:19:14,154 --> 00:19:16,156
+{\an8}¡Está neutralizando el escudo del Ángel!
+
+241
+00:19:16,740 --> 00:19:18,575
+No, lo corroe.
+
+242
+00:19:22,830 --> 00:19:25,165
+Atravesó el escudo AT como si nada...
+
+243
+00:20:09,543 --> 00:20:10,836
+¿Se autodestruirá?
+
+244
+00:20:23,307 --> 00:20:24,475
+¿Qué pasó con el Eva?
+
+245
+00:20:34,193 --> 00:20:35,110
+Es la naturaleza...
+
+246
+00:20:36,028 --> 00:20:37,154
+...de los Eva.
+
+247
+00:20:44,620 --> 00:20:45,579
+<i>Circuitos conectados.</i>
+
+248
+00:20:45,829 --> 00:20:48,373
+<i>Sistema en línea.</i>
+<i>Lecturas a niveles normales.</i>
+
+249
+00:20:48,457 --> 00:20:50,250
+<i>Signos vitales del piloto confirmados.</i>
+
+250
+00:20:50,334 --> 00:20:52,002
+<i>Envíen la unidad de rescate.</i>
+
+251
+00:20:52,169 --> 00:20:54,129
+<i>¡La prioridad es el piloto!</i>
+
+252
+00:21:37,256 --> 00:21:39,341
+¿Shinji? Entraré un segundo.
+
+253
+00:21:42,928 --> 00:21:44,721
+Olvidé decirte algo.
+
+254
+00:21:45,931 --> 00:21:48,851
+La gente te agradecerá
+por lo que hiciste hoy.
+
+255
+00:21:49,351 --> 00:21:50,727
+Deberías estar orgulloso.
+
+256
+00:21:51,979 --> 00:21:53,313
+Buenas noches, Shinji.
+
+257
+00:21:56,108 --> 00:21:57,067
+Sigue así.
+
+258
+00:21:57,151 --> 00:22:00,404
+{\an8}CONTINUARÁ
+
+259
+00:23:05,928 --> 00:23:06,803
+PRÓXIMO EPISODIO
+
+260
+00:23:06,887 --> 00:23:11,725
+<i>El hábito de Shinji de navegar por la vida</i>
+<i>le deja pocas esperanzas de hacer amigos.</i>
+
+261
+00:23:11,808 --> 00:23:15,604
+<i>El hecho de ser piloto de un EVA</i>
+<i>lo convierte en una celebridad.</i>
+
+262
+00:23:15,896 --> 00:23:17,773
+<i>Próximo episodio:</i>
+<i>"El teléfono silencioso".</i>
+
+263
+00:23:17,856 --> 00:23:18,899
+<i>¡Continúa viendo!</i>
+
+264
+00:23:19,024 --> 00:23:20,651
+Subtítulos: Paulina López de Lara
+

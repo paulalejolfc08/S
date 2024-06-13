@@ -1,0 +1,1322 @@
+1
+00:01:30,342 --> 00:01:31,801
+AÑO 2015 D. C.
+
+2
+00:01:31,885 --> 00:01:32,802
+EL TERCER ÁNGEL
+
+3
+00:01:36,765 --> 00:01:37,933
+EL ATAQUE DE SACHIEL
+
+4
+00:01:48,401 --> 00:01:51,321
+LA ARTILLERÍA CONVENCIONAL
+NO FUNCIONA CONTRA EL ÁNGEL.
+
+5
+00:01:51,404 --> 00:01:53,907
+LAS FF. AA. DE LA ONU CESAN OPERACIONES.
+
+6
+00:01:53,990 --> 00:01:55,575
+EL MANDO ES TRANSFERIDO A NERV.
+
+7
+00:01:55,659 --> 00:01:58,078
+ESA NOCHE, EL ÁNGEL LLEGA A NERV.
+
+8
+00:01:58,161 --> 00:01:59,579
+EL TERCER ELEGIDO
+
+9
+00:01:59,663 --> 00:02:01,081
+ES RECLUTADO ESE DÍA.
+
+10
+00:02:03,124 --> 00:02:04,834
+SHINJI IKARI
+
+11
+00:02:04,918 --> 00:02:06,336
+ACEPTA SER PILOTO
+
+12
+00:02:06,419 --> 00:02:08,588
+DEL EVANGELION 01 EN SU LANZAMIENTO.
+
+13
+00:02:18,890 --> 00:02:20,725
+NERV EXPERIMENTA SU PRIMER COMBATE.
+
+14
+00:02:20,809 --> 00:02:22,644
+EL PRIMERO
+EN LAS INMEDIACIONES DE NERV.
+
+15
+00:02:37,909 --> 00:02:40,370
+EL CRÁNEO DEL EVA 01 ES DAÑADO,
+PIERDE EL CONTROL.
+
+16
+00:02:42,414 --> 00:02:44,290
+TODO QUEDA EN SILENCIO
+Y LUEGO...
+
+17
+00:02:47,877 --> 00:02:48,962
+...PASA A MODO BERSERK.
+
+18
+00:02:49,462 --> 00:02:53,967
+{\an8}<i>A pesar de sufrir graves daños</i>
+<i>y pasar por un momento crítico,</i>
+
+19
+00:02:54,092 --> 00:02:58,346
+{\an8}<i>un niño sin ninguna experiencia</i>
+<i>peleó por primera vez</i>
+
+20
+00:02:58,513 --> 00:03:00,515
+<i>contra un enemigo desconocido</i>
+<i>y lo derrotó.</i>
+
+21
+00:03:00,932 --> 00:03:04,394
+<i>El éxito de Shinji Ikari</i>
+<i>merece atención especial.</i>
+
+22
+00:03:04,477 --> 00:03:07,147
+LA UNIDAD 01 ROMPE EL ESCUDO AT
+DEL ENEMIGO
+
+23
+00:03:07,897 --> 00:03:11,943
+<i>En nuestra opinión,</i>
+<i>esta batalla resaltó ciertas cuestiones</i>
+
+24
+00:03:12,027 --> 00:03:14,863
+<i>y lecciones que debemos aprender.</i>
+
+25
+00:03:16,281 --> 00:03:17,699
+EL ÁNGEL ES ANIQUILADO.
+
+26
+00:03:20,744 --> 00:03:24,205
+SERVICIOS DE INTERCEPTACIÓN DESTRUIDOS
+EVA-01: DAÑO LEVE
+
+27
+00:03:28,877 --> 00:03:31,546
+SIN RECONOCIMIENTO OFICIAL DE BAJAS
+
+28
+00:03:32,255 --> 00:03:34,632
+{\an8}<i>Mi hermanita va a segundo en la escuela.</i>
+
+29
+00:03:35,300 --> 00:03:37,343
+{\an8}<i>Resultó herida en un combate.</i>
+
+30
+00:03:37,427 --> 00:03:39,554
+{\an8}<i>No fue el enemigo,</i>
+<i>sino ese estúpido robot.</i>
+
+31
+00:03:40,555 --> 00:03:43,475
+{\an8}<i>No toleraré que pase algo</i>
+<i>tan estúpido como eso.</i>
+
+32
+00:03:43,892 --> 00:03:46,394
+{\an8}<i>Quiero mostrarles</i>
+<i>a los creadores del robot</i>
+
+33
+00:03:46,478 --> 00:03:49,814
+{\an8}<i>lo mucho que sufre mi hermana</i>
+<i>y lo enojado que estoy.</i>
+
+34
+00:03:51,483 --> 00:03:52,650
+CUARTO ÁNGEL
+
+35
+00:03:55,904 --> 00:03:57,822
+EL ATAQUE DE SHAMSHEL.
+
+36
+00:04:03,828 --> 00:04:07,499
+LOS SISTEMAS DE INTERCEPTACIÓN
+TIERRA-AIRE OPERABAN AL 48.2 %.
+
+37
+00:04:07,582 --> 00:04:10,960
+CAMBIO DE CONFIGURACIÓN
+DE BATALLA EN TOKIO-3, 96,8 %.
+
+38
+00:04:11,711 --> 00:04:15,715
+{\an8}<i>Mi amiga y yo hicimos tantos simulacros</i>
+<i>de evacuación en la escuela</i>
+
+39
+00:04:15,799 --> 00:04:17,634
+{\an8}<i>que no nos pareció especial.</i>
+
+40
+00:04:18,426 --> 00:04:21,137
+{\an8}<i>Los chicos jugaban</i>
+<i>como si fuera una excursión.</i>
+
+41
+00:04:21,221 --> 00:04:23,723
+{\an8}<i>Nunca sentimos miedo.</i>
+
+42
+00:04:27,352 --> 00:04:30,105
+EL ÁNGEL LLEGA A TOKYO-3
+
+43
+00:04:34,234 --> 00:04:36,027
+SEGUNDO ENFRENTAMIENTO SOBRE NERV
+
+44
+00:04:49,415 --> 00:04:53,294
+AUN CON EL CABLE UMBILICAL ROTO...
+
+45
+00:05:01,511 --> 00:05:02,929
+...EL ÁNGEL FUE ANIQUILADO
+
+46
+00:05:06,724 --> 00:05:10,145
+NERV OBTIENE MUESTRAS DEL ÁNGEL INTACTO,
+
+47
+00:05:11,646 --> 00:05:15,400
+PERO EL INFORME FINAL DE LOS ANÁLISIS
+AÚN NO ES PUBLICADO.
+
+48
+00:05:15,483 --> 00:05:16,651
+QUINTO ÁNGEL
+
+49
+00:05:23,575 --> 00:05:24,993
+EL ATAQUE DE RAMIEL.
+
+50
+00:05:25,160 --> 00:05:26,786
+ANTE ESTE IMPENETRABLE ÁNGEL,
+
+51
+00:05:26,870 --> 00:05:30,331
+LA CAP. KATSURAGI PROPONE
+LA OPERACIÓN YASHIMA, QUE ES APROBADA.
+
+52
+00:05:30,415 --> 00:05:32,083
+LA PRIMERA ELEGIDA,
+
+53
+00:05:32,167 --> 00:05:35,044
+{\an8}LA PILOTO DESIGNADA PARA EL EVA-00,
+
+54
+00:05:38,006 --> 00:05:39,924
+{\an8}REI AYANAMI,
+
+55
+00:05:40,008 --> 00:05:44,179
+PRUEBA POR PRIMERA VEZ AL EVA 00
+RECIÉN RESTABLECIDO.
+
+56
+00:05:46,222 --> 00:05:49,642
+ESA NOCHE, UNA PARTE DEL ÁNGEL
+INFRINGE EL GEOFRENTE.
+
+57
+00:05:52,812 --> 00:05:55,231
+NERV LLEVA A CABO LA OPERACIÓN YASHIMA.
+
+58
+00:05:55,440 --> 00:06:00,195
+{\an8}<i>Aunque Shinji no diga nada,</i>
+<i>creo que la Unidad 00 se puso en riesgo</i>
+
+59
+00:06:00,278 --> 00:06:03,907
+{\an8}<i>para proteger a la Unidad 01</i>
+<i>del cañón de partículas enemigo.</i>
+
+60
+00:06:04,157 --> 00:06:05,909
+{\an8}<i>Sí, estoy seguro de ello.</i>
+
+61
+00:06:06,993 --> 00:06:10,705
+{\an8}<i>Estoy seguro por un motivo:</i>
+<i>porque fue Rei.</i>
+
+62
+00:06:11,289 --> 00:06:13,166
+{\an8}<i>Me parece que Rei siente</i>
+
+63
+00:06:13,249 --> 00:06:15,418
+{\an8}<i>que su propia existencia es efímera.</i>
+
+64
+00:06:16,753 --> 00:06:19,088
+<i>Creo que es algo más que el pesimismo.</i>
+
+65
+00:06:19,172 --> 00:06:23,384
+<i>Cuesta creer que recién tiene 14,</i>
+<i>igual que nosotros.</i>
+
+66
+00:06:25,762 --> 00:06:26,930
+SEXTO ÁNGEL
+
+67
+00:06:29,390 --> 00:06:31,309
+APARECE GAGIEL.
+
+68
+00:06:31,726 --> 00:06:34,896
+<i>Este incidente se desvía ligeramente</i>
+<i>de nuestros planes.</i>
+
+69
+00:06:35,021 --> 00:06:37,857
+<i>Pero su resultado coincidió</i>
+<i>con las predicciones.</i>
+
+70
+00:06:38,233 --> 00:06:39,651
+<i>Se pueden hacer ajustes.</i>
+
+71
+00:06:39,734 --> 00:06:41,402
+LA SEGUNDA ELEGIDA
+
+72
+00:06:41,486 --> 00:06:44,322
+{\an8}LA PILOTO DESIGNADA PARA EL EVA-02,
+
+73
+00:06:44,864 --> 00:06:48,243
+{\an8}ASUKA LANGLEY SORYU,
+
+74
+00:06:48,326 --> 00:06:50,995
+PROBÓ POR PRIMERA VEZ EL EVA-02
+
+75
+00:06:53,623 --> 00:06:55,291
+EN COMBATE SOBRE EL MAR,
+
+76
+00:07:03,466 --> 00:07:04,717
+Y TAMBIÉN
+
+77
+00:07:08,346 --> 00:07:10,265
+EN LA PRIMERA BATALLA SUBMARINA
+
+78
+00:07:18,690 --> 00:07:20,608
+EN LAS COSTAS DE LA VIEJA ITO.
+
+79
+00:07:30,326 --> 00:07:31,703
+EL ÁNGEL FUE ANIQUILADO.
+
+80
+00:07:31,953 --> 00:07:37,583
+<i>Esto le costó a las fuerzas de la ONU</i>
+<i>una tercera parte de sus embarcaciones.</i>
+
+81
+00:07:37,667 --> 00:07:40,378
+<i>Los buques pertenecían a tu país,</i>
+<i>¿no es así?</i>
+
+82
+00:07:40,461 --> 00:07:42,338
+<i>Un asunto insignificante.</i>
+
+83
+00:07:42,422 --> 00:07:47,051
+<i>Así es. Es una suerte</i>
+<i>que nuestras pérdidas se limitaran a eso.</i>
+
+84
+00:07:47,135 --> 00:07:48,303
+SÉPTIMO ÁNGEL
+
+85
+00:07:50,680 --> 00:07:52,598
+EL ATAQUE DE ISRAFEL.
+
+86
+00:07:58,896 --> 00:08:01,065
+PRIMER ÁNGEL
+CAPAZ DE DIVIDIRSE Y UNIRSE.
+
+87
+00:08:10,074 --> 00:08:13,995
+SIN EMBARGO, EL DOBLE ATAQUE
+DE LOS EVA 01 Y 02
+
+88
+00:08:25,256 --> 00:08:26,674
+ANIQUILÓ AL ÁNGEL.
+
+89
+00:08:31,679 --> 00:08:32,847
+OCTAVO ÁNGEL
+
+90
+00:08:35,183 --> 00:08:38,102
+SANDALPHON, DESCUBIERTO EN EL CRÁTER
+DEL MONTE ASAMA.
+
+91
+00:08:39,103 --> 00:08:41,439
+NERV EXPIDE LA ORDEN A-17,
+
+92
+00:08:41,522 --> 00:08:45,318
+RECIBE AUTORIZACIÓN SUPREMA
+Y MONTA LA OPERACIÓN DE CAPTURA.
+
+93
+00:08:53,159 --> 00:08:56,037
+EL OBJETIVO ES ATRAPADO
+EN LA JAULA DE FOTONES,
+
+94
+00:09:00,166 --> 00:09:03,127
+PERO ROMPE LA CAJA
+Y SE CANCELA LA OPERACIÓN.
+
+95
+00:09:03,211 --> 00:09:06,589
+EL NUEVO OBJETIVO
+ES LA ANIQUILACIÓN DEL ÁNGEL.
+
+96
+00:09:14,013 --> 00:09:16,432
+EL EVA-02 LLEVA A CABO LA OPERACIÓN.
+
+97
+00:09:21,687 --> 00:09:23,064
+EL ÁNGEL ES ANIQUILADO.
+
+98
+00:09:23,147 --> 00:09:26,943
+SE COMPLETAN LAS REPARACIONES
+Y REFORMAS DEL EVA-00.
+
+99
+00:09:28,027 --> 00:09:29,195
+EL EVA SE REINTEGRA.
+
+100
+00:09:29,278 --> 00:09:30,405
+NOVENO ÁNGEL
+
+101
+00:09:34,992 --> 00:09:36,911
+EL ATAQUE DE MATRIEL.
+
+102
+00:09:44,752 --> 00:09:48,047
+COMO RESULTADO DEL PRIMER DESPLIEGUE
+DE LOS TRES EVA,
+
+103
+00:09:57,265 --> 00:09:58,683
+EL ÁNGEL FUE ANIQUILADO.
+
+104
+00:09:58,766 --> 00:09:59,892
+DÉCIMO ÁNGEL
+
+105
+00:10:04,147 --> 00:10:05,565
+EL ATAQUE DE SAHAQUIEL.
+
+106
+00:10:06,899 --> 00:10:09,485
+CUANDO EL ENEMIGO
+DESCIENDE DE LA ESTRATÓSFERA,
+
+107
+00:10:16,200 --> 00:10:19,120
+LOS TRES EVA LO INTERCEPTAN DIRECTAMENTE.
+
+108
+00:10:40,057 --> 00:10:41,476
+EL ÁNGEL FUE ANIQUILADO.
+
+109
+00:10:41,559 --> 00:10:42,727
+DECIMORPIMER ÁNGEL
+
+110
+00:10:42,810 --> 00:10:44,687
+ATAQUE NO CONFIRMADO.
+
+111
+00:10:44,770 --> 00:10:46,314
+SE CREE QUE INGRESÓ A NERV.
+
+112
+00:10:46,397 --> 00:10:47,523
+<i>No es bueno.</i>
+
+113
+00:10:48,608 --> 00:10:50,485
+<i>- Fue muy pronto.</i>
+<i>- Sí.</i>
+
+114
+00:10:50,568 --> 00:10:54,280
+Nadie planeó que el ángel
+ingresara al cuartel general.
+
+115
+00:10:54,906 --> 00:10:58,075
+Y pensar que permitieron que entrara
+al Dogma Central.
+
+116
+00:10:58,451 --> 00:11:02,747
+De haber hecho contacto,
+habría sido el fin de nuestros planes.
+
+117
+00:11:03,372 --> 00:11:06,000
+El informe que llegó al Consejo
+era erróneo.
+
+118
+00:11:06,083 --> 00:11:08,669
+No fue la intrusión de un ángel.
+
+119
+00:11:08,961 --> 00:11:14,217
+¿Dices que no fue
+el decimoprimer ángel, Ikari?
+
+120
+00:11:15,092 --> 00:11:16,093
+Correcto.
+
+121
+00:11:16,177 --> 00:11:18,304
+Escoge bien tus palabras, Ikari.
+
+122
+00:11:18,554 --> 00:11:21,557
+El castigo por mentir es la muerte.
+
+123
+00:11:21,641 --> 00:11:24,977
+Revisen los registros
+de las MAGI, si quieren.
+
+124
+00:11:25,061 --> 00:11:27,355
+No encontrarán pruebas del incidente.
+
+125
+00:11:27,522 --> 00:11:31,442
+No nos hagas reír.
+Enterrar la verdad es lo que haces mejor.
+
+126
+00:11:31,984 --> 00:11:36,113
+El plazo avanza según lo establecido
+en los manuscritos del mar Muerto.
+
+127
+00:11:36,405 --> 00:11:41,035
+Muy bien. No discutiremos
+tu negligencia o culpa en este asunto.
+
+128
+00:11:42,745 --> 00:11:46,415
+Solo recuerda que no hay necesidad
+de escribir otro plan.
+
+129
+00:11:47,458 --> 00:11:52,838
+Ya lo sé. Todo procederá
+de acuerdo con el plan de SEELE.
+
+130
+00:12:02,682 --> 00:12:04,934
+<i>Montañas, las pesadas montañas.</i>
+
+131
+00:12:05,518 --> 00:12:07,353
+<i>Algo que cambia con el tiempo.</i>
+
+132
+00:12:09,855 --> 00:12:12,441
+<i>El cielo, el cielo azul.</i>
+
+133
+00:12:13,192 --> 00:12:16,904
+<i>Algo que no podemos ver.</i>
+<i>Algo que podemos ver.</i>
+
+134
+00:12:18,823 --> 00:12:21,617
+<i>El sol, solo hay uno.</i>
+
+135
+00:12:22,243 --> 00:12:24,912
+<i>Agua, algo que se siente bien.</i>
+
+136
+00:12:25,371 --> 00:12:26,622
+<i>¿El comandante Ikari?</i>
+
+137
+00:12:27,164 --> 00:12:31,627
+<i>Flores, mucho de la misma cosa.</i>
+<i>Tantas cosas que no deseo.</i>
+
+138
+00:12:32,795 --> 00:12:36,257
+<i>El cielo, el rojo, el cielo rojo.</i>
+
+139
+00:12:37,008 --> 00:12:40,177
+<i>El color rojo. No me gusta el rojo.</i>
+
+140
+00:12:40,469 --> 00:12:42,221
+<i>Agua que fluye, sangre.</i>
+
+141
+00:12:43,222 --> 00:12:46,142
+<i>El olor de la sangre,</i>
+<i>una mujer que no sangra.</i>
+
+142
+00:12:46,726 --> 00:12:49,145
+<i>Seres humanos hechos de arcilla.</i>
+
+143
+00:12:49,604 --> 00:12:52,440
+<i>Seres humanos hechos de hombre y de mujer.</i>
+
+144
+00:12:53,357 --> 00:12:56,235
+<i>La ciudad, algo creado por el hombre.</i>
+
+145
+00:12:56,527 --> 00:12:59,405
+<i>Los Eva, algo creado por el hombre.</i>
+
+146
+00:12:59,780 --> 00:13:03,659
+<i>¿Qué es un hombre?</i>
+<i>¿Algo creado por Dios?</i>
+
+147
+00:13:03,868 --> 00:13:06,037
+<i>¿El hombre fue creado por el hombre?</i>
+
+148
+00:13:06,329 --> 00:13:09,165
+<i>Todo lo que me queda</i>
+<i>es mi vida, mi espíritu.</i>
+
+149
+00:13:09,248 --> 00:13:14,378
+<i>La cápsula, contenedor del espíritu.</i>
+<i>Asiento del alma.</i>
+
+150
+00:13:14,712 --> 00:13:17,340
+<i>¿Quién es esta? Esta soy yo.</i>
+
+151
+00:13:17,840 --> 00:13:20,217
+<i>¿Quién soy yo? ¿Qué soy yo?</i>
+
+152
+00:13:20,384 --> 00:13:23,763
+<i>¿Qué soy yo?</i>
+
+153
+00:13:25,097 --> 00:13:31,520
+<i>Soy yo misma. Este objeto soy yo.</i>
+<i>La figura que me conforma.</i>
+
+154
+00:13:31,604 --> 00:13:35,816
+<i>Esto es lo que puede verse de mí,</i>
+<i>pero siento que no soy yo.</i>
+
+155
+00:13:35,900 --> 00:13:37,485
+<i>Es extraño.</i>
+
+156
+00:13:37,568 --> 00:13:41,822
+<i>Siento que mi cuerpo se desvanece.</i>
+<i>Ya no puedo reconocerme.</i>
+
+157
+00:13:41,989 --> 00:13:46,577
+<i>Mi silueta se desvanece.</i>
+<i>Siento que hay alguien que no soy yo.</i>
+
+158
+00:13:47,078 --> 00:13:49,163
+<i>¿Hay alguien ahí?</i>
+
+159
+00:13:50,873 --> 00:13:51,707
+<i>Shinji.</i>
+
+160
+00:13:52,041 --> 00:13:54,627
+<i>Conozco a esta persona.</i>
+<i>La mayor Katsuragi.</i>
+
+161
+00:13:54,960 --> 00:13:56,295
+<i>La doctora Akagi.</i>
+
+162
+00:13:56,379 --> 00:14:00,216
+<i>Mis compañeros de clase,</i>
+<i>la piloto de la Unidad 02.</i>
+
+163
+00:14:01,050 --> 00:14:02,343
+<i>¿El comandante Ikari?</i>
+
+164
+00:14:02,635 --> 00:14:06,263
+<i>¿Quién eres?</i>
+
+165
+00:14:08,557 --> 00:14:11,727
+<i>¿Qué te parece la Unidad 01, Rei?</i>
+
+166
+00:14:13,688 --> 00:14:15,064
+Huele a Shinji.
+
+167
+00:14:15,147 --> 00:14:19,068
+PRUEBA DE INTEROPERABILIDAD 1
+SUJETO: REI AYANAMI
+
+168
+00:14:19,819 --> 00:14:23,322
+El nivel de sincronización
+es el mismo que con la Unidad 00.
+
+169
+00:14:23,406 --> 00:14:27,076
+Los patrones personales
+de las Unidades 00 y 01 son similares.
+
+170
+00:14:27,576 --> 00:14:29,787
+Es por eso que se pueden sincronizar.
+
+171
+00:14:30,788 --> 00:14:34,875
+Margen de error, más/menos 0,03.
+Los armónicos son satisfactorios.
+
+172
+00:14:35,584 --> 00:14:38,879
+No hay problemas de compatibilidad
+entre Rei y la Unidad 01.
+
+173
+00:14:39,380 --> 00:14:42,925
+<i>Eso concluye la prueba,</i>
+<i>Rei, ya puedes salir.</i>
+
+174
+00:14:43,843 --> 00:14:44,677
+Sí, señora.
+
+175
+00:14:50,808 --> 00:14:54,729
+PRUEBA DE COORDINACIÓN 87
+SUJETO: ASUKA SORYU LANGLEY
+
+176
+00:14:55,688 --> 00:14:59,400
+<i>- Base de datos de Unidad 02: completa.</i>
+<i>- Armónicos: normales.</i>
+
+177
+00:14:59,483 --> 00:15:01,318
+<i>No hay problemas con la piloto.</i>
+
+178
+00:15:01,527 --> 00:15:02,737
+¡Pues claro que no!
+
+179
+00:15:02,820 --> 00:15:06,574
+PRUEBA DE INTEROPERABILIDAD 1
+SUJETO: SHINJI IKARI
+
+180
+00:15:08,033 --> 00:15:10,161
+<i>¿Informe de datos personales</i>
+<i>de la Unidad 00?</i>
+
+181
+00:15:10,244 --> 00:15:13,956
+<i>Reescritura lista. Está en verificación.</i>
+
+182
+00:15:15,040 --> 00:15:15,875
+¿Cómo está él?
+
+183
+00:15:15,958 --> 00:15:20,087
+Parece nervioso,
+pero sus señales nerviosas son normales.
+
+184
+00:15:20,921 --> 00:15:25,259
+Es su primera vez en la Unidad 00.
+Es un Eva diferente, tiene sentido.
+
+185
+00:15:25,551 --> 00:15:29,638
+Pero qué idiota.
+¿No puede hacer su trabajo sin estresarse?
+
+186
+00:15:30,181 --> 00:15:32,725
+{\an8}<i>Shinji no es de esa gente.</i>
+
+187
+00:15:33,017 --> 00:15:35,227
+{\an8}Sí, ya sé. Por eso es un idiota.
+
+188
+00:15:37,146 --> 00:15:39,899
+{\an8}Sobre esa prueba de interoperabilidad...
+
+189
+00:15:40,191 --> 00:15:42,026
+{\an8}¿No debería hacerla yo también?
+
+190
+00:15:42,526 --> 00:15:45,863
+{\an8}<i>Pensé que no querrías conducir</i>
+<i>ningún otro Eva, Asuka.</i>
+
+191
+00:15:46,280 --> 00:15:48,491
+{\an8}Sí, supongo que es un buen punto.
+
+192
+00:15:49,408 --> 00:15:52,912
+<i>La verdad, la Unidad 02 no es compatible</i>
+<i>con nadie más.</i>
+
+193
+00:15:53,746 --> 00:15:55,289
+<i>Secuencia de entrada.</i>
+
+194
+00:15:55,915 --> 00:15:57,333
+<i>Ionizando LCL.</i>
+
+195
+00:15:57,416 --> 00:15:58,584
+<i>Contacto primario.</i>
+
+196
+00:15:59,752 --> 00:16:02,713
+<i>¿Y bien, Shinji?</i>
+<i>¿Qué te parece la Unidad 00?</i>
+
+197
+00:16:03,214 --> 00:16:05,257
+Se siente algo extraño.
+
+198
+00:16:05,341 --> 00:16:08,219
+<i>- Extraño, ¿como incómodo?</i>
+- No, es que...
+
+199
+00:16:08,636 --> 00:16:10,471
+<i>Huele a Rei.</i>
+
+200
+00:16:10,554 --> 00:16:13,140
+¿Huele a ella? ¿Qué perversión es esa?
+
+201
+00:16:13,224 --> 00:16:16,101
+<i>Datos recibidos.</i>
+<i>Verificando. Patrón verde.</i>
+
+202
+00:16:16,185 --> 00:16:17,770
+<i>Conexión de energía principal.</i>
+
+203
+00:16:17,853 --> 00:16:19,522
+<i>Equipos de sujeción: verde.</i>
+
+204
+00:16:19,605 --> 00:16:20,856
+<i>Entendido.</i>
+
+205
+00:16:20,940 --> 00:16:23,734
+<i>Fase dos</i>
+<i>de la prueba de interoperabilidad.</i>
+
+206
+00:16:24,026 --> 00:16:26,654
+<i>Unidad 00, iniciando contacto nivel dos.</i>
+
+207
+00:16:26,737 --> 00:16:27,571
+¿Y bien?
+
+208
+00:16:27,655 --> 00:16:30,616
+Su sincronización
+no es tan alta como con el Eva 01.
+
+209
+00:16:31,367 --> 00:16:33,536
+Los armónicos lucen estables.
+
+210
+00:16:33,619 --> 00:16:35,579
+Aun así, los números son buenos.
+
+211
+00:16:35,663 --> 00:16:38,624
+Parece que podremos poner
+el otro plan en acción.
+
+212
+00:16:39,166 --> 00:16:43,546
+¿El sistema de simulación?
+Con todo respeto, ese plan parece...
+
+213
+00:16:43,838 --> 00:16:45,798
+Entiendo tus dudas.
+
+214
+00:16:45,881 --> 00:16:50,553
+Pero hay que tener un plan B
+si queremos que la humanidad sobreviva.
+
+215
+00:16:50,636 --> 00:16:55,391
+La respeto muchísimo y haré mi trabajo,
+pero no creo que esto sea correcto.
+
+216
+00:16:55,808 --> 00:16:59,812
+No es fácil tener principios.
+Es difícil estar cerca de otros.
+
+217
+00:17:00,938 --> 00:17:04,233
+Aprendes esa lección
+la primera vez que te sientes sucia.
+
+218
+00:17:10,239 --> 00:17:12,157
+<i>Iniciando conexiones nivel tres.</i>
+
+219
+00:17:12,700 --> 00:17:14,910
+<i>Estabilizando autopsicógrafo.</i>
+
+220
+00:17:15,244 --> 00:17:17,621
+{\an8}<i>¿Es como volver al seno de tu madre,</i>
+<i>pequeño Shinji?</i>
+
+221
+00:17:17,705 --> 00:17:19,623
+{\an8}<i>¿O como estar en su vientre?</i>
+
+222
+00:17:19,707 --> 00:17:21,917
+{\an8}<i>Provocas ruido cognitivo.</i>
+<i>No lo molestes.</i>
+
+223
+00:17:22,418 --> 00:17:23,586
+{\an8}<i>¡Bien, bien!</i>
+
+224
+00:17:24,420 --> 00:17:27,548
+¿Por qué todos consienten a Shinji
+todo el tiempo?
+
+225
+00:17:28,090 --> 00:17:29,675
+<i>Conexiones nerviosas A10.</i>
+
+226
+00:17:30,342 --> 00:17:32,219
+<i>Nivel de armónicos, +20.</i>
+
+227
+00:17:33,637 --> 00:17:38,100
+¿Qué es esto? Siento que algo
+está viniendo a mi cabeza...
+
+228
+00:17:38,642 --> 00:17:39,518
+¿Qué es?
+
+229
+00:17:41,270 --> 00:17:44,481
+Rei... ¡Rei Ayanami!
+
+230
+00:17:44,815 --> 00:17:47,401
+Es Rei Ayanami, ¿no?
+Eso estoy sintiendo.
+
+231
+00:17:49,570 --> 00:17:52,656
+Es Rei... ¿O no es?
+
+232
+00:17:57,328 --> 00:17:58,495
+¿Qué sucede?
+
+233
+00:17:58,579 --> 00:18:00,956
+¡Anomalías en los pulsos neuronales!
+
+234
+00:18:01,040 --> 00:18:04,793
+- ¡Contaminación psicológica!
+- ¿A este punto de sincronización?
+
+235
+00:18:04,877 --> 00:18:08,172
+¡No es de la cápsula!
+¡La corrosión viene del propio Eva!
+
+236
+00:18:16,513 --> 00:18:18,682
+<i>¡Perdimos el control del Eva 00!</i>
+
+237
+00:18:21,810 --> 00:18:23,771
+¡Desconecten todos los circuitos!
+
+238
+00:18:29,777 --> 00:18:31,946
+<i>¡El Eva pasó a energía auxiliar!</i>
+
+239
+00:18:32,029 --> 00:18:33,364
+<i>¡El Eva sigue activo!</i>
+
+240
+00:18:33,447 --> 00:18:35,324
+- ¿Y Shinji?
+- ¡Perdí la señal!
+
+241
+00:18:35,407 --> 00:18:36,700
+¡No puedo monitorearlo!
+
+242
+00:18:37,034 --> 00:18:38,869
+¿La Unidad 00 rechaza a Shinji?
+
+243
+00:18:39,203 --> 00:18:42,164
+¡El mecanismo de expulsión no funciona!
+
+244
+00:18:42,247 --> 00:18:46,251
+¿Está pasando lo que la vez pasada?
+¿Intenta absorber a Shinji?
+
+245
+00:18:53,092 --> 00:18:54,218
+Rei, ¡apártate!
+
+246
+00:18:54,301 --> 00:18:57,721
+<i>¡El Eva 00 se apagará en diez segundos!</i>
+
+247
+00:18:58,097 --> 00:19:00,391
+<i>¡Nueve! ¡Ocho! ¡Siete!</i>
+
+248
+00:19:00,474 --> 00:19:02,768
+<i>¡Seis! ¡Cinco! ¡Cuatro!</i>
+
+249
+00:19:02,935 --> 00:19:04,979
+<i>¡Tres! ¡Dos! ¡Uno!</i>
+
+250
+00:19:05,145 --> 00:19:06,063
+<i>¡Cero!</i>
+
+251
+00:19:08,190 --> 00:19:10,359
+<i>La Unidad 00 dejó de operar.</i>
+
+252
+00:19:10,901 --> 00:19:12,152
+¡Rescaten al piloto!
+
+253
+00:19:14,029 --> 00:19:17,825
+<i>¿Será que la Unidad 00</i>
+<i>intentó matar a Rei?</i>
+
+254
+00:19:21,286 --> 00:19:24,498
+{\an8}¿Hay conexión entre este incidente
+y el de hace tiempo?
+
+255
+00:19:24,581 --> 00:19:25,874
+{\an8}¿El de Rei?
+
+256
+00:19:26,583 --> 00:19:28,877
+{\an8}No puedo decirlo con exactitud.
+
+257
+00:19:28,961 --> 00:19:34,758
+{\an8}Debemos reinstaurar los datos de Rei
+y correr una prueba de sincronización.
+
+258
+00:19:35,009 --> 00:19:38,595
+{\an8}Como Directora de Operaciones,
+quiero que sea cuanto antes.
+
+259
+00:19:38,721 --> 00:19:40,806
+{\an8}Antes de que comprometa mi trabajo.
+
+260
+00:19:40,889 --> 00:19:43,142
+{\an8}Lo sé, mayor Katsuragi.
+
+261
+00:19:51,734 --> 00:19:56,488
+<i>La Unidad 00 intentó matarme a mí.</i>
+<i>De eso estoy segura.</i>
+
+262
+00:19:57,322 --> 00:20:03,120
+<i>¡Nuestro nuevo talento sorpresa</i>
+<i>es un perrito jardinero!</i>
+
+263
+00:20:03,203 --> 00:20:04,371
+<i>¡Impresionante!</i>
+
+264
+00:20:04,455 --> 00:20:08,167
+<i>¡Permítanme presentarles a Kana,</i>
+<i>un hermoso cachorro de Niigata!</i>
+
+265
+00:20:09,168 --> 00:20:11,587
+<i>Una pregunta. ¿Puedes entendernos?</i>
+
+266
+00:20:12,212 --> 00:20:13,589
+<i>Vaya, ¿de verdad?</i>
+
+267
+00:20:13,672 --> 00:20:16,550
+<i>Entonces, te tenemos</i>
+<i>una pregunta muy difícil.</i>
+
+268
+00:20:17,676 --> 00:20:21,180
+<i>¿Qué es lo primero que dices</i>
+<i>cuando recibes un regalo?</i>
+
+269
+00:20:22,097 --> 00:20:24,683
+<i>¡Fascinante!</i>
+<i>¡Eres un perro</i> <i>muy inteligente!</i>
+
+270
+00:20:24,767 --> 00:20:27,061
+Odio esto. Otra vez ese techo...
+
+271
+00:20:28,395 --> 00:20:32,274
+Shinji despertó sin efectos secundarios
+de la contaminación.
+
+272
+00:20:32,983 --> 00:20:35,819
+Dice que no recuerda nada.
+
+273
+00:20:36,320 --> 00:20:37,154
+Ya veo.
+
+274
+00:20:37,237 --> 00:20:41,575
+<i>Estoy bien, pero hubo otro ataque</i>
+<i>terrorista en las Islas Spratly.</i>
+
+275
+00:20:41,658 --> 00:20:44,036
+<i>Misato y Kaji no me cuentan nada.</i>
+
+276
+00:20:44,995 --> 00:20:46,830
+<i>Shinji no tiene idea de nada.</i>
+
+277
+00:20:48,499 --> 00:20:50,292
+¿Y qué tipo de chica es Rei?
+
+278
+00:20:51,835 --> 00:20:53,796
+El ingreso imprevisto de un ángel...
+
+279
+00:20:54,463 --> 00:20:57,925
+¿El Consejo se enteró
+y está usándolo para presionarnos?
+
+280
+00:20:58,675 --> 00:21:03,305
+Qué montón de inútiles.
+Su único trabajo es quejarse.
+
+281
+00:21:04,556 --> 00:21:08,727
+Tenemos todas las cartas.
+No hay nada que puedan hacer.
+
+282
+00:21:09,311 --> 00:21:11,980
+Eso no significa
+que debamos ir en su contra.
+
+283
+00:21:12,523 --> 00:21:15,192
+Todo se complicaría
+si SEELE se involucrara,
+
+284
+00:21:15,275 --> 00:21:16,735
+en muchos sentidos.
+
+285
+00:21:16,819 --> 00:21:20,989
+Todo está saliendo de acuerdo al plan.
+No hay de qué preocuparnos.
+
+286
+00:21:21,865 --> 00:21:26,245
+¿Y el incidente con la Unidad 00?
+Ese no era mi plan, te lo aseguro.
+
+287
+00:21:26,328 --> 00:21:27,788
+No afecta en nada.
+
+288
+00:21:28,372 --> 00:21:31,708
+La sincronización con Rei
+fue todo un éxito.
+
+289
+00:21:32,209 --> 00:21:34,837
+<i>Estás demasiado obsesionado</i>
+<i>con Rei, Ikari.</i>
+
+290
+00:21:35,295 --> 00:21:37,381
+¿Qué hay del Proyecto Adán?
+
+291
+00:21:37,464 --> 00:21:40,050
+Va muy bien. No vamos ni un 2 % atrasados.
+
+292
+00:21:40,300 --> 00:21:42,511
+¿Y la Lanza de Longinus?
+
+293
+00:21:42,594 --> 00:21:45,347
+También en marcha.
+Rei está a cargo de eso.
+
+294
+00:21:57,359 --> 00:22:00,487
+{\an8}CONTINUARÁ
+
+295
+00:23:06,261 --> 00:23:07,512
+PRÓXIMO EPISODIO
+
+296
+00:23:07,596 --> 00:23:11,892
+<i>A medida que sus amigos se casan</i>
+<i>uno por uno, Misato siente presión.</i>
+
+297
+00:23:12,184 --> 00:23:16,521
+<i>¿Su reencuentro con Kaji</i>
+<i>es su última oportunidad?</i>
+
+298
+00:23:17,105 --> 00:23:19,233
+<i>Próximo episodio:</i>
+<i>"Mentiras y silencio".</i>
+
+299
+00:23:19,316 --> 00:23:20,817
+Subtítulos: Paulina López de Lara
+

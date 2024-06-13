@@ -1,0 +1,1294 @@
+1
+00:01:30,467 --> 00:01:32,427
+SEDE DE NERV, PLATAFORMA DE PRUEBA 2
+
+2
+00:01:32,510 --> 00:01:33,345
+22 DÍAS ATRÁS
+
+3
+00:01:33,428 --> 00:01:34,679
+Inicien la activación.
+
+4
+00:01:34,763 --> 00:01:36,598
+Conectando energía a todos los circuitos.
+
+5
+00:01:36,681 --> 00:01:40,018
+Conexión de energía completa.
+Iniciando el sistema de activación.
+
+6
+00:01:43,647 --> 00:01:47,275
+Estará operativo en 0.5, 0.2...
+
+7
+00:01:47,359 --> 00:01:48,360
+¡Operativo!
+
+8
+00:01:48,735 --> 00:01:50,779
+Procedan a la segunda etapa de activación.
+
+9
+00:01:50,862 --> 00:01:52,822
+La conexión con el piloto ha comenzado.
+
+10
+00:01:52,906 --> 00:01:54,324
+Inicien la fase dos del sistema.
+
+11
+00:01:54,407 --> 00:01:56,701
+<i>Los niveles de presión LCL deben seguir</i>
+<i>como están.</i>
+
+12
+00:01:56,785 --> 00:01:58,703
+Insertando sinapsis, iniciando conexión.
+
+13
+00:01:58,954 --> 00:02:01,247
+- Comunicando la señal de pulso.
+- Todos los circuitos, nominales.
+
+14
+00:02:01,790 --> 00:02:03,667
+No hay anormalidades
+en la fase de contacto preliminar.
+
+15
+00:02:03,750 --> 00:02:06,127
+Enviando energía
+a los músculos braquiales.
+
+16
+00:02:06,920 --> 00:02:08,046
+<i>Abriendo conductos nerviosos.</i>
+
+17
+00:02:08,129 --> 00:02:09,631
+Enlaces neuronal, nominales.
+
+18
+00:02:09,798 --> 00:02:12,217
+La lista se ha completado hasta el #2550.
+
+19
+00:02:12,300 --> 00:02:14,970
+- Prepárense para conexión a nivel tres.
+- Se ha completado el #2580.
+
+20
+00:02:15,845 --> 00:02:18,890
+Al límite en cero punto nueve.
+
+21
+00:02:19,265 --> 00:02:21,351
+Cero punto siete. Cero punto cinco.
+
+22
+00:02:21,935 --> 00:02:23,728
+Cero punto cuatro. Cero punto tres.
+
+23
+00:02:24,479 --> 00:02:25,730
+¡El flujo de pulso neuronal
+se está revirtiendo!
+
+24
+00:02:28,066 --> 00:02:29,484
+¡Error crítico en el nivel tres!
+
+25
+00:02:29,567 --> 00:02:30,944
+<i>Se cortaron las imágenes</i>
+<i>de la cámara directa.</i>
+
+26
+00:02:31,027 --> 00:02:33,071
+¡También hay rechazo en los elementos
+neuronales centrales!
+
+27
+00:02:33,279 --> 00:02:35,490
+<i>El flujo del pulso neuronal sigue</i>
+<i>revirtiéndose. No podemos detenerlo.</i>
+
+28
+00:02:36,116 --> 00:02:39,035
+Detengan el contacto.
+Abran los circuitos al #6.
+
+29
+00:02:39,119 --> 00:02:41,121
+¡No puedo! ¡No pasa la señal!
+
+30
+00:02:54,008 --> 00:02:55,593
+¡Perdimos control de la Unidad 00!
+
+31
+00:02:56,219 --> 00:02:58,179
+Detengan la prueba. Corten la energía.
+
+32
+00:02:58,388 --> 00:02:59,222
+¡Sí, señor!
+
+33
+00:03:08,440 --> 00:03:10,525
+La Unidad 00 ha cambiado
+a energía suplementaria.
+
+34
+00:03:10,608 --> 00:03:12,277
+¡El sistema se apagará en 35 segundos!
+
+35
+00:03:12,360 --> 00:03:14,654
+<i>El sistema automático de respaldo</i>
+<i>aún no se activa.</i>
+
+36
+00:03:22,287 --> 00:03:24,080
+¡Este lugar no es seguro! ¡Todos atrás!
+
+37
+00:03:25,874 --> 00:03:27,917
+¡El sistema de expulsión automática
+se activó!
+
+38
+00:03:28,001 --> 00:03:29,085
+¡No!
+
+39
+00:03:33,339 --> 00:03:36,718
+- <i>El sistema se apagará en diez segundos.</i>
+- ¡Usen el baquelite especial! ¡Ahora!
+
+40
+00:03:37,302 --> 00:03:38,678
+Ocho. Siete.
+
+41
+00:03:39,095 --> 00:03:40,597
+- ¡Rei!
+- Seis.
+
+42
+00:03:40,680 --> 00:03:42,265
+Cinco. Cuatro.
+
+43
+00:03:42,849 --> 00:03:45,018
+Tres. Dos. Uno.
+
+44
+00:03:45,894 --> 00:03:46,728
+Cero.
+
+45
+00:04:04,245 --> 00:04:05,705
+¡Rei! ¿Estás bien?
+
+46
+00:04:07,415 --> 00:04:08,333
+¡Rei!
+
+47
+00:04:12,337 --> 00:04:13,505
+Qué bien.
+
+48
+00:04:24,849 --> 00:04:26,226
+Rei Ayanami, 14 años.
+
+49
+00:04:26,893 --> 00:04:30,271
+El primer sujeto elegido tras
+la investigación del Instituto Marduk.
+
+50
+00:04:30,647 --> 00:04:31,523
+La primera chica.
+
+51
+00:04:32,607 --> 00:04:36,069
+Designada como piloto del prototipo
+experimental de Evangelion, la Unidad 00.
+
+52
+00:04:37,112 --> 00:04:40,406
+Su pasado es una página en blanco.
+Borraron todo.
+
+53
+00:04:40,740 --> 00:04:43,493
+¿Qué causó ese accidente?
+
+54
+00:04:43,993 --> 00:04:44,953
+No se sabe aún.
+
+55
+00:04:45,829 --> 00:04:51,126
+Pero nuestra teoría es que fue
+por la inestabilidad mental de la piloto.
+
+56
+00:04:51,209 --> 00:04:54,170
+¿Inestable mentalmente? ¿Rei?
+
+57
+00:04:54,254 --> 00:04:55,088
+Sí.
+
+58
+00:04:55,755 --> 00:04:57,924
+Sus niveles de sincronización
+eran inestables.
+
+59
+00:04:58,341 --> 00:05:00,343
+- ¿Por qué?
+- Ni idea.
+
+60
+00:05:01,678 --> 00:05:03,638
+Pero... tal vez...
+
+61
+00:05:03,972 --> 00:05:05,640
+¿Se te ocurre algo?
+
+62
+00:05:05,974 --> 00:05:08,768
+No. Eso no sería posible.
+
+63
+00:05:18,695 --> 00:05:21,197
+<i>El bloque D3 ha sido desmantelado.</i>
+
+64
+00:05:21,281 --> 00:05:24,993
+<i>Envíen los datos al departamento</i>
+<i>de tecnología.</i>
+
+65
+00:05:25,076 --> 00:05:28,830
+<i>El desmantelamiento del Bloque F</i>
+<i>será demorado por 10 minutos.</i>
+
+66
+00:05:28,913 --> 00:05:30,790
+<i>Miembros del equipo 7 del departamento</i>
+<i>de tecnología sección 4</i>
+
+67
+00:05:30,874 --> 00:05:33,168
+<i>deben unirse en el lugar establecido.</i>
+
+68
+00:05:39,173 --> 00:05:41,134
+<i>El equipo de análisis de poder</i>
+<i>de Alemania llegará...</i>
+
+69
+00:05:41,217 --> 00:05:42,218
+Vaya.
+
+70
+00:05:42,677 --> 00:05:45,013
+Excepto por el núcleo,
+está casi intacta.
+
+71
+00:05:45,638 --> 00:05:47,015
+Es el espécimen perfecto.
+
+72
+00:05:48,099 --> 00:05:49,350
+Esto me servirá.
+
+73
+00:05:49,434 --> 00:05:51,477
+¿Quieres decir que aprendiste algo?
+
+74
+00:05:54,898 --> 00:05:55,732
+¿Qué es eso?
+
+75
+00:05:56,149 --> 00:05:58,526
+Ese código indica que el análisis falló.
+
+76
+00:05:58,902 --> 00:06:00,987
+¿Quieres decir: "no sé"?
+
+77
+00:06:01,279 --> 00:06:04,991
+Sí. Los Ángeles están hechos
+de materia que tiene propiedades
+
+78
+00:06:05,241 --> 00:06:07,243
+de ambas partículas y ondas,
+como la luz.
+
+79
+00:06:07,327 --> 00:06:10,079
+<i>...los investigadores</i>
+<i>deben otorgar las tareas correctamente.</i>
+
+80
+00:06:10,371 --> 00:06:12,707
+Pero sí tenía una fuente de energía, ¿no?
+
+81
+00:06:13,750 --> 00:06:14,959
+Algo parecido.
+
+82
+00:06:15,543 --> 00:06:18,046
+Pero nos falta mucho para entender
+cómo opera.
+
+83
+00:06:18,630 --> 00:06:21,090
+Lo desconocido sigue aumentando.
+
+84
+00:06:21,799 --> 00:06:23,551
+El mundo está lleno de misterios.
+
+85
+00:06:24,385 --> 00:06:28,348
+Vean esta huella de Ángel,
+por ejemplo.
+
+86
+00:06:28,431 --> 00:06:30,475
+<i>Llegó el equipo de análisis de energía</i>
+<i>de Alemania.</i>
+
+87
+00:06:30,558 --> 00:06:31,768
+¿Qué tiene?
+
+88
+00:06:34,520 --> 00:06:35,813
+¿Qué no es...?
+
+89
+00:06:35,897 --> 00:06:38,566
+Sí. A pesar de la diferencia
+en los elementos,
+
+90
+00:06:38,858 --> 00:06:42,403
+la secuencia de señales y más
+de su ADN es similar a la de los humanos.
+
+91
+00:06:42,904 --> 00:06:45,031
+Son iguales en un 99.89 %.
+
+92
+00:06:45,823 --> 00:06:48,201
+¿99.89 %? Entonces...
+
+93
+00:06:48,660 --> 00:06:52,789
+Eso solo demuestra lo poco
+que sabemos.
+
+94
+00:06:53,790 --> 00:06:54,958
+¡Esperen!
+
+95
+00:06:56,042 --> 00:06:57,043
+¿Es el núcleo?
+
+96
+00:06:57,460 --> 00:06:58,419
+¿Y el resto?
+
+97
+00:06:58,670 --> 00:07:02,340
+Estaba tan destruido que no
+servía para investigarlo.
+
+98
+00:07:02,674 --> 00:07:04,884
+- Bueno, desháganse del resto.
+- Sí, señor.
+
+99
+00:07:06,302 --> 00:07:07,303
+¿Qué pasa?
+
+100
+00:07:08,179 --> 00:07:09,806
+Nada...
+
+101
+00:07:11,641 --> 00:07:15,561
+Cuando dices "nada"
+con esa expresión en la cara,
+
+102
+00:07:16,020 --> 00:07:20,275
+es como que dijeras:
+"¡Preocúpense por mí!".
+
+103
+00:07:20,358 --> 00:07:23,444
+<i>...verifiquen sus marcas</i>
+<i>y deposítenlo en el punto dos.</i>
+
+104
+00:07:23,528 --> 00:07:27,615
+Me pareció ver quemaduras
+en las manos de mi papá.
+
+105
+00:07:28,616 --> 00:07:29,659
+¿Quemaduras?
+
+106
+00:07:31,077 --> 00:07:32,870
+Me pregunto qué le pasó.
+
+107
+00:07:33,288 --> 00:07:35,915
+¿Quemaduras? ¿Sabes algo de eso?
+
+108
+00:07:36,708 --> 00:07:41,504
+Antes de que vinieras, la Unidad 00
+enloqueció durante una prueba.
+
+109
+00:07:42,088 --> 00:07:44,090
+- Oíste de eso, ¿no?
+- Sí.
+
+110
+00:07:45,091 --> 00:07:47,885
+Cuando sucedió,
+la piloto se quedó atrapada adentro.
+
+111
+00:07:48,970 --> 00:07:51,139
+¿La piloto? Quieres decir Ayanami, ¿no?
+
+112
+00:07:51,889 --> 00:07:53,766
+El comandante Ikari la sacó.
+
+113
+00:07:54,600 --> 00:07:56,894
+La compuerta estaba caliente,
+pero la abrió.
+
+114
+00:07:58,521 --> 00:07:59,772
+¿En serio?
+
+115
+00:08:01,566 --> 00:08:03,818
+Las quemaduras son por eso.
+
+116
+00:08:05,236 --> 00:08:06,904
+¡Vamos!
+
+117
+00:08:07,488 --> 00:08:09,741
+- ¡Vamos, Hideko!
+- ¡Pierde!
+
+118
+00:08:13,286 --> 00:08:15,872
+- ¡Vamos!
+- ¡No, pierde!
+
+119
+00:08:18,458 --> 00:08:19,709
+¡La próxima!
+
+120
+00:08:25,923 --> 00:08:28,468
+Todas tienen los senos tan grandes...
+
+121
+00:08:29,844 --> 00:08:32,889
+¡Después de que Suzuhara me mira,
+tengo que bañarme!
+
+122
+00:08:35,725 --> 00:08:37,060
+¡Oye, don Juan!
+
+123
+00:08:37,477 --> 00:08:39,395
+¿A quién estás viendo?
+
+124
+00:08:39,520 --> 00:08:40,396
+A nadie.
+
+125
+00:08:40,646 --> 00:08:42,523
+¿Acaso estás viendo a...?
+¿Ayanami, tal vez?
+
+126
+00:08:42,857 --> 00:08:43,941
+¡No!
+
+127
+00:08:44,442 --> 00:08:48,112
+¡No estás engañando a nadie!
+Se le nota sospechoso, ¿no?
+
+128
+00:08:48,404 --> 00:08:51,532
+¡Los senos de Ayanami!
+¡Los muslos de Ayanami!
+
+129
+00:08:51,824 --> 00:08:54,452
+- ¡Las piernas de Ayanami!
+- ¡Las piernas de Ayanami!
+
+130
+00:08:55,453 --> 00:08:57,080
+¡No es cierto!
+
+131
+00:08:57,163 --> 00:08:58,623
+¿Qué estabas viendo, entonces?
+
+132
+00:08:58,915 --> 00:09:00,708
+¡A mí no me engañas!
+
+133
+00:09:03,378 --> 00:09:06,923
+Me preguntaba por qué siempre está sola.
+
+134
+00:09:08,674 --> 00:09:14,639
+Ahora que lo mencionas,
+no ha hecho ni un amigo en todo el año.
+
+135
+00:09:14,722 --> 00:09:16,849
+Hay algo que la hace difícil de llevar.
+
+136
+00:09:17,809 --> 00:09:20,353
+Tal vez tiene una personalidad pesada.
+
+137
+00:09:23,731 --> 00:09:28,027
+Ambos son pilotos de Eva, ¿no?
+¿No la conoces bien?
+
+138
+00:09:28,152 --> 00:09:33,658
+<i>- ¡Tiene razón!</i>
+<i>- No, apenas hablamos.</i>
+
+139
+00:09:34,951 --> 00:09:37,370
+<i>La unidad 01 de Eva</i>
+<i>está iniciando enfriamiento de nivel tres.</i>
+
+140
+00:09:37,745 --> 00:09:41,833
+<i>La jaula #6 debería apagar</i>
+<i>todos los sistemas hasta la fase tres.</i>
+
+141
+00:09:42,500 --> 00:09:45,378
+<i>Las pruebas de armonía y sincronización</i>
+<i>dieron resultados normales.</i>
+
+142
+00:09:45,670 --> 00:09:46,921
+<i>Se cumplió con todas las metas numéricas.</i>
+
+143
+00:09:47,505 --> 00:09:49,924
+<i>Entendido.</i>
+<i>Envíen los resultados a Baltazar.</i>
+
+144
+00:09:50,007 --> 00:09:50,925
+<i>Entendido.</i>
+
+145
+00:09:51,217 --> 00:09:55,221
+<i>Copiando datos personales</i>
+<i>a Melchor.</i>
+
+146
+00:09:55,763 --> 00:09:56,764
+<i>Enviando.</i>
+
+147
+00:09:57,473 --> 00:09:59,267
+<i>Melchor, entendido. Circuitos conectados.</i>
+
+148
+00:09:59,892 --> 00:10:01,436
+<i>Iniciando enfriamiento de nivel tres.</i>
+
+149
+00:10:02,186 --> 00:10:03,896
+<i>Iniciando circulación de CBL.</i>
+
+150
+00:10:04,439 --> 00:10:06,607
+<i>Lleven las aguas servidas</i>
+<i>al sistema de tratamiento de nivel dos.</i>
+
+151
+00:10:06,691 --> 00:10:08,776
+<i>Condición de las paredes</i>
+<i>de proteína, nominal.</i>
+
+152
+00:10:09,110 --> 00:10:11,070
+<i>Todas las secciones están en verde.</i>
+
+153
+00:10:11,320 --> 00:10:15,908
+<i>1050 minutos antes de la prueba</i>
+<i>de reactivación de la unidad 00.</i>
+
+154
+00:10:18,870 --> 00:10:20,621
+<i>¿Qué es esto?</i>
+
+155
+00:10:20,705 --> 00:10:21,831
+Curry.
+
+156
+00:10:22,290 --> 00:10:24,625
+Siempre comes comida instantánea.
+
+157
+00:10:24,792 --> 00:10:27,128
+Los invitados no deben quejarse
+de la comida.
+
+158
+00:10:29,714 --> 00:10:30,923
+¿Y tú, Misato?
+
+159
+00:10:31,632 --> 00:10:32,675
+Yo voy a comer esto.
+
+160
+00:10:34,093 --> 00:10:35,052
+¡Tará!
+
+161
+00:10:35,678 --> 00:10:38,431
+¡Dame una buena cantidad aquí!
+
+162
+00:10:38,723 --> 00:10:39,682
+¿En serio?
+
+163
+00:10:40,433 --> 00:10:42,101
+¡Claro! ¡Está delicioso!
+
+164
+00:10:43,186 --> 00:10:44,061
+Si tú lo dices.
+
+165
+00:10:44,145 --> 00:10:48,024
+Los fideos con sabor a curry
+no saben así.
+
+166
+00:10:49,817 --> 00:10:50,985
+¡Provecho!
+
+167
+00:10:51,944 --> 00:10:54,822
+La clave es usar menos agua
+de la que parece necesaria.
+
+168
+00:11:01,454 --> 00:11:03,289
+Misato cocinó, ¿no?
+
+169
+00:11:03,998 --> 00:11:05,208
+- Sí.
+- ¿Es obvio?
+
+170
+00:11:06,042 --> 00:11:07,293
+Por el sabor.
+
+171
+00:11:07,376 --> 00:11:09,378
+<i>¿Cómo pudiste arruinar</i>
+<i>una receta que viene prehecha?</i>
+
+172
+00:11:10,171 --> 00:11:14,133
+La próxima vez que me inviten,
+que sea cuando cocine Shinji.
+
+173
+00:11:34,320 --> 00:11:36,614
+Shinji, deberías mudarte.
+
+174
+00:11:36,864 --> 00:11:40,618
+No arruines tu vida aprendiendo
+malos hábitos de tu compañera.
+
+175
+00:11:41,118 --> 00:11:42,203
+Ya me acostumbré.
+
+176
+00:11:42,912 --> 00:11:48,167
+¿Ves, Ritsuko? ¡El humano tiene una gran
+capacidad de adaptación!
+
+177
+00:11:48,751 --> 00:11:50,795
+Además, mudarme sería... Ups.
+
+178
+00:11:51,295 --> 00:11:53,589
+¿Shinji? ¿Me podrías traer otra cerveza?
+
+179
+00:11:53,798 --> 00:11:54,674
+Claro.
+
+180
+00:11:54,757 --> 00:11:56,592
+Mudarse sería mucho papeleo.
+
+181
+00:11:56,676 --> 00:11:59,512
+Pero Shinji ya tiene su propia
+tarjeta de seguro social.
+
+182
+00:11:59,971 --> 00:12:03,766
+Ah, cierto. Shinji, un favor.
+
+183
+00:12:04,058 --> 00:12:05,309
+Dime.
+
+184
+00:12:05,601 --> 00:12:07,228
+Esta es la tarjeta renovada
+de Rei Ayanami.
+
+185
+00:12:08,521 --> 00:12:10,189
+Siempre olvido dársela.
+
+186
+00:12:10,439 --> 00:12:11,774
+Disculpa, pero
+
+187
+00:12:11,857 --> 00:12:14,860
+¿podrías llevársela
+antes de volver a la sede?
+
+188
+00:12:15,653 --> 00:12:16,612
+Claro.
+
+189
+00:12:23,202 --> 00:12:26,706
+¿Qué pasa? Parece que te cautivó
+esa foto de Rei.
+
+190
+00:12:26,789 --> 00:12:27,957
+No...
+
+191
+00:12:28,499 --> 00:12:31,752
+- No me digas que estás...
+- ¡No!
+
+192
+00:12:31,836 --> 00:12:34,005
+¡No engañas a nadie! ¡Se te nota!
+
+193
+00:12:35,339 --> 00:12:38,592
+Ahora tienes una excusa
+para ir a verla.
+
+194
+00:12:40,553 --> 00:12:42,096
+¡No me molesten!
+
+195
+00:12:43,973 --> 00:12:46,600
+¡Te enojas tan fácil
+que lo haces divertido!
+
+196
+00:12:46,684 --> 00:12:48,019
+Igual que tú, Misato.
+
+197
+00:12:48,769 --> 00:12:53,357
+Es que, aunque ambos somos pilotos de Eva,
+no sé nada de ella.
+
+198
+00:12:54,150 --> 00:12:58,571
+Es amable, pero como tu papá,
+es un poco torpe.
+
+199
+00:12:59,905 --> 00:13:01,490
+¿Torpe? ¿En qué?
+
+200
+00:13:03,159 --> 00:13:04,410
+En su forma de vivir.
+
+201
+00:13:22,970 --> 00:13:25,014
+AYANAMI
+
+202
+00:13:42,073 --> 00:13:43,449
+¿Hola?
+
+203
+00:13:47,411 --> 00:13:49,789
+¿Hay alguien? Soy Ikari.
+
+204
+00:13:52,124 --> 00:13:53,334
+¿Ayanami? Voy a pasar.
+
+205
+00:14:31,497 --> 00:14:32,498
+¿Son de ella?
+
+206
+00:14:47,638 --> 00:14:48,472
+Yo...
+
+207
+00:14:52,017 --> 00:14:53,394
+Yo no quise...
+
+208
+00:15:30,181 --> 00:15:31,015
+¿Podrías moverte?
+
+209
+00:15:35,895 --> 00:15:36,729
+Yo...
+
+210
+00:15:55,206 --> 00:15:56,457
+¿Qué?
+
+211
+00:15:57,291 --> 00:15:59,251
+Yo... Es que...
+
+212
+00:16:04,715 --> 00:16:07,384
+Me pidieron que...
+
+213
+00:16:08,427 --> 00:16:11,263
+¿Qué cosa? Tu tarjeta.
+
+214
+00:16:11,347 --> 00:16:15,017
+Tu tarjeta ha sido renovada
+y debía traértela.
+
+215
+00:16:18,354 --> 00:16:19,647
+Por... Por eso...
+
+216
+00:16:19,939 --> 00:16:22,024
+No quise...
+
+217
+00:16:28,906 --> 00:16:31,575
+Ritsuko dijo que se olvidó de dártela.
+
+218
+00:16:32,910 --> 00:16:38,374
+¡Lo juro! La puerta estaba abierta,
+y yo...
+
+219
+00:16:58,352 --> 00:17:00,855
+<i>El acceso a la dogma central</i>
+<i>está disponible.</i>
+
+220
+00:17:01,522 --> 00:17:04,692
+<i>Visitantes de categoría 3,</i>
+<i>usen la puerta de acceso 4.</i>
+
+221
+00:17:08,404 --> 00:17:12,324
+Aquí está tu nueva tarjeta.
+Ritsuko me pidió que te la de.
+
+222
+00:17:20,124 --> 00:17:21,375
+Disculpa lo de hace rato.
+
+223
+00:17:22,126 --> 00:17:23,043
+¿De qué hablas?
+
+224
+00:17:27,339 --> 00:17:30,301
+Tu prueba de reactivación es hoy, ¿no?
+
+225
+00:17:32,344 --> 00:17:34,013
+Espero que te vaya bien esta vez.
+
+226
+00:17:38,225 --> 00:17:39,101
+Oye...
+
+227
+00:17:40,102 --> 00:17:44,189
+¿No te da miedo volver a entrar
+a la Unidad 00?
+
+228
+00:17:44,982 --> 00:17:45,983
+¿Por qué?
+
+229
+00:17:49,028 --> 00:17:52,406
+Supe que te lastimaste
+antes durante esa prueba,
+
+230
+00:17:52,615 --> 00:17:54,575
+por eso me preguntaba
+si te preocupa.
+
+231
+00:17:57,912 --> 00:18:00,331
+Eres hijo del comandante Ikari, ¿no?
+
+232
+00:18:02,124 --> 00:18:04,793
+¿No tienes fe en el trabajo
+de tu papá?
+
+233
+00:18:05,669 --> 00:18:07,963
+¡Por supuesto que no!
+¿En un padre como él?
+
+234
+00:18:12,051 --> 00:18:13,052
+Eh...
+
+235
+00:18:33,030 --> 00:18:35,032
+<i>¿Rei? ¿Estás bien?</i>
+
+236
+00:18:35,824 --> 00:18:36,700
+<i>Rei.</i>
+
+237
+00:18:39,370 --> 00:18:42,206
+<i>Cuando sucedió,</i>
+<i>la piloto se quedó atrapada adentro.</i>
+
+238
+00:18:43,082 --> 00:18:45,209
+<i>El comandante Ikari la sacó.</i>
+
+239
+00:18:46,085 --> 00:18:48,420
+<i>La compuerta estaba caliente,</i>
+<i>pero la abrió.</i>
+
+240
+00:18:49,546 --> 00:18:51,423
+<i>Las quemaduras son por eso.</i>
+
+241
+00:19:00,683 --> 00:19:03,686
+<i>- Rei, ¿me oyes?</i>
+<i>- Sí, señor.</i>
+
+242
+00:19:04,812 --> 00:19:07,898
+<i>Ahora llevaremos a cabo</i>
+<i>la prueba de reactivación de la Unidad 00.</i>
+
+243
+00:19:08,357 --> 00:19:09,608
+Iniciando contacto de nivel uno.
+
+244
+00:19:11,568 --> 00:19:13,028
+La energía está conectada.
+
+245
+00:19:13,612 --> 00:19:16,448
+- Pasamos el umbral del voltaje operativo.
+- Entendido.
+
+246
+00:19:17,199 --> 00:19:19,118
+<i>Formato, procedan a la fase dos.</i>
+
+247
+00:19:19,618 --> 00:19:23,038
+<i>- Inicien el contacto con la unidad 00.</i>
+<i>- Conectando circuitos.</i>
+
+248
+00:19:25,332 --> 00:19:27,334
+<i>El pulso y la armonía, nominales.</i>
+
+249
+00:19:28,585 --> 00:19:30,129
+<i>Sincronización, todo está en verde.</i>
+
+250
+00:19:30,212 --> 00:19:31,672
+<i>Enlaces neuronal establecidos.</i>
+
+251
+00:19:33,173 --> 00:19:34,842
+<i>Elementos neuronal centrales</i>
+<i>sin anormalidades.</i>
+
+252
+00:19:34,925 --> 00:19:37,011
+<i>Recalculando.</i>
+<i>No se necesitan correcciones.</i>
+
+253
+00:19:38,345 --> 00:19:40,889
+<i>La lista se ha completado hasta el 2850.</i>
+
+254
+00:19:41,598 --> 00:19:44,268
+<i>Llegando al límite en el dos punto cinco.</i>
+
+255
+00:19:44,351 --> 00:19:46,895
+<i>Uno punto siete. Uno punto dos.</i>
+
+256
+00:19:47,187 --> 00:19:50,649
+<i>Uno punto cero. Cero punto ocho.</i>
+<i>Cero punto seis.</i>
+
+257
+00:19:50,899 --> 00:19:52,901
+<i>Cero punto cinco. Cero punto cuatro.</i>
+
+258
+00:19:53,485 --> 00:19:55,404
+<i>Cero punto tres. Cero punto dos.</i>
+
+259
+00:19:55,487 --> 00:19:56,739
+<i>Cero punto uno.</i>
+
+260
+00:19:56,905 --> 00:19:59,241
+<i>Pasó. Se superó el límite.</i>
+
+261
+00:19:59,950 --> 00:20:02,911
+- <i>La Unidad 00 ya está activada.</i>
+- Entendido.
+
+262
+00:20:03,495 --> 00:20:05,456
+<i>Procederemos a la prueba de interfase.</i>
+
+263
+00:20:05,664 --> 00:20:06,582
+<i>Entendido.</i>
+
+264
+00:20:11,837 --> 00:20:15,007
+Ikari, hay un objeto volador
+no identificado acercándose.
+
+265
+00:20:15,674 --> 00:20:17,301
+Debe ser el quinto Ángel.
+
+266
+00:20:17,384 --> 00:20:20,637
+Suspendan la prueba. Todo el personal
+a las estaciones de acción uno.
+
+267
+00:20:21,638 --> 00:20:23,891
+¿No vas a lanzar la Unidad 00?
+
+268
+00:20:24,308 --> 00:20:26,560
+No está lista.
+¿Cuál es el estado de la Unidad 01?
+
+269
+00:20:27,227 --> 00:20:29,104
+Puede estar lista en 380 segundos.
+
+270
+00:20:29,813 --> 00:20:31,190
+- Láncenla.
+- Sí, señor.
+
+271
+00:20:31,315 --> 00:20:32,149
+Rei.
+
+272
+00:20:32,816 --> 00:20:35,194
+<i>La reactivación fue un éxito.</i>
+<i>Ha terminado por ahora.</i>
+
+273
+00:20:59,760 --> 00:21:02,221
+<i>El objeto está pasando sobre Tounosawa.</i>
+
+274
+00:21:02,304 --> 00:21:04,306
+<i>Preparando el lanzamiento de la Unidad 01.</i>
+
+275
+00:21:05,849 --> 00:21:07,184
+<i>Liberen la contención uno.</i>
+
+276
+00:21:09,478 --> 00:21:10,813
+<i>- Confirmado.</i>
+<i>- Entendido.</i>
+
+277
+00:21:11,396 --> 00:21:13,023
+<i>Liberen la contención secundaria.</i>
+
+278
+00:21:13,107 --> 00:21:14,316
+<i>Entendido.</i>
+
+279
+00:21:14,399 --> 00:21:16,527
+<i>El blanco ha entrado el espacio</i>
+<i>aéreo sobre el lago Ashinoko.</i>
+
+280
+00:21:16,902 --> 00:21:19,113
+<i>¡Eva Unidad 01, lista para el lanzamiento!</i>
+
+281
+00:21:19,571 --> 00:21:20,781
+<i>¡Láncenla!</i>
+
+282
+00:21:27,454 --> 00:21:29,790
+¡El blanco tiene altos niveles
+de energía!
+
+283
+00:21:29,873 --> 00:21:30,999
+¿Qué?
+
+284
+00:21:31,083 --> 00:21:32,835
+¡Está acelerando por la circunferencia
+de manera enfocada!
+
+285
+00:21:33,210 --> 00:21:34,211
+No me digan que...
+
+286
+00:21:40,884 --> 00:21:41,802
+¡No! ¡Cúbranse!
+
+287
+00:21:58,485 --> 00:21:59,403
+¡Shinji!
+
+288
+00:21:59,486 --> 00:22:00,654
+CONTINUARÁ...
+
+289
+00:23:04,051 --> 00:23:06,178
+Subtítulos: Paulina López de Lara
+
+290
+00:23:06,261 --> 00:23:07,471
+EN EL PRÓXIMO EPISODIO
+
+291
+00:23:08,347 --> 00:23:11,808
+<i>Shinji sobrevive, pero sus heridas</i>
+<i>no le permiten alivio.</i>
+
+292
+00:23:12,184 --> 00:23:13,226
+<i>Rei lo aleja.</i>
+
+293
+00:23:13,477 --> 00:23:16,438
+<i>Misato intenta una penetración</i>
+<i>en contra del Ángel.</i>
+
+294
+00:23:17,064 --> 00:23:19,107
+<i>El siguiente episodio:</i>
+<i>La confrontación en Tokio-3.</i>
+
+295
+00:23:19,191 --> 00:23:20,984
+EL SIGUIENTE EPISODIO
+LA CONFRONTACIÓN EN TOKIO-3.
+

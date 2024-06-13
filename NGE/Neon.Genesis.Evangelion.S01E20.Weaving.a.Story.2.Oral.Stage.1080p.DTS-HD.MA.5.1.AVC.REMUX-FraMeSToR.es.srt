@@ -1,0 +1,1531 @@
+1
+00:01:36,723 --> 00:01:38,934
+Se está comiendo al ángel...
+
+2
+00:01:56,576 --> 00:02:00,413
+Está usando la fuerza bruta
+para liberarse de nuestro control.
+
+3
+00:02:00,497 --> 00:02:04,000
+Los humanos
+ya no podemos controlar a ese Eva.
+
+4
+00:02:05,919 --> 00:02:08,213
+La liberación de la Unidad 01...
+
+5
+00:02:08,296 --> 00:02:11,174
+A SEELE no le gustará esto.
+
+6
+00:02:13,426 --> 00:02:16,846
+Los Eva no deben poder generar
+un motor S2 por sí solos.
+
+7
+00:02:16,930 --> 00:02:19,975
+Pensar que intentó asimilar uno
+de esa manera...
+
+8
+00:02:20,058 --> 00:02:24,646
+¡Esto no es parte del plan de SEELE!
+
+9
+00:02:24,771 --> 00:02:26,690
+No será fácil compensar esto.
+
+10
+00:02:26,773 --> 00:02:29,901
+Tal vez confiarle NERV a Gendoh Ikari
+
+11
+00:02:29,985 --> 00:02:31,987
+fue el primer error.
+
+12
+00:02:32,070 --> 00:02:36,783
+Pero de no ser por él, no hubiéramos
+podido iniciar nuestros planes.
+
+13
+00:02:36,866 --> 00:02:39,494
+Ikari, ¿qué piensas?
+
+14
+00:02:39,995 --> 00:02:41,413
+Ya empezó, ¿no?
+
+15
+00:02:41,496 --> 00:02:43,915
+Sí, ahora nuestro trabajo puede empezar.
+
+16
+00:02:49,254 --> 00:02:53,049
+El daño a los dos Eva
+va más allá del límite de Hayflick.
+
+17
+00:02:53,133 --> 00:02:56,011
+Tardaremos en volver a la normalidad.
+
+18
+00:02:56,678 --> 00:02:59,889
+Afortunadamente, el sistema MAGI
+se puede transferir.
+
+19
+00:03:00,348 --> 00:03:02,058
+Podemos empezar mañana mismo.
+
+20
+00:03:02,851 --> 00:03:04,352
+Pero esto está destruido.
+
+21
+00:03:04,769 --> 00:03:07,480
+Pronto lo declararán en ruinas.
+
+22
+00:03:07,647 --> 00:03:08,690
+Así será.
+
+23
+00:03:08,982 --> 00:03:13,069
+Mientras tanto, trabajaremos
+en el centro de comando secundario.
+
+24
+00:03:13,153 --> 00:03:14,988
+¿Sin las MAGI?
+
+25
+00:03:15,196 --> 00:03:19,784
+Sí. Esta tarde quitaremos las telarañas
+y empezaremos a trabajar.
+
+26
+00:03:19,868 --> 00:03:22,328
+Las sillas son incómodas,
+los sensores no responden.
+
+27
+00:03:22,412 --> 00:03:24,289
+Es difícil trabajar aquí.
+
+28
+00:03:24,372 --> 00:03:27,584
+Eso que es idéntico
+al centro de comando primario.
+
+29
+00:03:27,667 --> 00:03:29,335
+Sí, no es lo mismo.
+
+30
+00:03:29,419 --> 00:03:31,337
+Lo que importa es que funciona.
+
+31
+00:03:32,380 --> 00:03:34,591
+Pero ¿funciona la Unidad 01?
+
+32
+00:03:40,972 --> 00:03:43,725
+¿Restringirla con la jaula
+será suficiente?
+
+33
+00:03:43,808 --> 00:03:48,313
+No se detectan señales térmicas,
+eléctricas, EM ni químicas.
+
+34
+00:03:48,605 --> 00:03:50,857
+El motor S2 está completamente inerte.
+
+35
+00:03:50,982 --> 00:03:54,486
+Eso no le ha impedido revivir tres veces.
+
+36
+00:03:58,823 --> 00:04:02,494
+No podemos confiar en lo que vemos.
+
+37
+00:04:02,577 --> 00:04:05,497
+No se sabe qué puede hacer
+si lo tocamos a ciegas.
+
+38
+00:04:05,580 --> 00:04:07,791
+Es como usted, mayor Katsuragi.
+
+39
+00:04:11,586 --> 00:04:12,420
+Disculpe.
+
+40
+00:04:13,088 --> 00:04:16,299
+La Unidad 01 no es nuestro único problema.
+
+41
+00:04:16,382 --> 00:04:19,177
+Sí, las Unidades 00 y 02
+están muy dañadas.
+
+42
+00:04:19,260 --> 00:04:22,847
+El cuartel, casi destruido.
+El Dogma Central, expuesto.
+
+43
+00:04:22,931 --> 00:04:24,641
+¡El daño es catastrófico!
+
+44
+00:04:24,724 --> 00:04:28,728
+No sabemos cuánto tiempo
+y ni cuánto dinero nos costará esto.
+
+45
+00:04:28,853 --> 00:04:31,856
+Todo porque Ikari
+no tiene un cascabel en el cuello.
+
+46
+00:04:31,981 --> 00:04:34,567
+Se lo pusimos, pero no sonó.
+
+47
+00:04:34,651 --> 00:04:36,736
+Un cascabel que no suena no sirve.
+
+48
+00:04:36,820 --> 00:04:38,613
+Nos encargaremos de que suene.
+
+49
+00:04:39,280 --> 00:04:42,075
+Vaya, esto es inesperado, ¿no?
+
+50
+00:04:43,952 --> 00:04:48,164
+¿Cómo van a explicárselo al Consejo?
+Mejor dicho, a SEELE.
+
+51
+00:04:48,665 --> 00:04:52,127
+El Eva 01 no estaba bajo nuestro control.
+
+52
+00:04:52,210 --> 00:04:54,337
+Fue un accidente desafortunado.
+
+53
+00:04:54,420 --> 00:04:58,091
+La Unidad 01 no podrá salir
+hasta que el Consejo lo ordene.
+
+54
+00:04:58,174 --> 00:05:00,593
+Una respuesta apropiada, sin embargo...
+
+55
+00:05:01,177 --> 00:05:03,054
+¿Su hijo sigue en ella?
+
+56
+00:05:05,682 --> 00:05:09,310
+No logramos que acepte
+la señal de eyección.
+
+57
+00:05:09,394 --> 00:05:11,980
+- ¿Las de repuesto y las simuladas?
+- Todas.
+
+58
+00:05:12,063 --> 00:05:14,524
+No podemos conectarnos
+con los circuitos.
+
+59
+00:05:14,607 --> 00:05:17,861
+Nos conecté al circuito visual.
+Lo pondré en pantalla.
+
+60
+00:05:20,405 --> 00:05:21,656
+¿Qué demonios...?
+
+61
+00:05:22,991 --> 00:05:25,618
+Esto pasa
+con una sincronización de un 400 %.
+
+62
+00:05:25,702 --> 00:05:28,830
+¿Qué quieres decir?
+¿Qué diablos pasó con Shinji?
+
+63
+00:05:28,913 --> 00:05:31,124
+Lo asimiló el Eva 01.
+
+64
+00:05:31,207 --> 00:05:33,585
+¿Qué? ¿Qué rayos son los Eva?
+
+65
+00:05:34,252 --> 00:05:37,630
+Son objetos con una forma similar
+a la humana
+
+66
+00:05:37,714 --> 00:05:39,215
+y creados por humanos.
+
+67
+00:05:39,299 --> 00:05:40,675
+¿"Creados por humanos"?
+
+68
+00:05:41,217 --> 00:05:44,846
+¡Solo copiaron algo
+que encontraron en la Antártica!
+
+69
+00:05:44,929 --> 00:05:46,222
+No son originales.
+
+70
+00:05:46,723 --> 00:05:50,101
+No son una simple copia.
+Tienen voluntad humana.
+
+71
+00:05:50,435 --> 00:05:52,187
+¿Es la voluntad de alguien?
+
+72
+00:05:52,645 --> 00:05:53,730
+Probablemente, del Eva.
+
+73
+00:05:55,565 --> 00:05:57,108
+¡Soluciónalo, maldita sea!
+
+74
+00:05:57,317 --> 00:06:00,570
+Tú los construiste, ¿no?
+¡Haz lo que sea necesario!
+
+75
+00:06:01,988 --> 00:06:03,323
+SEGUNDO DÍA
+
+76
+00:06:03,406 --> 00:06:06,117
+<i>El gobierno negó oficialmente</i>
+
+77
+00:06:06,201 --> 00:06:08,912
+<i>vínculos con el incidente</i>
+<i>de las islas Spratly.</i>
+
+78
+00:06:08,995 --> 00:06:14,167
+<i>En otras noticias, el ataque terrorista</i>
+<i>de una secta en Tokio-2 fue hace un mes,</i>
+
+79
+00:06:14,250 --> 00:06:16,878
+<i>y la SSDF informó a la prensa de...</i>
+
+80
+00:06:16,961 --> 00:06:17,837
+Sigo viva.
+
+81
+00:06:19,964 --> 00:06:22,342
+¡Ya sabía que estaba bien!
+
+82
+00:06:22,926 --> 00:06:26,679
+¡No necesito que me llames
+a molestarme con eso, Misato!
+
+83
+00:06:30,266 --> 00:06:33,603
+No pude hacer nada para detenerlo.
+
+84
+00:06:33,686 --> 00:06:35,897
+¡El Shindiota me superó de nuevo!
+
+85
+00:06:38,191 --> 00:06:39,150
+¡Lo odio!
+
+86
+00:06:39,400 --> 00:06:40,652
+{\an8}TERCER DÍA
+
+87
+00:06:41,194 --> 00:06:43,071
+¿Rescatar a Shinji?
+
+88
+00:06:43,571 --> 00:06:47,200
+Sí, la forma de vida
+a la que llamamos "Shinji" aún existe.
+
+89
+00:06:47,283 --> 00:06:49,369
+¿Es eso respeto por la vida humana?
+
+90
+00:06:49,452 --> 00:06:51,704
+No podemos perder a Shinji ahora.
+
+91
+00:06:51,788 --> 00:06:55,541
+Imagino que a NERV no le interesa
+la vida de Shinji.
+
+92
+00:06:55,625 --> 00:06:57,543
+No quieren perder la Unidad 01.
+
+93
+00:06:57,710 --> 00:06:58,628
+No lo niego.
+
+94
+00:06:59,712 --> 00:07:03,258
+Creemos que el cuerpo
+de Shinji perdió la delineación del ego
+
+95
+00:07:03,341 --> 00:07:06,803
+y está en la cápsula de entrada
+en un estado cuántico.
+
+96
+00:07:07,011 --> 00:07:08,972
+¿Dices que Shinji se transformó
+
+97
+00:07:09,097 --> 00:07:11,891
+a un estado que no podemos
+detectar visualmente?
+
+98
+00:07:11,975 --> 00:07:14,811
+Sí. El LCL en la cápsula de entrada
+
+99
+00:07:14,894 --> 00:07:16,396
+sufrió un cambio químico.
+
+100
+00:07:16,479 --> 00:07:19,649
+Ahora es como el agua de mar
+de la Tierra primitiva.
+
+101
+00:07:19,857 --> 00:07:21,317
+¿El caldo primigenio?
+
+102
+00:07:21,401 --> 00:07:25,697
+Toda la materia que compone a Shinji
+está preservada dentro de la cápsula,
+
+103
+00:07:25,780 --> 00:07:28,616
+y lo que denominaríamos "alma"
+también sigue ahí.
+
+104
+00:07:28,783 --> 00:07:32,996
+Su propia visualización de sí mismo
+se manifiesta en su traje.
+
+105
+00:07:33,413 --> 00:07:36,791
+La "operación de rescate"
+significa reconstituir su cuerpo
+
+106
+00:07:36,874 --> 00:07:38,876
+agregando su psiquis adentro.
+
+107
+00:07:38,960 --> 00:07:42,088
+- ¿Acaso es posible?
+- Con el apoyo de las MAGI, sí.
+
+108
+00:07:42,171 --> 00:07:46,718
+En teoría, querrás decir.
+No sabremos hasta probar.
+
+109
+00:07:46,801 --> 00:07:48,219
+{\an8}CUARTO DÍA
+
+110
+00:07:51,389 --> 00:07:54,183
+<i>¿Qué es esto? ¿Dónde estoy?</i>
+
+111
+00:07:55,310 --> 00:07:58,062
+<i>¿En una cápsula de entrada</i>
+<i>de la Unidad 01?</i>
+
+112
+00:07:58,604 --> 00:08:01,274
+<i>Pero no hay nadie adentro.</i>
+<i>No estoy adentro.</i>
+
+113
+00:08:01,774 --> 00:08:04,485
+<i>¿Qué es esto?</i>
+
+114
+00:08:05,111 --> 00:08:06,654
+<i>No entiendo.</i>
+
+115
+00:08:07,905 --> 00:08:09,073
+<i>¿Quienes son?</i>
+
+116
+00:08:09,449 --> 00:08:13,911
+<i>Ah. La gente que conozco.</i>
+<i>La gente que me conoce.</i>
+
+117
+00:08:14,704 --> 00:08:16,831
+<i>Ya entiendo. Esto es mi mundo.</i>
+
+118
+00:08:18,082 --> 00:08:18,958
+<i>¿Qué es esto?</i>
+
+119
+00:08:19,375 --> 00:08:22,420
+<i>Se supone que es mi mundo,</i>
+<i>pero no estoy seguro.</i>
+
+120
+00:08:22,920 --> 00:08:25,882
+<i>Una proyección del exterior.</i>
+<i>Una que no me gusta.</i>
+
+121
+00:08:26,299 --> 00:08:27,884
+<i>¡Cierto! ¡Es un enemigo!</i>
+
+122
+00:08:27,967 --> 00:08:30,428
+ENEMIGO
+
+123
+00:08:30,511 --> 00:08:31,512
+<i>¡Enemigo!</i>
+
+124
+00:08:32,013 --> 00:08:35,224
+<i>¡Nuestros enemigos!</i>
+<i>Esas cosas que denominamos ángeles.</i>
+
+125
+00:08:35,725 --> 00:08:37,810
+<i>Los objetivos de los Eva. ¡De NERV!</i>
+
+126
+00:08:38,978 --> 00:08:41,230
+<i>¡Los que mataron al papá de de Misato!</i>
+
+127
+00:08:41,814 --> 00:08:45,234
+<i>¿Por qué peleo contra ellos?</i>
+<i>Si significa pasar por esto...</i>
+
+128
+00:08:45,818 --> 00:08:47,070
+¿Qué te pasa?
+
+129
+00:08:47,153 --> 00:08:50,323
+¡Esas cosas nos están atacando!
+
+130
+00:08:50,406 --> 00:08:53,284
+¡Cuando te atacan,
+es normal defenderse!
+
+131
+00:08:54,243 --> 00:08:58,122
+<i>Tal vez no necesitamos una razón.</i>
+<i>No debería pensar en eso.</i>
+
+132
+00:08:58,790 --> 00:09:01,501
+<i>¡Enemigo! ¡Enemigo!</i>
+
+133
+00:09:01,918 --> 00:09:03,294
+<i>¡Son mis enemigos!</i>
+
+134
+00:09:03,378 --> 00:09:07,006
+<i>¡Todo lo que me amenaza,</i>
+<i>nos amenaza, es un enemigo!</i>
+
+135
+00:09:07,090 --> 00:09:11,219
+<i>¡Tiene razón!</i>
+<i>¿Qué tiene de malo defendernos?</i>
+
+136
+00:09:11,719 --> 00:09:13,721
+<i>¡Enemigo! ¡Enemigo!</i>
+
+137
+00:09:13,805 --> 00:09:15,598
+<i>¡Mi enemigo!</i>
+
+138
+00:09:20,186 --> 00:09:22,313
+¡Maldito seas!
+
+139
+00:09:22,980 --> 00:09:25,483
+¡Lastimaste a Tohji! ¡Asesinaste a mamá!
+
+140
+00:09:25,566 --> 00:09:26,651
+¡Papá!
+
+141
+00:09:37,203 --> 00:09:38,788
+¿Por qué odias a tu padre?
+
+142
+00:09:39,455 --> 00:09:41,749
+¿Por qué no odiar a un padre como él?
+
+143
+00:09:42,375 --> 00:09:43,960
+¿No conoces a tu padre?
+
+144
+00:09:44,460 --> 00:09:47,422
+¿Cómo podría? Apenas lo veo.
+
+145
+00:09:47,964 --> 00:09:49,048
+¿Por eso lo odias?
+
+146
+00:09:49,715 --> 00:09:53,719
+¡Sí! ¡No me quiere! ¡Me abandonó!
+
+147
+00:09:54,387 --> 00:09:56,013
+¿Acaso te sustituí?
+
+148
+00:09:56,097 --> 00:09:57,849
+¡Sí, es eso!
+
+149
+00:09:58,766 --> 00:10:01,310
+¡Me dejó de lado porque te tiene a ti!
+
+150
+00:10:01,394 --> 00:10:03,604
+Pero tú decidiste huir.
+
+151
+00:10:03,688 --> 00:10:06,190
+<i>¡Cállate! ¡Cállate!</i>
+
+152
+00:10:06,315 --> 00:10:08,401
+<i>¡Todo es culpa de mi papá!</i>
+
+153
+00:10:08,484 --> 00:10:12,155
+<i>¡Vine a NERV ese día</i>
+<i>a decirle que lo odio!</i>
+
+154
+00:10:15,324 --> 00:10:18,744
+<i>¿Debería aceptar</i>
+<i>y que me pasen cosas terribles, papá?</i>
+
+155
+00:10:18,828 --> 00:10:19,662
+Sí.
+
+156
+00:10:19,745 --> 00:10:23,082
+¿Que? ¡No, no quiero!
+
+157
+00:10:23,666 --> 00:10:26,002
+¡Pensé que no me necesitabas!
+
+158
+00:10:26,586 --> 00:10:28,796
+Ahora sí, por eso te mandé llamar.
+
+159
+00:10:30,298 --> 00:10:32,258
+¿Por qué yo?
+
+160
+00:10:32,341 --> 00:10:34,427
+Porque nadie más puede hacerlo.
+
+161
+00:10:35,845 --> 00:10:39,849
+Para mí también.
+Nunca había visto ni oído de esta cosa.
+
+162
+00:10:39,932 --> 00:10:41,642
+¡No puedo hacerlo!
+
+163
+00:10:42,643 --> 00:10:44,437
+No, reconocí al Eva.
+
+164
+00:10:44,520 --> 00:10:47,690
+¡Sí! ¡Reconocí a este Eva!
+
+165
+00:10:48,441 --> 00:10:51,944
+¡Huí ese mismo día! ¡De papá y mamá!
+
+166
+00:10:59,410 --> 00:11:00,745
+{\an8}TRIGÉSIMO DÍA
+
+167
+00:11:00,828 --> 00:11:05,291
+<i>La temperatura LCL está a 38°C.</i>
+<i>Niveles de oxígeno: en verde.</i>
+
+168
+00:11:05,374 --> 00:11:08,377
+<i>Función de pulso EM: nominal.</i>
+<i>Patrón de ola Bravo.</i>
+
+169
+00:11:08,461 --> 00:11:11,255
+<i>Todos los instrumentos</i>
+<i>de monitoreo funcionan.</i>
+
+170
+00:11:11,756 --> 00:11:14,050
+Un plan de rescate...
+
+171
+00:11:14,550 --> 00:11:17,637
+Solo usted podría haber hecho
+esto en un mes, jefa.
+
+172
+00:11:18,137 --> 00:11:22,767
+Quisiera decir que fui yo, pero no.
+Los datos son de experimentos previos.
+
+173
+00:11:23,226 --> 00:11:26,229
+¿Esto ya había pasado?
+¿En el desarrollo de los Eva?
+
+174
+00:11:26,812 --> 00:11:29,315
+Sucedió antes de que me uniera a NERV.
+
+175
+00:11:29,440 --> 00:11:32,944
+Mi mamá lo vio,
+yo solo lo sé por los archivos.
+
+176
+00:11:33,027 --> 00:11:35,404
+¿Qué pasó cuando lo intentaron?
+
+177
+00:11:35,863 --> 00:11:37,031
+Al parecer, fracasaron.
+
+178
+00:11:37,114 --> 00:11:38,533
+TRIGÉSIMO PRIMER DÍA
+
+179
+00:11:42,662 --> 00:11:45,915
+<i>Se siente bien... Es cálido.</i>
+
+180
+00:11:46,499 --> 00:11:48,960
+<i>¿Así se siente la calidez humana?</i>
+
+181
+00:11:49,961 --> 00:11:51,420
+<i>No sabía.</i>
+
+182
+00:11:55,550 --> 00:11:57,301
+<i>¿Qué significa sentirse solo?</i>
+
+183
+00:11:57,885 --> 00:12:01,347
+No lo entendí antes,
+pero creo que ahora sí.
+
+184
+00:12:01,931 --> 00:12:03,266
+¿Y sentirse feliz?
+
+185
+00:12:03,849 --> 00:12:07,019
+No lo entendí antes,
+pero creo que ahora sí.
+
+186
+00:12:07,812 --> 00:12:10,898
+¿Son amables contigo? ¿Con los demás?
+
+187
+00:12:11,524 --> 00:12:13,109
+- Sí.
+- ¿Por qué?
+
+188
+00:12:14,026 --> 00:12:16,654
+Porque soy piloto de Eva.
+
+189
+00:12:17,238 --> 00:12:20,199
+<i>¡Me cuidan porque soy piloto de Eva!</i>
+
+190
+00:12:20,283 --> 00:12:25,204
+<i>Por eso puedo estar acá.</i>
+<i>Por eso me aguantan.</i>
+
+191
+00:12:25,788 --> 00:12:28,165
+<i>Por eso necesito pilotear el Eva.</i>
+
+192
+00:12:28,708 --> 00:12:29,917
+<i>¿Y luego qué?</i>
+
+193
+00:12:30,001 --> 00:12:34,088
+<i>Y pelear. Sí, ¡debo pelear</i>
+<i>con esas cosas que son nuestros enemigos!</i>
+
+194
+00:12:34,171 --> 00:12:35,673
+<i>¿Y luego qué?</i>
+
+195
+00:12:35,756 --> 00:12:38,676
+Necesito ganar. Sí, no puedo perder...
+
+196
+00:12:39,260 --> 00:12:41,679
+Debo hacer lo que me dicen
+y pilotear el Eva.
+
+197
+00:12:41,762 --> 00:12:44,515
+¡Debo hacer lo que me dicen y pelear!
+
+198
+00:12:45,391 --> 00:12:47,727
+<i>Porque si no lo hago, nadie...</i>
+
+199
+00:12:48,561 --> 00:12:50,896
+<i>Nadie...</i>
+
+200
+00:12:53,316 --> 00:12:55,735
+<i>- Sigue.</i>
+<i>- Haz tu mejor esfuerzo.</i>
+
+201
+00:12:55,818 --> 00:12:58,070
+<i>¿Qué haces? ¡Compórtate!</i>
+
+202
+00:12:58,154 --> 00:12:59,280
+<i>¡Acaba con ellos!</i>
+
+203
+00:12:59,363 --> 00:13:00,573
+<i>¡Sigue así!</i>
+
+204
+00:13:00,656 --> 00:13:02,450
+<i>Bien hecho, Shinji.</i>
+
+205
+00:13:03,034 --> 00:13:05,703
+<i>Las señoritas Misato y Ritsuko, Asuka,</i>
+
+206
+00:13:05,786 --> 00:13:08,414
+<i>Tohji, Kensuke y mi papá,</i>
+
+207
+00:13:09,165 --> 00:13:10,708
+<i>¡todos ellos me alaban!</i>
+
+208
+00:13:10,958 --> 00:13:12,918
+<i>¡Me alaban cuando piloteo el Eva!</i>
+
+209
+00:13:13,502 --> 00:13:16,464
+<i>¡Todos me dicen que lo pilotee!</i>
+
+210
+00:13:16,547 --> 00:13:19,884
+<i>¡Haré que se arrepienta por abandonarme!</i>
+
+211
+00:13:21,469 --> 00:13:22,553
+<i>Sigue así.</i>
+
+212
+00:13:23,137 --> 00:13:26,223
+<i>¡Estoy haciendo mi mejor esfuerzo!</i>
+
+213
+00:13:27,808 --> 00:13:30,019
+<i>Ojalá fueran amables conmigo...</i>
+
+214
+00:13:30,102 --> 00:13:34,106
+<i>¡He luchado tanto!</i>
+<i>¡Estoy peleando lo más que puedo!</i>
+
+215
+00:13:34,231 --> 00:13:37,902
+¡Cuídenme! ¡Sean amables conmigo!
+
+216
+00:13:42,281 --> 00:13:43,616
+<i>Yo soy amable contigo.</i>
+
+217
+00:13:47,119 --> 00:13:50,790
+<i>¿Shinji? ¿Quieres ser uno conmigo?</i>
+
+218
+00:13:50,873 --> 00:13:53,501
+<i>¿Quieres ser uno en cuerpo y alma?</i>
+
+219
+00:13:53,584 --> 00:13:55,878
+<i>Es algo que se siente muy bien.</i>
+
+220
+00:13:56,712 --> 00:13:59,131
+<i>Tranquilo. Estaré aquí cuando estés listo.</i>
+
+221
+00:13:59,465 --> 00:14:03,302
+<i>Oye, Shindiota, ¿quieres ser uno conmigo?</i>
+
+222
+00:14:03,761 --> 00:14:06,347
+<i>¿Quieres ser uno en cuerpo y alma?</i>
+
+223
+00:14:06,430 --> 00:14:09,892
+<i>Es algo que se siente muy bien.</i>
+
+224
+00:14:10,393 --> 00:14:13,312
+<i>Yo te lo estoy pidiendo.</i>
+<i>Ven para acá.</i>
+
+225
+00:14:14,105 --> 00:14:17,108
+<i>Ikari, ¿quieres ser uno conmigo?</i>
+
+226
+00:14:17,191 --> 00:14:19,235
+<i>¿Quieres ser uno en cuerpo y alma?</i>
+
+227
+00:14:19,944 --> 00:14:24,115
+<i>Es algo que se siente muy bien, Ikari.</i>
+
+228
+00:14:24,532 --> 00:14:26,158
+<i>¿Quieres ser uno conmigo?</i>
+
+229
+00:14:26,242 --> 00:14:28,577
+<i>¿Quieres ser uno en cuerpo y alma?</i>
+
+230
+00:14:28,661 --> 00:14:30,705
+<i>Es algo que se siente muy bien.</i>
+
+231
+00:14:31,622 --> 00:14:34,667
+<i>Ven. Relájate. Suéltate.</i>
+
+232
+00:14:36,752 --> 00:14:39,046
+<i>Sondas insertadas.</i>
+
+233
+00:14:39,130 --> 00:14:41,882
+<i>Los patrones de EM</i>
+<i>están a cero por menos tres.</i>
+
+234
+00:14:43,300 --> 00:14:45,469
+Conexión al límite de pulso del ego.
+
+235
+00:14:45,553 --> 00:14:47,430
+Bien. Comiencen el rescate.
+
+236
+00:14:47,847 --> 00:14:50,141
+Entendido. Enviando señal uno.
+
+237
+00:14:50,224 --> 00:14:52,435
+El Eva recibe la señal. Sin rechazo.
+
+238
+00:14:53,018 --> 00:14:56,188
+Transmitiendo las señales dos y tres.
+
+239
+00:14:56,313 --> 00:14:58,524
+<i>La catexis del sujeto es normal.</i>
+
+240
+00:14:58,607 --> 00:15:00,443
+<i>No hay señales de destrudo.</i>
+
+241
+00:15:00,526 --> 00:15:02,945
+Entendido. Transferir a etapa dos.
+
+242
+00:15:03,404 --> 00:15:04,363
+Shinji...
+
+243
+00:15:04,947 --> 00:15:06,198
+<i>¡Shindiota!</i>
+
+244
+00:15:06,282 --> 00:15:07,658
+ASUKA
+RITSUKO
+
+245
+00:15:07,742 --> 00:15:08,868
+TOHJI
+
+246
+00:15:08,951 --> 00:15:10,202
+KENSUKE
+
+247
+00:15:10,703 --> 00:15:12,288
+<i>- Ikari.</i>
+- ¡Shinji!
+
+248
+00:15:12,371 --> 00:15:13,706
+<i>- Shindiota.</i>
+<i>- ¡Shinji!</i>
+
+249
+00:15:13,789 --> 00:15:14,999
+<i>- Hola, Shinji.</i>
+<i>- ¡Shinji!</i>
+
+250
+00:15:15,082 --> 00:15:16,333
+<i>- Ikari.</i>
+<i>- ¡Shinji!</i>
+
+251
+00:15:23,674 --> 00:15:26,969
+¡No funciona!
+¡El límite del ego está atrapado!
+
+252
+00:15:27,386 --> 00:15:29,388
+¡Emitan el espectro de la onda!
+
+253
+00:15:31,140 --> 00:15:34,018
+No funciona.
+La señal queda en el espacio de Klein.
+
+254
+00:15:34,602 --> 00:15:37,438
+- ¿Qué quieres decir eso?
+- Que fallamos.
+
+255
+00:15:38,731 --> 00:15:40,983
+Aborten. ¡Reviertan la gráfica tangente!
+
+256
+00:15:41,066 --> 00:15:42,651
+- Vuelvan a cero.
+- ¡Sí!
+
+257
+00:15:43,027 --> 00:15:45,821
+¡Destrudo en área cortical primitiva!
+¡Patrón sepia!
+
+258
+00:15:46,405 --> 00:15:49,408
+¡El pulso central también fluctúa!
+¡Está en más 0,3!
+
+259
+00:15:49,909 --> 00:15:53,078
+La prioridad es mantenerlo así.
+¡Prevenir un reflujo!
+
+260
+00:15:53,162 --> 00:15:54,413
+¡Sí, señora!
+
+261
+00:15:54,497 --> 00:15:57,750
+Más 0,5 y 0,8...
+¡Qué extraño! ¡No se detiene!
+
+262
+00:15:57,833 --> 00:15:59,627
+¿Qué? ¿Por qué?
+
+263
+00:15:59,710 --> 00:16:02,046
+¿No quieres volver, Shinji?
+
+264
+00:16:02,880 --> 00:16:06,592
+No entiendo.
+
+265
+00:16:07,843 --> 00:16:10,513
+Yo...
+
+266
+00:16:11,931 --> 00:16:13,557
+¿Qué quieres?
+
+267
+00:16:13,641 --> 00:16:15,184
+¿Qué quieres?
+
+268
+00:16:15,267 --> 00:16:16,227
+¿Qué quieres?
+
+269
+00:16:16,811 --> 00:16:18,103
+¿Qué quieres?
+
+270
+00:16:19,814 --> 00:16:21,315
+¡El Eva rechaza la señal!
+
+271
+00:16:21,899 --> 00:16:24,401
+¡El autoensamblaje de la LCL colapsa!
+
+272
+00:16:24,902 --> 00:16:26,111
+¡La presión aumenta!
+
+273
+00:16:26,403 --> 00:16:28,113
+¡Aborten! ¡Corten la energía!
+
+274
+00:16:28,489 --> 00:16:30,991
+¡La cápsula empieza
+la secuencia de salida!
+
+275
+00:16:36,872 --> 00:16:38,165
+¡Shinji!
+
+276
+00:16:43,504 --> 00:16:45,339
+- ¿Dónde estoy?
+<i>- En el Eva.</i>
+
+277
+00:16:45,965 --> 00:16:49,301
+<i>¿Dentro de la Eva? ¿Entré de nuevo?</i>
+
+278
+00:16:49,385 --> 00:16:50,594
+<i>¿Por qué?</i>
+
+279
+00:16:51,011 --> 00:16:52,721
+¿Ya no vas a pilotear el Eva?
+
+280
+00:16:53,514 --> 00:16:56,183
+<i>Me prometí</i>
+<i>que no volvería a entrar en el Eva.</i>
+
+281
+00:16:56,767 --> 00:16:59,603
+<i>Pero lo hiciste.</i>
+<i>En la Unidad 01 de Evangelion.</i>
+
+282
+00:17:00,479 --> 00:17:03,858
+Shinji, estás aquí ahora
+porque entraste al Eva.
+
+283
+00:17:04,942 --> 00:17:07,570
+Eres quien eres porque piloteaste al Eva.
+
+284
+00:17:08,529 --> 00:17:11,448
+No puedes negar eso.
+Que piloteaste un Eva.
+
+285
+00:17:11,532 --> 00:17:15,536
+No puedes negar tu pasado ni quién eres.
+
+286
+00:17:16,495 --> 00:17:21,876
+Lo que tienes que hacer es pensar
+en quién quieres ser.
+
+287
+00:17:23,627 --> 00:17:26,338
+<i>Yo...</i>
+
+288
+00:17:28,924 --> 00:17:33,846
+¿De qué sirve la ciencia
+si no puede salvar a una persona?
+
+289
+00:17:33,929 --> 00:17:37,558
+¡Devuélveme a Shinji! ¡Devuélvemelo!
+
+290
+00:17:43,647 --> 00:17:46,525
+¿El olor? El olor de una persona...
+
+291
+00:17:48,235 --> 00:17:50,863
+¿Señorita Misato? ¿Ayanami?
+
+292
+00:17:51,780 --> 00:17:53,282
+No, alguien más.
+
+293
+00:17:54,033 --> 00:17:57,119
+Ya sé... Huele a mamá.
+
+294
+00:17:58,746 --> 00:18:03,083
+<i>¿Nuestro bebé crecerá</i>
+<i>en el desastre del Segundo Impacto?</i>
+
+295
+00:18:03,167 --> 00:18:04,627
+<i>¿En este infierno?</i>
+
+296
+00:18:04,710 --> 00:18:09,131
+<i>Mientras tengas ganas de vivir,</i>
+<i>puedes hacer de todo lugar un paraíso.</i>
+
+297
+00:18:09,632 --> 00:18:11,675
+<i>Después de todo, estás vivo.</i>
+
+298
+00:18:11,759 --> 00:18:14,678
+<i>Las oportunidades de ser feliz abundan.</i>
+
+299
+00:18:14,762 --> 00:18:17,056
+<i>Sí, por supuesto. Tienes razón.</i>
+
+300
+00:18:17,681 --> 00:18:18,557
+<i>Mamá...</i>
+
+301
+00:18:20,976 --> 00:18:22,186
+<i>¿Decidiste?</i>
+
+302
+00:18:22,269 --> 00:18:26,065
+<i>Shinji si es niño. Rei si es niña.</i>
+
+303
+00:18:26,190 --> 00:18:28,567
+<i>Shinji... Rei...</i>
+
+304
+00:18:30,819 --> 00:18:32,279
+Mamá...
+
+305
+00:18:48,629 --> 00:18:49,797
+¡Shinji!
+
+306
+00:18:49,880 --> 00:18:51,298
+TRIGÉSIMO TERCER DÍA
+
+307
+00:18:53,300 --> 00:18:56,804
+Las reparaciones en la Unidad 01
+terminarán pasado mañana.
+
+308
+00:18:56,887 --> 00:19:02,267
+Al final, los humanos usaremos el poder
+de Dios como herramienta.
+
+309
+00:19:02,685 --> 00:19:06,188
+No sé. Se supone que el Consejo
+está deliberando.
+
+310
+00:19:06,981 --> 00:19:09,775
+Evangelion, el humano artificial...
+
+311
+00:19:09,858 --> 00:19:13,696
+Para ser algo que creamos,
+¿no crees que hay muchos interrogantes?
+
+312
+00:19:15,614 --> 00:19:19,493
+Supongo que lo importante
+es que logramos salvar a Shinji.
+
+313
+00:19:20,119 --> 00:19:24,581
+Yo no tuve nada que ver en eso.
+Creo que tú lo lograste.
+
+314
+00:19:26,959 --> 00:19:29,670
+Hace mucho que no salimos.
+¿Quieres tomar algo?
+
+315
+00:19:30,671 --> 00:19:33,716
+Disculpa, tengo algo que hacer esta noche.
+
+316
+00:19:34,133 --> 00:19:35,134
+Ah.
+
+317
+00:19:36,343 --> 00:19:37,636
+Nos vemos.
+
+318
+00:19:42,016 --> 00:19:45,602
+Apenas sabe que Shinji está a salvo,
+se va a ver a alguien...
+
+319
+00:19:47,312 --> 00:19:48,856
+Quizá no debería juzgar.
+
+320
+00:19:49,815 --> 00:19:53,068
+Apuesto a que Ritsuko ahora mismo
+
+321
+00:19:53,152 --> 00:19:55,362
+está pensando que soy una cualquiera.
+
+322
+00:19:55,988 --> 00:19:58,991
+Disfrutar del placer carnal
+es parte de ser humano.
+
+323
+00:19:59,575 --> 00:20:01,201
+Es una táctica de engaño.
+
+324
+00:20:01,285 --> 00:20:05,706
+¿Contra quién, la inteligencia de NERV?
+¿El comandante Ikari o Ritsuko?
+
+325
+00:20:06,540 --> 00:20:07,666
+¿O contra mí?
+
+326
+00:20:08,333 --> 00:20:09,710
+Contra ti.
+
+327
+00:20:10,169 --> 00:20:12,296
+¿"Otros", dirás?
+
+328
+00:20:13,172 --> 00:20:17,718
+No te interesan los otros,
+pero siempre te sientes solo.
+
+329
+00:20:18,218 --> 00:20:19,553
+Sí eres como mi padre.
+
+330
+00:20:21,722 --> 00:20:24,224
+No sabía que aún fumabas.
+
+331
+00:20:24,725 --> 00:20:30,230
+Solo después de hacer esto.
+Eres el único que sabe.
+
+332
+00:20:31,148 --> 00:20:33,400
+Vaya, qué honor.
+
+333
+00:20:34,401 --> 00:20:39,406
+Dime... ¿qué tan avanzado está el Proyecto
+de Instrumentalización Humana?
+
+334
+00:20:40,199 --> 00:20:45,162
+¿Para qué tenemos a Adán en el sótano
+si puede destruir a la humanidad?
+
+335
+00:20:45,788 --> 00:20:48,874
+¿Por eso te acuestas conmigo?
+¿Quieres saber de eso?
+
+336
+00:20:50,250 --> 00:20:52,544
+La verdad, en parte sí.
+
+337
+00:20:53,796 --> 00:20:56,882
+Me siento honrado de que me use
+una mujer como tú,
+
+338
+00:20:56,965 --> 00:20:58,926
+pero no puedo hablar de eso aquí.
+
+339
+00:20:59,009 --> 00:21:01,970
+Ahora solo quiero que sepas lo que quiero.
+
+340
+00:21:02,387 --> 00:21:06,558
+¿Qué quieren en realidad
+NERV y el comandante Ikari?
+
+341
+00:21:07,476 --> 00:21:09,103
+Eso mismo quiero saber.
+
+342
+00:21:15,067 --> 00:21:18,862
+Oye, no puedes distraerme haciendo eso...
+
+343
+00:21:46,765 --> 00:21:50,102
+¡Oye! ¡Cuidado con lo que pones ahí!
+
+344
+00:21:51,061 --> 00:21:53,397
+¿Estás jugando? ¿Qué es eso?
+
+345
+00:21:53,480 --> 00:21:55,858
+Un regalo. El primero en ocho años.
+
+346
+00:21:57,401 --> 00:21:59,069
+Tal vez el último que te dé.
+
+347
+00:21:59,153 --> 00:22:00,654
+{\an8}CONTINUARÁ
+
+348
+00:23:07,095 --> 00:23:08,639
+<i>El subcomandante Fuyutsuki</i>
+
+349
+00:23:08,722 --> 00:23:13,227
+<i>es secuestrado por SEELE,</i>
+<i>y él recuerda varios incidentes.</i>
+
+350
+00:23:13,310 --> 00:23:14,686
+<i>Todo empezó en Kioto en 1999.</i>
+
+351
+00:23:14,770 --> 00:23:17,648
+<i>¿NERV puede ser</i>
+<i>el bastión de la humanidad?</i>
+
+352
+00:23:17,731 --> 00:23:19,650
+<i>Próximo episodio:</i>
+<i>"El nacimiento de NERV".</i>
+
+353
+00:23:19,733 --> 00:23:21,193
+Subtítulos: Carolina Salazar
+

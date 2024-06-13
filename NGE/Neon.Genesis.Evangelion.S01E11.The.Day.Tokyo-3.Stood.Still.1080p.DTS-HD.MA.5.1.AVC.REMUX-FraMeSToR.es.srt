@@ -1,0 +1,1386 @@
+1
+00:01:38,808 --> 00:01:41,227
+¡Sí! ¡Gané!
+
+2
+00:01:44,147 --> 00:01:47,567
+LAVANDERÍA
+ABIERTO 24 HORAS
+
+3
+00:01:49,444 --> 00:01:52,906
+Lo que gasto en jabón
+es un atentado contra mi billetera.
+
+4
+00:01:52,989 --> 00:01:56,576
+Sería bueno tener el tiempo
+suficiente para lavar mi ropa.
+
+5
+00:01:56,660 --> 00:01:59,663
+Yo quisiera tiempo
+para regresar a casa, siquiera.
+
+6
+00:02:02,040 --> 00:02:02,874
+EL TREN HA LLEGADO
+
+7
+00:02:07,837 --> 00:02:08,922
+EE. UU.: SUBE DESEMPLEO
+
+8
+00:02:09,005 --> 00:02:10,298
+Señor subcomandante.
+
+9
+00:02:11,841 --> 00:02:13,009
+Buenos días.
+
+10
+00:02:14,094 --> 00:02:15,887
+¡Buen día, señor!
+
+11
+00:02:15,971 --> 00:02:17,138
+Buen día.
+
+12
+00:02:19,808 --> 00:02:21,434
+¿Hoy entra temprano, señor?
+
+13
+00:02:21,977 --> 00:02:24,312
+Cubrí a Ikari en una reunión.
+
+14
+00:02:24,688 --> 00:02:27,399
+Hoy era la sesión del Consejo, ¿verdad?
+
+15
+00:02:27,774 --> 00:02:29,359
+Una pérdida de tiempo.
+
+16
+00:02:29,693 --> 00:02:33,613
+Ikari siempre me asigna
+las tareas más inútiles.
+
+17
+00:02:33,697 --> 00:02:36,366
+Si no fuera por las MAGI,
+no sé qué haríamos.
+
+18
+00:02:36,449 --> 00:02:39,619
+Se acerca la elección
+para el ayuntamiento, ¿no?
+
+19
+00:02:39,786 --> 00:02:41,871
+El ayuntamiento es una broma.
+
+20
+00:02:41,955 --> 00:02:45,125
+La administración local
+está en manos de las Magi.
+
+21
+00:02:45,417 --> 00:02:48,253
+¿Las MAGI? ¿Las tres supercomputadoras?
+
+22
+00:02:48,712 --> 00:02:51,715
+Se vota
+mediante tres sistemas informáticos
+
+23
+00:02:51,798 --> 00:02:54,801
+que operan de acuerdo
+a los principios democráticos.
+
+24
+00:02:55,343 --> 00:02:57,971
+¿Entonces el Consejo
+solo acepta la decisión?
+
+25
+00:02:58,346 --> 00:03:01,433
+Es la forma de gobierno
+menos inútil y la más eficaz.
+
+26
+00:03:01,641 --> 00:03:02,976
+Una ciudad de ciencia.
+
+27
+00:03:03,059 --> 00:03:05,812
+En esta época la ciencia resuelve todo.
+
+28
+00:03:05,895 --> 00:03:07,022
+¡Qué estereotipo!
+
+29
+00:03:07,939 --> 00:03:10,942
+Hoy es la prueba
+de la Unidad 00, ¿verdad?
+
+30
+00:03:11,443 --> 00:03:12,277
+Sí, señor.
+
+31
+00:03:12,360 --> 00:03:16,156
+Trabajaremos en la fase 2
+de la prueba de extensión de tiempo.
+
+32
+00:03:16,698 --> 00:03:18,324
+Ojalá haya buenas noticias.
+
+33
+00:03:18,408 --> 00:03:21,244
+EMERGENCIA
+
+34
+00:03:21,578 --> 00:03:23,413
+Cancelen la prueba. Apaguen circuitos.
+
+35
+00:03:26,458 --> 00:03:29,669
+<i>- ¡Alternen circuitos!</i>
+<i>- Recuperamos la energía.</i>
+
+36
+00:03:32,714 --> 00:03:35,383
+- Definitivamente, ahí está el problema.
+- Sí.
+
+37
+00:03:35,467 --> 00:03:39,137
+El rendimiento de conversión
+es inferior al valor teórico.
+
+38
+00:03:39,721 --> 00:03:43,224
+Apenas lo detectan
+nuestros instrumentos. ¿Qué hacemos?
+
+39
+00:03:43,808 --> 00:03:48,063
+Bajen el valor de interconversión a 0,01
+y prueben con esa configuración.
+
+40
+00:03:48,146 --> 00:03:48,980
+Entendido.
+
+41
+00:03:49,230 --> 00:03:51,357
+Iniciemos la prueba de reactivación.
+
+42
+00:03:57,655 --> 00:03:59,574
+¡Oigan! ¡Detengan ese ascensor!
+
+43
+00:04:04,954 --> 00:04:05,955
+Maldición.
+
+44
+00:04:07,540 --> 00:04:09,709
+¡Tuve que correr!
+
+45
+00:04:11,127 --> 00:04:13,379
+Alguien despertó con el pie izquierdo.
+
+46
+00:04:13,463 --> 00:04:16,174
+Porque lo primero que vi
+fue tu horrible cara.
+
+47
+00:04:16,883 --> 00:04:18,676
+<i>Un momento, por favor.</i>
+
+48
+00:04:30,897 --> 00:04:32,107
+<i>¿Qué pasa?</i>
+
+49
+00:04:33,191 --> 00:04:36,694
+- Padre...
+<i>- ¿Qué? Habla.</i>
+
+50
+00:04:40,573 --> 00:04:44,410
+Es que...
+
+51
+00:04:44,911 --> 00:04:49,415
+...en la escuela me pidieron
+que te dijera que...
+
+52
+00:04:50,375 --> 00:04:55,171
+...la reunión de orientación académica
+será muy pronto.
+
+53
+00:04:55,880 --> 00:04:58,883
+<i>Katsuragi está a cargo de todo eso.</i>
+
+54
+00:04:59,425 --> 00:05:01,386
+<i>No me hagas perder el tiempo así.</i>
+
+55
+00:05:02,512 --> 00:05:03,888
+<i>No me pasen si llama...</i>
+
+56
+00:05:08,434 --> 00:05:10,353
+- ¿Qué?
+- ¿Un apagón?
+
+57
+00:05:10,436 --> 00:05:12,522
+No es posible.
+
+58
+00:05:14,149 --> 00:05:16,693
+Es extraño. ¿Hubo un accidente?
+
+59
+00:05:16,776 --> 00:05:18,695
+Quizá Akagi arruinó otra prueba.
+
+60
+00:05:20,321 --> 00:05:21,656
+¡Se cortó la energía!
+
+61
+00:05:22,615 --> 00:05:23,950
+¡Voltaje en cero!
+
+62
+00:05:25,869 --> 00:05:28,121
+Yo no hice nada.
+
+63
+00:05:28,621 --> 00:05:30,248
+¿Qué crees que haya pasado?
+
+64
+00:05:30,331 --> 00:05:32,792
+No importa, se activará el generador.
+
+65
+00:05:33,501 --> 00:05:35,503
+¡No! ¡El generador no se activa!
+
+66
+00:05:35,879 --> 00:05:38,840
+¡Imposible! ¿Cuántos circuitos
+siguen funcionando?
+
+67
+00:05:39,716 --> 00:05:41,509
+¡Solo el 1,2 % , señor!
+
+68
+00:05:41,968 --> 00:05:44,846
+Solo funcionan los circuitos
+después del 2567.
+
+69
+00:05:44,929 --> 00:05:48,474
+¡Redirige la energía
+a las MAGI y el Dogma Central!
+
+70
+00:05:48,808 --> 00:05:51,603
+Esto alterará el soporte vital
+en todo el complejo.
+
+71
+00:05:51,686 --> 00:05:53,271
+¡Hazlo! ¡Es la prioridad!
+
+72
+00:05:53,813 --> 00:05:56,858
+<i>Un candidato querido por todos...</i>
+
+73
+00:05:56,941 --> 00:06:01,321
+No puedo creer lo holgazana
+que es la señorita Katsuragi.
+
+74
+00:06:01,821 --> 00:06:04,949
+Mínimo debería recoger ella misma su ropa.
+
+75
+00:06:05,033 --> 00:06:06,534
+<i>¡Gracias por su voto!</i>
+
+76
+00:06:06,910 --> 00:06:07,744
+¿Ya?
+
+77
+00:06:08,953 --> 00:06:12,624
+Quizá el comandante Ikari
+estaba muy ocupado.
+
+78
+00:06:12,707 --> 00:06:17,670
+No lo sé.
+Pareció una falla, no que me cortara.
+
+79
+00:06:18,087 --> 00:06:22,717
+Sé un hombre.
+Deja de preocuparte por esas cosas.
+
+80
+00:06:28,181 --> 00:06:29,182
+¿Qué?
+
+81
+00:06:31,684 --> 00:06:34,687
+¿Qué estás haciendo?
+¡Anda, déjame hacerlo!
+
+82
+00:06:41,694 --> 00:06:44,197
+¡Maldita sea,
+esta porquería se descompuso!
+
+83
+00:06:51,412 --> 00:06:54,999
+Vamos al centro de control.
+¡Vamos siete minutos sin energía!
+
+84
+00:06:55,083 --> 00:06:58,211
+- Es grave.
+- ¿Qué configuración de energía tiene?
+
+85
+00:06:58,544 --> 00:07:00,797
+Triple: principal, auxiliar y reserva.
+
+86
+00:07:01,130 --> 00:07:03,758
+No pueden fallar las tres al mismo tiempo.
+
+87
+00:07:04,842 --> 00:07:05,885
+Significa...
+
+88
+00:07:06,636 --> 00:07:11,307
+Debemos suponer que el interruptor
+no se activó, sino que lo averiaron.
+
+89
+00:07:11,683 --> 00:07:15,520
+Si un ángel nos ataca ahora,
+estaremos en problemas.
+
+90
+00:07:16,437 --> 00:07:18,940
+<i>¡El radar identificó</i>
+<i>un objeto</i> <i>desconocido!</i>
+
+91
+00:07:19,023 --> 00:07:21,526
+<i>Estimamos que aterrizará</i>
+<i>en la antigua Atami.</i>
+
+92
+00:07:21,609 --> 00:07:22,735
+CURSO ANTICIPADO
+
+93
+00:07:22,819 --> 00:07:24,862
+Debe tratarse del octavo.
+
+94
+00:07:25,113 --> 00:07:27,824
+{\an8}- Sí, debe ser un ángel.
+- ¿Qué vamos a hacer?
+
+95
+00:07:28,032 --> 00:07:31,494
+{\an8}Avisemos a todas las fuerzas,
+como dice el protocolo.
+
+96
+00:07:32,578 --> 00:07:35,623
+Es probable que quiera atacar
+nuevamente Tokio-3.
+
+97
+00:07:35,957 --> 00:07:40,003
+{\an8}Quizá tengas razón. No hay nada
+que podamos hacer al respecto.
+
+98
+00:07:44,007 --> 00:07:44,841
+GRUPO DE ALERTA
+
+99
+00:07:44,924 --> 00:07:47,343
+<i>- ¡Un ángel está por llegar!</i>
+<i>- ¡Está aquí!</i>
+
+100
+00:07:47,802 --> 00:07:49,846
+¿Novedades de Tokio-3?
+
+101
+00:07:49,929 --> 00:07:51,681
+<i>Sin novedades, señor.</i>
+
+102
+00:07:51,764 --> 00:07:54,309
+¿Dónde demonios está NERV?
+
+103
+00:07:54,934 --> 00:07:58,229
+Creí que esta escalera
+solo era una decoración anticuada.
+
+104
+00:07:58,313 --> 00:08:00,231
+No pensé que tendría que usarla.
+
+105
+00:08:00,773 --> 00:08:03,109
+Como dicen: "Más vale prevenir".
+
+106
+00:08:06,904 --> 00:08:08,031
+Este tampoco funciona.
+
+107
+00:08:08,823 --> 00:08:11,367
+Ninguno. Es extraño.
+
+108
+00:08:11,451 --> 00:08:13,411
+¿Estará pasando algo abajo?
+
+109
+00:08:13,494 --> 00:08:15,288
+Es lo más probable.
+
+110
+00:08:16,080 --> 00:08:18,666
+Llamemos al cuartel general de NERV.
+
+111
+00:08:19,751 --> 00:08:21,836
+No funciona ni la línea de emergencia.
+
+112
+00:08:23,129 --> 00:08:25,465
+Nada. La línea 77 no responde.
+
+113
+00:08:26,466 --> 00:08:28,051
+No. No puedo comunicarme.
+
+114
+00:08:29,385 --> 00:08:32,930
+Yo tampoco.
+Tampoco funciona la línea de emergencia.
+
+115
+00:08:33,014 --> 00:08:34,223
+¿Qué vamos a hacer?
+
+116
+00:08:42,482 --> 00:08:43,524
+¿Qué haces?
+
+117
+00:08:43,608 --> 00:08:46,569
+¡Idiota! Estoy buscando
+mi manual de emergencia.
+
+118
+00:08:46,986 --> 00:08:48,988
+Vayamos al cuartel general.
+
+119
+00:08:49,072 --> 00:08:53,117
+De acuerdo. Primero designemos un líder.
+
+120
+00:08:54,702 --> 00:08:58,331
+Está claro que soy la indicada.
+¿Alguna objeción?
+
+121
+00:09:00,291 --> 00:09:01,751
+¡Perfecto, vamos!
+
+122
+00:09:02,418 --> 00:09:04,921
+Podemos tomar la ruta 7 por aquí.
+
+123
+00:09:06,047 --> 00:09:08,800
+Pero si las puertas no funcionan, cómo...
+
+124
+00:09:09,842 --> 00:09:11,594
+Se abre manualmente...
+
+125
+00:09:11,677 --> 00:09:13,805
+Bueno, Shinji, haz lo tuyo.
+
+126
+00:09:16,140 --> 00:09:20,728
+¡Solo me pides ayuda para estas cosas!
+
+127
+00:09:22,647 --> 00:09:26,234
+El Consejo solo nos recuerda
+en casos como este.
+
+128
+00:09:26,317 --> 00:09:27,902
+¿Qué dice el gobierno?
+
+129
+00:09:28,569 --> 00:09:31,572
+¿Los civiles de Tokio-2?
+Oí que empacaron sus cosas.
+
+130
+00:09:31,656 --> 00:09:32,990
+EVITA INCENDIOS
+
+131
+00:09:34,492 --> 00:09:36,869
+<i>¡El ángel sigue avanzando!</i>
+
+132
+00:09:37,286 --> 00:09:40,331
+Aun así, necesitamos
+comunicarnos con NERV.
+
+133
+00:09:40,415 --> 00:09:43,334
+- Pero ¿cómo?
+- Iremos personalmente.
+
+134
+00:09:46,045 --> 00:09:48,381
+<i>Habla la Defensa Aérea del Distrito 3.</i>
+
+135
+00:09:48,464 --> 00:09:51,926
+<i>Un objeto desconocido se aproxima</i>
+<i>a esta localidad.</i>
+
+136
+00:09:52,009 --> 00:09:54,512
+<i>Diríjanse a su refugio asignado.</i>
+
+137
+00:09:54,595 --> 00:09:55,680
+¡Mierda!
+
+138
+00:09:55,763 --> 00:09:57,849
+¡Informaré al cuartel general!
+
+139
+00:09:59,434 --> 00:10:01,060
+Pero ¿cómo?
+
+140
+00:10:03,062 --> 00:10:06,315
+<i>¡Vota a Takahashi,</i>
+<i>que mantiene la calma en emergencias!</i>
+
+141
+00:10:06,399 --> 00:10:09,068
+<i>¡Vota a Nozoku Takahashi</i>
+<i>para el ayuntamiento!</i>
+
+142
+00:10:09,777 --> 00:10:10,862
+¡Qué suerte!
+
+143
+00:10:11,320 --> 00:10:13,739
+Oye, hace mucho calor aquí.
+
+144
+00:10:14,282 --> 00:10:16,409
+Sí, la ventilación se apagó.
+
+145
+00:10:16,492 --> 00:10:20,121
+Katsuragi, si sientes mucho calor,
+solo quítate la blusa.
+
+146
+00:10:20,663 --> 00:10:22,790
+No es algo que no haya visto antes.
+
+147
+00:10:24,333 --> 00:10:27,336
+No sé en qué lío estemos,
+pero no te hagas ideas.
+
+148
+00:10:27,420 --> 00:10:28,504
+Bueno...
+
+149
+00:10:29,005 --> 00:10:32,091
+Esto está mal. El aire es sofocante.
+
+150
+00:10:32,925 --> 00:10:36,262
+Pensar que este lugar
+es el motor de la ciencia moderna.
+
+151
+00:10:36,345 --> 00:10:38,806
+Mira al jefe y al subcomandante.
+
+152
+00:10:38,890 --> 00:10:40,892
+Este calor no les llega.
+
+153
+00:10:47,398 --> 00:10:49,859
+- El agua esta templada.
+- Sí.
+
+154
+00:11:00,912 --> 00:11:04,540
+<i>¡Debido al estado de emergencia</i>
+<i>declarado en este distrito,</i>
+
+155
+00:11:04,624 --> 00:11:06,709
+<i>abran paso para este vehículo!</i>
+
+156
+00:11:06,792 --> 00:11:08,127
+¡No hay salida!
+
+157
+00:11:08,211 --> 00:11:11,964
+¡Atraviésalo!
+¡Tú lo has dicho, esta es una emergencia!
+
+158
+00:11:12,048 --> 00:11:15,092
+- ¡Entendido!
+- ¡Basta! ¡Paren, por favor!
+
+159
+00:11:16,427 --> 00:11:20,473
+<i>Este Geofrente fue diseñado</i>
+<i>para ser una colonia autosustentable,</i>
+
+160
+00:11:20,556 --> 00:11:22,808
+<i>aunque en el exterior no haya energía.</i>
+
+161
+00:11:22,892 --> 00:11:27,396
+<i>Teóricamente, es imposible</i>
+<i>que su sistema eléctrico colapse.</i>
+
+162
+00:11:27,772 --> 00:11:30,107
+<i>Por lo que este apagón fue premeditado.</i>
+
+163
+00:11:30,191 --> 00:11:32,360
+<i>Su idea quizá sea investigarnos.</i>
+
+164
+00:11:32,693 --> 00:11:35,988
+¿Averiguar la estructura del cuartel
+al ver cómo lo reparamos?
+
+165
+00:11:36,072 --> 00:11:37,949
+Qué alborotadores tan molestos.
+
+166
+00:11:38,241 --> 00:11:40,284
+Las MAGI ejecutarán programas falsos.
+
+167
+00:11:40,743 --> 00:11:43,496
+Eso debe ayudar a ocultar la información.
+
+168
+00:11:43,913 --> 00:11:45,540
+- Hazlo.
+- Sí, señor.
+
+169
+00:11:45,957 --> 00:11:50,670
+Increíble que nos estén venciendo humanos
+en lugar de ángeles.
+
+170
+00:11:50,753 --> 00:11:52,171
+No es fácil de asimilar.
+
+171
+00:11:52,255 --> 00:11:54,882
+El peor enemigo
+del hombre es el hombre.
+
+172
+00:11:55,925 --> 00:12:00,429
+Normalmente solo tarda dos minutos.
+¿Estás segura que este es el corredor?
+
+173
+00:12:00,513 --> 00:12:03,724
+Cuando lleguemos a esa luz,
+encontraremos el Geofrente.
+
+174
+00:12:04,976 --> 00:12:07,520
+Es la cuarta vez que dices eso.
+
+175
+00:12:07,603 --> 00:12:09,730
+Eres un quisquilloso, ¿sabías?
+
+176
+00:12:09,981 --> 00:12:12,024
+¡Te fijas en todos los detalles!
+
+177
+00:12:12,108 --> 00:12:12,942
+Silencio.
+
+178
+00:12:13,025 --> 00:12:14,777
+¿Es una orden, doña perfecta?
+
+179
+00:12:14,860 --> 00:12:16,070
+Oí una voz.
+
+180
+00:12:22,451 --> 00:12:23,953
+¡Es el señor Hyuga!
+
+181
+00:12:24,036 --> 00:12:26,914
+- ¡Oiga!
+- ¡Aquí!
+
+182
+00:12:27,748 --> 00:12:31,043
+<i>¡Viene un ángel!</i>
+<i>¡Repito, se acerca un ángel!</i>
+
+183
+00:12:32,420 --> 00:12:34,005
+¿Un ángel?
+
+184
+00:12:34,088 --> 00:12:36,716
+No hay tiempo que perder.
+Tomemos un atajo.
+
+185
+00:12:36,799 --> 00:12:39,427
+¡Oye, yo soy la líder! ¡Tú no me mandas!
+
+186
+00:12:39,552 --> 00:12:40,970
+¿Y dónde está ese atajo?
+
+187
+00:12:42,972 --> 00:12:46,392
+No me importa si este es el atajo,
+esto es muy denigrante.
+
+188
+00:12:48,227 --> 00:12:49,645
+¿Qué serán los ángeles?
+
+189
+00:12:50,271 --> 00:12:51,772
+¿Por qué preguntas eso ahora?
+
+190
+00:12:52,481 --> 00:12:57,445
+Ángeles, mensajeros de Dios.
+Nuestros enemigos con nombres divinos.
+
+191
+00:12:58,112 --> 00:12:59,780
+¿Por qué peleamos?
+
+192
+00:12:59,864 --> 00:13:01,073
+¡Qué idiota!
+
+193
+00:13:01,157 --> 00:13:03,451
+¡Esas cosas nos están atacando!
+
+194
+00:13:03,534 --> 00:13:06,203
+¡Es natural defenderse si te atacan!
+
+195
+00:13:09,624 --> 00:13:12,543
+- A la derecha.
+- Yo creo que es a la izquierda.
+
+196
+00:13:12,627 --> 00:13:13,961
+¿Quién te preguntó?
+
+197
+00:13:14,170 --> 00:13:15,379
+¿Qué dices, Shinji?
+
+198
+00:13:16,380 --> 00:13:17,214
+Yo...
+
+199
+00:13:19,133 --> 00:13:20,051
+...no lo sé.
+
+200
+00:13:20,134 --> 00:13:23,888
+¡Callen! ¡Yo soy la líder,
+no hablen y síganme!
+
+201
+00:13:27,016 --> 00:13:29,769
+Sabía que no era así.
+Subimos en vez de bajar.
+
+202
+00:13:30,102 --> 00:13:33,147
+Lo sabías, ¿cierto?
+Solo sabes quejarte de todo.
+
+203
+00:13:36,651 --> 00:13:38,611
+¿Lo ven? Esta sí tiene que ser.
+
+204
+00:13:56,629 --> 00:13:58,422
+Confirmado: llegó el ángel.
+
+205
+00:13:58,964 --> 00:14:01,008
+Sabemos que debemos apresurarnos.
+
+206
+00:14:04,261 --> 00:14:08,182
+¡Un ángel se aproxima!
+¡Lo mejor será enviar un Eva!
+
+207
+00:14:08,391 --> 00:14:09,475
+¡Qué mal!
+
+208
+00:14:09,558 --> 00:14:11,268
+Encárgate de todo, Fuyutsuki.
+
+209
+00:14:11,352 --> 00:14:12,436
+¿Ikari?
+
+210
+00:14:12,520 --> 00:14:15,815
+Iré a la jaula para preparar
+el despegue de los Eva.
+
+211
+00:14:15,898 --> 00:14:18,275
+Espera... No será manualmente.
+
+212
+00:14:18,859 --> 00:14:21,028
+Tenemos generadores
+de emergencia.
+
+213
+00:14:21,195 --> 00:14:22,530
+Pero...
+
+214
+00:14:24,240 --> 00:14:26,158
+Solo nos faltan los pilotos.
+
+215
+00:14:27,535 --> 00:14:28,953
+Otra vez...
+
+216
+00:14:31,247 --> 00:14:32,456
+Por aquí.
+
+217
+00:14:40,131 --> 00:14:42,508
+Vaya, la favorita del comandante Ikari.
+
+218
+00:14:44,093 --> 00:14:47,012
+Eso te hace especial, ¿no, doña perfecta?
+
+219
+00:14:47,430 --> 00:14:49,014
+Oye, no es el momento.
+
+220
+00:14:49,098 --> 00:14:51,183
+Por eso estás tranquila y serena.
+
+221
+00:14:54,395 --> 00:14:57,982
+¡Oye, no me mires con desprecio
+por tener trato preferencial!
+
+222
+00:14:58,065 --> 00:14:59,734
+Yo no te miro con desprecio.
+
+223
+00:15:01,235 --> 00:15:03,779
+Y tampoco tengo trato preferencial.
+
+224
+00:15:05,281 --> 00:15:06,282
+Lo juro.
+
+225
+00:15:06,574 --> 00:15:09,910
+¡Tiren!
+
+226
+00:15:09,994 --> 00:15:14,623
+¡Tiren!
+
+227
+00:15:15,166 --> 00:15:18,878
+Listo. Se desconectó con éxito.
+
+228
+00:15:18,961 --> 00:15:22,006
+Perfecto. Preparen las tres cápsulas.
+
+229
+00:15:22,089 --> 00:15:24,091
+Pero no están los pilotos.
+
+230
+00:15:24,175 --> 00:15:26,177
+Descuide. Los niños llegarán.
+
+231
+00:15:28,179 --> 00:15:30,890
+Esta no podrá abrirse manualmente.
+
+232
+00:15:31,974 --> 00:15:35,227
+No hay alternativa.
+Abriremos un ducto e iremos por ahí.
+
+233
+00:15:36,103 --> 00:15:37,938
+La Primera Elegida me da miedo.
+
+234
+00:15:38,022 --> 00:15:41,150
+Es de las que piensa
+que el fin justifica los medios.
+
+235
+00:15:41,484 --> 00:15:43,527
+De esa gente santurrona.
+
+236
+00:15:43,861 --> 00:15:47,865
+¡Tiren!
+
+237
+00:15:47,948 --> 00:15:51,952
+¡Tiren!
+
+238
+00:15:53,037 --> 00:15:54,830
+La cápsula está en posición.
+
+239
+00:15:55,289 --> 00:15:56,499
+Solo faltan los chicos.
+
+240
+00:16:00,628 --> 00:16:04,089
+¡No dejes de ver hacia abajo!
+¡Hacia abajo!
+
+241
+00:16:04,173 --> 00:16:06,175
+¡Si miras hacia arriba, te mato!
+
+242
+00:16:06,550 --> 00:16:07,802
+¡Idiota! ¡Cerdo!
+
+243
+00:16:08,427 --> 00:16:10,012
+¡Te dije que no miraras!
+
+244
+00:16:10,095 --> 00:16:12,306
+¿Cómo podré avanzar sin ver?
+
+245
+00:16:17,186 --> 00:16:18,187
+¡Listo!
+
+246
+00:16:20,564 --> 00:16:22,274
+¡Preparen las Unidades!
+
+247
+00:16:22,358 --> 00:16:24,443
+Bien. Abran escotillas manualmente.
+
+248
+00:16:24,860 --> 00:16:26,070
+¿Cómo están los Eva?
+
+249
+00:16:26,612 --> 00:16:27,905
+Listos y en espera.
+
+250
+00:16:30,407 --> 00:16:31,700
+Pero nada funciona.
+
+251
+00:16:32,409 --> 00:16:33,786
+Lo hicimos manualmente.
+
+252
+00:16:34,453 --> 00:16:35,538
+Idea del comandante.
+
+253
+00:16:36,413 --> 00:16:37,498
+¿De mi padre?
+
+254
+00:16:40,709 --> 00:16:45,548
+Las preparó confiando
+en que ustedes vendrían.
+
+255
+00:17:00,062 --> 00:17:01,272
+Cápsulas insertadas.
+
+256
+00:17:01,355 --> 00:17:03,440
+Eva activados con energía auxiliar.
+
+257
+00:17:04,024 --> 00:17:05,943
+¡Liberen el bloque uno!
+
+258
+00:17:09,822 --> 00:17:12,700
+¡Liberando bloques del dos al 32!
+
+259
+00:17:13,117 --> 00:17:15,536
+¡Presión cero! ¡Están libres!
+
+260
+00:17:16,036 --> 00:17:19,290
+Unidades, empujen los portones.
+
+261
+00:17:19,915 --> 00:17:20,749
+¡Despeguen!
+
+262
+00:17:40,686 --> 00:17:42,813
+<i>¡El enemigo paró justo encima!</i>
+
+263
+00:17:44,148 --> 00:17:45,232
+¡Engánchenlos!
+
+264
+00:17:47,526 --> 00:17:49,403
+<i>¡Baterías de emergencia, conectadas!</i>
+
+265
+00:17:49,820 --> 00:17:50,821
+¡Todo listo!
+
+266
+00:17:51,322 --> 00:17:52,323
+¡Despeguen!
+
+267
+00:17:59,830 --> 00:18:02,499
+¡Oigan, esto es denigrante!
+
+268
+00:18:03,208 --> 00:18:04,293
+Vamos al conducto.
+
+269
+00:18:13,719 --> 00:18:16,513
+¡Esto cada vez es más denigrante!
+
+270
+00:18:22,019 --> 00:18:23,437
+No está bien. Cúbranse.
+
+271
+00:18:27,775 --> 00:18:29,026
+¡Qué asco!
+
+272
+00:19:04,687 --> 00:19:09,191
+El enemigo quiere acceder al cuartel
+usando un disolvente fuerte.
+
+273
+00:19:09,692 --> 00:19:12,319
+<i>- ¿Y qué hacemos?</i>
+<i>- ¿Qué más? ¡Evitarlo!</i>
+
+274
+00:19:12,778 --> 00:19:14,405
+Lo sé, pero ¿cómo?
+
+275
+00:19:14,488 --> 00:19:17,866
+Soltamos nuestros rifles,
+y nos queda poca batería.
+
+276
+00:19:18,325 --> 00:19:20,077
+<i>Solo nos quedan tres minutos.</i>
+
+277
+00:19:21,161 --> 00:19:22,246
+Tengo un plan.
+
+278
+00:19:22,830 --> 00:19:24,873
+Uno de nosotros será la defensa.
+
+279
+00:19:24,957 --> 00:19:28,836
+Neutralizará el escudo AT
+y protegerá a la ofensiva del solvente.
+
+280
+00:19:28,919 --> 00:19:30,212
+El respaldo bajará
+
+281
+00:19:30,504 --> 00:19:33,382
+y recuperará un rifle,
+que pasará a la ofensiva.
+
+282
+00:19:33,465 --> 00:19:36,260
+La ofensiva dispara y destruye al enemigo.
+
+283
+00:19:37,094 --> 00:19:37,928
+¿Entendieron?
+
+284
+00:19:38,345 --> 00:19:40,180
+Sí. Yo seré la defensa.
+
+285
+00:19:40,264 --> 00:19:41,265
+<i>No, lo siento.</i>
+
+286
+00:19:42,057 --> 00:19:44,810
+{\an8}- Yo seré la defensa.
+<i>- No. Es muy peligroso.</i>
+
+287
+00:19:45,894 --> 00:19:47,438
+{\an8}Precisamente por eso.
+
+288
+00:19:47,521 --> 00:19:50,649
+No me sentiría bien
+si no saldara mi deuda contigo.
+
+289
+00:19:51,233 --> 00:19:53,986
+Shinji es la ofensiva.
+Doña perfecta, serás el respaldo.
+
+290
+00:19:54,194 --> 00:19:55,195
+¿Entendido?
+
+291
+00:19:55,904 --> 00:19:56,905
+<i>De acuerdo.</i>
+
+292
+00:20:00,325 --> 00:20:01,744
+¡Muy bien! ¡Hagámoslo!
+
+293
+00:20:25,142 --> 00:20:26,185
+¡Ayanami!
+
+294
+00:20:29,480 --> 00:20:31,106
+¡Asuka! ¡Despeja!
+
+295
+00:20:43,744 --> 00:20:45,287
+Ahora estamos a mano.
+
+296
+00:20:47,206 --> 00:20:50,667
+¡Maldición! ¿Por qué
+esta porquería no abre?
+
+297
+00:20:50,751 --> 00:20:55,464
+¡Es una emergencia!
+¡Mi vejiga va a explotar!
+
+298
+00:20:56,548 --> 00:20:58,759
+¡Oye! ¡Te dije que no miraras!
+
+299
+00:20:59,259 --> 00:21:00,260
+Sí...
+
+300
+00:21:02,096 --> 00:21:03,430
+¡Oye! ¡Cuidado!
+
+301
+00:21:10,979 --> 00:21:11,814
+Qué indecente.
+
+302
+00:21:17,903 --> 00:21:21,406
+No sabía que las estrellas
+eran más lindas sin electricidad,
+
+303
+00:21:21,824 --> 00:21:23,826
+sin luz artificial.
+
+304
+00:21:23,909 --> 00:21:25,536
+Qué ironía.
+
+305
+00:21:25,619 --> 00:21:28,872
+Bueno, sin esas luces el lugar
+se ve desierto.
+
+306
+00:21:33,168 --> 00:21:35,629
+¿Lo ves? Te sientes más seguro así.
+
+307
+00:21:35,963 --> 00:21:40,592
+El hombre le teme a la oscuridad.
+Solo con la luz tiene control.
+
+308
+00:21:41,802 --> 00:21:43,512
+¡Vaya, qué profundo!
+
+309
+00:21:44,304 --> 00:21:47,474
+Me pregunto si eso
+hace especial a la humanidad.
+
+310
+00:21:48,308 --> 00:21:49,977
+Quizá por eso nos atacan.
+
+311
+00:21:50,644 --> 00:21:54,731
+¿Eres estúpido?
+¿Cómo vamos a saber eso?
+
+312
+00:21:57,276 --> 00:22:00,654
+{\an8}CONTINUARÁ...
+
+313
+00:23:06,261 --> 00:23:07,512
+EN EL PRÓXIMO EPISODIO
+
+314
+00:23:07,804 --> 00:23:10,807
+<i>Misato canaliza sus frustraciones</i>
+<i>destruyendo ángeles.</i>
+
+315
+00:23:10,891 --> 00:23:11,975
+<i>Analiza su pasado.</i>
+
+316
+00:23:12,059 --> 00:23:14,811
+<i>Cuando el ángel más grande</i>
+<i>ataca desde la estratosfera,</i>
+
+317
+00:23:14,895 --> 00:23:16,605
+<i>todos pierden la esperanza.</i>
+
+318
+00:23:16,813 --> 00:23:18,732
+<i>Próximo episodio:</i>
+<i>"El valor de un milagro".</i>
+
+319
+00:23:18,815 --> 00:23:19,650
+<i>¡Continúa viendo!</i>
+
+320
+00:23:19,733 --> 00:23:20,984
+Subtítulos: Paulina López de Lara
+

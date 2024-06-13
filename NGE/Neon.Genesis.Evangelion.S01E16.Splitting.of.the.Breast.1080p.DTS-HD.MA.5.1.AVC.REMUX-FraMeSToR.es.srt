@@ -1,0 +1,1273 @@
+1
+00:01:39,517 --> 00:01:41,853
+Shinji, ¿usaste un caldo distinto?
+
+2
+00:01:42,228 --> 00:01:45,106
+Sí, es de pescado.
+Regalo de la señorita Ritsuko.
+
+3
+00:01:51,696 --> 00:01:53,448
+¡El agua está caliente!
+
+4
+00:01:54,199 --> 00:01:55,283
+Perdón.
+
+5
+00:01:55,659 --> 00:01:59,120
+¡Tú siempre te disculpas!
+¿De verdad lo sientes?
+
+6
+00:02:00,330 --> 00:02:06,294
+¡Esa respuesta la usas para todo!
+Solo lo dices para que nadie te grite.
+
+7
+00:02:06,378 --> 00:02:07,212
+Perdón.
+
+8
+00:02:07,295 --> 00:02:10,715
+¿Ves? ¡Fundamentalmente,
+eres todo un mártir!
+
+9
+00:02:10,799 --> 00:02:14,552
+Tranquilízate. Sabes que Shinji es así.
+
+10
+00:02:14,803 --> 00:02:17,847
+¡Y tú! ¿Por qué aguantas estas idioteces?
+
+11
+00:02:17,931 --> 00:02:20,266
+¿No crees que eres demasiado buena con él?
+
+12
+00:02:20,350 --> 00:02:21,226
+¿Sí?
+
+13
+00:02:21,601 --> 00:02:23,645
+Habrás vuelto con Kaji,
+
+14
+00:02:23,728 --> 00:02:26,356
+¡pero no quieras imponernos
+tu felicidad!
+
+15
+00:02:26,439 --> 00:02:28,566
+No pasa nada entre Kaji y yo.
+
+16
+00:02:30,151 --> 00:02:33,947
+<i>¡Katsuragi! Hallé un buen bar.</i>
+<i>¿Estás libre esta noche?</i>
+
+17
+00:02:34,406 --> 00:02:35,573
+<i>Nos vemos.</i>
+
+18
+00:02:36,992 --> 00:02:40,870
+¿Qué sé yo? Nunca he tenido
+una estúpida relación amorosa.
+
+19
+00:02:41,162 --> 00:02:44,165
+Y tú te haces pasar
+por ejemplo de virtud. ¡Hipócrita!
+
+20
+00:02:44,249 --> 00:02:45,875
+¡Me dan náuseas!
+
+21
+00:02:50,880 --> 00:02:53,216
+<i>Prueba de armónicos B,</i>
+<i>resultado normal.</i>
+
+22
+00:02:53,299 --> 00:02:55,468
+<i>Nuevos valores de profundidad.</i>
+
+23
+00:02:56,052 --> 00:02:58,430
+Luce cansada, señorita Misato.
+
+24
+00:02:58,513 --> 00:03:00,473
+Estoy con asuntos personales.
+
+25
+00:03:00,807 --> 00:03:03,018
+- ¿Incluyendo a Kaji?
+- ¡No digas eso!
+
+26
+00:03:03,560 --> 00:03:05,729
+¿Cómo va el Tercer Elegido?
+
+27
+00:03:05,937 --> 00:03:07,397
+- Mire esto.
+- ¿Qué cosa?
+
+28
+00:03:10,567 --> 00:03:12,694
+Espero que esto suba su confianza.
+
+29
+00:03:13,319 --> 00:03:14,696
+<i>¿Me copias, Shinji?</i>
+
+30
+00:03:16,197 --> 00:03:18,742
+¿Cómo me fue en la prueba,
+señorita Misato?
+
+31
+00:03:19,492 --> 00:03:21,786
+<i>¡Felicidades! ¡Eres el número uno!</i>
+
+32
+00:03:22,620 --> 00:03:26,458
+Esto apesta. Me superó por mucho.
+
+33
+00:03:26,958 --> 00:03:31,671
+Lo hizo sin ningún esfuerzo.
+Es algo frustrante, ¿sabes?
+
+34
+00:03:31,755 --> 00:03:35,508
+"¡Es asombroso! ¡Magnífico!
+¡Es fuerte! ¡Tan fuerte!
+
+35
+00:03:35,592 --> 00:03:37,886
+¡El gran Shinji!".
+
+36
+00:03:37,969 --> 00:03:40,764
+¡Nuestro trabajo
+será más sencillo gracias a él!
+
+37
+00:03:41,181 --> 00:03:42,057
+¿No?
+
+38
+00:03:42,140 --> 00:03:47,228
+¡Debemos trabajar más duro
+para evitar que nos deje atrás!
+
+39
+00:03:48,063 --> 00:03:48,938
+Adiós.
+
+40
+00:03:56,446 --> 00:03:58,656
+TOKIO-3, ESTACIÓN YUMOTO
+
+41
+00:03:59,282 --> 00:04:03,536
+<i>Siguiente estación: Seisho-Kanose.</i>
+<i>Seisho-Kanose.</i>
+
+42
+00:04:03,620 --> 00:04:06,915
+<i>Cerca de Bashar,</i>
+<i>la tienda de videos y libros usados.</i>
+
+43
+00:04:09,501 --> 00:04:10,418
+¡Sí!
+
+44
+00:04:40,031 --> 00:04:42,575
+<i>¡La evacuación de Nishi-ku</i>
+<i>tomará cinco minutos más!</i>
+
+45
+00:04:42,659 --> 00:04:45,620
+<i>El enemigo avanza lentamente.</i>
+<i>Velocidad, 2,5 Km/h.</i>
+
+46
+00:04:46,204 --> 00:04:47,997
+- ¿Por qué tardaste?
+- ¡Perdón!
+
+47
+00:04:48,081 --> 00:04:50,208
+¿Y el informe del monte Fuji?
+
+48
+00:04:50,291 --> 00:04:53,294
+¡Está fuera de su alcance!
+¡Apareció de la nada!
+
+49
+00:04:53,711 --> 00:04:56,297
+¡Patrón naranja!
+¡No detectamos escudo AT!
+
+50
+00:04:56,381 --> 00:04:58,591
+- ¿Entonces?
+- ¿Es una nueva especie de ángel?
+
+51
+00:04:58,675 --> 00:05:00,301
+Las MAGI no emiten juicio.
+
+52
+00:05:01,094 --> 00:05:04,430
+Y justo ahora
+tenía que marcharse el comandante Ikari...
+
+53
+00:05:14,357 --> 00:05:15,441
+<i>¿Todos me copian?</i>
+
+54
+00:05:15,692 --> 00:05:17,443
+Como ven en el informe,
+
+55
+00:05:18,194 --> 00:05:19,946
+<i>no hay muchos datos.</i>
+
+56
+00:05:20,613 --> 00:05:23,032
+<i>Acérquense al objetivo</i>
+<i>y vean cómo reacciona.</i>
+
+57
+00:05:23,116 --> 00:05:26,369
+<i>Si es posible,</i>
+<i>llévenlo fuera de la ciudad.</i>
+
+58
+00:05:26,703 --> 00:05:29,914
+<i>Un Eva atacará</i>
+<i>mientras los otros dos lo cubren. ¿Bien?</i>
+
+59
+00:05:29,998 --> 00:05:33,668
+Creo que Shinji
+es el mejor candidato para atacar.
+
+60
+00:05:34,586 --> 00:05:38,548
+Es un trabajo para el mejor,
+el de las altas notas, el más valiente,
+
+61
+00:05:38,631 --> 00:05:41,593
+para el número uno
+en el rango de sincronización.
+
+62
+00:05:42,177 --> 00:05:44,512
+<i>¿O no crees poder hacerlo, Shinji?</i>
+
+63
+00:05:45,305 --> 00:05:46,472
+<i>¡Puedo encargarme!</i>
+
+64
+00:05:46,973 --> 00:05:48,933
+<i>¡Te enseñaré cómo se hace, Asuka!</i>
+
+65
+00:05:49,601 --> 00:05:51,311
+<i>¿Qué dijiste?</i>
+
+66
+00:05:51,394 --> 00:05:52,437
+Niños, cálmense.
+
+67
+00:05:53,104 --> 00:05:56,107
+<i>Usted lo dijo, señorita Misato.</i>
+<i>Soy el número uno.</i>
+
+68
+00:05:56,774 --> 00:05:58,484
+Eso fue...
+
+69
+00:05:58,568 --> 00:05:59,986
+{\an8}<i>¡Un hombre debe luchar!</i>
+
+70
+00:06:00,612 --> 00:06:02,322
+<i>¡Qué anticuado!</i>
+
+71
+00:06:02,405 --> 00:06:03,865
+<i>¡El Eva 02 lo cubrirá!</i>
+
+72
+00:06:03,948 --> 00:06:05,992
+<i>La Unidad 00 lo cubrirá también.</i>
+
+73
+00:06:06,701 --> 00:06:08,870
+Me ignoraron por completo.
+
+74
+00:06:08,953 --> 00:06:11,497
+Shinji se ha ido relajando, ¿no crees?
+
+75
+00:06:11,581 --> 00:06:14,375
+Pero no así.
+Hablaré con él cuando regrese.
+
+76
+00:06:14,459 --> 00:06:16,586
+Eres una buena madre adoptiva.
+
+77
+00:06:19,797 --> 00:06:22,800
+EMERGENCIA
+CERRADO PARA VEHÍCULOS PARTICULARES
+
+78
+00:06:33,186 --> 00:06:35,730
+Ayanami, Asuka, ¿ya están en posición?
+
+79
+00:06:35,980 --> 00:06:36,898
+Aún no.
+
+80
+00:06:37,065 --> 00:06:39,817
+¡No podemos cubrir
+tanto terreno tan rápido!
+
+81
+00:06:57,293 --> 00:06:58,461
+¿Dónde están?
+
+82
+00:07:02,924 --> 00:07:05,051
+<i>Lo acorralaré mientras tanto.</i>
+
+83
+00:07:07,679 --> 00:07:08,888
+¡Desapareció!
+
+84
+00:07:09,055 --> 00:07:09,889
+¿Qué pasa?
+
+85
+00:07:09,973 --> 00:07:12,767
+¡Patrón azul!
+¡Ángel detectado! Bajo el Eva 01.
+
+86
+00:07:13,601 --> 00:07:14,644
+¡Es una sombra!
+
+87
+00:07:16,771 --> 00:07:19,190
+¿Qué es esto? ¡No tiene sentido!
+
+88
+00:07:21,567 --> 00:07:23,278
+<i>Shinji, ¡sal de ahí! ¡Shinji!</i>
+
+89
+00:07:23,778 --> 00:07:26,489
+- ¡Shinji!
+- ¿Qué crees que haces, tonto?
+
+90
+00:07:28,908 --> 00:07:32,203
+<i>¡Señorita Misato!</i>
+<i>¿Qué sucede? ¡Señorita Misato!</i>
+
+91
+00:07:32,370 --> 00:07:34,414
+<i>¡Asuka! ¡Ayanami! ¡Necesito ayuda!</i>
+
+92
+00:07:34,497 --> 00:07:35,957
+<i>Misato, ¿me copias?</i>
+
+93
+00:07:36,040 --> 00:07:37,625
+¡Eyecten! ¡Envíen la señal!
+
+94
+00:07:38,042 --> 00:07:39,627
+¡Negativo! ¡No hay respuesta!
+
+95
+00:07:39,877 --> 00:07:41,963
+<i>¡Señorita Misato...!</i>
+
+96
+00:07:43,464 --> 00:07:44,382
+¡Shinji!
+
+97
+00:07:45,133 --> 00:07:47,468
+<i>¡Asuka! ¡Rei! ¡Rescaten a la Unidad 01!</i>
+
+98
+00:07:47,927 --> 00:07:51,306
+<i>¡Imbécil! Sus rangos perfectos</i>
+<i>no significan nada aquí.</i>
+
+99
+00:07:53,725 --> 00:07:55,810
+- ¡Desapareció de nuevo!
+- ¡Asuka, cuidado!
+
+100
+00:07:56,102 --> 00:07:57,186
+¡Una sombra!
+
+101
+00:08:05,570 --> 00:08:06,779
+¡No!
+
+102
+00:08:19,876 --> 00:08:20,918
+La ciudad está...
+
+103
+00:08:21,002 --> 00:08:22,962
+<i>Asuka, Rei, retrocedan.</i>
+
+104
+00:08:23,379 --> 00:08:24,589
+- Espe...
+<i>- ¡Esperen!</i>
+
+105
+00:08:25,089 --> 00:08:26,591
+<i>Shinji y el Eva 01 siguen ahí.</i>
+
+106
+00:08:28,634 --> 00:08:31,137
+Es una orden. Retrocedan.
+
+107
+00:08:41,230 --> 00:08:43,608
+<i>Debe ser difícil</i>
+<i>para la mayor Katsuragi.</i>
+
+108
+00:08:44,442 --> 00:08:46,486
+Cuando jalaron el cable umbilical,
+
+109
+00:08:46,569 --> 00:08:48,529
+no había nada conectado a él.
+
+110
+00:08:48,905 --> 00:08:50,114
+Pero entonces...
+
+111
+00:08:50,198 --> 00:08:52,742
+Le queda poco
+a la batería interna del Eva,
+
+112
+00:08:52,825 --> 00:08:57,121
+pero si Shinji no se mueve
+y se queda en modo apoyo vital,
+
+113
+00:08:57,205 --> 00:08:59,040
+puede seguir vivo por 16 horas.
+
+114
+00:09:02,335 --> 00:09:03,878
+<i>Tanques en posición.</i>
+
+115
+00:09:03,961 --> 00:09:05,630
+<i>Entendido. Esperen ahí.</i>
+
+116
+00:09:05,713 --> 00:09:08,299
+<i>Abriendo comunicación submarina.</i>
+<i>Envíen especificaciones.</i>
+
+117
+00:09:08,383 --> 00:09:10,593
+<i>Vínculo confirmado.</i>
+<i>Transmisión en canal C.</i>
+
+118
+00:09:10,676 --> 00:09:14,347
+- La ONU estableció un perímetro.
+- ¿Y la sombra?
+
+119
+00:09:14,430 --> 00:09:19,185
+Sin movimiento. Creció
+hasta los 600 m de diámetro y paró.
+
+120
+00:09:19,268 --> 00:09:22,313
+¿Cómo ayudarán las fuerzas terrestres
+a combatirlo?
+
+121
+00:09:22,397 --> 00:09:25,483
+Están aquí para denotar fuerza
+contra nosotros.
+
+122
+00:09:25,566 --> 00:09:29,278
+Qué desastre.
+Se apresuró e ignoró el plan.
+
+123
+00:09:29,362 --> 00:09:31,781
+No hay nadie más a quién culpar.
+
+124
+00:09:31,864 --> 00:09:34,492
+Solo porque al idiota le fue bien ayer,
+
+125
+00:09:34,575 --> 00:09:36,702
+dice: "¡Les mostraré cómo se hace!".
+
+126
+00:09:37,328 --> 00:09:39,497
+¡Le quedó grande el papel!
+
+127
+00:09:40,456 --> 00:09:45,211
+¿Qué? ¿No te gusta
+que la gente hable mal de Shinji?
+
+128
+00:09:46,212 --> 00:09:49,841
+¿Conduces tu Eva
+para ser alabada por otros?
+
+129
+00:09:50,091 --> 00:09:54,095
+¡No, por otros no! ¡Lo conduzco
+porque quiero alabarme a mí misma!
+
+130
+00:09:54,178 --> 00:09:55,930
+Ya es suficiente, las dos.
+
+131
+00:09:56,431 --> 00:09:59,350
+Es verdad, se apresuró sin autorización.
+
+132
+00:10:00,184 --> 00:10:03,354
+Debo regañarlo cuando vuelva.
+
+133
+00:10:23,166 --> 00:10:26,794
+Nunca creí que dormir sería tan agotador.
+
+134
+00:10:32,467 --> 00:10:34,093
+Solo veo blanco.
+
+135
+00:10:34,719 --> 00:10:39,140
+No hay radar o sonar...
+Este vacío es demasiado grande.
+
+136
+00:10:40,683 --> 00:10:43,394
+Hace 12 horas que pasé
+al modo de apoyo vital.
+
+137
+00:10:46,481 --> 00:10:49,692
+Creo que me quedan cuatro
+o cinco horas de vida.
+
+138
+00:10:50,818 --> 00:10:51,819
+Tengo hambre...
+
+139
+00:10:51,903 --> 00:10:54,780
+¿Dices que la sombra es el cuerpo
+del ángel?
+
+140
+00:10:54,947 --> 00:10:59,952
+Sí. Un cuerpo de 680 metros de diámetro
+y tres nanómetros de espesor.
+
+141
+00:11:00,745 --> 00:11:04,332
+Un escudo AT invertido
+soporta ese delgado espacio.
+
+142
+00:11:04,624 --> 00:11:07,668
+Por dentro es un espacio numérico
+imaginario, el mar de Dirac.
+
+143
+00:11:07,752 --> 00:11:10,129
+Probablemente esté conectado
+a otro universo.
+
+144
+00:11:10,588 --> 00:11:11,506
+¿Y la esfera?
+
+145
+00:11:12,173 --> 00:11:15,092
+Desaparece cuando el circuito numérico
+del cuerpo se cierra.
+
+146
+00:11:15,259 --> 00:11:17,970
+El objeto que flota
+es en realidad una sombra.
+
+147
+00:11:18,387 --> 00:11:21,933
+Así que el objetivo es la sombra
+que se tragó a la Unidad 01.
+
+148
+00:11:22,934 --> 00:11:24,852
+Entonces, no podemos hacer nada.
+
+149
+00:11:31,734 --> 00:11:32,944
+¡El agua se pone turbia!
+
+150
+00:11:33,444 --> 00:11:35,154
+¡Los filtros están fallando!
+
+151
+00:11:36,948 --> 00:11:38,241
+Huele a...
+
+152
+00:11:38,449 --> 00:11:40,034
+¡Sangre! ¡Huele a sangre!
+
+153
+00:11:40,618 --> 00:11:42,203
+¡No! ¡Sáquenme de aquí!
+
+154
+00:11:42,620 --> 00:11:44,914
+¿Por qué no se abre la compuerta?
+
+155
+00:11:44,997 --> 00:11:47,208
+¡Abre! ¡Déjame salir de aquí!
+
+156
+00:11:47,416 --> 00:11:49,794
+Señorita Misato, ¿qué está pasando?
+
+157
+00:11:49,877 --> 00:11:51,921
+¡Asuka! ¡Ayanami!
+
+158
+00:11:52,463 --> 00:11:53,839
+¡Señorita Ritsuko!
+
+159
+00:11:54,590 --> 00:11:56,342
+Padre...
+
+160
+00:11:59,637 --> 00:12:02,056
+Por favor, alguien que me ayude.
+
+161
+00:12:02,390 --> 00:12:03,975
+¿Recuperar al Eva por la fuerza?
+
+162
+00:12:04,433 --> 00:12:06,811
+Es la única opción viable.
+
+163
+00:12:07,770 --> 00:12:12,733
+Dejamos caer nuestras últimas bombas N2
+a las profundidades de su núcleo.
+
+164
+00:12:12,817 --> 00:12:16,153
+Además de esto,
+los Eva usarán sus escudos AT
+
+165
+00:12:16,529 --> 00:12:19,907
+y romperán el circuito numérico
+del ángel por un milisegundo.
+
+166
+00:12:19,991 --> 00:12:22,868
+En ese momento
+enfocaremos la energía explosiva
+
+167
+00:12:23,077 --> 00:12:25,830
+para destruir al ángel,
+y al mar de Dirac que lo conforma.
+
+168
+00:12:25,913 --> 00:12:29,625
+Pero el Eva no puede resistir...
+¿Qué pasará con Shinji?
+
+169
+00:12:29,750 --> 00:12:31,502
+¿Qué tipo de rescate es este?
+
+170
+00:12:31,586 --> 00:12:34,797
+La prioridad de la operación
+es recuperar la Unidad 01.
+
+171
+00:12:34,880 --> 00:12:37,049
+Sin importar el daño en su cuerpo.
+
+172
+00:12:37,300 --> 00:12:38,593
+¡Espera un momento!
+
+173
+00:12:38,676 --> 00:12:40,845
+El piloto es prescindible.
+
+174
+00:12:47,518 --> 00:12:51,522
+Que no se te olvide que tus errores
+nos costaron la vida de Shinji.
+
+175
+00:12:52,648 --> 00:12:57,069
+¿Por qué el comandante Ikari y tú
+están tan obsesionados con el Eva 01?
+
+176
+00:12:58,112 --> 00:12:59,447
+¿Qué demonios son los Eva?
+
+177
+00:12:59,530 --> 00:13:01,782
+Te entregamos todo lo que tenemos.
+
+178
+00:13:02,199 --> 00:13:03,284
+Mentirosa.
+
+179
+00:13:06,329 --> 00:13:08,956
+Misato, por favor, confía en mí.
+
+180
+00:13:12,001 --> 00:13:15,212
+Me haré cargo de todos los aspectos
+de esta operación.
+
+181
+00:13:19,550 --> 00:13:21,135
+Pasen el tráfico aéreo a Kansai.
+
+182
+00:13:21,302 --> 00:13:23,971
+Contacten a la ACC y a la JASSDF.
+
+183
+00:13:25,181 --> 00:13:29,101
+<i>El Segundo Impacto, el proyecto</i>
+<i>de Instrumentalización, Adán...</i>
+
+184
+00:13:29,602 --> 00:13:31,687
+<i>Hay muchas cosas que no sé.</i>
+
+185
+00:13:38,569 --> 00:13:39,612
+<i>¿Quién está ahí?</i>
+
+186
+00:13:44,533 --> 00:13:45,868
+<i>¿Quién es?</i>
+
+187
+00:13:47,745 --> 00:13:49,080
+<i>Soy Shinji Ikari.</i>
+
+188
+00:13:49,330 --> 00:13:50,665
+<i>Pero ese soy yo.</i>
+
+189
+00:13:50,748 --> 00:13:52,083
+<i>Yo soy tú.</i>
+
+190
+00:13:52,166 --> 00:13:58,673
+<i>La gente tiene otro ser por dentro.</i>
+<i>El ser siempre consiste de dos.</i>
+
+191
+00:13:58,881 --> 00:13:59,965
+<i>¿Dos?</i>
+
+192
+00:14:00,049 --> 00:14:03,594
+<i>El ser que ven los otros</i>
+<i>y el ser que observa los actos.</i>
+
+193
+00:14:03,678 --> 00:14:06,555
+<i>Hay múltiplos del individuo</i>
+<i>llamado Shinji Ikari:</i>
+
+194
+00:14:06,639 --> 00:14:10,017
+<i>el Shinji Ikari que vive dentro</i>
+<i>de tu mente.</i>
+
+195
+00:14:10,101 --> 00:14:14,522
+<i>El Shinji de la mente de Misato Katsuragi.</i>
+<i>El de la mente Asuka Soryu.</i>
+
+196
+00:14:14,605 --> 00:14:18,150
+<i>El de la mente de Rei Ayanami.</i>
+<i>El de la mente de Gendoh Ikari.</i>
+
+197
+00:14:18,234 --> 00:14:22,530
+<i>Cada uno es un Shinji Ikari diferente,</i>
+<i>y todos son el Shinji Ikari real.</i>
+
+198
+00:14:22,613 --> 00:14:26,117
+<i>Les temes a los Shinji Ikari</i>
+<i>que viven en la mente de otros.</i>
+
+199
+00:14:26,242 --> 00:14:28,619
+<i>Temo ser odiado por otros.</i>
+
+200
+00:14:28,703 --> 00:14:30,705
+<i>No, temes salir herido.</i>
+
+201
+00:14:32,123 --> 00:14:33,582
+¿De quién es la culpa?
+
+202
+00:14:33,666 --> 00:14:36,794
+Es culpa de mi padre.
+Del padre que me abandonó.
+
+203
+00:14:37,628 --> 00:14:38,504
+Es mi culpa.
+
+204
+00:14:38,754 --> 00:14:41,215
+¡Siempre pensando que tienes la culpa!
+
+205
+00:14:41,590 --> 00:14:43,467
+¡Eres un mártir!
+
+206
+00:14:43,551 --> 00:14:45,553
+Soy el que no puede hacer nada bien.
+
+207
+00:14:45,970 --> 00:14:48,723
+Eres la versión que cree
+que no puede hacer nada bien.
+
+208
+00:14:49,890 --> 00:14:51,976
+¿No tienes fe en tu propio padre?
+
+209
+00:14:52,393 --> 00:14:55,271
+Creo que lo odio,
+pero ya no estoy seguro.
+
+210
+00:14:55,479 --> 00:14:57,231
+<i>Buen trabajo, Shinji.</i>
+
+211
+00:14:57,857 --> 00:15:00,276
+<i>¡Mi padre me llamó por mi nombre!</i>
+
+212
+00:15:00,776 --> 00:15:02,486
+<i>Mi frío y distante padre me felicitó.</i>
+
+213
+00:15:02,987 --> 00:15:06,949
+Alimentarás ese fragmento
+de felicidad por el resto de tu vida.
+
+214
+00:15:07,032 --> 00:15:09,869
+Si creo en esas palabras,
+puedo seguir viviendo.
+
+215
+00:15:10,327 --> 00:15:11,662
+<i>¿Engañándote a ti mismo?</i>
+
+216
+00:15:11,996 --> 00:15:15,124
+¡Todos lo hacen!
+¡Todos lo hacen para seguir viviendo!
+
+217
+00:15:15,207 --> 00:15:19,879
+Cree en ti por quien eres.
+De otro modo, no serás capaz de seguir.
+
+218
+00:15:19,962 --> 00:15:23,883
+El mundo está repleto
+de muchas cosas dolorosas para mí.
+
+219
+00:15:24,091 --> 00:15:25,468
+¿Como no saber nadar?
+
+220
+00:15:25,551 --> 00:15:27,553
+¡No estamos diseñados para flotar!
+
+221
+00:15:27,636 --> 00:15:30,347
+- Eso es autoengaño.
+- ¡Llámalo como quieras!
+
+222
+00:15:31,724 --> 00:15:35,102
+Siempre ignoraste o evitaste
+las cosas que no te gustaban.
+
+223
+00:15:35,311 --> 00:15:37,688
+En esa última batalla, su hermana...
+
+224
+00:15:37,772 --> 00:15:39,774
+¡No importa qué opinan los demás!
+
+225
+00:15:40,483 --> 00:15:41,317
+¡Vete!
+
+226
+00:15:41,400 --> 00:15:43,194
+¡No! ¡No lo quiero escuchar!
+
+227
+00:15:44,445 --> 00:15:45,863
+¿Ves? Huyes de nuevo.
+
+228
+00:15:47,865 --> 00:15:52,411
+No podemos elegir situaciones agradables
+para arreglar nuestra vida.
+
+229
+00:15:52,495 --> 00:15:53,996
+Yo, sobre todo.
+
+230
+00:15:54,580 --> 00:15:56,540
+Encontré algo que disfruto hacer.
+
+231
+00:15:56,624 --> 00:15:59,502
+Encontrar algo que te gusta
+y hacer solo eso...
+
+232
+00:15:59,794 --> 00:16:01,837
+¿Qué tiene de malo?
+
+233
+00:16:04,715 --> 00:16:08,219
+La batería de la cápsula
+está llegando a su límite teórico.
+
+234
+00:16:08,344 --> 00:16:11,847
+El sistema de apoyo vital de su traje
+también está al límite.
+
+235
+00:16:12,431 --> 00:16:14,225
+Adelantemos los eventos 12 minutos.
+
+236
+00:16:14,600 --> 00:16:17,520
+Mientras sea posible
+que Shinji siga vivo...
+
+237
+00:16:32,701 --> 00:16:36,038
+Padre... ¿soy un hijo no deseado?
+
+238
+00:16:37,289 --> 00:16:38,666
+¡Padre!
+
+239
+00:16:38,749 --> 00:16:41,293
+Tú fuiste el que eligió huir.
+
+240
+00:16:42,002 --> 00:16:45,005
+<i>¡El hombre es sospechoso</i>
+<i>por la muerte de su esposa!</i>
+
+241
+00:16:45,089 --> 00:16:46,799
+<i>¡Asesinó a su propia esposa!</i>
+
+242
+00:16:46,882 --> 00:16:50,261
+<i>¡No! Mi madre... Ella sonreía.</i>
+
+243
+00:16:50,761 --> 00:16:53,806
+Hoy hiciste un buen trabajo,
+la gente lo reconocerá.
+
+244
+00:16:54,598 --> 00:16:56,809
+Shinji, no debes huir.
+
+245
+00:16:57,476 --> 00:16:58,727
+Resiste un poco más.
+
+246
+00:17:00,813 --> 00:17:05,150
+<i>No me gusta este lugar.</i>
+<i>Estoy harto de estar...</i>
+
+247
+00:17:06,944 --> 00:17:08,445
+...solo.
+
+248
+00:17:11,240 --> 00:17:14,618
+La circulación de calor
+y oxígeno se ha detenido.
+
+249
+00:17:17,705 --> 00:17:18,914
+Tengo frío...
+
+250
+00:17:20,708 --> 00:17:24,461
+Es inútil... mi traje también se agota.
+
+251
+00:17:26,046 --> 00:17:30,426
+Tal vez esto sea todo.
+Me siento cansado...
+
+252
+00:17:31,969 --> 00:17:33,637
+Cansado de todo.
+
+253
+00:18:06,837 --> 00:18:07,880
+¿Mamá?
+
+254
+00:18:16,138 --> 00:18:17,848
+¿Estarás bien?
+
+255
+00:18:19,850 --> 00:18:22,728
+Me alegro mucho.
+
+256
+00:18:25,981 --> 00:18:29,860
+<i>- Eva en posición.</i>
+<i>- Preparación de escudos AT, completa.</i>
+
+257
+00:18:29,944 --> 00:18:32,696
+<i>- Entendido.</i>
+<i>- T menos 60 para soltar la bomba.</i>
+
+258
+00:18:37,993 --> 00:18:39,745
+¿Qué está pasando?
+
+259
+00:18:44,083 --> 00:18:46,126
+- ¿Situación?
+- ¡Desconocida!
+
+260
+00:18:46,210 --> 00:18:48,712
+¡Los contadores están fuera de escala!
+
+261
+00:18:48,963 --> 00:18:50,297
+¡Pero no hicimos nada!
+
+262
+00:18:50,631 --> 00:18:51,882
+¿Puede ser Shinji?
+
+263
+00:18:51,966 --> 00:18:54,885
+¡Imposible!
+¡La energía de la Unidad 01 es nula!
+
+264
+00:19:26,083 --> 00:19:28,752
+¿Yo... conduzco uno de esos?
+
+265
+00:19:31,130 --> 00:19:35,592
+¿Qué hemos...?
+¿Qué tipo de monstruo copiamos?
+
+266
+00:19:35,884 --> 00:19:39,054
+<i>Sé que los Eva no son</i>
+<i>simples copias del primer ángel.</i>
+
+267
+00:19:40,055 --> 00:19:44,601
+<i>Pero ¿qué hará NERV con los Eva</i>
+<i>una vez que derrotemos a los ángeles?</i>
+
+268
+00:20:20,095 --> 00:20:24,183
+¡Shinji! ¡Shinji!
+
+269
+00:20:25,559 --> 00:20:27,478
+¡Shinji! ¿Estás bien, Shinji?
+
+270
+00:20:35,903 --> 00:20:39,323
+Quería verlos a todos... una vez más.
+
+271
+00:20:42,451 --> 00:20:44,078
+¿No ibas a regañarlo?
+
+272
+00:20:48,457 --> 00:20:52,377
+Nunca temí tanto a los Eva como hoy.
+
+273
+00:20:53,087 --> 00:20:55,464
+¿En verdad están de nuestro lado?
+
+274
+00:20:55,964 --> 00:20:58,675
+Es posible que nos odien.
+
+275
+00:21:00,344 --> 00:21:04,014
+Puede que la mayor Katsuragi
+sospeche algo.
+
+276
+00:21:04,098 --> 00:21:06,517
+Ya veo. Por ahora, déjalo así.
+
+277
+00:21:06,600 --> 00:21:09,603
+Si Rei y Shinji se enteran
+del secreto de los Eva,
+
+278
+00:21:09,686 --> 00:21:11,480
+probablemente no nos perdonen.
+
+279
+00:21:24,409 --> 00:21:27,788
+Puedes quedarte en cama hoy.
+Nos las arreglaremos sin ti.
+
+280
+00:21:28,497 --> 00:21:30,916
+Gracias, pero ya me siento bien.
+
+281
+00:21:31,583 --> 00:21:33,961
+¿De verdad? Me alegra escucharlo.
+
+282
+00:21:56,441 --> 00:21:58,569
+El olor a sangre sigue ahí.
+
+283
+00:21:58,652 --> 00:22:00,571
+{\an8}CONTINUARÁ
+
+284
+00:23:06,261 --> 00:23:07,596
+EN EL PRÓXIMO EPISODIO
+
+285
+00:23:07,679 --> 00:23:10,349
+<i>El Eva-04, en construcción</i>
+<i>en Nevada, EE. UU.,</i>
+
+286
+00:23:10,432 --> 00:23:12,601
+<i>es vaporizado con la Segunda Sede de NERV.</i>
+
+287
+00:23:12,893 --> 00:23:16,188
+<i>Este incidente los obliga a seleccionar</i>
+<i>un nuevo piloto de Eva.</i>
+
+288
+00:23:16,563 --> 00:23:18,899
+<i>Próximo episodio:</i>
+<i>"El Cuarto Niño Elegido".</i>
+
+289
+00:23:19,024 --> 00:23:20,776
+Subtítulos: Carolina Salazar
+

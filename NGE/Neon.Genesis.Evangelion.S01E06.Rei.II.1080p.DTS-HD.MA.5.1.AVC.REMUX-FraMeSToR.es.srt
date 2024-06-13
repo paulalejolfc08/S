@@ -1,0 +1,1246 @@
+1
+00:01:32,802 --> 00:01:35,221
+¡Alta señal energética
+en el interior del objetivo!
+
+2
+00:01:35,305 --> 00:01:36,139
+¿Qué?
+
+3
+00:01:36,222 --> 00:01:38,558
+¡La energía parece concentrarse!
+
+4
+00:01:38,725 --> 00:01:39,809
+{\an8}No me digas que es...
+
+5
+00:01:46,358 --> 00:01:47,692
+¡No! ¡Cúbranse!
+
+6
+00:01:54,199 --> 00:01:55,575
+ALERTA
+
+7
+00:01:55,992 --> 00:01:57,160
+¡Regrésenlo! ¡Rápido!
+
+8
+00:02:03,708 --> 00:02:05,168
+Objetivo desactivado.
+
+9
+00:02:05,377 --> 00:02:07,087
+- ¿Cómo está Shinji?
+- ¡Vivo!
+
+10
+00:02:07,796 --> 00:02:10,006
+<i>Unidad 01 recuperada</i>
+<i>y camino a jaula 7.</i>
+
+11
+00:02:10,590 --> 00:02:12,801
+¡Iré a la jaula! ¡Cubran mi puesto!
+
+12
+00:02:15,720 --> 00:02:17,472
+<i>Unidad 01, asegurada.</i>
+
+13
+00:02:18,974 --> 00:02:21,017
+¡Ondas cerebrales irregulares!
+
+14
+00:02:21,101 --> 00:02:22,519
+<i>¡Ritmo cardíaco débil!</i>
+
+15
+00:02:22,644 --> 00:02:25,605
+Sistema de apoyo vital al máximo.
+Inicien masaje cardíaco.
+
+16
+00:02:25,689 --> 00:02:26,690
+¡Sí, señorita!
+
+17
+00:02:27,732 --> 00:02:28,775
+¡Confirmamos pulso!
+
+18
+00:02:29,150 --> 00:02:30,819
+Eyección de la cápsula. ¡Rápido!
+
+19
+00:02:34,906 --> 00:02:37,033
+- Ventilación de emergencia de LCL.
+- ¡Sí!
+
+20
+00:02:38,451 --> 00:02:40,286
+¡Abran la escotilla! ¡De prisa!
+
+21
+00:02:50,088 --> 00:02:50,922
+¡Shinji!
+
+22
+00:03:06,146 --> 00:03:07,188
+MEDIDA DE EMERGENCIA
+
+23
+00:03:25,957 --> 00:03:27,917
+{\an8}GLOBO SEÑUELO ESCALA 1:1
+
+24
+00:03:34,549 --> 00:03:38,053
+<i>¡El acelerador de partículas nos dio!</i>
+<i>Señuelo vaporizado.</i>
+
+25
+00:03:38,136 --> 00:03:39,137
+Siguiente.
+
+26
+00:03:41,806 --> 00:03:44,809
+{\an8}CAÑÓN ALEMÁN AUTOMÁTICO TIPO 12
+
+27
+00:03:52,734 --> 00:03:55,153
+<i>El cañón alemán automático fue destruido.</i>
+
+28
+00:03:56,237 --> 00:03:58,031
+Si así será...
+
+29
+00:03:58,573 --> 00:04:00,658
+Los datos que recolectamos sugieren
+
+30
+00:04:00,867 --> 00:04:05,371
+que el enemigo ataca automáticamente
+lo que esté a cierta distancia de él.
+
+31
+00:04:05,830 --> 00:04:07,749
+{\an8}Todo lo que esté en su radar
+
+32
+00:04:07,832 --> 00:04:10,335
+{\an8}será golpeado por su rayo
+acelerador de partículas.
+
+33
+00:04:10,502 --> 00:04:13,421
+Combatirlo con un Eva
+sería demasiado riesgoso.
+
+34
+00:04:14,047 --> 00:04:15,298
+¿Y su escudo AT?
+
+35
+00:04:15,799 --> 00:04:16,758
+Continúa activo.
+
+36
+00:04:16,841 --> 00:04:21,096
+{\an8}Es poderoso: la transición espacial
+se aprecia a simple vista.
+
+37
+00:04:22,472 --> 00:04:25,850
+Un ataque con misiles guiados,
+artillería pesada o bombas
+
+38
+00:04:25,934 --> 00:04:28,269
+tendría un terrible impacto
+sobre nosotros.
+
+39
+00:04:28,394 --> 00:04:30,772
+Es impenetrable y terriblemente mortal.
+
+40
+00:04:30,939 --> 00:04:32,690
+Es casi una fortaleza aérea.
+
+41
+00:04:33,191 --> 00:04:34,859
+¿Qué me dicen de su taladro?
+
+42
+00:04:35,360 --> 00:04:39,948
+El enemigo está sobre nosotros,
+ataca la zona cero de Tokio-3.
+
+43
+00:04:40,532 --> 00:04:43,368
+Tiene un taladro gigante de 17,5 m
+de diámetro
+
+44
+00:04:43,660 --> 00:04:46,621
+que se dirige al cuartel general
+de NERV por el Geofrente.
+
+45
+00:04:47,831 --> 00:04:51,876
+Planea atacar directamente a NERV.
+
+46
+00:04:52,043 --> 00:04:53,211
+Insolente.
+
+47
+00:04:54,045 --> 00:04:55,964
+¿Tiempo estimado de llegada?
+
+48
+00:04:56,965 --> 00:04:59,509
+{\an8}Mañana por la mañana, a las 6:54,
+
+49
+00:05:00,260 --> 00:05:06,141
+{\an8}penetrará las 22 capas que nos protegen
+y llegará a las instalaciones de NERV.
+
+50
+00:05:07,892 --> 00:05:09,435
+¿Menos de diez horas?
+
+51
+00:05:15,108 --> 00:05:17,527
+{\an8}<i>El taladro del enemigo llegó</i>
+<i>a la primera capa.</i>
+
+52
+00:05:18,069 --> 00:05:20,321
+¿Cuál es el estado de la Unidad 01?
+
+53
+00:05:20,697 --> 00:05:23,908
+{\an8}Se derritió todo hasta la tercera capa
+de la armadura.
+
+54
+00:05:24,659 --> 00:05:28,079
+Al menos no se dañaron
+sus funciones básicas.
+
+55
+00:05:28,705 --> 00:05:31,249
+Tres segundos más y lo hubiera hecho.
+
+56
+00:05:32,000 --> 00:05:35,170
+<i>Tiempo estimado de reemplazo de armadura:</i>
+<i>tres horas.</i>
+
+57
+00:05:35,795 --> 00:05:37,714
+Entendido. ¿Y la Unidad 00?
+
+58
+00:05:38,423 --> 00:05:42,886
+El reinicio salió bien, pero aún
+hay errores de retroalimentación.
+
+59
+00:05:43,428 --> 00:05:45,805
+- Así que pelear...
+- No hay opción.
+
+60
+00:05:46,639 --> 00:05:48,516
+¿Y el piloto de la Unidad 01?
+
+61
+00:05:49,350 --> 00:05:50,852
+{\an8}Psicológicamente, está bien.
+
+62
+00:05:51,102 --> 00:05:55,607
+{\an8}Su pulso neuronal se elevó un 0,8 %,
+pero está dentro de lo aceptable.
+
+63
+00:05:56,566 --> 00:05:59,986
+<i>¡La protección de los túneles se romperá</i>
+<i>en 9 horas, 55 minutos!</i>
+
+64
+00:06:00,695 --> 00:06:02,655
+Esto de verdad luce deprimente.
+
+65
+00:06:02,906 --> 00:06:04,532
+¿Izo una bandera blanca?
+
+66
+00:06:05,241 --> 00:06:08,453
+Aún hay algo que me gustaría intentar.
+
+67
+00:06:10,330 --> 00:06:13,958
+¿Disparar al enemigo desde un punto ciego?
+
+68
+00:06:14,459 --> 00:06:17,545
+{\an8}Sí. Nuestra única opción es penetrar
+su escudo AT
+
+69
+00:06:17,837 --> 00:06:21,382
+con un disparo de alta energía
+sin neutralizarlo antes.
+
+70
+00:06:21,466 --> 00:06:22,675
+¿Qué dicen las MAGI?
+
+71
+00:06:23,051 --> 00:06:26,137
+Las supercomputadoras MAGI
+arrojaron dos afirmativos
+
+72
+00:06:26,304 --> 00:06:28,181
+y un afirmativo condicional.
+
+73
+00:06:28,932 --> 00:06:31,726
+Probabilidad de éxito: 8,7 %.
+
+74
+00:06:32,018 --> 00:06:33,645
+Nuestra cifra más elevada.
+
+75
+00:06:34,437 --> 00:06:38,566
+No veo razón para oponerme al plan.
+Proceda, capitana Katsuragi.
+
+76
+00:06:39,234 --> 00:06:40,068
+¡Sí, señor!
+
+77
+00:06:40,944 --> 00:06:45,573
+Se te ocurrió una cosa muy absurda,
+jefa de operaciones Katsuragi.
+
+78
+00:06:45,990 --> 00:06:47,867
+¿Absurda? ¡No seas grosera!
+
+79
+00:06:48,076 --> 00:06:50,245
+Puede puede ejecutarse en nueve horas.
+
+80
+00:06:50,620 --> 00:06:52,872
+¡Y tiene más probabilidades de éxito!
+
+81
+00:06:52,956 --> 00:06:54,123
+¿De verdad?
+
+82
+00:06:55,333 --> 00:07:00,004
+{\an8}Nuestro rifle de positrones no maneja
+esa cantidad de potencia. ¿Qué harás?
+
+83
+00:07:00,630 --> 00:07:02,590
+Pues tomaré uno que sí pueda.
+
+84
+00:07:03,258 --> 00:07:05,969
+¿Tomarás uno que...? Espera...
+
+85
+00:07:07,262 --> 00:07:09,264
+Sí, el prototipo de defensa estratégica.
+
+86
+00:07:09,347 --> 00:07:10,515
+{\an8}ORDEN DE ADQUISICIÓN
+
+87
+00:07:11,224 --> 00:07:14,560
+Por las razones mencionadas,
+NERV tomará el control
+
+88
+00:07:14,727 --> 00:07:18,189
+de este cañón de positrones
+a las 1500 horas de hoy.
+
+89
+00:07:18,773 --> 00:07:21,818
+{\an8}Pero eso es... ¡Sé razonable!
+
+90
+00:07:22,151 --> 00:07:26,322
+{\an8}Haremos lo posible por devolverlo intacto.
+
+91
+00:07:27,156 --> 00:07:29,659
+Gracias por su cooperación en este asunto.
+
+92
+00:07:30,493 --> 00:07:32,954
+¡Muy bien, Rei! ¡Adelante!
+
+93
+00:07:36,541 --> 00:07:38,960
+¡Es una pieza delicada, ten cuidado!
+
+94
+00:07:42,005 --> 00:07:46,342
+Aun así, según nuestros cálculos,
+necesitaríamos al menos 180 GW
+
+95
+00:07:46,426 --> 00:07:48,511
+para penetrar ese escudo AT.
+
+96
+00:07:49,095 --> 00:07:51,889
+¿De dónde sacarás tanta energía?
+
+97
+00:07:53,224 --> 00:07:55,935
+¿De dónde más? De todo Japón.
+
+98
+00:07:58,563 --> 00:08:02,608
+{\an8}<i>Interrumpimos este programa</i>
+<i>para darles el siguiente comunicado.</i>
+
+99
+00:08:03,609 --> 00:08:05,278
+{\an8}<i>Esta noche, desde de las 11:30 p. m.</i>
+
+100
+00:08:05,361 --> 00:08:08,781
+{\an8}<i>y hasta mañana, un apagón</i>
+<i>entrará en vigor en todo Japón.</i>
+
+101
+00:08:08,865 --> 00:08:13,202
+{\an8}<i>Agradecemos su cooperación.</i>
+
+102
+00:08:13,661 --> 00:08:17,749
+{\an8}<i>Repetimos: esta noche a las 11:30 p. m.</i>
+
+103
+00:08:18,041 --> 00:08:20,710
+{\an8}<i>y hasta mañana,</i>
+<i>habrá un apagón de gran escala</i>
+
+104
+00:08:20,793 --> 00:08:21,878
+{\an8}<i>en todo Japón.</i>
+
+105
+00:08:22,545 --> 00:08:24,839
+{\an8}<i>Agradecemos su cooperación.</i>
+
+106
+00:08:26,758 --> 00:08:28,718
+{\an8}TOKIO-3
+
+107
+00:08:28,801 --> 00:08:29,635
+{\an8}OPERACIONES
+
+108
+00:08:29,719 --> 00:08:31,888
+{\an8}<i>El taladro enemigo</i>
+<i>perforó la séptima capa.</i>
+
+109
+00:08:32,472 --> 00:08:34,057
+¿Cómo vamos de energía?
+
+110
+00:08:34,849 --> 00:08:39,979
+{\an8}Vamos un 3,2 % atrasados,
+pero estaremos listos a las 2310 horas.
+
+111
+00:08:40,480 --> 00:08:41,731
+¿Y el rifle de positrones?
+
+112
+00:08:42,273 --> 00:08:44,859
+{\an8}¡Tienes la palabra
+del Depto. de Desarrollo Tecnológico!
+
+113
+00:08:44,942 --> 00:08:47,111
+{\an8}¡Lo tendremos listo en tres horas!
+
+114
+00:08:47,779 --> 00:08:48,654
+{\an8}¿Defensa?
+
+115
+00:08:49,405 --> 00:08:52,158
+{\an8}Nos tendremos que esconder tras un escudo.
+
+116
+00:08:52,700 --> 00:08:54,243
+{\an8}¿Esto es un escudo?
+
+117
+00:08:54,702 --> 00:08:57,538
+{\an8}Sí, es un desecho del programa espacial.
+
+118
+00:08:58,081 --> 00:09:02,919
+No es muy lindo, pero el casco inferior
+tiene una gran capa de EM.
+
+119
+00:09:03,378 --> 00:09:06,255
+Será capaz de soportar ese rayo
+por 17 segundos.
+
+120
+00:09:06,339 --> 00:09:08,966
+- Tienes la garantía del Sector 2.
+- Bien.
+
+121
+00:09:09,425 --> 00:09:10,718
+¿Y el punto de disparo?
+
+122
+00:09:10,802 --> 00:09:14,764
+Factorizando distancia, terreno
+y acceso a la subestación eléctrica,
+
+123
+00:09:14,847 --> 00:09:16,057
+este es el mejor lugar.
+
+124
+00:09:17,266 --> 00:09:18,643
+Sí, con eso bastará.
+
+125
+00:09:19,644 --> 00:09:22,063
+¡Dispararemos desde la cima
+del monte Futago!
+
+126
+00:09:22,146 --> 00:09:25,233
+¡Comenzaremos cuando el reloj
+marque la medianoche!
+
+127
+00:09:25,316 --> 00:09:28,027
+¡Ahora se llamará: Operación Yashima!
+
+128
+00:09:28,319 --> 00:09:29,445
+¡Entendido!
+
+129
+00:09:29,862 --> 00:09:31,614
+<i>Solo faltan nuestros pilotos.</i>
+
+130
+00:09:47,171 --> 00:09:49,257
+{\an8}El piloto del Eva 01
+recuperó la consciencia.
+
+131
+00:09:49,340 --> 00:09:51,092
+{\an8}Valores de diagnóstivo aprobados.
+
+132
+00:09:51,217 --> 00:09:54,470
+Bien. La operación procederá
+según lo planeado.
+
+133
+00:09:54,679 --> 00:09:55,763
+Sí, señorita.
+
+134
+00:09:55,847 --> 00:09:57,765
+Pero ¿él querrá hacerlo de nuevo?
+
+135
+00:09:59,100 --> 00:10:00,601
+¡Listos para la batalla!
+
+136
+00:10:00,685 --> 00:10:04,188
+{\an8}HOSPITAL CENTRAL
+PABELLÓN DE CIRUGÍA NO. 3
+
+137
+00:10:18,870 --> 00:10:19,704
+Ayanami...
+
+138
+00:10:20,580 --> 00:10:22,957
+El itinerario de la Operación Yashima.
+
+139
+00:10:23,124 --> 00:10:25,376
+Comenzará esta noche a las 0000 horas.
+
+140
+00:10:27,378 --> 00:10:32,175
+A las 1730 horas, los pilotos Ikari
+y Ayanami se reportan en la jaula.
+
+141
+00:10:33,384 --> 00:10:36,971
+A las 1800 horas, se activan
+las Unidades 00 y 01.
+
+142
+00:10:37,638 --> 00:10:39,307
+A las 1805 horas, parten.
+
+143
+00:10:39,849 --> 00:10:42,852
+A las 1830 horas, arribo a la base militar
+de Futagoyama.
+
+144
+00:10:43,144 --> 00:10:45,313
+Una vez ahí, esperen instrucciones.
+
+145
+00:10:45,938 --> 00:10:49,484
+Cuando el reloj marque la medianoche,
+comenzará la operación.
+
+146
+00:10:51,652 --> 00:10:52,862
+Tu traje nuevo.
+
+147
+00:10:59,410 --> 00:11:01,621
+No olvides que estoy aquí.
+
+148
+00:11:08,544 --> 00:11:09,504
+Lo lamento.
+
+149
+00:11:14,217 --> 00:11:16,594
+No he hecho más que disculparme...
+
+150
+00:11:18,554 --> 00:11:19,597
+Tu cena.
+
+151
+00:11:23,601 --> 00:11:25,520
+No tengo hambre.
+
+152
+00:11:26,604 --> 00:11:28,231
+Nos vamos en 60 minutos.
+
+153
+00:11:29,398 --> 00:11:32,193
+¿Otra vez tengo que conducir esa cosa?
+
+154
+00:11:32,777 --> 00:11:33,819
+Sí, así es.
+
+155
+00:11:35,071 --> 00:11:36,781
+Estoy... harto.
+
+156
+00:11:37,823 --> 00:11:41,744
+No has pasado por todo lo que pasé yo.
+
+157
+00:11:43,412 --> 00:11:45,414
+No quiero volver a pasar por eso.
+
+158
+00:11:45,915 --> 00:11:46,791
+Quédate en cama.
+
+159
+00:11:48,459 --> 00:11:49,335
+¿Qué dices?
+
+160
+00:11:50,836 --> 00:11:52,630
+Yo conduciré la Unidad 01.
+
+161
+00:11:53,965 --> 00:11:58,219
+La doctora Akagi hizo arreglos
+para reescribir los datos de la Unidad 01.
+
+162
+00:11:59,428 --> 00:12:00,555
+¿En serio?
+
+163
+00:12:01,222 --> 00:12:04,809
+La capitana Katsuragi y la doctora Akagi
+esperan en la jaula.
+
+164
+00:12:09,981 --> 00:12:10,856
+Adiós.
+
+165
+00:12:26,038 --> 00:12:27,957
+{\an8}HOY NO HAY CLASES
+ESCUELA SECUNDARIA NO. 1
+
+166
+00:12:28,207 --> 00:12:32,587
+¿Por qué tardan tanto?
+Tenemos que ir al refugio.
+
+167
+00:12:32,837 --> 00:12:34,880
+Espié en los archivos de mi papá.
+
+168
+00:12:35,506 --> 00:12:37,341
+Sin duda, es la hora correcta
+
+169
+00:12:37,633 --> 00:12:39,677
+Tal vez, pero no están aquí.
+
+170
+00:12:45,266 --> 00:12:46,726
+¡Las montañas se mueven!
+
+171
+00:12:47,310 --> 00:12:48,269
+¡Los Evangelion!
+
+172
+00:12:58,863 --> 00:13:00,197
+¡Genial!
+
+173
+00:13:00,281 --> 00:13:03,826
+- ¡Vamos!
+- ¡Contamos con ustedes!
+
+174
+00:13:04,785 --> 00:13:06,454
+¡Ustedes pueden!
+
+175
+00:13:06,537 --> 00:13:07,872
+¡Todos los apoyamos!
+
+176
+00:13:08,289 --> 00:13:10,291
+{\an8}8:11 P. M.
+
+177
+00:13:13,961 --> 00:13:16,756
+{\an8}<i>El taladro del enemigo penetró la capa 17.</i>
+
+178
+00:13:16,839 --> 00:13:19,258
+{\an8}<i>¡Llegará a la sede</i>
+<i>en tres horas y 55 minutos!</i>
+
+179
+00:13:21,344 --> 00:13:24,138
+<i>Transmisión de red de conexión</i>
+<i>de Shikoku y Kyushu lista.</i>
+
+180
+00:13:24,555 --> 00:13:27,558
+<i>Comenzar con la prueba</i>
+<i>de unidades de refrigeración.</i>
+
+181
+00:13:28,643 --> 00:13:30,728
+Con cuidado, es una pieza delicada.
+
+182
+00:13:32,980 --> 00:13:36,859
+{\an8}No fue hecho para usarlo en combate,
+¿nos servirá?
+
+183
+00:13:37,401 --> 00:13:39,904
+{\an8}¿Qué más podemos hacer?
+Estamos improvisando.
+
+184
+00:13:40,154 --> 00:13:41,489
+Esto funcionará, ¿no?
+
+185
+00:13:41,781 --> 00:13:47,662
+Solo cuando disparemos sabremos
+si el cañón o el acelerador soportarán.
+
+186
+00:13:48,079 --> 00:13:51,082
+Nunca se probó usando tanta energía.
+
+187
+00:13:52,667 --> 00:13:55,586
+Estos son sus roles para la operación.
+
+188
+00:13:56,629 --> 00:13:57,755
+- Shinji.
+- ¿Sí?
+
+189
+00:13:58,172 --> 00:14:00,800
+- Serás el artillero en la Unidad 01.
+- Bien.
+
+190
+00:14:01,092 --> 00:14:04,220
+- Rei, tú en la defensa con Unidad 00.
+- Sí, señorita.
+
+191
+00:14:04,637 --> 00:14:08,683
+Es porque Shinji y la Unidad 01
+tienen mayor rango de sincronización.
+
+192
+00:14:08,891 --> 00:14:11,894
+Esta operación requiere
+un alto grado de precisión.
+
+193
+00:14:12,603 --> 00:14:16,357
+La rotación, los campos magnéticos
+y gravedad afectan los positrones,
+
+194
+00:14:16,440 --> 00:14:18,150
+por eso no avanzan en línea recta.
+
+195
+00:14:18,234 --> 00:14:19,568
+Debes corregir eso.
+
+196
+00:14:20,194 --> 00:14:23,989
+No lo olvides, dispara al núcleo
+y solo al núcleo. Con precisión.
+
+197
+00:14:24,573 --> 00:14:27,868
+Pero nunca he hecho algo así.
+
+198
+00:14:28,452 --> 00:14:31,497
+No te preocupes, sigue los indicadores.
+
+199
+00:14:31,872 --> 00:14:35,292
+Dispara cuando los marcadores
+estén centrados en el blanco.
+
+200
+00:14:35,960 --> 00:14:37,461
+La máquina hará el resto.
+
+201
+00:14:38,546 --> 00:14:43,092
+Luego, deberás enfriar, recargar
+y cambiar un fusible del arma,
+
+202
+00:14:43,175 --> 00:14:45,344
+no podrás volver a disparar de inmediato.
+
+203
+00:14:45,761 --> 00:14:48,264
+¿Qué pasa si fallo
+y el enemigo me dispara?
+
+204
+00:14:48,931 --> 00:14:50,725
+Concéntrate en tu tarea.
+
+205
+00:14:51,058 --> 00:14:53,686
+Intenta destruir al enemigo
+al primer tiro.
+
+206
+00:14:55,521 --> 00:14:57,440
+<i>Es decir: estaré en problemas.</i>
+
+207
+00:14:58,315 --> 00:14:59,150
+Y yo...
+
+208
+00:15:00,609 --> 00:15:02,862
+...¿debo proteger a la Unidad 01?
+
+209
+00:15:02,945 --> 00:15:03,779
+Es correcto.
+
+210
+00:15:04,697 --> 00:15:05,614
+Entendido.
+
+211
+00:15:06,490 --> 00:15:08,909
+Es hora. Vayan a cambiarse.
+
+212
+00:15:09,285 --> 00:15:10,119
+- Sí.
+- Sí.
+
+213
+00:15:21,088 --> 00:15:23,841
+Es posible que vayamos a morir.
+
+214
+00:15:25,718 --> 00:15:27,094
+¿Por qué dices eso?
+
+215
+00:15:31,557 --> 00:15:32,767
+No te morirás.
+
+216
+00:15:34,977 --> 00:15:36,437
+Yo te protegeré.
+
+217
+00:16:17,728 --> 00:16:20,189
+¿Por qué lo conduces, Ayanami?
+
+218
+00:16:24,527 --> 00:16:25,444
+Es mi vínculo.
+
+219
+00:16:26,278 --> 00:16:27,112
+¿Vínculo?
+
+220
+00:16:28,572 --> 00:16:30,241
+Sí, mi vínculo.
+
+221
+00:16:32,201 --> 00:16:33,160
+¿Con mi padre?
+
+222
+00:16:34,119 --> 00:16:34,995
+Con todos.
+
+223
+00:16:36,622 --> 00:16:39,083
+Vaya que eres dura, Ayanami.
+
+224
+00:16:40,334 --> 00:16:42,878
+No me queda nada más.
+
+225
+00:16:44,129 --> 00:16:45,756
+¿A qué te refieres?
+
+226
+00:16:47,633 --> 00:16:49,844
+Es hora. Hay que irnos.
+
+227
+00:16:52,179 --> 00:16:53,514
+Adiós.
+
+228
+00:17:06,235 --> 00:17:10,489
+{\an8}<i>Después del tono serán las 0000 horas.</i>
+
+229
+00:17:10,990 --> 00:17:14,076
+{\an8}TIEMPO ESTÁNDAR DE JAPÓN
+
+230
+00:17:15,244 --> 00:17:16,245
+{\an8}¡Comiencen!
+
+231
+00:17:17,162 --> 00:17:20,541
+Shinji, te confiaremos la energía
+de todo Japón.
+
+232
+00:17:21,250 --> 00:17:22,960
+- <i>Da tu mejor tiro.</i>
+- ¡Sí, señorita!
+
+233
+00:17:23,419 --> 00:17:25,546
+Inicien la primera fase de conexión.
+
+234
+00:17:25,629 --> 00:17:28,382
+Iniciando transmisión de energía
+de los distritos 1 a 803.
+
+235
+00:17:30,551 --> 00:17:32,636
+PELIGRO
+
+236
+00:17:37,892 --> 00:17:40,269
+<i>Sube el voltaje.</i>
+<i>Cerca de la sobrecarga.</i>
+
+237
+00:17:41,103 --> 00:17:43,314
+Sistemas de enfriamiento al máximo.
+
+238
+00:17:47,151 --> 00:17:48,944
+<i>Temperatura: sin problemas.</i>
+
+239
+00:17:50,279 --> 00:17:52,448
+Flujo de positrones sin anomalías.
+
+240
+00:17:52,698 --> 00:17:53,824
+¡Segunda conexión!
+
+241
+00:17:55,534 --> 00:17:57,244
+Inicien los aceleradores.
+
+242
+00:17:57,494 --> 00:17:59,079
+Dispositivo de convergencia: listo.
+
+243
+00:17:59,872 --> 00:18:02,499
+<i>Dirigiendo energía</i>
+<i>a subestación en Futago.</i>
+
+244
+00:18:02,875 --> 00:18:04,919
+<i>Tercera fase de conexión: exitosa.</i>
+
+245
+00:18:05,336 --> 00:18:07,087
+¡Deshabiliten el último dispositivo!
+
+246
+00:18:07,755 --> 00:18:09,089
+¡Procedan a cargar!
+
+247
+00:18:09,840 --> 00:18:11,091
+EN VIVO
+CARGADO
+
+248
+00:18:11,342 --> 00:18:13,969
+<i>Ajustando a rotación</i>
+<i>y gravedad terrestres.</i>
+
+249
+00:18:14,053 --> 00:18:16,013
+<i>En +0,0009.</i>
+
+250
+00:18:16,639 --> 00:18:19,433
+<i>¡Alcanzaremos el límite de voltaje en 0,2!</i>
+
+251
+00:18:26,440 --> 00:18:27,983
+¡Inicien la séptima fase!
+
+252
+00:18:29,526 --> 00:18:32,237
+<i>¡Dirigiendo la energía</i>
+<i>al rifle de positrones!</i>
+
+253
+00:18:33,489 --> 00:18:34,823
+¡Ocho! ¡Siete!
+
+254
+00:18:35,240 --> 00:18:37,993
+- ¡Seis! ¡Cinco!
+- ¡Concentración de energía enemiga!
+
+255
+00:18:38,327 --> 00:18:39,203
+¿Qué?
+
+256
+00:18:39,411 --> 00:18:40,955
+¡Dos! ¡Uno!
+
+257
+00:18:41,789 --> 00:18:42,831
+¡Fuego!
+
+258
+00:19:02,184 --> 00:19:03,268
+¿Fallamos?
+
+259
+00:19:12,778 --> 00:19:15,114
+<i>¡El taladro enemigo</i>
+<i>ha llegado al Geofrente!</i>
+
+260
+00:19:15,614 --> 00:19:16,657
+¡Segundo disparo!
+
+261
+00:19:18,033 --> 00:19:20,202
+¡Reemplazando fusible!
+¡Iniciando recarga!
+
+262
+00:19:20,703 --> 00:19:22,371
+<i>¡Enfriando el cañón!</i>
+
+263
+00:19:24,164 --> 00:19:26,333
+¡El objetivo
+vuelve a presentar mucha energía!
+
+264
+00:19:26,583 --> 00:19:27,668
+¡No!
+
+265
+00:19:30,045 --> 00:19:31,088
+¡Shinji!
+
+266
+00:19:38,887 --> 00:19:39,722
+¡Ayanami!
+
+267
+00:19:42,099 --> 00:19:43,392
+¡El escudo no resistirá!
+
+268
+00:19:43,475 --> 00:19:45,060
+- ¿Cuánto queda?
+- ¡Diez segundos!
+
+269
+00:19:46,812 --> 00:19:47,730
+Vamos...
+
+270
+00:19:50,858 --> 00:19:51,692
+¡Vamos!
+
+271
+00:19:58,323 --> 00:19:59,408
+¡Le dimos!
+
+272
+00:20:05,539 --> 00:20:06,373
+¡Ayanami!
+
+273
+00:20:37,696 --> 00:20:39,740
+¡Ayanami! ¿Te encuentras bien?
+
+274
+00:20:40,741 --> 00:20:41,575
+¡Ayanami!
+
+275
+00:20:53,212 --> 00:20:54,338
+No...
+
+276
+00:20:54,880 --> 00:20:58,634
+No digas que no te queda
+nada más, ¿de acuerdo?
+
+277
+00:21:01,303 --> 00:21:05,099
+No digas cosas tristes como "adiós"
+cada vez que te marches, ¿sí?
+
+278
+00:21:22,324 --> 00:21:23,617
+¿Por qué lloras?
+
+279
+00:21:27,830 --> 00:21:28,789
+Lo lamento.
+
+280
+00:21:29,164 --> 00:21:32,501
+No sé cómo debería actuar
+en estos momentos.
+
+281
+00:21:34,670 --> 00:21:36,171
+Podrías empezar sonriendo.
+
+282
+00:21:58,026 --> 00:22:00,404
+{\an8}CONTINUARÁ...
+
+283
+00:23:05,928 --> 00:23:07,304
+EN EL PRÓXIMO EPISODIO
+
+284
+00:23:07,679 --> 00:23:12,267
+<i>El arma humanoide de un organismo civil</i>
+<i>para combatir ángeles se descontrola.</i>
+
+285
+00:23:12,643 --> 00:23:15,354
+<i>¿Misato podrá evitar</i>
+<i>la fusión de un reactor?</i>
+
+286
+00:23:15,854 --> 00:23:17,731
+<i>Próximo episodio:</i>
+<i>"La creación del hombre".</i>
+
+287
+00:23:18,106 --> 00:23:19,233
+<i>¡Continúa viendo!</i>
+
+288
+00:23:19,316 --> 00:23:20,651
+Subtítulos: Paulina López de Lara
+

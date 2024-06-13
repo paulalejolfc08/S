@@ -1,0 +1,927 @@
+1
+00:01:51,821 --> 00:01:55,283
+<i>Me pregunto si Shinji faltará</i>
+<i>a la escuela de nuevo.</i>
+
+2
+00:01:55,992 --> 00:01:57,911
+HABITACIÓN DE SHINJI
+
+3
+00:01:59,204 --> 00:02:00,914
+Shinji, levántate.
+
+4
+00:02:01,039 --> 00:02:02,916
+¿Piensas seguir faltando a la escuela?
+
+5
+00:02:02,999 --> 00:02:06,294
+Ya pasaron cinco días.
+La Unidad 01 está como nueva.
+
+6
+00:02:06,503 --> 00:02:08,755
+Su piloto no debería holgazanear así.
+
+7
+00:02:09,422 --> 00:02:10,256
+¿Shinji?
+
+8
+00:02:19,766 --> 00:02:21,851
+PARA MISATO
+
+9
+00:02:28,191 --> 00:02:30,610
+Shinji huyó. No puedo culparlo.
+
+10
+00:02:42,831 --> 00:02:44,124
+¿Shinji?
+
+11
+00:02:44,499 --> 00:02:45,917
+Eh, bueno...
+
+12
+00:02:48,545 --> 00:02:51,548
+Somos compañeros de Shinji.
+Somos Aida y Suzuhara.
+
+13
+00:02:52,298 --> 00:02:53,758
+Aida y Suzuhara.
+
+14
+00:02:54,134 --> 00:02:56,678
+- Sí.
+- ¡Sí, señorita! Yo soy Suzuhara.
+
+15
+00:02:57,637 --> 00:03:00,223
+¿Son los que entraron
+a la cápsula del Eva?
+
+16
+00:03:00,807 --> 00:03:03,727
+¡Sí, señorita!
+Sentimos los problemas que causamos.
+
+17
+00:03:04,561 --> 00:03:08,064
+Estamos preocupados porque Shinji
+no ha ido a la escuela,
+
+18
+00:03:08,314 --> 00:03:10,150
+así que vinimos a verlo.
+
+19
+00:03:11,276 --> 00:03:14,487
+Shinji está entrenando
+en las facilidades de NERV.
+
+20
+00:03:14,571 --> 00:03:16,072
+¿Sí?
+
+21
+00:03:16,865 --> 00:03:19,576
+Estas tareas se acumularon
+en su escritorio.
+
+22
+00:03:19,909 --> 00:03:22,120
+No hacía falta que vinieran. Gracias.
+
+23
+00:03:22,495 --> 00:03:24,497
+Bueno, ya deberíamos irnos.
+
+24
+00:03:24,748 --> 00:03:26,583
+Dele a Shinji nuestros saludos.
+
+25
+00:03:27,083 --> 00:03:29,461
+Lo haré. Adiós.
+
+26
+00:03:35,925 --> 00:03:37,802
+Ese fue un giro inesperado.
+
+27
+00:03:38,595 --> 00:03:40,430
+Pero qué belleza.
+
+28
+00:03:43,975 --> 00:03:45,393
+¡Shinji, pequeño idiota!
+
+29
+00:03:49,981 --> 00:03:50,857
+Idiota...
+
+30
+00:03:53,359 --> 00:03:56,696
+LÍNEA 7 DE TOKIO-3
+
+31
+00:03:56,988 --> 00:03:59,908
+<i>Siguiente parada: Nagao-touge.</i>
+
+32
+00:05:00,385 --> 00:05:07,142
+<i>Gracias por usar la línea 7 de Tokio-3.</i>
+
+33
+00:05:07,725 --> 00:05:11,479
+<i>El tren no prestará servicios</i>
+<i>después de esta estación.</i>
+
+34
+00:05:12,355 --> 00:05:15,942
+<i>Por favor, recuerde tomar</i>
+<i>sus pertenencias antes de salir.</i>
+
+35
+00:05:22,115 --> 00:05:23,116
+Debo ir a casa.
+
+36
+00:05:24,659 --> 00:05:29,330
+¡Amigo! ¡Ven! ¡Es una verdadera ganga!
+
+37
+00:05:35,211 --> 00:05:37,797
+<i>- ¿No lo detectaste?</i>
+<i>- ¡No!</i>
+
+38
+00:05:37,881 --> 00:05:41,009
+<i>¡Un objeto de unos centímetros</i>
+<i>impactó en el Polo Sur</i>
+
+39
+00:05:41,092 --> 00:05:43,469
+<i>a una velocidad superior a la de la luz!</i>
+
+40
+00:05:43,553 --> 00:05:46,181
+<i>La ciencia no podía predecirlo,</i>
+<i>¡y menos prevenirlo!</i>
+
+41
+00:05:46,264 --> 00:05:49,767
+<i>¡Mira lo que pasa afuera!</i>
+<i>¿De qué nos sirve la ciencia?</i>
+
+42
+00:05:50,310 --> 00:05:55,273
+<i>El flujo atmosférico causado por el eje</i>
+<i>de la Tierra disminuyó un tres por ciento.</i>
+
+43
+00:05:55,356 --> 00:05:57,150
+<i>Entonces, ¿afuera está mejor?</i>
+
+44
+00:05:57,233 --> 00:06:00,987
+<i>¡No! ¡Viene un tsunami!</i>
+<i>¡Avanza a 230 metros por segundo!</i>
+
+45
+00:06:01,070 --> 00:06:02,363
+<i>¡Doctor! ¡Debemos escapar!</i>
+
+46
+00:06:02,447 --> 00:06:04,824
+<i>¡No, mi deber es estar aquí!</i>
+
+47
+00:06:04,908 --> 00:06:09,996
+<i>Doctor, morir es sencillo, pero también</i>
+<i>tiene la obligación de...</i>
+
+48
+00:07:22,860 --> 00:07:23,695
+Idiota.
+
+49
+00:08:16,998 --> 00:08:18,624
+<i>Solo tiene 14 años.</i>
+
+50
+00:08:19,959 --> 00:08:23,421
+Encomendarle el destino de la humanidad
+es pedir demasiado.
+
+51
+00:08:24,172 --> 00:08:29,802
+Pero no tenemos más opción que usar
+chicos de 14 años para conducir los Eva.
+
+52
+00:08:30,261 --> 00:08:31,262
+Lo sé.
+
+53
+00:08:31,596 --> 00:08:33,514
+¿Sabes algo de Shinji?
+
+54
+00:08:35,850 --> 00:08:36,684
+¿Nada?
+
+55
+00:08:39,645 --> 00:08:42,857
+No. Tal vez no vuelva.
+
+56
+00:08:43,816 --> 00:08:45,401
+¿Qué harás al respecto?
+
+57
+00:08:45,568 --> 00:08:49,238
+Nada. Quizá le convenga no regresar.
+
+58
+00:08:50,281 --> 00:08:51,324
+¿Por qué?
+
+59
+00:08:51,991 --> 00:08:54,202
+Después de la última batalla...
+
+60
+00:08:56,079 --> 00:08:58,164
+¿Por qué ignoraste la orden que di?
+
+61
+00:08:59,582 --> 00:09:00,666
+Lo siento.
+
+62
+00:09:01,376 --> 00:09:04,629
+- ¿No soy tu directora de operaciones?
+- Sí, señorita.
+
+63
+00:09:04,962 --> 00:09:08,925
+Es tu obligación obedecer mis órdenes.
+¿Lo comprendes?
+
+64
+00:09:09,008 --> 00:09:09,842
+Sí, señorita.
+
+65
+00:09:10,051 --> 00:09:12,428
+- Que no vuelva a pasar.
+- Sí, señorita.
+
+66
+00:09:12,762 --> 00:09:14,555
+¿Entiendes lo que digo?
+
+67
+00:09:15,139 --> 00:09:16,140
+Sí, señorita.
+
+68
+00:09:16,307 --> 00:09:20,269
+Escucha, repetir
+"Sí, señorita" no será suficiente.
+
+69
+00:09:21,062 --> 00:09:25,191
+Lo comprendo bien,
+pero ¿por qué importa eso? Ganamos.
+
+70
+00:09:26,567 --> 00:09:30,113
+Quizá te parezca más fácil
+decir que sí a todo,
+
+71
+00:09:30,446 --> 00:09:33,199
+pero te matará conducir el Eva
+con esa actitud.
+
+72
+00:09:33,574 --> 00:09:35,368
+Está bien, no me importa.
+
+73
+00:09:36,202 --> 00:09:38,830
+Quisiera decir que me alegra saber
+que tienes agallas,
+
+74
+00:09:38,913 --> 00:09:42,166
+pero te equivocas si crees
+que así ganarás puntos, Shinji Ikari.
+
+75
+00:09:42,834 --> 00:09:46,546
+No busco cumplidos.
+Si soy el único que puede conducirlo,
+
+76
+00:09:48,297 --> 00:09:49,173
+pues lo haré.
+
+77
+00:09:50,174 --> 00:09:51,426
+Ya veo.
+
+78
+00:09:54,554 --> 00:09:59,725
+Si conducir el Eva le causa sufrimiento,
+será mejor que no lo haga.
+
+79
+00:10:01,352 --> 00:10:02,353
+Si no, morirá.
+
+80
+00:10:02,895 --> 00:10:04,814
+Pero necesitamos un piloto.
+
+81
+00:10:12,697 --> 00:10:13,990
+¡Teniente, señor!
+
+82
+00:10:14,740 --> 00:10:17,243
+Aida, ¡sigue sin mí!
+
+83
+00:10:17,493 --> 00:10:21,539
+¡Pero no puedo dejarlo, señor!
+
+84
+00:10:22,999 --> 00:10:23,916
+¡No seas tonto!
+
+85
+00:10:34,427 --> 00:10:35,720
+Uy...
+
+86
+00:10:41,309 --> 00:10:42,310
+¿Es el nuevo?
+
+87
+00:10:43,686 --> 00:10:44,687
+¡Shinji!
+
+88
+00:11:00,578 --> 00:11:01,704
+ENTRENAMIENTO DE VERANO
+
+89
+00:11:01,787 --> 00:11:06,834
+Tohji lamenta haberte golpeado.
+Escuché que su hermana lo regañó.
+
+90
+00:11:07,793 --> 00:11:11,297
+Le dijo que tu robot nos salvó a todos.
+
+91
+00:11:11,881 --> 00:11:15,593
+Es gracioso que lo regañara
+una niña tan pequeña.
+
+92
+00:11:16,093 --> 00:11:16,969
+¿Verdad?
+
+93
+00:11:21,724 --> 00:11:25,144
+Me gusta la noche porque las cigarras
+no hacen sonidos tan fuertes.
+
+94
+00:11:26,270 --> 00:11:29,690
+Era más silencioso cuando era niño,
+pero cada año hay más.
+
+95
+00:11:30,608 --> 00:11:34,237
+La señorita Misato
+dijo que el ecosistema se regenera.
+
+96
+00:11:35,863 --> 00:11:36,864
+¿La señorita Misato?
+
+97
+00:11:37,615 --> 00:11:43,538
+¡Qué envidia! Vives con un bombón
+y puedes conducir un Evangelion.
+
+98
+00:11:44,705 --> 00:11:48,793
+¡Desearía conducir un Evangelion
+aunque sea una vez!
+
+99
+00:11:49,377 --> 00:11:52,755
+Yo no lo haría si fuera tú.
+Tu madre se preocuparía mucho.
+
+100
+00:11:54,340 --> 00:11:57,927
+Pues... eso no es problema.
+Yo no tengo mamá.
+
+101
+00:12:00,137 --> 00:12:01,472
+Igual que tú.
+
+102
+00:12:04,350 --> 00:12:06,936
+- ¿Tienes hambre?
+- Sí.
+
+103
+00:12:08,729 --> 00:12:10,481
+¿Haces esto con frecuencia?
+
+104
+00:12:12,525 --> 00:12:13,401
+Supongo.
+
+105
+00:12:13,734 --> 00:12:16,737
+¿Estás entrenando
+ para cuando seas guerrillero?
+
+106
+00:12:17,321 --> 00:12:20,908
+¿De qué me servirían estos juguetes?
+Solo estaba jugando.
+
+107
+00:12:46,142 --> 00:12:48,144
+¿Shinji Ikari?
+
+108
+00:12:48,728 --> 00:12:49,562
+Sí.
+
+109
+00:12:49,812 --> 00:12:52,064
+Somos de Inteligencia y Seguridad de NERV.
+
+110
+00:12:52,440 --> 00:12:55,484
+Hemos venido
+para llevarte al Cuartel General
+
+111
+00:12:55,568 --> 00:12:57,653
+por la <i>houan-jourei</i> de 1894.
+
+112
+00:12:57,737 --> 00:12:59,363
+- ¿Obedecerás?
+- Sí.
+
+113
+00:13:03,534 --> 00:13:06,495
+¿Te quedaste ahí
+y permitiste que se lo llevaran?
+
+114
+00:13:07,204 --> 00:13:11,375
+Déjame en paz. Eran profesionales
+de Inteligencia y Seguridad de NERV.
+
+115
+00:13:11,876 --> 00:13:15,796
+¿Y eso qué tiene que ver?
+¿No tienes valor?
+
+116
+00:13:16,422 --> 00:13:17,298
+¡Qué asco!
+
+117
+00:13:17,381 --> 00:13:18,215
+¡Es un tonto!
+
+118
+00:13:18,549 --> 00:13:22,845
+Solo un tonto busca pelea sin poder ganar.
+El valor no tiene nada que ver.
+
+119
+00:13:34,815 --> 00:13:36,942
+- Tanto tiempo.
+- Sí, señorita.
+
+120
+00:13:37,485 --> 00:13:40,696
+¿Vagar los últimos dos días
+te hizo sentir mejor?
+
+121
+00:13:41,572 --> 00:13:42,448
+No realmente.
+
+122
+00:13:43,240 --> 00:13:46,035
+Tu Eva te espera, ya está listo.
+¿Lo conducirás?
+
+123
+00:13:47,286 --> 00:13:48,120
+¿O no?
+
+124
+00:13:49,538 --> 00:13:52,375
+¿No me regañarás por haber huido?
+
+125
+00:13:55,836 --> 00:13:59,048
+Supongo que no lo harás.
+No eres de mi familia.
+
+126
+00:14:00,883 --> 00:14:04,470
+¿Qué pasaría con la Unidad 01
+si yo no lo condujera?
+
+127
+00:14:05,429 --> 00:14:07,014
+Supongo que Rei lo haría.
+
+128
+00:14:08,307 --> 00:14:09,266
+¿No lo harás tú?
+
+129
+00:14:10,393 --> 00:14:14,897
+¿Cómo no podría?
+No le puedo dejar todo a Rei.
+
+130
+00:14:15,523 --> 00:14:17,817
+No te preocupes. Lo haré.
+
+131
+00:14:18,359 --> 00:14:19,568
+¿Pero no quieres?
+
+132
+00:14:19,944 --> 00:14:23,781
+Claro que no, no estoy hecho para esto.
+
+133
+00:14:24,573 --> 00:14:27,326
+Pero Ayanami, Ritsuko y tú...
+
+134
+00:14:27,410 --> 00:14:31,247
+¡Ya basta! Lo que opinen los otros
+no importa, ¡y lo sabes!
+
+135
+00:14:31,455 --> 00:14:32,998
+¡Si no te gusta, vete!
+
+136
+00:14:33,332 --> 00:14:37,169
+Olvídate de los Eva y de todo lo demás.
+¡Vuelve a tu antigua vida!
+
+137
+00:14:38,963 --> 00:14:42,299
+Serás un problema comportándote así,
+no alguien de valor.
+
+138
+00:14:53,436 --> 00:14:57,189
+El Tercer Elegido
+dejará Tokio-3 mañana.
+
+139
+00:14:57,273 --> 00:14:59,942
+Reprograma la Unidad 01
+para enlazar a Rei.
+
+140
+00:15:00,317 --> 00:15:01,277
+Pero, señor...
+
+141
+00:15:01,610 --> 00:15:04,613
+Más allá del resultado
+de reinicio de la Unidad 00,
+
+142
+00:15:04,780 --> 00:15:06,866
+seguiremos con las pruebas
+de la Unidad 01.
+
+143
+00:15:12,288 --> 00:15:14,457
+Según informes del Instituto Marduk,
+
+144
+00:15:14,623 --> 00:15:16,917
+el Cuarto Elegido no ha sido hallado.
+
+145
+00:15:17,293 --> 00:15:20,296
+¿Significa que no tenemos
+pilotos de reemplazo?
+
+146
+00:15:23,758 --> 00:15:27,428
+Dónde está la señorita Misato?
+Quisiera despedirme.
+
+147
+00:15:27,928 --> 00:15:32,767
+Ya no perteneces a NERV.
+No podemos divulgar información.
+
+148
+00:15:46,864 --> 00:15:48,908
+- ¡Oye, Shinji!
+- ¡Olvidaste esto!
+
+149
+00:15:59,126 --> 00:16:01,253
+¿Me permiten un minuto?
+
+150
+00:16:04,757 --> 00:16:07,051
+Eh... gracias.
+
+151
+00:16:09,261 --> 00:16:12,014
+¡Tohji, suéltalo ya! ¡Vamos!
+
+152
+00:16:14,642 --> 00:16:17,520
+Shinji, no debí golpearte dos veces.
+
+153
+00:16:17,895 --> 00:16:19,438
+Golpéame.
+
+154
+00:16:19,522 --> 00:16:21,148
+¡No puedo hacer eso!
+
+155
+00:16:21,232 --> 00:16:23,818
+Por favor. No podría vivir conmigo mismo.
+
+156
+00:16:23,901 --> 00:16:25,778
+Ya sabes que es melodramático.
+
+157
+00:16:25,986 --> 00:16:28,405
+Si ayuda a hacer las paces, golpéalo.
+
+158
+00:16:30,157 --> 00:16:30,991
+Pero...
+
+159
+00:16:31,075 --> 00:16:33,202
+¡Vamos! No tienes todo el día, ¿no?
+
+160
+00:16:34,286 --> 00:16:36,205
+Bien. Solo una vez.
+
+161
+00:16:36,580 --> 00:16:37,998
+¡Bien! ¡Golpéame!
+
+162
+00:16:42,503 --> 00:16:43,337
+¡Espera!
+
+163
+00:16:45,673 --> 00:16:46,674
+Sin contenerte.
+
+164
+00:16:51,095 --> 00:16:52,388
+¡Auch!
+
+165
+00:17:03,482 --> 00:17:04,483
+¿Cómo me encontraron?
+
+166
+00:17:04,942 --> 00:17:10,155
+Una corazonada. Últimamente aquí
+despedimos a docenas de compañeros.
+
+167
+00:17:13,117 --> 00:17:19,248
+Si no te quedas, probablemente
+debamos evacuar la ciudad,
+
+168
+00:17:19,540 --> 00:17:21,584
+no podemos obligarte a que te quedes.
+
+169
+00:17:21,750 --> 00:17:25,421
+Vimos lo que te pasa
+cuando estás en el Eva.
+
+170
+00:17:26,046 --> 00:17:28,757
+¡Reto a quien sea a hablar mal de ti!
+
+171
+00:17:29,550 --> 00:17:31,260
+¡Moleré a golpes al que se atreva!
+
+172
+00:17:35,389 --> 00:17:37,600
+¡Pero no me mires así, hombre!
+
+173
+00:17:38,017 --> 00:17:40,269
+- Cuídate.
+- Resiste.
+
+174
+00:17:40,519 --> 00:17:41,478
+Eh...
+
+175
+00:17:43,105 --> 00:17:43,981
+Es hora.
+
+176
+00:18:11,216 --> 00:18:12,301
+¡Basta!
+
+177
+00:18:12,468 --> 00:18:14,386
+¡Deberías darme una paliza a mí!
+
+178
+00:18:15,512 --> 00:18:18,641
+¡Soy mentiroso y cobarde!
+
+179
+00:18:19,725 --> 00:18:22,478
+¡Soy miedoso y débil!
+
+180
+00:18:24,229 --> 00:18:26,106
+No nos des más problemas, niño.
+
+181
+00:18:38,869 --> 00:18:40,079
+Creo que se fue.
+
+182
+00:18:44,041 --> 00:18:45,125
+¿Era lo mejor?
+
+183
+00:18:46,126 --> 00:18:47,920
+El dilema del erizo, ¿no?
+
+184
+00:18:49,463 --> 00:18:52,091
+Cuanto más se acercan, más se lastiman...
+
+185
+00:18:53,217 --> 00:18:54,510
+Ya lo entiendo.
+
+186
+00:18:57,137 --> 00:19:03,644
+Habla de ese modo porque no sabe
+expresar sus sentimientos.
+
+187
+00:19:05,020 --> 00:19:09,233
+<i>El tren expreso con dirección a Atsugi</i>
+<i>está llegando al andén 2.</i>
+
+188
+00:19:09,942 --> 00:19:13,779
+<i>Por su seguridad, favor</i>
+<i>de permanecer detrás de la línea amarilla.</i>
+
+189
+00:19:15,489 --> 00:19:18,033
+<i>El tren del andén 2 es de uso oficial</i>
+
+190
+00:19:18,117 --> 00:19:20,703
+<i>y parte para Atsugi a las 4:20.</i>
+
+191
+00:19:21,161 --> 00:19:23,706
+<i>El público deberá permanecer</i>
+<i>tras la valla.</i>
+
+192
+00:19:24,581 --> 00:19:27,918
+<i>El abordaje de personal no autorizado</i>
+<i>está estrictamente prohibido.</i>
+
+193
+00:19:28,002 --> 00:19:30,170
+<i>Tomen medidas para respetar las órdenes.</i>
+
+194
+00:19:41,306 --> 00:19:42,516
+<i>Resiste un poco más.</i>
+
+195
+00:20:17,426 --> 00:20:18,260
+¡Mira!
+
+196
+00:20:18,802 --> 00:20:21,055
+¡La belleza del departamento de Shinji!
+
+197
+00:21:14,608 --> 00:21:18,654
+<i>El tren local con dirección a Goura</i>
+<i>está llegando al andén 4.</i>
+
+198
+00:21:19,488 --> 00:21:23,075
+<i>Por su seguridad,</i>
+<i>permanezca detrás de la linea amarilla.</i>
+
+199
+00:21:24,201 --> 00:21:27,621
+<i>Pasajeros con niños pequeños,</i>
+<i>favor de vigilarlos de cerca.</i>
+
+200
+00:21:29,748 --> 00:21:35,212
+<i>El tren del andén 4</i>
+<i>partirá para Goura a las 4:32.</i>
+
+201
+00:21:36,213 --> 00:21:39,174
+<i>Los pasajeros deberán abordar y esperar.</i>
+
+202
+00:21:40,467 --> 00:21:45,305
+<i>El tren está llegando.</i>
+<i>Permanezca tras la línea amarilla.</i>
+
+203
+00:21:49,309 --> 00:21:51,520
+He... vuelto.
+
+204
+00:21:56,066 --> 00:21:57,151
+Bienvenido a casa.
+
+205
+00:21:57,609 --> 00:22:00,487
+{\an8}CONTINUARÁ...
+
+206
+00:23:06,094 --> 00:23:06,970
+PRÓXIMO EPISODIO...
+
+207
+00:23:07,054 --> 00:23:10,682
+<i>Rei Ayanami, la chica que interactúa</i>
+<i>al mínimo con los otros,</i>
+
+208
+00:23:10,766 --> 00:23:13,685
+<i>únicamente habla con el comandante Ikari.</i>
+
+209
+00:23:14,144 --> 00:23:17,189
+<i>Shinji se queda perplejo,</i>
+<i>pues Rei habla más con su padre que él.</i>
+
+210
+00:23:17,522 --> 00:23:19,441
+<i>Próximo episodio:</i>
+<i>"Rei, más allá del corazón".</i>
+
+211
+00:23:19,524 --> 00:23:20,817
+Subtítulos: Paulina López de Lara
+
