@@ -1,0 +1,1842 @@
+﻿1
+00:02:10,616 --> 00:02:12,116
+Othere.
+
+2
+00:02:13,033 --> 00:02:16,158
+Has vuelto. Bienvenido.
+
+3
+00:02:19,991 --> 00:02:21,241
+Bienvenido.
+
+4
+00:02:22,283 --> 00:02:23,366
+Othere.
+
+5
+00:02:24,783 --> 00:02:27,283
+Siéntate, por favor. Bebe.
+
+6
+00:02:28,825 --> 00:02:29,908
+Othere.
+
+7
+00:02:30,908 --> 00:02:31,908
+Te presento a Ubbe,
+
+8
+00:02:32,575 --> 00:02:34,908
+hijo de Ragnar Lothbrok.
+
+9
+00:02:35,533 --> 00:02:37,200
+Vino desde muy lejos
+para conocerte.
+
+10
+00:02:38,741 --> 00:02:40,325
+Tú eres Othere.
+
+11
+00:02:43,700 --> 00:02:45,075
+Ella es mi esposa, Torvi.
+
+12
+00:02:49,783 --> 00:02:54,116
+Ubbe está muy interesado
+en tus viajes hacia el oeste.
+
+13
+00:02:57,408 --> 00:02:58,950
+Eso fue hace mucho tiempo.
+
+14
+00:02:59,033 --> 00:03:02,033
+Por favor, me
+gustaría escucharlo.
+
+15
+00:03:02,950 --> 00:03:05,033
+Me gustaría saber sobre la
+nueva tierra que hallaste.
+
+16
+00:03:15,616 --> 00:03:16,741
+Muy bien.
+
+17
+00:03:18,158 --> 00:03:22,908
+Navegaba hacia el oeste de aquí,
+rodeando la tierra,
+
+18
+00:03:22,991 --> 00:03:26,075
+cuando una tormenta
+sacó a mi barco de su curso.
+
+19
+00:03:27,200 --> 00:03:30,158
+Cuando la tormenta cesó,
+ya no había tierra.
+
+20
+00:03:30,241 --> 00:03:32,450
+Y yo no sabía dónde estaba.
+
+21
+00:03:34,033 --> 00:03:36,325
+Los días pasaron.
+
+22
+00:03:36,908 --> 00:03:39,616
+Comencé a quedarme
+sin agua ni comida.
+
+23
+00:03:41,075 --> 00:03:42,700
+Ya me estaba resignando a morir.
+
+24
+00:03:47,033 --> 00:03:48,491
+Pero entonces...
+
+25
+00:03:49,783 --> 00:03:54,116
+Una mañana el sol
+salió detrás de mí.
+
+26
+00:03:54,200 --> 00:03:58,783
+Y la vi, vi una nueva tierra.
+
+27
+00:04:00,533 --> 00:04:04,700
+Los vientos me arrastraron
+por la costa todo el día.
+
+28
+00:04:04,783 --> 00:04:07,116
+Eran tierras altas,
+
+29
+00:04:07,950 --> 00:04:14,491
+con montañas gigantes, hermosas,
+
+30
+00:04:14,575 --> 00:04:16,991
+y con miles de formas,
+
+31
+00:04:17,158 --> 00:04:19,575
+cubiertas de árboles tan altos
+
+32
+00:04:19,658 --> 00:04:23,158
+que parecía que
+tocaban el cielo.
+
+33
+00:04:25,700 --> 00:04:31,533
+Y vi pinares maravillosos
+y vastas planicies fértiles.
+
+34
+00:04:31,950 --> 00:04:35,783
+Debo decirte, Ubbe,
+hijo de Ragnar,
+
+35
+00:04:37,783 --> 00:04:41,283
+que era una tierra dorada.
+
+36
+00:04:53,033 --> 00:04:54,575
+¿Por qué no te quedaste ahí?
+
+37
+00:04:55,033 --> 00:04:58,616
+La marea invernal era muy fuerte
+y barrió conmigo.
+
+38
+00:04:59,491 --> 00:05:02,741
+Por la mañana, me encontré
+otra vez en el océano abierto.
+
+39
+00:05:04,533 --> 00:05:08,908
+Tuve la suerte de encontrar una
+pequeña isla con agua y animales,
+
+40
+00:05:09,408 --> 00:05:12,991
+y finalmente, las corrientes
+me trajeron de vuelta aquí.
+
+41
+00:05:13,783 --> 00:05:16,950
+Pero nunca olvidé lo que vi.
+
+42
+00:05:25,616 --> 00:05:28,116
+Navegarás con nosotros.
+
+43
+00:05:28,200 --> 00:05:29,991
+Intentarás volver
+a encontrar estas tierras.
+
+44
+00:05:36,200 --> 00:05:38,408
+Tal vez, si crees
+que puedo ayudar.
+
+45
+00:05:41,366 --> 00:05:42,575
+¡Las tierras doradas!
+
+46
+00:05:42,658 --> 00:05:45,408
+¡Tierras doradas!
+
+47
+00:05:51,908 --> 00:05:53,325
+¿Y qué hay de Floki?
+
+48
+00:05:54,700 --> 00:05:57,533
+¿Floki? Nunca conocí a Floki.
+
+49
+00:06:00,033 --> 00:06:04,700
+Floki desapareció antes de que llegara
+Othere y navegara hacia el oeste.
+
+50
+00:06:06,908 --> 00:06:09,491
+Ha sido un día
+largo. Estoy cansada.
+
+51
+00:06:12,908 --> 00:06:14,741
+Gracias a todos por el banquete.
+
+52
+00:06:15,366 --> 00:06:19,825
+Estamos muy contentos de estar aquí
+en Islandia, en el borde del mundo.
+
+53
+00:06:19,908 --> 00:06:21,658
+- Que duermas bien.
+- Buenas noches.
+
+54
+00:06:30,491 --> 00:06:32,200
+No tiene que saber todo.
+
+55
+00:07:36,616 --> 00:07:37,991
+Reina Gunnhild.
+
+56
+00:07:38,658 --> 00:07:39,783
+Erik.
+
+57
+00:07:40,366 --> 00:07:42,491
+Solo Erik.
+
+58
+00:07:44,616 --> 00:07:47,158
+Usted me impresiona mucho.
+
+59
+00:07:47,825 --> 00:07:49,325
+¿Lo impresiono? ¿Por qué?
+
+60
+00:07:50,366 --> 00:07:53,533
+Que no sea celosa,
+que permita que pase esto.
+
+61
+00:08:01,491 --> 00:08:02,491
+<i>Erik.</i>
+
+62
+00:08:03,325 --> 00:08:06,658
+Salvó la vida de mi
+esposo, no la mía.
+
+63
+00:08:08,158 --> 00:08:10,866
+No me conoce tanto
+como para saber qué siento.
+
+64
+00:08:11,491 --> 00:08:12,866
+Eso me pertenece a mí.
+
+65
+00:08:14,450 --> 00:08:16,491
+Lo siento, reina Gunnhild.
+
+66
+00:08:17,575 --> 00:08:18,700
+Discúlpeme.
+
+67
+00:08:37,158 --> 00:08:38,200
+<i>Eres joven.</i>
+
+68
+00:08:38,491 --> 00:08:41,491
+Me pregunto si conoces
+las historias de los dioses.
+
+69
+00:08:43,200 --> 00:08:44,575
+Claro que si.
+
+70
+00:08:45,241 --> 00:08:47,158
+Entonces, conoces la
+historia de Freya.
+
+71
+00:08:48,408 --> 00:08:51,491
+<i>Sí, es la diosa</i>
+<i>de la fertilidad.</i>
+
+72
+00:08:52,033 --> 00:08:53,908
+<i>Vive en el salón</i>
+<i>llamado Sessrumnir</i>
+
+73
+00:08:53,991 --> 00:08:55,908
+<i>y viaja en un carro</i>
+<i>tirado por gatos.</i>
+
+74
+00:08:55,991 --> 00:08:58,950
+Sí. Todos los niños saben eso.
+
+75
+00:09:00,366 --> 00:09:03,366
+Sucede que su collar,
+el Brisingamen,
+
+76
+00:09:03,783 --> 00:09:07,158
+fue pagado con sexo
+con los enanos que lo hicieron.
+
+77
+00:09:07,241 --> 00:09:10,908
+Loki la acusó de haber tenido
+sexo con todos los elfos
+
+78
+00:09:10,991 --> 00:09:12,033
+del Aesir.
+
+79
+00:09:12,241 --> 00:09:15,450
+Y mató a la mitad de ellos
+en la batalla con Odín.
+
+80
+00:09:15,533 --> 00:09:18,866
+Pero cuando su esposo
+se va, ella llora.
+
+81
+00:09:18,950 --> 00:09:23,116
+Pero no lágrimas de agua,
+Ingrid. Lágrimas de oro.
+
+82
+00:09:23,741 --> 00:09:25,283
+Un verdadero tesoro.
+
+83
+00:09:36,450 --> 00:09:38,325
+Si quieres ir con ella, ve.
+
+84
+00:09:38,991 --> 00:09:41,325
+Es tu noche de bodas.
+Te estará esperando.
+
+85
+00:09:43,033 --> 00:09:44,408
+Estoy embarazada,
+
+86
+00:09:45,033 --> 00:09:46,991
+y estoy casada con un semidiós.
+
+87
+00:09:47,950 --> 00:09:49,075
+Tú también.
+
+88
+00:09:49,991 --> 00:09:51,950
+No me hables de cosas ridículas,
+
+89
+00:09:52,033 --> 00:09:54,283
+de celos de humanos,
+
+90
+00:09:54,408 --> 00:09:57,158
+las preocupaciones triviales
+y repetidas de la humanidad.
+
+91
+00:09:58,158 --> 00:09:59,575
+Creía que estabas
+por encima de eso.
+
+92
+00:10:00,700 --> 00:10:04,575
+Creía que eras un
+espíritu libre.
+
+93
+00:10:10,450 --> 00:10:11,575
+Ahora, eres libre.
+
+94
+00:10:13,283 --> 00:10:16,408
+Cásate con mi esposo,
+tienes mi bendición.
+
+95
+00:10:27,075 --> 00:10:28,533
+No quería lastimarte.
+
+96
+00:10:30,283 --> 00:10:31,658
+No estaba seguro.
+
+97
+00:10:32,783 --> 00:10:34,825
+No, me temo que
+ese fue tu error.
+
+98
+00:10:35,658 --> 00:10:36,991
+Pero ahora, debes estar seguro.
+
+99
+00:10:37,866 --> 00:10:40,991
+Tomaste una decisión.
+Vive con eso.
+
+100
+00:10:41,075 --> 00:10:44,450
+Cree en eso.
+Si no, ¿cómo podré respetarte?
+
+101
+00:11:48,825 --> 00:11:50,783
+Sé que el rey Harald
+vendrá a buscarme.
+
+102
+00:11:51,033 --> 00:11:54,700
+Si quiere ser rey de toda
+Noruega, debe eliminarme,
+
+103
+00:11:55,241 --> 00:11:58,200
+y en ese caso, necesitamos aumentar
+la vigilancia en el fiordo.
+
+104
+00:11:59,075 --> 00:12:00,866
+Y tú debes liderarlos.
+
+105
+00:12:03,991 --> 00:12:05,325
+¿Yo?
+
+106
+00:12:08,575 --> 00:12:13,450
+Confío en ti, porque necesitas
+que yo siga vivo
+
+107
+00:12:14,908 --> 00:12:16,575
+así tú sigues vivo.
+
+108
+00:12:34,033 --> 00:12:35,825
+Esto está tardando mucho tiempo.
+
+109
+00:12:38,200 --> 00:12:39,491
+¿Qué pasa?
+
+110
+00:12:46,741 --> 00:12:47,866
+¿Qué problema hay?
+
+111
+00:12:48,325 --> 00:12:50,450
+El bebé está mal ubicado.
+
+112
+00:12:50,783 --> 00:12:52,658
+Torvi no puede dar a
+luz de forma natural.
+
+113
+00:13:05,783 --> 00:13:08,366
+He venido a rezar por
+la mujer y su bebé.
+
+114
+00:13:37,408 --> 00:13:38,658
+¿Para qué es eso?
+
+115
+00:13:39,533 --> 00:13:42,033
+Tal vez tenga que abrirla
+para quitar al bebé.
+
+116
+00:13:49,450 --> 00:13:50,866
+¿Significa que ella morirá?
+
+117
+00:14:40,533 --> 00:14:41,616
+Aún no.
+
+118
+00:14:43,491 --> 00:14:44,908
+Mi amor.
+
+119
+00:15:11,116 --> 00:15:12,825
+Sí, ya viene.
+
+120
+00:15:12,908 --> 00:15:14,033
+Muy bien.
+
+121
+00:15:15,658 --> 00:15:16,950
+Ahora, comienza.
+
+122
+00:15:20,575 --> 00:15:21,991
+¡Puedo ver la cabeza!
+
+123
+00:15:23,658 --> 00:15:24,825
+¡Una vez más, sí!
+
+124
+00:15:24,908 --> 00:15:26,950
+¡Sigue, sí!
+
+125
+00:15:28,283 --> 00:15:30,325
+¡Sí, está aquí!
+
+126
+00:16:23,408 --> 00:16:25,408
+¿Quiénes son esas personas?
+
+127
+00:16:25,658 --> 00:16:27,158
+No lo sé.
+
+128
+00:16:27,241 --> 00:16:29,075
+Pero no son vikingos.
+
+129
+00:16:29,200 --> 00:16:31,200
+Y no es uno de los
+barcos del rey Harald.
+
+130
+00:16:32,033 --> 00:16:33,533
+Son exploradores.
+
+131
+00:16:33,908 --> 00:16:35,575
+Pero ¿de dónde?
+
+132
+00:16:50,450 --> 00:16:51,491
+{\an8}¡Rodéenlos!
+
+133
+00:16:53,866 --> 00:16:55,908
+{\an8}¡Bloqueen su retirada!
+
+134
+00:17:40,533 --> 00:17:42,241
+{\an8}¡Retirada!
+
+135
+00:17:43,200 --> 00:17:45,158
+{\an8}¡Regresen a los botes!
+
+136
+00:18:17,575 --> 00:18:19,241
+Te ves muy mal.
+
+137
+00:18:22,116 --> 00:18:23,741
+Me siento muy mal.
+
+138
+00:18:29,491 --> 00:18:30,866
+¿Qué tienes puesto?
+
+139
+00:18:57,658 --> 00:18:59,366
+¿Por que sigues regresando?
+
+140
+00:19:01,283 --> 00:19:03,283
+¿Por qué me acechas así?
+
+141
+00:19:05,450 --> 00:19:06,825
+No lo entiendo.
+
+142
+00:19:11,533 --> 00:19:13,283
+Pero me alegra verte.
+
+143
+00:19:17,950 --> 00:19:19,575
+Me alegra mucho verte.
+
+144
+00:19:55,241 --> 00:19:56,616
+¿Quiénes son estas personas?
+
+145
+00:19:56,783 --> 00:19:59,366
+Rus, la misma gente
+que conocimos en Kiev.
+
+146
+00:19:59,700 --> 00:20:01,241
+La misma gente con
+la que se queda Ivar.
+
+147
+00:20:05,575 --> 00:20:06,783
+¿Qué significa?
+
+148
+00:20:07,241 --> 00:20:08,366
+¿Por qué vinieron
+a saquear aquí?
+
+149
+00:20:09,908 --> 00:20:12,200
+No estaban saqueando.
+Estaban explorando.
+
+150
+00:20:13,366 --> 00:20:14,950
+Probaban nuestras defensas.
+
+151
+00:20:15,033 --> 00:20:16,950
+Planean invadir nuestro país.
+
+152
+00:20:18,741 --> 00:20:20,533
+Escuché historias de Rus.
+
+153
+00:20:21,491 --> 00:20:25,033
+Es un reino inmenso,
+con muchos recursos.
+
+154
+00:20:25,325 --> 00:20:26,533
+Enormes ejércitos.
+
+155
+00:20:27,741 --> 00:20:29,991
+Tal vez pretenden invadir
+toda Escandinavia.
+
+156
+00:20:31,783 --> 00:20:33,658
+Con la ayuda de Ivar
+y su conocimiento.
+
+157
+00:20:34,366 --> 00:20:36,075
+Qué satisfecho debe estar
+
+158
+00:20:36,491 --> 00:20:39,283
+de pensar que
+volverá y triunfará.
+
+159
+00:20:39,366 --> 00:20:43,658
+No podemos resistir la invasión
+de un enemigo tan poderoso.
+
+160
+00:20:43,783 --> 00:20:45,700
+¡Igual debemos resistir!
+
+161
+00:20:48,033 --> 00:20:50,283
+No moverán sus
+ejércitos en invierno.
+
+162
+00:20:51,991 --> 00:20:54,241
+Tenemos hasta la primavera
+para decidir qué hacer.
+
+163
+00:21:00,241 --> 00:21:02,241
+En el fondo, sabes
+lo que debemos hacer.
+
+164
+00:21:03,741 --> 00:21:05,616
+Harald es rey de toda Noruega.
+
+165
+00:21:06,158 --> 00:21:10,366
+Debes hablar con él, ofrecerle
+paz y un frente unificado.
+
+166
+00:21:11,575 --> 00:21:13,533
+Dices eso porque
+tienen historia.
+
+167
+00:21:15,075 --> 00:21:16,450
+¿De qué hablas?
+
+168
+00:21:17,741 --> 00:21:19,991
+Me dijeron que el rey Harald
+pidió tu mano.
+
+169
+00:21:21,200 --> 00:21:25,241
+Con todo respeto,
+¿qué otra pelea puede haber?
+
+170
+00:21:26,283 --> 00:21:28,866
+Categat no puede
+luchar contra Rus.
+
+171
+00:21:28,950 --> 00:21:30,366
+Tienes razón.
+
+172
+00:21:30,533 --> 00:21:33,491
+Y Gunnhild tiene razón. Debemos
+aliarnos con el rey Harald.
+
+173
+00:21:34,491 --> 00:21:36,783
+Te encomiendo ir al
+reino del rey Harald.
+
+174
+00:21:37,825 --> 00:21:40,616
+Tal vez entre en razón
+y deje a un lado su vanidad.
+
+175
+00:21:43,116 --> 00:21:44,616
+¿En qué creen los rus?
+
+176
+00:21:45,741 --> 00:21:47,075
+Son cristianos.
+
+177
+00:21:49,658 --> 00:21:51,241
+Creen en el dios cristiano.
+
+178
+00:21:51,325 --> 00:21:53,408
+Entonces, no pelearemos
+solo por nosotros,
+
+179
+00:21:53,491 --> 00:21:55,116
+¡sino por nuestros dioses!
+
+180
+00:21:56,658 --> 00:21:59,408
+Y con la ayuda de
+Odín, debemos triunfar.
+
+181
+00:22:06,866 --> 00:22:08,533
+Aunque parezca imposible.
+
+182
+00:22:13,575 --> 00:22:15,950
+Quiero que brindemos por el nacimiento
+de nuestro hijo.
+
+183
+00:22:17,075 --> 00:22:20,700
+Decidimos llamarlo Ragnar,
+en honor a su abuelo.
+
+184
+00:22:23,408 --> 00:22:25,866
+¡Viva Ragnar! Larga
+vida a Ragnar.
+
+185
+00:22:26,366 --> 00:22:28,658
+<i>- Skol.</i>
+<i>- ¡Skol!</i>
+
+186
+00:22:31,116 --> 00:22:32,950
+Quiero agradecerles
+a todos por su ayuda.
+
+187
+00:22:34,700 --> 00:22:36,450
+Y quiero agradecerte
+a ti, Othere.
+
+188
+00:22:37,950 --> 00:22:41,033
+Por tus plegarias por
+mi esposa y mi hijo.
+
+189
+00:22:44,450 --> 00:22:47,283
+Pero viví en Inglaterra
+y no pude evitar reconocerlas.
+
+190
+00:22:50,866 --> 00:22:54,241
+Eran plegarias cristianas
+a un dios cristiano.
+
+191
+00:23:03,158 --> 00:23:06,950
+Llamé solo a nuestros dioses.
+¿Por qué haría otra cosa?
+
+192
+00:23:08,741 --> 00:23:11,700
+No lo sé. Tú dime.
+
+193
+00:23:23,491 --> 00:23:24,908
+Soy...
+
+194
+00:23:25,450 --> 00:23:28,866
+Mejor dicho, hace mucho tiempo
+fui monje en Inglaterra.
+
+195
+00:23:31,241 --> 00:23:33,325
+Entonces me llamaba Athelstan.
+
+196
+00:23:37,158 --> 00:23:38,033
+¿Athelstan?
+
+197
+00:23:45,283 --> 00:23:48,116
+Me enviaron a un
+seminario en Roma.
+
+198
+00:23:50,950 --> 00:23:54,658
+Decidieron enviarme a recorrer
+el mundo como misionero,
+
+199
+00:23:56,200 --> 00:23:59,741
+a llevarles la palabra de Dios a
+quienes nunca la habían escuchado.
+
+200
+00:24:02,241 --> 00:24:05,575
+Aún recuerdo cuando navegué
+a Escandinavia.
+
+201
+00:24:06,241 --> 00:24:10,616
+Cuando los locales descubrieron
+lo que me proponía, casi me matan
+
+202
+00:24:12,158 --> 00:24:13,741
+y me ahuyentaron.
+
+203
+00:24:14,575 --> 00:24:20,325
+Y seguí hacia otros lugares,
+
+204
+00:24:21,616 --> 00:24:23,908
+luego de fallar como misionero.
+
+205
+00:24:25,241 --> 00:24:27,658
+Aprendí algo de nórdico
+
+206
+00:24:29,741 --> 00:24:36,491
+y conocí a un vagabundo
+llamado Othere.
+
+207
+00:24:38,033 --> 00:24:40,366
+Me contó de sus viajes,
+
+208
+00:24:41,658 --> 00:24:45,616
+de las vistas maravillosas
+y los milagros que presenció
+
+209
+00:24:45,700 --> 00:24:46,950
+en el camino.
+
+210
+00:24:50,783 --> 00:24:53,950
+Pero estaba enfermo y moribundo.
+
+211
+00:25:06,533 --> 00:25:07,783
+Lo enterré.
+
+212
+00:25:10,075 --> 00:25:11,450
+Y tomé su nombre.
+
+213
+00:25:19,200 --> 00:25:23,241
+Luego vine aquí,
+
+214
+00:25:23,325 --> 00:25:26,283
+a este joven asentamiento.
+
+215
+00:25:28,741 --> 00:25:30,158
+Renacido.
+
+216
+00:25:34,658 --> 00:25:38,533
+Fue entonces que decidí
+hacerme a la mar otra vez,
+
+217
+00:25:40,825 --> 00:25:44,533
+y fue en este viaje posterior
+
+218
+00:25:45,991 --> 00:25:50,200
+que avisté la tierra dorada.
+
+219
+00:25:53,866 --> 00:26:00,033
+Pero como ya saben,
+volví, vencido,
+
+220
+00:26:00,950 --> 00:26:09,950
+resignado a vivir en esta identidad
+falsa por el resto de mis días.
+
+221
+00:26:11,700 --> 00:26:14,616
+Les mentiste a todos aquí.
+
+222
+00:26:16,158 --> 00:26:18,450
+Y desde entonces
+vives una mentira.
+
+223
+00:26:20,783 --> 00:26:21,908
+Eres cristiano.
+
+224
+00:26:22,991 --> 00:26:25,491
+Eres enemigo de nuestros dioses.
+
+225
+00:26:27,325 --> 00:26:28,908
+Así que mereces morir.
+
+226
+00:26:33,116 --> 00:26:34,408
+No es cierto.
+
+227
+00:26:37,200 --> 00:26:39,700
+Siempre supe que Othere
+no era lo que decía ser,
+
+228
+00:26:40,241 --> 00:26:43,158
+pero en nuestra desesperada
+situación, acepté a cualquiera
+
+229
+00:26:43,241 --> 00:26:46,450
+- que no fuera una amenaza...
+- Te equivocaste.
+
+230
+00:26:49,533 --> 00:26:52,450
+Othere no era una
+amenaza física,
+
+231
+00:26:52,533 --> 00:26:54,825
+¡pero sí lo eran sus
+ideas, sus creencias,
+
+232
+00:26:54,908 --> 00:26:56,533
+sus mentiras!
+
+233
+00:26:59,783 --> 00:27:01,158
+Eso es la verdadera amenaza.
+
+234
+00:27:02,741 --> 00:27:04,366
+Para todos nosotros.
+
+235
+00:27:05,325 --> 00:27:06,491
+Para nuestros hijos.
+
+236
+00:27:06,575 --> 00:27:08,033
+¿No lo entiendes?
+
+237
+00:27:13,616 --> 00:27:15,616
+Debemos sacrificarte
+para nuestros dioses.
+
+238
+00:27:18,575 --> 00:27:23,491
+Entonces, mi amado, nunca
+encontraríamos la tierra dorada.
+
+239
+00:27:24,908 --> 00:27:28,658
+Sin Othere no podremos hacerlo.
+Mejor darnos por vencidos.
+
+240
+00:27:35,783 --> 00:27:37,325
+Aquí está la cruz que tú usabas.
+
+241
+00:27:38,616 --> 00:27:39,950
+¿Cómo pudiste olvidarlo?
+
+242
+00:27:41,200 --> 00:27:43,241
+Te bautizaron como cristiano.
+
+243
+00:27:44,283 --> 00:27:46,241
+Le rezabas al dios cristiano.
+
+244
+00:28:22,241 --> 00:28:23,491
+¿Quién eres?
+
+245
+00:28:23,658 --> 00:28:24,991
+Me llamo Erik.
+
+246
+00:28:25,741 --> 00:28:29,616
+Vengo como emisario del rey Bjorn.
+Aquí está su anillo como prueba.
+
+247
+00:28:29,783 --> 00:28:31,033
+Muy bien.
+
+248
+00:28:31,908 --> 00:28:37,366
+¿Y por qué te ha
+enviado el rey Bjorn?
+
+249
+00:28:37,450 --> 00:28:39,116
+Quiere hacer una alianza.
+
+250
+00:28:42,241 --> 00:28:43,783
+¿Una alianza?
+
+251
+00:28:44,158 --> 00:28:46,533
+No necesito una
+alianza con Bjorn.
+
+252
+00:28:47,116 --> 00:28:50,408
+Él ya es mi vasallo,
+y yo soy su rey y señor.
+
+253
+00:28:51,241 --> 00:28:52,408
+Tal vez lo ha olvidado.
+
+254
+00:28:52,866 --> 00:28:54,741
+Creo que no comprende.
+
+255
+00:28:54,825 --> 00:28:57,825
+- No conoce al enemigo que...
+- ¡Al contrario!
+
+256
+00:29:00,283 --> 00:29:04,200
+Conozco todo.
+
+257
+00:29:06,366 --> 00:29:10,325
+Te conozco a ti,
+skogarmaor del bosque.
+
+258
+00:29:10,700 --> 00:29:12,033
+Un forajido.
+
+259
+00:29:14,658 --> 00:29:16,950
+Ya viniste a mi reino antes.
+
+260
+00:29:17,033 --> 00:29:19,325
+Comerciabas esclavos en secreto.
+
+261
+00:29:20,533 --> 00:29:23,408
+Y eres conocido por violento.
+
+262
+00:29:24,700 --> 00:29:26,366
+Y asesino.
+
+263
+00:29:28,075 --> 00:29:33,200
+Te metiste en problemas aquí y
+mataste a varios de mis hombres.
+
+264
+00:29:40,575 --> 00:29:45,908
+Ahora, todos saben que si viene
+un skogarmaor del bosque,
+
+265
+00:29:46,033 --> 00:29:48,866
+pueden matarlo con impunidad.
+
+266
+00:30:01,700 --> 00:30:05,866
+Así que serás ejecutado
+por la mañana.
+
+267
+00:30:06,866 --> 00:30:07,866
+Como yo disponga.
+
+268
+00:30:12,533 --> 00:30:13,700
+Llévenselo.
+
+269
+00:30:14,491 --> 00:30:15,450
+Encadénenlo.
+
+270
+00:30:16,991 --> 00:30:19,283
+Arrójenle agua
+fría toda la noche,
+
+271
+00:30:19,366 --> 00:30:22,366
+así no olvidará su destino
+ni por un momento.
+
+272
+00:30:24,866 --> 00:30:26,950
+¡No! Deben escucharme.
+
+273
+00:30:27,075 --> 00:30:29,075
+¡Escúchenme! Estamos en peligro.
+
+274
+00:30:40,783 --> 00:30:43,116
+Nuestro hermano te ha
+envenenado la mente,
+
+275
+00:30:43,783 --> 00:30:47,866
+te convenció de que yo era tu
+enemigo. No soy tu enemigo.
+
+276
+00:30:56,950 --> 00:31:00,158
+Mejórate, recupera la fuerza.
+
+277
+00:31:01,908 --> 00:31:04,950
+Desataremos nuestras fuerzas
+contra nuestros hermanos.
+
+278
+00:31:06,491 --> 00:31:08,950
+Serán testigos de
+nuestro triunfo.
+
+279
+00:31:25,908 --> 00:31:27,366
+La maté, Ivar.
+
+280
+00:31:30,116 --> 00:31:32,783
+Fui yo, no tú.
+
+281
+00:31:33,825 --> 00:31:35,200
+Yo.
+
+282
+00:31:36,408 --> 00:31:38,491
+La maté, y ahora está muerta.
+
+283
+00:31:39,825 --> 00:31:41,158
+¿Quién?
+
+284
+00:31:41,241 --> 00:31:42,908
+Tú sabes quién.
+
+285
+00:31:43,450 --> 00:31:44,825
+Lagertha.
+
+286
+00:31:45,783 --> 00:31:46,991
+Esa perra.
+
+287
+00:31:49,783 --> 00:31:51,283
+Creías que era tu destino.
+
+288
+00:31:53,908 --> 00:31:55,950
+Fue el mío, Ivar.
+
+289
+00:31:57,116 --> 00:31:58,241
+Mío.
+
+290
+00:32:04,908 --> 00:32:06,075
+La maté.
+
+291
+00:32:09,700 --> 00:32:11,200
+La maté.
+
+292
+00:32:35,200 --> 00:32:36,700
+¿Qué quieres?
+
+293
+00:32:37,450 --> 00:32:39,658
+Te traje algo.
+
+294
+00:32:51,658 --> 00:32:53,366
+Es un anillo de boda. ¿Y qué?
+
+295
+00:32:53,450 --> 00:32:56,783
+No es solo un anillo de boda.
+Es el anillo de boda de Floki.
+
+296
+00:33:00,741 --> 00:33:02,741
+¿Por qué tienes el
+anillo de Floki?
+
+297
+00:33:06,783 --> 00:33:08,950
+Sí conocí a Floki. Lo conocí.
+
+298
+00:33:10,116 --> 00:33:12,200
+¿Floki sabía que eras cristiano?
+
+299
+00:33:13,075 --> 00:33:15,033
+Sí, estoy seguro.
+
+300
+00:33:16,325 --> 00:33:19,408
+Entonces, ¿qué pasó aquí?
+¿Por qué desapareció Floki?
+
+301
+00:33:21,116 --> 00:33:22,700
+Sé que debe haber ocurrido
+algo terrible...
+
+302
+00:33:22,783 --> 00:33:25,075
+¿Fue Ketill? ¿Qué hizo?
+
+303
+00:33:27,283 --> 00:33:31,491
+Floki se fue porque había perdido
+la esperanza en la humanidad.
+
+304
+00:33:35,700 --> 00:33:37,741
+¿Él te dio este anillo?
+
+305
+00:33:39,200 --> 00:33:41,575
+Era su posesión más preciada.
+
+306
+00:33:42,908 --> 00:33:44,491
+Pero ya no lo quería.
+
+307
+00:33:45,741 --> 00:33:47,325
+Se fue de aquí desnudo.
+
+308
+00:33:53,825 --> 00:33:55,200
+Yo amaba a Floki.
+
+309
+00:33:55,408 --> 00:33:56,866
+Te he dicho la verdad.
+
+310
+00:33:58,533 --> 00:34:01,283
+Te ruego que me lleves contigo
+en busca de la tierra dorada.
+
+311
+00:34:01,366 --> 00:34:03,116
+Significa todo para mí.
+
+312
+00:34:03,200 --> 00:34:04,741
+¿De verdad te llamas Athelstan?
+
+313
+00:34:11,283 --> 00:34:14,325
+No tienes idea de lo que ese nombre
+significa para mí.
+
+314
+00:34:18,408 --> 00:34:20,741
+¿Qué quieres, viejo tonto?
+
+315
+00:34:22,575 --> 00:34:24,616
+Casi olvidé que existías.
+
+316
+00:34:27,700 --> 00:34:32,200
+Una vez me dijiste
+que solo me mantenías con vida
+
+317
+00:34:32,741 --> 00:34:37,658
+porque algún día
+podría decir algo sabio
+
+318
+00:34:37,783 --> 00:34:39,325
+para un viejo tonto.
+
+319
+00:34:41,658 --> 00:34:44,366
+Te lo diré ahora.
+
+320
+00:34:45,408 --> 00:34:47,533
+Escucha a ese hombre.
+
+321
+00:34:49,241 --> 00:34:51,491
+¿A quién le importa
+si es un skogarmaor?
+
+322
+00:34:51,825 --> 00:34:55,991
+Todos somos skogarmaors.
+Todos venimos del bosque.
+
+323
+00:34:57,825 --> 00:34:59,575
+Mátalo si quieres,
+
+324
+00:34:59,658 --> 00:35:04,700
+pero primero escucha
+lo que tiene para decir.
+
+325
+00:35:06,366 --> 00:35:09,116
+Arriesgó su vida
+para venir aquí.
+
+326
+00:35:10,408 --> 00:35:13,533
+¿Eres tan orgulloso
+que no preguntarás por qué?
+
+327
+00:35:24,033 --> 00:35:27,283
+Los mismos símbolos,
+la misma gente.
+
+328
+00:35:28,325 --> 00:35:29,658
+Son los rus.
+
+329
+00:35:31,200 --> 00:35:33,616
+Y debes entender lo
+poderosos que son
+
+330
+00:35:33,700 --> 00:35:35,491
+y la amenaza que representan.
+
+331
+00:35:38,325 --> 00:35:39,616
+Aun así,
+
+332
+00:35:41,033 --> 00:35:47,158
+me molesta tener que escuchar
+a un criminal como tú.
+
+333
+00:35:51,575 --> 00:35:55,033
+O a un rey fracasado como Bjorn.
+
+334
+00:36:00,408 --> 00:36:03,825
+Mi mayor ambición,
+mi meta en la vida,
+
+335
+00:36:04,700 --> 00:36:06,658
+era ser rey de Noruega.
+
+336
+00:36:07,033 --> 00:36:10,491
+Y ahora que lo he conseguido,
+no sé por qué...
+
+337
+00:36:11,033 --> 00:36:15,366
+Por qué me quieren abatir,
+
+338
+00:36:15,450 --> 00:36:18,491
+me fuerzan a confiar
+en aliados impredecibles
+
+339
+00:36:18,575 --> 00:36:22,241
+que ya han demostrado
+ser débiles y poco confiables.
+
+340
+00:36:26,616 --> 00:36:28,408
+¿Por qué debe ser así?
+
+341
+00:36:31,950 --> 00:36:35,283
+En mis sueños, no era así.
+
+342
+00:36:37,783 --> 00:36:41,325
+Las palabras no
+pueden desear esto.
+
+343
+00:36:48,283 --> 00:36:50,533
+Se aproximan los rus.
+
+344
+00:37:04,533 --> 00:37:07,700
+Muy bien, estoy de acuerdo.
+
+345
+00:37:08,700 --> 00:37:12,700
+Pero solo si las fuerzas de
+Bjorn, sus guerreros
+
+346
+00:37:12,783 --> 00:37:14,658
+y sus doncellas
+escuderas vienen a mí,
+
+347
+00:37:14,741 --> 00:37:18,075
+a proteger la capital y no Categat.
+Entonces, estaré de acuerdo.
+
+348
+00:37:20,408 --> 00:37:24,616
+Podemos ser aliados.
+¿Por qué no?
+
+349
+00:37:24,825 --> 00:37:27,200
+Estoy seguro de
+que Bjorn aceptará.
+
+350
+00:37:27,991 --> 00:37:30,491
+- Igual, es probable que...
+- Tenemos un acuerdo.
+
+351
+00:37:37,366 --> 00:37:38,908
+Manda a decirle a Bjorn
+
+352
+00:37:41,366 --> 00:37:43,033
+que traiga sus fuerzas aquí.
+
+353
+00:37:43,408 --> 00:37:45,908
+Y yo les avisaré
+a todos mis reyes vasallos.
+
+354
+00:37:47,491 --> 00:37:51,950
+Parece que necesitamos
+su ayuda, después de todo.
+
+355
+00:37:58,325 --> 00:37:59,616
+Príncipe Oleg.
+
+356
+00:38:00,116 --> 00:38:01,658
+Princesa Katia.
+
+357
+00:38:01,741 --> 00:38:02,991
+Sus altezas.
+
+358
+00:38:03,866 --> 00:38:07,825
+Les presento a mi
+hermano, Hvitserk.
+
+359
+00:38:09,200 --> 00:38:11,241
+Recientemente resucitado.
+
+360
+00:38:11,325 --> 00:38:12,491
+Su alteza.
+
+361
+00:38:12,575 --> 00:38:15,033
+Otro hijo de Ragnar Lothbrok.
+
+362
+00:38:15,241 --> 00:38:16,616
+Seas bienvenido.
+
+363
+00:38:17,991 --> 00:38:19,825
+Llegas en un
+momento interesante.
+
+364
+00:38:20,533 --> 00:38:21,825
+Eso tengo entendido.
+
+365
+00:38:22,575 --> 00:38:25,533
+Mi hermano me dijo que pretende
+atacar nuestro pueblo natal.
+
+366
+00:38:30,325 --> 00:38:32,450
+Una vez fue mi pueblo natal.
+
+367
+00:38:32,783 --> 00:38:34,950
+Solo quiero recuperar el pasado.
+
+368
+00:38:36,158 --> 00:38:39,908
+Confío en que con gusto nos acompañarás
+al rey Ivar y a mí
+
+369
+00:38:39,991 --> 00:38:43,033
+en esta gran tarea.
+
+370
+00:38:46,866 --> 00:38:48,241
+No tengo otro sitio adonde ir.
+
+371
+00:38:50,325 --> 00:38:52,241
+Estoy a su servicio,
+príncipe Oleg.
+
+372
+00:38:53,200 --> 00:38:55,991
+Yo también necesito
+recuperar mi pasado.
+
+373
+00:38:56,908 --> 00:39:00,700
+El príncipe y yo estamos muy contentos
+de tenerte en nuestra corte, Hvitserk.
+
+374
+00:39:02,241 --> 00:39:05,116
+Ivar habló mucho de ti.
+
+375
+00:39:05,741 --> 00:39:09,866
+De cuando eran niños,
+de cuando huiste.
+
+376
+00:39:11,325 --> 00:39:15,116
+Me dijo que tú siempre creíste
+que su destino era estar juntos,
+
+377
+00:39:15,866 --> 00:39:20,325
+sin importar las veces que el
+destino pareció separarlos.
+
+378
+00:39:22,075 --> 00:39:26,825
+Descubrí que el destino opera
+de forma misteriosa.
+
+379
+00:39:36,158 --> 00:39:37,991
+Nuestro ejército
+se está reuniendo.
+
+380
+00:39:40,325 --> 00:39:43,908
+Esta noche, lo verán
+
+381
+00:39:45,283 --> 00:39:46,825
+desfilar frente al palacio.
+
+382
+00:39:54,158 --> 00:39:56,491
+Será una experiencia
+interesante.
+
+383
+00:40:11,408 --> 00:40:12,825
+¿Y?
+
+384
+00:40:13,366 --> 00:40:14,366
+¿Y?
+
+385
+00:40:16,450 --> 00:40:17,616
+¿Qué te parece?
+
+386
+00:40:19,033 --> 00:40:22,616
+- ¿Oleg?
+- No, no Oleg, su esposa.
+
+387
+00:40:23,450 --> 00:40:25,950
+Me pareció atractiva,
+bastante provocativa.
+
+388
+00:40:26,033 --> 00:40:27,408
+¿Nada más?
+
+389
+00:40:27,616 --> 00:40:29,575
+No. ¿Qué más?
+
+390
+00:40:30,200 --> 00:40:32,325
+¿No te recuerda a nadie?
+
+391
+00:40:33,741 --> 00:40:35,408
+La viste. Sabes quién es.
+
+392
+00:40:35,950 --> 00:40:38,200
+- ¿Lo sé?
+- Claro que sí, hermano.
+
+393
+00:40:40,366 --> 00:40:41,658
+Es Freydis.
+
+394
+00:40:43,325 --> 00:40:44,700
+¿Tu esposa?
+
+395
+00:40:47,283 --> 00:40:49,825
+Freydis está muerta,
+Ivar. Vi su cuerpo...
+
+396
+00:40:49,908 --> 00:40:52,033
+Sí. Sé qué la maté.
+
+397
+00:40:52,533 --> 00:40:54,866
+Pero ahora ha
+vuelto, y no sé cómo.
+
+398
+00:40:54,991 --> 00:40:57,700
+Pero es ella. Es idéntica.
+
+399
+00:40:59,700 --> 00:41:01,075
+Sigues loco, Ivar.
+
+400
+00:41:15,450 --> 00:41:16,658
+Ivar.
+
+401
+00:41:18,366 --> 00:41:20,450
+El príncipe Dir
+le envía saludos.
+
+402
+00:41:21,450 --> 00:41:23,158
+Sabe que su hermano
+se ha unido a usted.
+
+403
+00:41:24,075 --> 00:41:26,991
+Les desea éxito en su campaña.
+
+404
+00:41:28,241 --> 00:41:33,116
+Pero quiere que luego se le unan
+para derrocar al príncipe Oleg.
+
+405
+00:41:33,575 --> 00:41:36,283
+Y rescatar al príncipe Igor
+de la esclavitud.
+
+406
+00:41:37,366 --> 00:41:40,158
+Si aún está de acuerdo
+con el plan, solo asienta.
+
+407
+00:41:41,950 --> 00:41:42,950
+Bien.
+
+408
+00:41:43,283 --> 00:41:44,950
+Sabe cuánto lo quiere
+el príncipe Dir.
+
+409
+00:43:54,908 --> 00:43:56,950
+¿Quién puede resistir
+semejante ejército?
+
+410
+00:43:57,783 --> 00:43:58,908
+Nadie.
+
+411
+00:44:00,366 --> 00:44:04,783
+Ni el rey Harald,
+ni Bjorn Brazo de Hierro.
+
+412
+00:44:06,033 --> 00:44:07,700
+Son como niños.
+
+413
+00:44:09,408 --> 00:44:11,575
+Ellos y sus dioses
+serán destruidos.
+
+414
+00:44:13,450 --> 00:44:18,366
+Este, mis buenos amigos,
+es el fin del paganismo.
+
+415
+00:44:20,033 --> 00:44:22,075
+El fin de los dioses paganos.
+
+416
+00:45:25,908 --> 00:45:27,908
+Subtítulos: Nora G. Glembocki
+

@@ -1,0 +1,984 @@
+﻿1
+00:01:37,796 --> 00:01:40,549
+{\an8}Tengo un barco listo
+para llevarse a tu hijo Ivar
+
+2
+00:01:40,633 --> 00:01:42,051
+{\an8}de vuelta a tu reino.
+
+3
+00:01:44,637 --> 00:01:46,555
+{\an8}El capitán quiere zarpar hoy.
+
+4
+00:01:48,933 --> 00:01:50,768
+{\an8}Tengo que despedirme de él.
+
+5
+00:01:55,815 --> 00:01:57,399
+{\an8}Haré que lo traigan.
+
+6
+00:02:00,027 --> 00:02:01,779
+Quiero hablar con él a solas.
+
+7
+00:03:13,267 --> 00:03:15,185
+Tenemos órdenes de llevarnos al lisiado.
+
+8
+00:03:18,814 --> 00:03:20,357
+Tengo buenas noticias.
+
+9
+00:03:21,108 --> 00:03:24,945
+El rey Ecbert alistó un barco.
+Irás a casa.
+
+10
+00:03:26,697 --> 00:03:28,282
+No me iré sin ti.
+
+11
+00:03:34,163 --> 00:03:36,498
+No van a liberarme.
+
+12
+00:03:38,667 --> 00:03:40,169
+Tengo que morir.
+
+13
+00:03:44,340 --> 00:03:46,675
+Entonces yo moriré también.
+Quiero que me quemen vivo.
+
+14
+00:03:46,759 --> 00:03:48,510
+¡No seas estúpido!
+
+15
+00:03:50,638 --> 00:03:52,598
+No quiero que mueras.
+
+16
+00:03:55,976 --> 00:03:58,979
+Es más importante que vivas.
+
+17
+00:04:07,488 --> 00:04:10,157
+La gente no te considera una amenaza.
+
+18
+00:04:11,575 --> 00:04:13,494
+Pero yo sé que se equivocan.
+
+19
+00:04:14,995 --> 00:04:19,208
+De todos mis hijos,
+era a ti a quien quería traer
+
+20
+00:04:20,042 --> 00:04:23,212
+y quien creo
+
+21
+00:04:23,379 --> 00:04:26,590
+que es el más importante
+para el futuro de nuestro pueblo.
+
+22
+00:04:30,803 --> 00:04:33,347
+Por poco te creo.
+
+23
+00:04:33,681 --> 00:04:35,724
+Cállate y escucha, idiota.
+
+24
+00:04:36,100 --> 00:04:38,602
+Tienes muchos dones,
+la ira es uno de ellos.
+
+25
+00:04:38,686 --> 00:04:40,980
+Lo que tienes aquí es un don.
+
+26
+00:04:42,856 --> 00:04:46,360
+No piensas como otros hombres.
+Eres impredecible.
+
+27
+00:04:47,361 --> 00:04:49,321
+Eso siempre te servirá.
+
+28
+00:04:51,031 --> 00:04:53,617
+Usa tu ira inteligentemente,
+
+29
+00:04:53,867 --> 00:04:55,661
+y te prometo, hijo mío,
+
+30
+00:04:55,744 --> 00:05:02,459
+que un día, todo el mundo conocerá
+y le temerá a Ivar el Deshuesado.
+
+31
+00:05:10,801 --> 00:05:12,094
+Desearía...
+
+32
+00:05:12,970 --> 00:05:15,597
+Desearía no estar
+tan enojado todo el tiempo.
+
+33
+00:05:20,978 --> 00:05:23,022
+Entonces no serías nada.
+
+34
+00:05:26,233 --> 00:05:27,901
+Tal vez habría sido feliz.
+
+35
+00:05:28,193 --> 00:05:30,195
+La felicidad no es nada.
+
+36
+00:05:33,615 --> 00:05:36,452
+Bromeaba. ¡Idiota!
+
+37
+00:05:53,510 --> 00:05:58,932
+Ecbert va a entregarme al rey Aelle,
+que me matará.
+
+38
+00:06:00,309 --> 00:06:02,352
+Si Aelle te va a matar,
+
+39
+00:06:02,436 --> 00:06:05,939
+mis hermanos y yo lo buscaremos
+para vengarnos, y lo sabes.
+
+40
+00:06:06,106 --> 00:06:07,441
+Sí.
+
+41
+00:06:08,317 --> 00:06:10,194
+Deben vengarse,
+
+42
+00:06:12,279 --> 00:06:14,072
+pero no de Aelle.
+
+43
+00:06:17,910 --> 00:06:19,244
+De Ecbert.
+
+44
+00:06:31,840 --> 00:06:34,593
+Todos siempre te subestimarán.
+
+45
+00:06:36,804 --> 00:06:39,056
+Debes hacerlos pagar por eso.
+
+46
+00:06:58,534 --> 00:07:00,244
+Sí, padre.
+
+47
+00:07:05,082 --> 00:07:06,625
+Sé despiadado.
+
+48
+00:07:27,688 --> 00:07:28,772
+¡Muévanse!
+
+49
+00:07:41,493 --> 00:07:42,786
+¡Váyanse!
+
+50
+00:08:22,576 --> 00:08:25,621
+<i>Siempre fuiste elocuente.</i>
+
+51
+00:08:26,246 --> 00:08:28,248
+¿Por qué no me hablas?
+
+52
+00:08:32,502 --> 00:08:34,463
+Las palabras llevan a la acción.
+
+53
+00:08:38,050 --> 00:08:42,054
+En este caso,
+desearía que fuera diferente,
+
+54
+00:08:42,137 --> 00:08:44,473
+pero no tengo poder para cambiarlas.
+
+55
+00:08:45,015 --> 00:08:49,686
+Entonces, las palabras no ayudan.
+
+56
+00:08:58,737 --> 00:09:03,492
+Has sido asombroso.
+
+57
+00:09:04,701 --> 00:09:08,372
+Me diste libertades extraordinarias,
+
+58
+00:09:08,455 --> 00:09:10,374
+pero no me reclamaste como tuya,
+
+59
+00:09:10,457 --> 00:09:13,794
+así que sigo casada con mi marido
+de la manera cristiana.
+
+60
+00:09:16,213 --> 00:09:18,632
+Habría quedado desecha.
+
+61
+00:09:23,595 --> 00:09:27,599
+Te amo. No puedo evitarlo.
+
+62
+00:09:29,226 --> 00:09:33,397
+Sin saberlo, me ayudaste
+
+63
+00:09:33,689 --> 00:09:36,900
+a sobrellevar los años
+más difíciles de mi vida.
+
+64
+00:09:38,944 --> 00:09:41,488
+Pero prosperas ante las adversidades
+
+65
+00:09:41,822 --> 00:09:45,284
+y sabes que no hay dificultades
+que no puedan resolverse.
+
+66
+00:09:55,085 --> 00:09:56,545
+Pero ahora,
+
+67
+00:09:59,089 --> 00:10:02,843
+debo hacer algo
+que no le desearía a nadie.
+
+68
+00:10:05,178 --> 00:10:07,389
+Tengo que destruir algo,
+
+69
+00:10:08,223 --> 00:10:12,060
+a alguien verdaderamente grandioso.
+
+70
+00:10:15,147 --> 00:10:17,816
+Y tengo que condenar a un amigo a muerte.
+
+71
+00:10:28,118 --> 00:10:29,870
+No tienes alternativa.
+
+72
+00:10:30,829 --> 00:10:32,289
+¿Es verdad?
+
+73
+00:10:34,750 --> 00:10:36,418
+¿Lo es?
+
+74
+00:10:37,419 --> 00:10:40,756
+¿Me lavo las manos?
+
+75
+00:10:41,631 --> 00:10:43,300
+¿Como Poncio Pilato?
+
+76
+00:10:52,934 --> 00:10:56,813
+Sin dudas,
+a Aelle le gustaría verte muerto.
+
+77
+00:10:57,981 --> 00:11:00,692
+Seguramente haría un gran espectáculo.
+
+78
+00:11:04,905 --> 00:11:07,240
+Entonces tendré la oportunidad de hablar.
+
+79
+00:11:09,534 --> 00:11:11,578
+Hablaré de los Dioses,
+
+80
+00:11:13,538 --> 00:11:17,250
+sobre mi alegría de entrar al Valhalla.
+
+81
+00:11:20,629 --> 00:11:22,714
+Aunque no lo crees.
+
+82
+00:11:26,802 --> 00:11:28,053
+No.
+
+83
+00:11:30,889 --> 00:11:32,432
+Pero mis hijos creen.
+
+84
+00:11:34,017 --> 00:11:35,477
+Mi pueblo cree.
+
+85
+00:11:37,062 --> 00:11:42,317
+La fe es tan importante para ellos
+como lo es para ti, rey Ecbert.
+
+86
+00:12:15,559 --> 00:12:17,227
+No los hagamos esperar.
+
+87
+00:14:16,012 --> 00:14:17,847
+Esto era de tu padre.
+
+88
+00:14:21,851 --> 00:14:26,856
+Que te reconforte como me reconfortó a mí.
+
+89
+00:14:35,824 --> 00:14:39,494
+Gracias. Nunca lo olvidaré.
+
+90
+00:14:47,002 --> 00:14:50,255
+Creo que te consolará saber que al final
+
+91
+00:14:51,298 --> 00:14:53,300
+Athelstan eligió a tu Dios.
+
+92
+00:15:05,895 --> 00:15:08,648
+¡Soldados, den la vuelta!
+
+93
+00:15:11,318 --> 00:15:14,237
+¡Escolta del prisionero, avance!
+
+94
+00:15:56,946 --> 00:15:59,282
+Oí muchos rumores sobre ti.
+
+95
+00:16:00,033 --> 00:16:01,576
+Mide dos metros y medio,
+
+96
+00:16:03,411 --> 00:16:08,833
+mató a miles de mis compatriotas,
+come niños.
+
+97
+00:16:11,628 --> 00:16:13,296
+El último no es verdad.
+
+98
+00:16:15,924 --> 00:16:17,884
+Tal vez nada sea verdad.
+
+99
+00:16:19,344 --> 00:16:23,765
+Aun así, podía sentir el miedo
+de todos los que te rodeaban.
+
+100
+00:16:24,683 --> 00:16:27,602
+Están aterrados de que vayas a matarlos.
+
+101
+00:16:30,647 --> 00:16:31,898
+Dime,
+
+102
+00:16:33,525 --> 00:16:35,652
+¿cómo vas a escapar?
+
+103
+00:16:36,903 --> 00:16:39,322
+No tengo intención de escapar.
+
+104
+00:18:21,841 --> 00:18:22,884
+¿Ecbert?
+
+105
+00:19:35,957 --> 00:19:38,459
+No llega lejos sin comer.
+
+106
+00:19:45,633 --> 00:19:47,093
+¿Dónde estamos?
+
+107
+00:19:48,511 --> 00:19:49,971
+No sé.
+
+108
+00:19:50,930 --> 00:19:53,391
+Mejor pregúntales a los caballos.
+
+109
+00:19:55,560 --> 00:19:56,895
+Ellos saben.
+
+110
+00:19:59,230 --> 00:20:00,440
+Eres ciego.
+
+111
+00:20:00,899 --> 00:20:02,150
+Así es.
+
+112
+00:20:02,984 --> 00:20:04,986
+Pero los caballos conocen el camino.
+
+113
+00:20:05,778 --> 00:20:07,405
+Pero no te preocupes,
+
+114
+00:20:08,197 --> 00:20:11,492
+puedo verte, Ragnar Lothbrok.
+
+115
+00:20:12,660 --> 00:20:14,287
+Puedo verte.
+
+116
+00:20:24,130 --> 00:20:26,132
+¿Cuándo llegaremos
+al castillo del rey Aelle?
+
+117
+00:20:26,299 --> 00:20:28,009
+No hasta mañana.
+
+118
+00:20:39,270 --> 00:20:42,607
+Pasará al menos otro día
+antes de que me maten.
+
+119
+00:20:43,900 --> 00:20:45,485
+Tú y tus dioses se equivocan.
+
+120
+00:20:45,818 --> 00:20:47,862
+Yo creé mi destino.
+
+121
+00:20:49,197 --> 00:20:53,326
+Yo tracé el curso de mi vida
+y de mi muerte. Yo.
+
+122
+00:20:53,493 --> 00:20:56,120
+No tú, ni los dioses. Yo.
+
+123
+00:20:56,496 --> 00:20:59,874
+Fue idea mía venir aquí a morir.
+
+124
+00:21:01,125 --> 00:21:05,380
+Si crees eso, es la verdad para ti.
+
+125
+00:21:07,048 --> 00:21:08,883
+Tus acertijos
+
+126
+00:21:09,676 --> 00:21:11,469
+no significan nada.
+
+127
+00:21:11,719 --> 00:21:14,180
+Tus palabras pueden interpretarse
+de tantas maneras
+
+128
+00:21:14,347 --> 00:21:17,767
+que dejan de consolar o brindar sabiduría,
+
+129
+00:21:18,184 --> 00:21:20,019
+y más bien causan confusión.
+
+130
+00:21:21,062 --> 00:21:24,482
+Tus supuestas profecías son peligrosas.
+
+131
+00:21:25,608 --> 00:21:26,818
+¿Por qué?
+
+132
+00:21:29,362 --> 00:21:33,116
+Le dijiste a Lagertha
+que nunca volvería a tener hijos.
+
+133
+00:21:33,616 --> 00:21:37,412
+Pero quedó embarazada.
+Y después, por culpa de tus palabras,
+
+134
+00:21:39,622 --> 00:21:41,708
+puso en peligro al niño en su vientre.
+
+135
+00:21:43,334 --> 00:21:45,420
+¿Y si no te hubiera escuchado?
+
+136
+00:21:46,212 --> 00:21:49,132
+¿Si hubiera pensado
+que su bebé sobreviviría?
+
+137
+00:21:49,507 --> 00:21:51,843
+Habría descansado y lo habría protegido.
+
+138
+00:21:52,343 --> 00:21:55,888
+Ahora tal vez sería
+la madre orgullosa de un niño saludable.
+
+139
+00:21:57,473 --> 00:22:00,435
+Algo que siempre quiso, más que nada.
+
+140
+00:22:03,354 --> 00:22:08,818
+Le presentaste un destino
+y ella lo manifestó.
+
+141
+00:22:10,737 --> 00:22:13,156
+Tal vez era su destino
+
+142
+00:22:13,448 --> 00:22:16,951
+que su hijo muriera
+exactamente como murió.
+
+143
+00:22:17,535 --> 00:22:18,828
+¿Y si no lo era?
+
+144
+00:22:18,953 --> 00:22:20,496
+¿Y si lo era?
+
+145
+00:22:22,373 --> 00:22:24,500
+No creo en la existencia de los Dioses.
+
+146
+00:22:26,002 --> 00:22:28,796
+El hombre es amo de su propio destino,
+no los Dioses.
+
+147
+00:22:28,880 --> 00:22:30,673
+Son un invento del hombre para responder
+
+148
+00:22:30,757 --> 00:22:33,843
+preguntas que teme contestar.
+
+149
+00:22:35,011 --> 00:22:37,638
+Tal vez tengas razón, Ragnar Lothbrok.
+
+150
+00:22:38,681 --> 00:22:43,603
+Soy solo el vidente.
+Caminé entre los muertos más bajos.
+
+151
+00:22:44,729 --> 00:22:46,981
+Y busqué a tientas un sentido.
+
+152
+00:22:47,815 --> 00:22:49,859
+Y puedo haberme equivocado.
+
+153
+00:22:52,862 --> 00:22:54,489
+¿Qué dijiste?
+
+154
+00:22:56,282 --> 00:22:58,159
+No dije nada.
+
+155
+00:23:32,860 --> 00:23:34,111
+Hermano.
+
+156
+00:24:15,611 --> 00:24:16,904
+No me mate.
+
+157
+00:24:21,701 --> 00:24:22,869
+<i>Sin la palabra de Dios,</i>
+
+158
+00:24:25,037 --> 00:24:26,706
+<i>no hay más que oscuridad.</i>
+
+159
+00:26:11,394 --> 00:26:14,480
+Tardaste mucho en volver, Ragnar Lothbrok,
+
+160
+00:26:15,940 --> 00:26:18,484
+pero al fin estás aquí.
+
+161
+00:26:19,110 --> 00:26:23,614
+Y le agradezco a Dios y a todos
+sus ángeles haber cumplido mi promesa
+
+162
+00:26:24,532 --> 00:26:27,201
+y estar vivo para presenciar este día.
+
+163
+00:26:30,663 --> 00:26:34,375
+Y juro que antes de que mueras,
+
+164
+00:26:34,750 --> 00:26:39,338
+pagarás por los pecados
+que cometiste con mis compatriotas.
+
+165
+00:27:34,518 --> 00:27:36,187
+¡Quemen al perro!
+
+166
+00:28:24,610 --> 00:28:27,279
+Hoy es un buen día, Ragnar Lothbrok,
+
+167
+00:28:27,988 --> 00:28:31,033
+porque es el día en que las almas
+
+168
+00:28:31,117 --> 00:28:34,745
+de todos los hombres, mujeres
+y niños cristianos inocentes
+
+169
+00:28:34,829 --> 00:28:37,206
+que tú y tus paganos masacraron
+
+170
+00:28:38,833 --> 00:28:42,503
+escaparán del purgatorio
+y cantarán el aleluya.
+
+171
+00:28:43,629 --> 00:28:45,840
+Porque soy la obra del Señor.
+
+172
+00:28:46,799 --> 00:28:52,721
+Dios me ha elegido, sin dudas,
+como el instrumento de su sentencia.
+
+173
+00:29:22,543 --> 00:29:26,505
+¡A él! ¡Patéenlo! ¡Arriba!
+
+174
+00:29:27,548 --> 00:29:29,008
+¡Déjenlo!
+
+175
+00:29:31,469 --> 00:29:32,303
+¡Levántenlo!
+
+176
+00:29:32,386 --> 00:29:33,262
+¡Tráiganlo!
+
+177
+00:29:44,148 --> 00:29:45,858
+Pide la absolución.
+
+178
+00:30:05,002 --> 00:30:07,880
+<i>Por eso deberíamos navegar hacia el oeste.</i>
+
+179
+00:30:08,464 --> 00:30:10,424
+<i>Oí semejantes historias, Rollo.</i>
+
+180
+00:30:10,758 --> 00:30:12,760
+<i>Pueblos y ciudades grandiosas.</i>
+
+181
+00:30:12,968 --> 00:30:17,473
+<i>Tesoros y montones de oro y plata,</i>
+<i>y un nuevo Dios.</i>
+
+182
+00:30:27,900 --> 00:30:30,194
+Pide la absolución.
+
+183
+00:31:02,810 --> 00:31:04,770
+Pide la absolución.
+
+184
+00:31:59,366 --> 00:32:02,202
+Cómo gruñirán los chanchitos
+
+185
+00:32:03,329 --> 00:32:07,166
+cuando se enteren
+de cuánto sufrió el cerdo viejo.
+
+186
+00:34:14,293 --> 00:34:15,419
+Hermano.
+
+187
+00:34:32,603 --> 00:34:35,397
+Padre nuestro, que estás en los Cielos...
+
+188
+00:34:36,774 --> 00:34:38,066
+<i>Padre nuestro,</i>
+
+189
+00:34:38,609 --> 00:34:39,943
+que estás en los Cielos...
+
+190
+00:34:40,360 --> 00:34:43,822
+Santificado sea tu nombre.
+Venga a nosotros tu reino.
+
+191
+00:34:43,947 --> 00:34:47,159
+Hágase tu voluntad
+así en la Tierra como en el Cielo.
+
+192
+00:34:47,326 --> 00:34:49,578
+Danos hoy nuestro pan de cada día
+
+193
+00:34:49,661 --> 00:34:51,705
+y perdona nuestras ofensas,
+
+194
+00:34:51,997 --> 00:34:54,833
+como nosotros perdonamos
+a los que nos ofenden.
+
+195
+00:34:55,125 --> 00:35:00,798
+No nos dejes caer en la tentación
+y líbranos del mal. Amén.
+
+196
+00:35:07,012 --> 00:35:08,514
+A sus sogas.
+
+197
+00:35:16,438 --> 00:35:17,523
+¡Tiren!
+
+198
+00:35:35,290 --> 00:35:36,917
+<i>No a nosotros, Señor,</i>
+
+199
+00:35:37,459 --> 00:35:42,005
+no a nosotros, sino a tu nombre da gloria.
+
+200
+00:35:42,381 --> 00:35:47,636
+Los ídolos de ellos son plata y oro,
+obra de manos de hombres.
+
+201
+00:35:48,512 --> 00:35:52,182
+Tienen boca, mas no hablan.
+
+202
+00:35:53,141 --> 00:35:56,895
+Tienen ojos, mas no ven.
+
+203
+00:36:24,673 --> 00:36:25,924
+¡Mátenlo!
+
+204
+00:36:53,493 --> 00:36:56,371
+<i>Líbrame, Señor, del hombre malo.</i>
+
+205
+00:36:57,956 --> 00:37:02,085
+Guárdame de hombres violentos.
+
+206
+00:37:04,046 --> 00:37:09,509
+Ciertamente los justos alabarán tu nombre.
+
+207
+00:37:10,802 --> 00:37:15,015
+Los rectos morarán en tu presencia.
+
+208
+00:37:27,277 --> 00:37:30,530
+Señor, escucha mi plegaria.
+
+209
+00:38:04,648 --> 00:38:08,944
+Me alegra saber
+que Odín se prepara para un festín.
+
+210
+00:38:09,778 --> 00:38:13,991
+¡Pronto estaré tomando cerveza
+de cuernos doblados!
+
+211
+00:38:18,954 --> 00:38:23,166
+¡Este héroe que entra al Valhalla
+no lamenta su muerte!
+
+212
+00:38:25,252 --> 00:38:29,047
+No entraré al salón de Odín temeroso.
+
+213
+00:38:36,888 --> 00:38:40,684
+Ahí esperaré
+que mis hijos se reúnan conmigo.
+
+214
+00:38:41,852 --> 00:38:47,858
+Y cuando lo hagan,
+me deleitaré con sus historias triunfales.
+
+215
+00:38:56,533 --> 00:38:59,036
+¡El aesir me dará la bienvenida!
+
+216
+00:39:01,496 --> 00:39:04,541
+¡Mi muerte llega sin disculpas!
+
+217
+00:39:07,044 --> 00:39:12,215
+¡Y yo recibiré a las valquirias
+que me inviten a mi hogar!
+
+218
+00:39:15,969 --> 00:39:21,058
+¡Líbrame, Señor, de mis enemigos!
+
+219
+00:43:15,792 --> 00:43:17,585
+¿Dónde está nuestro padre?
+
+220
+00:43:22,340 --> 00:43:23,550
+¿Dónde está Ragnar?
+
+221
+00:43:28,638 --> 00:43:33,977
+El rey Ecbert lo entregó al rey Aelle
+sabiendo que lo mataría.
+
+222
+00:43:40,692 --> 00:43:42,360
+¿Por qué lo entregaría a Aelle?
+
+223
+00:43:42,610 --> 00:43:46,573
+Eso no importa. Probablemente
+nuestro padre ya esté muerto.
+
+224
+00:43:48,908 --> 00:43:50,785
+Y tenemos que vengarnos.
+
+225
+00:43:54,998 --> 00:43:56,833
+Eso es lo que importa.
+
+226
+00:44:15,226 --> 00:44:16,686
+Tenemos algo que decirte.
+
+227
+00:44:21,775 --> 00:44:22,901
+¿Ubbe?
+
+228
+00:44:32,911 --> 00:44:34,162
+Mamá está muerta.
+
+229
+00:44:44,047 --> 00:44:45,173
+Es verdad.
+
+230
+00:44:48,259 --> 00:44:49,928
+Lagertha la mató.
+
+231
+00:44:52,430 --> 00:44:54,599
+Lagertha es ahora la reina de Kattegat.
+
+232
+00:45:04,317 --> 00:45:05,693
+Y mamá está muerta.
+
+233
+00:47:00,808 --> 00:47:02,810
+Traducido por: Maria Belen Bustos
+

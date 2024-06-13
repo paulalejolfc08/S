@@ -1,0 +1,1654 @@
+﻿1
+00:01:15,158 --> 00:01:16,325
+Bjorn Brazo de Hierro.
+
+2
+00:01:17,325 --> 00:01:18,325
+Rey Harald.
+
+3
+00:01:23,575 --> 00:01:24,533
+Reina Gunnhild.
+
+4
+00:01:25,366 --> 00:01:26,325
+Rey Harald.
+
+5
+00:01:30,033 --> 00:01:31,783
+No te conozco. ¿Debería?
+
+6
+00:01:33,241 --> 00:01:35,616
+Mi nombre es Ingrid, rey Harald.
+
+7
+00:01:37,491 --> 00:01:38,991
+Es mi esposa.
+
+8
+00:01:41,158 --> 00:01:42,991
+- También.
+- ¿Tu esposa?
+
+9
+00:01:45,533 --> 00:01:47,075
+Me han convencido
+
+10
+00:01:47,158 --> 00:01:50,033
+de que estamos en peligro inminente
+de un ataque de los de Rus,
+
+11
+00:01:50,116 --> 00:01:51,866
+quienes quiera que ellos sean.
+
+12
+00:01:52,741 --> 00:01:56,075
+En tal caso, debemos prepararnos.
+
+13
+00:01:56,158 --> 00:01:57,491
+Y si estamos preparados,
+
+14
+00:01:57,575 --> 00:02:00,408
+no hay duda de que repeleremos
+esas fuerzas extranjeras.
+
+15
+00:02:01,575 --> 00:02:02,741
+Conozco tu reputación.
+
+16
+00:02:03,158 --> 00:02:05,616
+Sé cuántas batallas has ganado,
+
+17
+00:02:05,700 --> 00:02:06,825
+sin embargo,
+
+18
+00:02:07,908 --> 00:02:10,491
+no tienes idea de lo que enfrentas ahora.
+
+19
+00:02:11,825 --> 00:02:13,741
+Lo que estamos enfrentando.
+
+20
+00:02:15,741 --> 00:02:16,866
+¿Qué es?
+
+21
+00:02:17,783 --> 00:02:19,075
+El ocaso de los dioses.
+
+22
+00:02:20,575 --> 00:02:21,866
+El final de todo.
+
+23
+00:02:26,533 --> 00:02:29,325
+La gente siempre dice
+que es el final de todo.
+
+24
+00:02:30,491 --> 00:02:33,866
+Sí, pero por lo general,
+no lo dicen en serio.
+
+25
+00:02:36,116 --> 00:02:37,241
+Rey Harald.
+
+26
+00:02:42,866 --> 00:02:46,366
+Eres el rey de toda Noruega
+
+27
+00:02:46,450 --> 00:02:50,533
+y has pasado una vida lográndolo.
+
+28
+00:02:51,533 --> 00:02:56,450
+Ahora, debes justificar tu puesto.
+
+29
+00:02:58,283 --> 00:03:00,283
+Los dioses te preguntan,
+
+30
+00:03:00,408 --> 00:03:06,116
+¿cómo los defenderás contra la voluntad
+de los cristianos de Rus?
+
+31
+00:03:06,950 --> 00:03:10,741
+Y debes responderles.
+
+32
+00:03:18,533 --> 00:03:21,908
+<i>Debo suponer que los de Rus atacarán</i>
+<i>desde el mar.</i>
+
+33
+00:03:23,616 --> 00:03:24,950
+{\an8}Y si estamos en lo cierto,
+
+34
+00:03:26,241 --> 00:03:28,033
+{\an8}y van a atacar nuestra capital,
+
+35
+00:03:29,866 --> 00:03:32,116
+{\an8}entonces, aquí es adónde irán.
+
+36
+00:03:32,366 --> 00:03:34,408
+{\an8}Podrían atracar a lo largo de la costa
+
+37
+00:03:34,491 --> 00:03:36,033
+{\an8}y atacarnos en tierra.
+
+38
+00:03:36,366 --> 00:03:38,991
+{\an8}Pero no si suponemos
+que tienen muchos barcos.
+
+39
+00:03:39,658 --> 00:03:41,950
+{\an8}Hay pocos lugares donde desembarcar
+
+40
+00:03:42,075 --> 00:03:44,241
+{\an8}a tantos guerreros, y este es uno.
+
+41
+00:03:45,491 --> 00:03:48,408
+{\an8}Bloquearemos la entrada
+que conduce hacia los fiordos,
+
+42
+00:03:48,491 --> 00:03:50,700
+{\an8}y colocaremos trampas
+en la boca del río,
+
+43
+00:03:50,783 --> 00:03:53,408
+{\an8}<i>para que Ivar no pueda acorralarnos</i>
+<i>tan fácilmente.</i>
+
+44
+00:03:54,866 --> 00:03:57,283
+{\an8}<i>Comprendo que podemos fortificar</i>
+<i>esta playa,</i>
+
+45
+00:03:57,366 --> 00:04:00,616
+{\an8}<i>y colocar mástiles y otros obstáculos</i>
+<i>en las bocas de los ríos.</i>
+
+46
+00:04:01,533 --> 00:04:04,033
+{\an8}<i>Pero debemos aceptar</i>
+<i>que gran parte de su ejército</i>
+
+47
+00:04:04,116 --> 00:04:05,450
+{\an8}<i>logrará llegar a tierra.</i>
+
+48
+00:04:06,575 --> 00:04:09,075
+{\an8}<i>¿Cómo repeleremos semejante ejército?</i>
+
+49
+00:04:09,158 --> 00:04:11,575
+{\an8}Harald convocó
+a sus reyes vasallos y guerreros
+
+50
+00:04:11,658 --> 00:04:12,825
+{\an8}para que vengan a ayudar.
+
+51
+00:04:17,200 --> 00:04:19,075
+{\an8}¿Crees que vendrán?
+
+52
+00:04:20,200 --> 00:04:21,908
+{\an8}<i>¿Los demás reyes?</i>
+
+53
+00:04:30,366 --> 00:04:31,408
+No.
+
+54
+00:04:38,116 --> 00:04:39,908
+{\an8}Partimos en primavera.
+
+55
+00:04:39,991 --> 00:04:41,075
+{\an8}¿Estás...
+
+56
+00:04:42,033 --> 00:04:44,158
+...listo para regresar a Noruega?
+
+57
+00:04:45,241 --> 00:04:48,533
+¿Estás listo para luchar contra Bjorn
+conmigo y los rus?
+
+58
+00:04:49,950 --> 00:04:51,241
+Ahora veo que,
+
+59
+00:04:52,491 --> 00:04:55,241
+gran parte de mi vida,
+luché contra mi destino.
+
+60
+00:04:55,325 --> 00:04:58,241
+Pero ahora me he resignado.
+
+61
+00:04:59,741 --> 00:05:02,116
+¿Resignado? ¿A qué?
+
+62
+00:05:03,908 --> 00:05:08,741
+Ya he aceptado el elemento destructivo.
+
+63
+00:06:33,033 --> 00:06:34,075
+No.
+
+64
+00:06:56,491 --> 00:06:57,700
+No puedo...
+
+65
+00:07:01,366 --> 00:07:02,825
+Sabes que no puedo.
+
+66
+00:07:05,783 --> 00:07:07,450
+Claro que puedes.
+
+67
+00:07:17,616 --> 00:07:18,741
+No.
+
+68
+00:08:21,283 --> 00:08:23,075
+¡Denles las flechas,
+las llevarán lejos de la costa!
+
+69
+00:08:23,158 --> 00:08:25,491
+Una vista extraordinaria,
+Bjorn Brazo de Hierro.
+
+70
+00:08:25,575 --> 00:08:27,366
+¡Dame ese martillo! ¡Rápido!
+
+71
+00:08:28,908 --> 00:08:32,366
+Nos complace que tú y tus guerreros
+se nos hayan unido, conde Thorkell.
+
+72
+00:08:35,533 --> 00:08:37,741
+Nuestra nación está en grave peligro.
+
+73
+00:08:41,325 --> 00:08:43,116
+¿Dónde están tus hermanos?
+
+74
+00:08:45,991 --> 00:08:48,116
+¿Herring? ¿El conde Sigvald?
+
+75
+00:08:49,825 --> 00:08:51,116
+¿Por qué no están aquí?
+
+76
+00:08:53,033 --> 00:08:55,075
+Sin mencionar al conde Hrolf
+y al rey Hakon
+
+77
+00:08:55,158 --> 00:08:56,991
+y los que votaron al rey Harald.
+
+78
+00:08:58,616 --> 00:09:00,283
+Son libres.
+
+79
+00:09:01,450 --> 00:09:02,908
+Sabes que así es con nosotros.
+
+80
+00:09:04,950 --> 00:09:06,325
+Y si deciden no venir,
+
+81
+00:09:08,075 --> 00:09:09,450
+que así sea.
+
+82
+00:09:09,533 --> 00:09:10,616
+No estoy de acuerdo.
+
+83
+00:09:11,325 --> 00:09:12,325
+Deberían estar aquí
+
+84
+00:09:12,408 --> 00:09:14,491
+ayudando a prepararnos para la invasión.
+
+85
+00:09:20,783 --> 00:09:21,866
+Nada más importa.
+
+86
+00:09:37,241 --> 00:09:38,450
+No tienes que hacerlo.
+
+87
+00:09:40,075 --> 00:09:41,325
+Tendrás un bebé.
+
+88
+00:09:42,200 --> 00:09:44,116
+Tendré un bebé noruego.
+
+89
+00:09:44,200 --> 00:09:45,325
+No un bebé rus.
+
+90
+00:09:46,283 --> 00:09:47,533
+¿Comprendes eso?
+
+91
+00:10:02,575 --> 00:10:04,658
+Dices que tus arqueros no bastan.
+
+92
+00:10:05,866 --> 00:10:09,075
+Bjorn Brazo de Hierro,
+tenemos algunas dudas.
+
+93
+00:10:09,700 --> 00:10:12,158
+¿Quién no, siendo humano?
+
+94
+00:10:15,366 --> 00:10:16,616
+Esto es serio.
+
+95
+00:10:17,033 --> 00:10:20,200
+Nos preocupa que nuestras defensas
+estén muy desparramadas
+
+96
+00:10:20,283 --> 00:10:24,075
+y que intentes demasiado predecir
+los puntos de ataque.
+
+97
+00:10:29,408 --> 00:10:31,533
+Sabemos que están con mi hermano Ivar.
+
+98
+00:10:32,491 --> 00:10:34,866
+Solo trato de anticipar lo que hará.
+
+99
+00:10:38,158 --> 00:10:39,491
+Lo conozco muy bien.
+
+100
+00:10:40,658 --> 00:10:41,908
+Si malinterpretas sus intenciones...
+
+101
+00:10:41,991 --> 00:10:43,866
+Seremos derrotados. ¿Qué dices?
+
+102
+00:10:44,950 --> 00:10:46,866
+¿Comprendes que atacarán
+
+103
+00:10:46,950 --> 00:10:48,408
+con demasiada ventaja?
+
+104
+00:10:48,491 --> 00:10:49,491
+Sí.
+
+105
+00:10:52,783 --> 00:10:53,950
+Si tienes un plan mejor...
+
+106
+00:10:59,158 --> 00:11:00,283
+...eso pensé.
+
+107
+00:11:06,533 --> 00:11:09,783
+¡Átala o el viento se la llevará!
+
+108
+00:11:16,158 --> 00:11:17,533
+¿Eres la esposa de Bjorn?
+
+109
+00:11:21,325 --> 00:11:22,325
+Sí.
+
+110
+00:11:28,741 --> 00:11:30,491
+No tienes muchas oportunidades.
+
+111
+00:11:33,325 --> 00:11:34,325
+¿Qué significa eso?
+
+112
+00:11:35,325 --> 00:11:36,700
+Eres la segunda esposa.
+
+113
+00:11:37,741 --> 00:11:39,533
+Las segundas esposas
+no importan demasiado.
+
+114
+00:11:40,366 --> 00:11:41,575
+Son algo secundario.
+
+115
+00:11:43,075 --> 00:11:45,200
+Y Gunnhild espera un hijo suyo.
+
+116
+00:11:50,450 --> 00:11:51,741
+¿Qué quieres decirme?
+
+117
+00:11:54,533 --> 00:11:56,616
+Quiero decirte lo que ya sabes.
+
+118
+00:11:58,075 --> 00:11:59,408
+Estás enamorada de Bjorn.
+
+119
+00:12:01,033 --> 00:12:02,116
+Tal vez.
+
+120
+00:12:03,241 --> 00:12:05,158
+Pero reconozco algo en ti.
+
+121
+00:12:06,241 --> 00:12:08,033
+Eres ambiciosa.
+
+122
+00:12:08,116 --> 00:12:10,491
+Pero Bjorn no es el rey.
+
+123
+00:12:11,825 --> 00:12:13,658
+Me casé con Bjorn.
+
+124
+00:12:13,741 --> 00:12:15,158
+Bjorn es mi destino.
+
+125
+00:12:16,700 --> 00:12:18,533
+¿Cómo puedes adivinar tu destino?
+
+126
+00:12:23,616 --> 00:12:26,575
+Si quieres,
+y eres verdaderamente ambiciosa,
+
+127
+00:12:28,366 --> 00:12:30,200
+te haré reina de toda Noruega.
+
+128
+00:12:32,575 --> 00:12:33,783
+No me conoces.
+
+129
+00:12:35,575 --> 00:12:37,700
+Estoy seguro de que disfrutaría conocerte.
+
+130
+00:12:39,950 --> 00:12:41,908
+Acabamos de conocernos
+
+131
+00:12:41,991 --> 00:12:44,283
+y ya quieres que traicione a mi esposo.
+
+132
+00:12:46,241 --> 00:12:48,033
+La mejor fruta es la prohibida.
+
+133
+00:12:51,450 --> 00:12:54,533
+Solo te pido que pienses en mi sugerencia.
+
+134
+00:13:06,616 --> 00:13:07,908
+¡Jalen!
+
+135
+00:13:27,200 --> 00:13:28,241
+¿Gunnhild?
+
+136
+00:13:30,241 --> 00:13:33,616
+Mi bebé.
+
+137
+00:13:47,241 --> 00:13:48,450
+¡Mi bebé!
+
+138
+00:13:57,200 --> 00:13:59,241
+Era un niño. Por supuesto.
+
+139
+00:14:01,533 --> 00:14:02,533
+Lo siento.
+
+140
+00:14:04,325 --> 00:14:06,158
+Sé que es lo que querías,
+
+141
+00:14:06,283 --> 00:14:07,450
+así que también lo siento.
+
+142
+00:14:09,616 --> 00:14:11,700
+Pero es la sentencia de los dioses.
+
+143
+00:14:12,658 --> 00:14:14,658
+Quizás no deba tener un hijo contigo.
+
+144
+00:14:16,908 --> 00:14:18,116
+No digas eso.
+
+145
+00:14:18,950 --> 00:14:19,991
+Tendremos hijos.
+
+146
+00:14:21,241 --> 00:14:22,950
+Tal vez Ingrid te de un hijo.
+
+147
+00:14:25,075 --> 00:14:26,700
+Quería a nuestro hijo.
+
+148
+00:14:35,741 --> 00:14:37,866
+Quiero lo mejor para ti, Gunnhild.
+
+149
+00:14:42,408 --> 00:14:44,450
+Te admiro más de lo que crees.
+
+150
+00:14:47,616 --> 00:14:49,325
+También lloro por tu hijo muerto.
+
+151
+00:14:51,200 --> 00:14:52,116
+Gracias.
+
+152
+00:14:58,241 --> 00:14:59,658
+Es un día triste.
+
+153
+00:15:01,075 --> 00:15:02,200
+Perdimos un hijo.
+
+154
+00:15:04,950 --> 00:15:07,200
+Pero peor será perder una nación.
+
+155
+00:15:08,200 --> 00:15:09,866
+Esa debe ser tu prioridad.
+
+156
+00:15:12,533 --> 00:15:14,283
+Y es tu tarea, Bjorn.
+
+157
+00:15:15,616 --> 00:15:18,283
+Eres el verdadero rey. Lo sabes.
+
+158
+00:15:20,450 --> 00:15:22,491
+Eres el verdadero rey de Noruega.
+
+159
+00:15:39,450 --> 00:15:41,241
+Espero que no lo hayas olvidado.
+
+160
+00:15:41,325 --> 00:15:42,991
+Por lo general, no hago eso.
+
+161
+00:15:43,075 --> 00:15:45,241
+Arriesgué mi vida. Lo sabes, ¿no?
+
+162
+00:15:45,325 --> 00:15:46,575
+Y no sé porqué.
+
+163
+00:15:48,283 --> 00:15:50,450
+Me dijiste que nos conocimos.
+
+164
+00:15:50,533 --> 00:15:51,950
+En otra vida.
+
+165
+00:15:52,033 --> 00:15:53,616
+Pero no me creíste.
+
+166
+00:15:56,450 --> 00:15:57,783
+Tenía miedo.
+
+167
+00:16:00,575 --> 00:16:01,991
+Pero esas cosas suceden.
+
+168
+00:16:03,116 --> 00:16:04,783
+En nuestra religión, lo creemos.
+
+169
+00:16:05,825 --> 00:16:07,700
+La vida es inescrutable en definitiva.
+
+170
+00:16:10,783 --> 00:16:13,783
+Hace poco me contactó alguien
+a quien quiero mucho.
+
+171
+00:16:13,866 --> 00:16:16,700
+Una gran amiga de mi madre.
+
+172
+00:16:16,783 --> 00:16:18,575
+Me dio buenas noticias.
+
+173
+00:16:20,658 --> 00:16:23,616
+Me dijo que el príncipe Dir
+estaba vivo y bien
+
+174
+00:16:24,991 --> 00:16:26,033
+gracias a ti.
+
+175
+00:16:28,200 --> 00:16:30,033
+Lo ayudaste a escapar, ¿no?
+
+176
+00:16:34,491 --> 00:16:37,200
+¿Cómo sabría eso
+si no estuviera de su lado?
+
+177
+00:16:38,116 --> 00:16:40,491
+No amo a Oleg. ¿Lo sabes?
+
+178
+00:16:41,325 --> 00:16:44,033
+Me entregué a ti. Lo arriesgué todo.
+
+179
+00:16:45,241 --> 00:16:48,533
+¿Por qué lo habría hecho
+si fuera feliz en mi matrimonio?
+
+180
+00:16:48,616 --> 00:16:52,450
+No soy feliz con mi matrimonio.
+Busco una escapatoria.
+
+181
+00:17:00,200 --> 00:17:01,908
+Debemos hablar más, Katia.
+
+182
+00:17:03,783 --> 00:17:05,241
+Gracias por ser honesta.
+
+183
+00:17:15,908 --> 00:17:17,866
+Creo que me estoy enamorando de ti.
+
+184
+00:17:19,908 --> 00:17:21,783
+Y ni siquiera sé quién eres.
+
+185
+00:17:46,866 --> 00:17:48,158
+¿Qué dijo?
+
+186
+00:17:53,658 --> 00:17:54,908
+No estoy seguro.
+
+187
+00:18:06,616 --> 00:18:08,741
+Mira, es primavera.
+
+188
+00:18:15,116 --> 00:18:17,450
+Adiós, mi dulce hijo.
+
+189
+00:18:18,408 --> 00:18:21,116
+Nunca llegué a conocerte.
+
+190
+00:18:22,908 --> 00:18:25,325
+A verte dar tus primeros pasos.
+
+191
+00:18:25,950 --> 00:18:28,950
+A verte crecer y convertirte en hombre.
+
+192
+00:18:32,408 --> 00:18:34,575
+Mi corazón está destrozado.
+
+193
+00:18:36,033 --> 00:18:39,991
+Solo a ti, dulce niño,
+puedo mostrarte mi desolación.
+
+194
+00:18:42,908 --> 00:18:47,616
+Te he perdido, pero lloro por mí.
+
+195
+00:19:01,700 --> 00:19:03,950
+Ahora duerme.
+
+196
+00:19:06,200 --> 00:19:08,450
+Pero esperaré aquí por un tiempo,
+
+197
+00:19:10,908 --> 00:19:12,866
+en caso de que estés solo.
+
+198
+00:19:52,491 --> 00:19:54,325
+Bjorn Brazo de Hierro,
+
+199
+00:19:54,408 --> 00:20:00,158
+quiero brindar
+por tu hermosa esposa, Gunnhild.
+
+200
+00:20:01,950 --> 00:20:04,200
+Lamento mucho la pérdida de tu hijo.
+
+201
+00:20:14,283 --> 00:20:16,075
+Gracias, rey Harald.
+
+202
+00:20:21,783 --> 00:20:25,866
+Solo el conde Thorkell y algunos otros
+han respondido al llamado del rey Harald.
+
+203
+00:20:27,283 --> 00:20:28,575
+No es suficiente.
+
+204
+00:20:29,575 --> 00:20:31,491
+Convoquen a los demás,
+
+205
+00:20:31,575 --> 00:20:32,825
+pero no en nombre del rey.
+
+206
+00:20:32,908 --> 00:20:34,158
+Háganlo en mi nombre.
+
+207
+00:20:35,075 --> 00:20:36,283
+Rápido.
+
+208
+00:20:37,950 --> 00:20:39,825
+¿Cuándo crees que atacarán los rus?
+
+209
+00:20:42,950 --> 00:20:45,366
+No me sorprendería
+que estuvieran en el océano.
+
+210
+00:20:49,033 --> 00:20:50,700
+¿No es hermosa?
+
+211
+00:20:52,075 --> 00:20:53,408
+¿Estás de acuerdo, Olaf?
+
+212
+00:20:55,950 --> 00:20:57,408
+Quizás.
+
+213
+00:20:57,491 --> 00:20:59,825
+Pero esas cosas no importan ahora.
+
+214
+00:21:01,075 --> 00:21:04,450
+Ya se ve el pelo gris,
+
+215
+00:21:04,575 --> 00:21:07,116
+la cabeza calva,
+
+216
+00:21:07,200 --> 00:21:10,075
+su cráneo sonriendo bajo la piel.
+
+217
+00:21:15,741 --> 00:21:19,450
+Bjorn está casado con la más fuerte,
+
+218
+00:21:20,200 --> 00:21:25,366
+más hermosa, más fascinante
+doncella escudera del mundo.
+
+219
+00:21:26,616 --> 00:21:30,908
+Y no entiendo
+por qué necesita otra esposa.
+
+220
+00:21:30,991 --> 00:21:34,825
+Por qué tiene que apoderarse de todo.
+
+221
+00:21:35,408 --> 00:21:38,533
+Bueno, tal vez porque puede.
+
+222
+00:22:02,491 --> 00:22:03,825
+Suéltenla.
+
+223
+00:22:04,908 --> 00:22:07,200
+No la lastimen. Suéltenla.
+
+224
+00:22:11,991 --> 00:22:13,075
+Tú te quedas.
+
+225
+00:22:17,783 --> 00:22:19,158
+¿Qué quieres?
+
+226
+00:22:19,241 --> 00:22:20,325
+A ti.
+
+227
+00:22:31,033 --> 00:22:32,241
+¿A qué le temes?
+
+228
+00:22:33,158 --> 00:22:34,116
+A ti.
+
+229
+00:22:39,158 --> 00:22:40,575
+Quiero irme.
+
+230
+00:22:40,658 --> 00:22:43,408
+- Debes dejarme ir.
+- No tengo que hacer nada.
+
+231
+00:22:43,491 --> 00:22:44,658
+Soy el rey.
+
+232
+00:22:46,116 --> 00:22:47,533
+Si Bjorn descubre...
+
+233
+00:22:47,616 --> 00:22:48,950
+No lo descubrirá.
+
+234
+00:22:50,491 --> 00:22:51,616
+No le dirás.
+
+235
+00:22:52,491 --> 00:22:53,783
+Será nuestro secreto.
+
+236
+00:22:54,408 --> 00:22:55,950
+Y si los rus atacan,
+
+237
+00:22:57,283 --> 00:23:00,741
+entonces, tanto Bjorn como yo,
+o tal vez ambos, muramos.
+
+238
+00:23:02,533 --> 00:23:05,033
+Y si muero, nuestro secreto va a la tumba.
+
+239
+00:23:05,741 --> 00:23:06,741
+Y si Bjorn muere,
+
+240
+00:23:07,741 --> 00:23:09,658
+prometo casarme contigo
+
+241
+00:23:10,450 --> 00:23:12,783
+y hacerte reina de toda Noruega.
+
+242
+00:23:13,575 --> 00:23:14,700
+Entonces, esperemos.
+
+243
+00:23:15,366 --> 00:23:16,450
+Veamos qué sucede.
+
+244
+00:23:16,866 --> 00:23:18,116
+Qué tienen preparado los dioses.
+
+245
+00:23:18,200 --> 00:23:19,908
+No. Me cansé de esperar a los dioses.
+
+246
+00:23:20,241 --> 00:23:22,575
+Nunca escuchan. Te quiero ahora.
+
+247
+00:23:23,075 --> 00:23:24,325
+Te quiero ahora.
+
+248
+00:23:39,116 --> 00:23:41,366
+Al diablo con Bjorn.
+
+249
+00:23:41,783 --> 00:23:43,741
+Vamos, entonces. ¡Hazlo!
+
+250
+00:24:05,533 --> 00:24:06,533
+¿Estamos listos?
+
+251
+00:24:12,783 --> 00:24:14,366
+Veré las otras defensas.
+
+252
+00:24:17,200 --> 00:24:18,325
+Veo algo.
+
+253
+00:24:25,075 --> 00:24:27,491
+Tal vez sea el rey Hakon
+o uno de los otros.
+
+254
+00:24:28,658 --> 00:24:29,658
+No.
+
+255
+00:24:32,866 --> 00:24:33,908
+Eso es todo.
+
+256
+00:24:50,700 --> 00:24:52,991
+Volveremos a vernos, esposo.
+
+257
+00:26:40,700 --> 00:26:43,658
+Aquí es donde atacaremos.
+
+258
+00:26:44,408 --> 00:26:47,491
+Esta es la boca del río
+que va a la capital de Harald.
+
+259
+00:26:48,700 --> 00:26:50,825
+No hay dudas de que Bjorn la bloqueará.
+
+260
+00:26:50,908 --> 00:26:52,783
+Y pensará en otras sorpresas.
+
+261
+00:26:53,450 --> 00:26:55,241
+El famoso Bjorn Brazo de Hierro.
+
+262
+00:26:57,575 --> 00:26:59,283
+¿Seguro que estará aquí?
+
+263
+00:27:09,033 --> 00:27:10,033
+<i>Sí.</i>
+
+264
+00:27:10,658 --> 00:27:13,783
+Lo aseguro, sin dudas,
+que nuestro hermano estará aquí.
+
+265
+00:27:15,866 --> 00:27:17,533
+Deberíamos atacar la playa.
+
+266
+00:27:18,991 --> 00:27:20,158
+¿No esperarán eso?
+
+267
+00:27:20,241 --> 00:27:21,991
+Por supuesto. Sí.
+
+268
+00:27:22,616 --> 00:27:24,116
+Pero no esperan que sepamos
+
+269
+00:27:24,200 --> 00:27:26,241
+que la playa baja empinada y rápidamente,
+
+270
+00:27:26,908 --> 00:27:27,950
+y que nuestros barcos
+
+271
+00:27:28,991 --> 00:27:30,950
+volcarán si se acercan demasiado.
+
+272
+00:27:31,408 --> 00:27:35,116
+Por eso es que traeremos estos botes,
+
+273
+00:27:35,616 --> 00:27:38,033
+pondremos a los guerreros en ellos
+y simplemente...
+
+274
+00:27:44,408 --> 00:27:45,825
+...atacaremos la playa.
+
+275
+00:28:38,783 --> 00:28:39,783
+¿Qué hacen?
+
+276
+00:28:42,200 --> 00:28:43,283
+Lo que esperaba.
+
+277
+00:29:02,325 --> 00:29:06,325
+Parece que los dioses
+han vuelto a reunirnos, mi hermano.
+
+278
+00:29:08,950 --> 00:29:11,825
+Deben disfrutar vernos pelear.
+
+279
+00:29:14,200 --> 00:29:15,158
+No los culpo.
+
+280
+00:29:16,200 --> 00:29:17,366
+Yo también lo disfruto.
+
+281
+00:29:19,575 --> 00:29:21,033
+No hables por los dioses.
+
+282
+00:29:22,533 --> 00:29:23,783
+Solo por ti.
+
+283
+00:29:27,491 --> 00:29:29,616
+Si tú lo dices, Bjorn.
+
+284
+00:29:30,200 --> 00:29:32,575
+Después de todo, eres el mayor. Sabes más.
+
+285
+00:29:36,366 --> 00:29:39,908
+Sé más que atacar a mi pueblo
+con un ejército cristiano.
+
+286
+00:29:45,033 --> 00:29:46,908
+Me gusta estar del lado ganador.
+
+287
+00:29:53,033 --> 00:29:54,366
+Si traicionas a nuestros dioses,
+
+288
+00:29:55,866 --> 00:29:57,366
+traicionas a nuestro padre.
+
+289
+00:30:06,033 --> 00:30:08,283
+Mi padre me escogió sobre ustedes.
+
+290
+00:30:15,158 --> 00:30:16,325
+Eso no es cierto.
+
+291
+00:30:19,450 --> 00:30:21,741
+Me pidió primero
+que fuera con él a Wessex.
+
+292
+00:30:22,866 --> 00:30:25,700
+Y luego a Hvitserk y luego a Sigurd.
+
+293
+00:30:28,533 --> 00:30:30,491
+Solo después de que nos negamos,
+
+294
+00:30:31,491 --> 00:30:32,575
+te lo pidió a ti.
+
+295
+00:30:33,991 --> 00:30:35,158
+Él sabía.
+
+296
+00:30:36,283 --> 00:30:38,158
+Sabía que todos lo rechazarían.
+
+297
+00:30:40,783 --> 00:30:42,116
+Sabía que todos ustedes...
+
+298
+00:30:43,366 --> 00:30:44,408
+...renegarían de él.
+
+299
+00:30:46,366 --> 00:30:50,283
+Sabía que yo sería el único leal.
+
+300
+00:30:51,950 --> 00:30:53,033
+Todos lo queríamos.
+
+301
+00:30:53,950 --> 00:30:57,575
+Ninguno quería acompañarlo
+en un viaje a su muerte.
+
+302
+00:30:58,991 --> 00:31:00,950
+Nos interesaba más preservar su legado,
+
+303
+00:31:01,033 --> 00:31:02,283
+que es lo que hicimos.
+
+304
+00:31:06,950 --> 00:31:08,366
+Su verdadero legado...
+
+305
+00:31:10,908 --> 00:31:12,158
+...está a salvo conmigo.
+
+306
+00:31:16,241 --> 00:31:20,283
+Si realmente crees que el legado
+de tu padre es vencer a nuestros dioses...
+
+307
+00:31:28,450 --> 00:31:29,866
+...entonces te equivocas, Ivar.
+
+308
+00:31:33,325 --> 00:31:35,241
+Y lo demostraré.
+
+309
+00:32:02,533 --> 00:32:03,783
+¡Ataquen!
+
+310
+00:32:09,283 --> 00:32:10,408
+¡Lancen!
+
+311
+00:32:13,408 --> 00:32:14,408
+¡Lancen!
+
+312
+00:32:22,325 --> 00:32:23,366
+¡Lancen!
+
+313
+00:32:25,866 --> 00:32:28,908
+¡Lancen!
+
+314
+00:32:57,158 --> 00:32:58,200
+¡Ataquen!
+
+315
+00:33:28,575 --> 00:33:31,325
+¡Levántense y peleen! ¡Peleen!
+
+316
+00:33:51,325 --> 00:33:54,491
+¡Lancen!
+
+317
+00:34:13,075 --> 00:34:15,200
+Mi pobre niña.
+
+318
+00:34:16,700 --> 00:34:19,200
+Mi pobre niña.
+
+319
+00:34:19,450 --> 00:34:20,700
+Pobre niña.
+
+320
+00:34:20,783 --> 00:34:23,200
+Pobre niña. Mi pobre niña.
+
+321
+00:34:23,908 --> 00:34:25,283
+Llora.
+
+322
+00:34:25,491 --> 00:34:26,741
+Llora por todos nosotros.
+
+323
+00:34:27,325 --> 00:34:30,783
+Mi pobre niña. Llora por nuestra ruina.
+
+324
+00:34:33,950 --> 00:34:35,200
+Mi pobrecita.
+
+325
+00:34:35,283 --> 00:34:36,533
+Mi pobre bebé.
+
+326
+00:34:51,033 --> 00:34:53,158
+¿Por qué no podemos atacar allí?
+
+327
+00:34:55,700 --> 00:34:57,825
+Ese río va a las montañas.
+
+328
+00:34:57,908 --> 00:34:59,283
+Es una barrera impenetrable.
+
+329
+00:35:44,408 --> 00:35:46,700
+¡Vikingos! ¡Prepárense para luchar!
+
+330
+00:35:50,283 --> 00:35:51,491
+¡Lancen!
+
+331
+00:35:51,575 --> 00:35:52,825
+¡Lancen!
+
+332
+00:35:59,991 --> 00:36:02,325
+¡A la batalla! ¡Adelante!
+
+333
+00:36:02,991 --> 00:36:06,325
+¡A la batalla! ¡No paren!
+¡Cuiden el flanco!
+
+334
+00:36:06,575 --> 00:36:08,825
+¡Manténganlos atrás! ¡Sigan!
+
+335
+00:36:08,908 --> 00:36:09,950
+¡Lancen!
+
+336
+00:36:39,616 --> 00:36:43,241
+¡A las barricadas! ¡Remen! ¡No paren!
+
+337
+00:36:46,616 --> 00:36:47,616
+¡Vamos!
+
+338
+00:36:56,408 --> 00:36:58,200
+¡Lancen!
+
+339
+00:37:03,241 --> 00:37:05,325
+¡Vigilen el flanco izquierdo!
+
+340
+00:37:14,283 --> 00:37:15,408
+¡Atraviésenla!
+
+341
+00:37:18,950 --> 00:37:22,075
+¡Deténganlos!
+
+342
+00:37:27,783 --> 00:37:30,408
+¡A la barricada!
+
+343
+00:37:34,908 --> 00:37:36,991
+¡Apunten al que está al frente!
+
+344
+00:37:46,658 --> 00:37:48,700
+¡Apunten a los remeros!
+
+345
+00:37:51,950 --> 00:37:53,283
+¡Los remeros!
+
+346
+00:37:58,075 --> 00:38:00,116
+¡Disparen al capitán! ¡Ese!
+
+347
+00:38:03,825 --> 00:38:06,950
+¡Apunten a la nave líder! ¡Lancen!
+
+348
+00:38:16,533 --> 00:38:17,575
+¡Avancen!
+
+349
+00:38:18,575 --> 00:38:21,366
+¡Todos, avancen! ¡A pelear!
+
+350
+00:39:04,158 --> 00:39:05,158
+¡Agáchate!
+
+351
+00:39:20,741 --> 00:39:22,033
+¡Lancen!
+
+352
+00:39:32,241 --> 00:39:33,283
+¡Elimínenla!
+
+353
+00:40:25,033 --> 00:40:28,450
+¡En marcha, ahora!
+
+354
+00:40:33,283 --> 00:40:35,200
+¡Empujen!
+
+355
+00:40:37,991 --> 00:40:40,033
+¡Avancen!
+
+356
+00:40:52,491 --> 00:40:54,658
+<i>Navegaremos por el río</i>
+
+357
+00:40:55,366 --> 00:40:56,283
+hasta aquí.
+
+358
+00:40:57,283 --> 00:41:00,241
+Y como puedes ver,
+la montaña es un gran obstáculo,
+
+359
+00:41:01,950 --> 00:41:03,033
+pero escalaremos.
+
+360
+00:41:04,533 --> 00:41:05,908
+Y del otro lado
+
+361
+00:41:06,991 --> 00:41:09,366
+está la indefensa capital
+del rey Harald.
+
+362
+00:41:12,075 --> 00:41:14,325
+¿Escalarás la montaña?
+
+363
+00:41:15,991 --> 00:41:17,200
+Por supuesto.
+
+364
+00:41:17,283 --> 00:41:18,450
+¿Cómo?
+
+365
+00:41:21,866 --> 00:41:22,866
+Así.
+
+366
+00:41:28,241 --> 00:41:29,741
+¡Rocas!
+
+367
+00:41:32,866 --> 00:41:33,908
+¡Rocas!
+
+368
+00:41:45,533 --> 00:41:46,658
+¡Rocas!
+
+369
+00:42:09,200 --> 00:42:10,408
+¡Corran!
+
+370
+00:42:10,491 --> 00:42:12,200
+¡Retirada!
+
+371
+00:42:26,825 --> 00:42:28,116
+¡Lancen!
+
+372
+00:42:29,866 --> 00:42:31,075
+¡Lancen!
+
+373
+00:42:40,866 --> 00:42:43,866
+- ¡Disparen!
+- ¡Disparen!
+
+374
+00:42:46,825 --> 00:42:48,116
+¡Disparen!
+
+375
+00:43:12,283 --> 00:43:13,200
+¡Lancen!
+
+376
+00:43:14,783 --> 00:43:15,950
+¡Lancen!
+
+377
+00:43:18,241 --> 00:43:19,366
+¡Lancen!
+
+378
+00:45:05,033 --> 00:45:06,116
+¡Avancen!
+
+379
+00:45:06,450 --> 00:45:10,116
+¡Avancen conmigo!
+
+380
+00:45:18,991 --> 00:45:20,700
+<i>He cometido muchos errores.</i>
+
+381
+00:45:22,241 --> 00:45:23,450
+He fallado.
+
+382
+00:45:28,825 --> 00:45:30,783
+Pero esta vez no fallaré.
+
+383
+00:45:34,116 --> 00:45:35,991
+Ganaré.
+
+384
+00:45:38,700 --> 00:45:40,575
+Los dioses están conmigo.
+
+385
+00:45:44,241 --> 00:45:46,241
+Te venceré.
+
+386
+00:45:52,283 --> 00:45:53,783
+Estás equivocado.
+
+387
+00:45:56,450 --> 00:45:59,283
+Los dioses te abandonaron
+hace mucho, hermano.
+
+388
+00:46:03,741 --> 00:46:05,283
+No hay modo de que ganes.
+
+389
+00:46:07,116 --> 00:46:08,200
+<i>Créeme.</i>
+
+390
+00:46:08,991 --> 00:46:10,408
+<i>No hay modo de que ganes.</i>
+
+391
+00:46:44,533 --> 00:46:48,075
+¡Retirada!
+
+392
+00:47:01,616 --> 00:47:03,741
+Sálvate, skogarmaor.
+
+393
+00:47:04,241 --> 00:47:05,700
+Búscate un nuevo hogar.
+
+394
+00:47:06,616 --> 00:47:08,200
+Búscate un nuevo hogar.
+
+395
+00:48:34,950 --> 00:48:36,575
+<i>Te venceré.</i>
+
+396
+00:48:39,533 --> 00:48:42,700
+Los dioses te abandonaron
+hace mucho, hermano.
+
+397
+00:48:47,033 --> 00:48:48,533
+No hay modo de que ganes,
+
+398
+00:48:50,700 --> 00:48:51,741
+créeme.
+
+399
+00:48:53,325 --> 00:48:54,950
+No hay modo de que ganes.
+
+400
+00:50:30,741 --> 00:50:32,741
+Subtítulos: María Eugenia Di Marco
+
