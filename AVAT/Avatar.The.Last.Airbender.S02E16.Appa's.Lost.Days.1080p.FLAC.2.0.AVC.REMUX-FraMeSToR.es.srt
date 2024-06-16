@@ -1,0 +1,710 @@
+1
+00:00:02,356 --> 00:00:03,356
+<i>Agua.</i>
+
+2
+00:00:04,817 --> 00:00:05,817
+<i>Tierra.</i>
+
+3
+00:00:06,777 --> 00:00:07,777
+<i>Fuego.</i>
+
+4
+00:00:08,946 --> 00:00:09,946
+<i>Aire.</i>
+
+5
+00:00:11,198 --> 00:00:14,577
+<i>Hace mucho, las cuatro naciones
+vivían en armonía...</i>
+
+6
+00:00:15,369 --> 00:00:18,706
+<i>pero todo cambió
+cuando la Nación de Fuego atacó.</i>
+
+7
+00:00:19,707 --> 00:00:23,669
+<i>Solo el Avatar, maestro
+de los cuatro elementos, podía detenerlos.</i>
+
+8
+00:00:23,752 --> 00:00:26,714
+<i>Pero desapareció
+cuando el mundo más lo necesitaba.</i>
+
+9
+00:00:27,298 --> 00:00:31,135
+<i>Cien años después, mi hermano y yo
+descubrimos al nuevo Avatar.</i>
+
+10
+00:00:31,218 --> 00:00:32,845
+<i>Aang, un maestro del aire.</i>
+
+11
+00:00:32,928 --> 00:00:35,139
+<i>Aunque controla muy bien el aire,</i>
+
+12
+00:00:35,222 --> 00:00:37,975
+<i>tiene mucho que aprender
+para salvar a alguien.</i>
+
+13
+00:00:38,893 --> 00:00:41,854
+<i>Pero creo que Aang puede salvar al mundo.</i>
+
+14
+00:00:42,878 --> 00:00:46,378
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:48,068 --> 00:00:50,321
+<i>Anteriormente en Avatar...</i>
+
+16
+00:00:50,404 --> 00:00:54,408
+Vine a asegurarme de que cruzaban
+a salvo el Paso de la Serpiente.
+
+17
+00:00:54,742 --> 00:00:57,286
+Pero debo volver
+con los guerreros Kyoshi.
+
+18
+00:00:57,953 --> 00:01:01,123
+Tú robaste a Appa.
+¿Dónde está? ¿Qué le has hecho?
+
+19
+00:01:01,707 --> 00:01:02,583
+Lo vendí.
+
+20
+00:01:02,666 --> 00:01:04,418
+Ahora estará en Ba Sing Se.
+
+21
+00:01:05,669 --> 00:01:07,338
+Está aquí. Puedo sentirlo.
+
+22
+00:01:08,297 --> 00:01:10,507
+Soy Long Feng, jefe de los Dai Li.
+
+23
+00:01:10,591 --> 00:01:13,052
+Han estado buscando
+a su bisonte.
+
+24
+00:01:13,135 --> 00:01:16,639
+Sería una lástima que no
+completaran su búsqueda.
+
+25
+00:01:18,182 --> 00:01:19,739
+LIBRO DOS: TIERRA
+
+26
+00:01:19,763 --> 00:01:22,811
+CAPÍTULO DIECISÉIS:
+LOS DÍAS PERDIDOS DE APPA
+
+27
+00:01:26,231 --> 00:01:29,526
+HACE CUATRO SEMANAS...
+
+28
+00:01:30,611 --> 00:01:32,821
+¡No! ¡Deja de hundirte!
+
+29
+00:01:47,461 --> 00:01:49,380
+¡No me obliguen a dejar esto!
+
+30
+00:01:53,759 --> 00:01:55,052
+Pónganle un bozal.
+
+31
+00:02:31,463 --> 00:02:32,881
+Lo siento, Appa.
+
+32
+00:02:54,987 --> 00:02:56,280
+Saqueen su silla.
+
+33
+00:02:56,363 --> 00:02:58,449
+Quién sabe qué tendrá escondido.
+
+34
+00:03:01,243 --> 00:03:02,243
+Está bien atado.
+
+35
+00:03:02,286 --> 00:03:03,286
+No les hará daño.
+
+36
+00:03:13,297 --> 00:03:16,467
+¿Qué hará tu padre cuando
+sepa que perdimos un velero?
+
+37
+00:03:16,967 --> 00:03:19,928
+Nada.
+Es el que le robamos a la tribu Hami.
+
+38
+00:03:20,012 --> 00:03:21,638
+¿Vaciaron la silla?
+
+39
+00:03:23,474 --> 00:03:24,474
+¿Eso es todo?
+
+40
+00:03:24,725 --> 00:03:26,101
+Solo hay basura.
+
+41
+00:03:28,270 --> 00:03:29,270
+No importa.
+
+42
+00:03:29,313 --> 00:03:32,733
+Se lo venderemos
+a esos comerciantes de escarabajos.
+
+43
+00:03:47,664 --> 00:03:48,874
+¿Qué carácter tiene?
+
+44
+00:03:49,833 --> 00:03:50,833
+Muy bueno.
+
+45
+00:03:54,296 --> 00:03:55,380
+Casi siempre.
+
+46
+00:03:56,131 --> 00:03:59,718
+Seguro que alguien pagará una fortuna
+por él en Ba Sing Se.
+
+47
+00:04:00,094 --> 00:04:01,929
+De acuerdo, trato hecho.
+
+48
+00:04:13,941 --> 00:04:17,027
+¡Appa!
+
+49
+00:04:27,079 --> 00:04:28,914
+¡Ahora es tu problema!
+
+50
+00:04:30,207 --> 00:04:31,207
+¿Qué?
+
+51
+00:04:38,257 --> 00:04:40,801
+¡Usemos los dardos de saliva de Shirshu!
+
+52
+00:04:40,884 --> 00:04:41,760
+¡Los tengo!
+
+53
+00:04:41,844 --> 00:04:45,639
+Bien, grandote, vas dormir
+una pequeña siesta.
+
+54
+00:04:56,024 --> 00:04:57,693
+¡Appa!
+
+55
+00:05:00,445 --> 00:05:01,446
+No.
+
+56
+00:05:03,699 --> 00:05:04,908
+¡No!
+
+57
+00:05:13,500 --> 00:05:16,378
+Tenemos que deshacernos de él.
+Es problemático.
+
+58
+00:05:16,920 --> 00:05:18,589
+Podemos venderlo por partes.
+
+59
+00:05:23,468 --> 00:05:24,636
+Lo entiendo...
+
+60
+00:05:24,720 --> 00:05:27,014
+Lo has pasado mal últimamente.
+
+61
+00:05:27,681 --> 00:05:28,891
+Es una pena.
+
+62
+00:05:29,474 --> 00:05:34,730
+Pensarías que no tenías otra opción
+que comportarte mal,
+
+63
+00:05:35,314 --> 00:05:36,690
+como un animal salvaje.
+
+64
+00:05:37,774 --> 00:05:40,527
+Pero no te preocupes,
+ya no tendrás que hacerlo
+
+65
+00:05:41,028 --> 00:05:43,197
+porque voy a domarte.
+
+66
+00:06:03,675 --> 00:06:04,675
+¿Tienes hambre?
+
+67
+00:06:05,093 --> 00:06:07,471
+No te preocupes. Te voy a dar de comer.
+
+68
+00:06:08,597 --> 00:06:09,597
+Pero aún no.
+
+69
+00:06:11,058 --> 00:06:14,061
+Primero, voy a mostrarte
+cómo te lo vas a ganar.
+
+70
+00:06:39,378 --> 00:06:43,048
+Por supuesto, cuando actúes,
+los aros estarán en llamas.
+
+71
+00:06:43,799 --> 00:06:45,300
+Y si tienes cuidado...
+
+72
+00:06:45,676 --> 00:06:47,261
+no te quemarás.
+
+73
+00:06:50,681 --> 00:06:52,808
+Estás a punto de lamentarlo.
+
+74
+00:06:57,562 --> 00:07:00,565
+Es obvio que tu dueño anterior,
+
+75
+00:07:00,649 --> 00:07:03,443
+no tenía ni idea de cómo tratarte.
+
+76
+00:07:18,417 --> 00:07:22,754
+Voy por una bolsa de patatas.
+Quédate aquí y no te acerques al monstruo.
+
+77
+00:07:22,838 --> 00:07:25,590
+Compórtate o te arrepentirás.
+
+78
+00:07:40,188 --> 00:07:43,066
+Es una criatura difícil,
+testaruda y obstinada.
+
+79
+00:07:43,150 --> 00:07:46,486
+Necesito más tiempo con él.
+Es muy peligroso ahora mismo.
+
+80
+00:07:46,611 --> 00:07:49,197
+¿Muy peligroso? ¿De qué estás hablando?
+
+81
+00:07:49,281 --> 00:07:52,034
+Esto es el circo,
+hogar del miedo y el peligro.
+
+82
+00:07:52,117 --> 00:07:54,619
+Quiero que el bisonte actúe esta noche.
+
+83
+00:07:56,663 --> 00:07:58,498
+Si no te comportas...
+
+84
+00:07:59,541 --> 00:08:00,625
+te arrepentirás.
+
+85
+00:08:10,802 --> 00:08:12,929
+- Vamos.
+- Nos vemos luego, amigo.
+
+86
+00:08:25,150 --> 00:08:29,488
+Damas y caballeros,
+ahora algo realmente especial.
+
+87
+00:08:30,781 --> 00:08:34,117
+Una noble bestia tan magnífica y rara,
+
+88
+00:08:34,201 --> 00:08:38,038
+que no la han visto los ojos humanos
+en generaciones.
+
+89
+00:08:38,121 --> 00:08:41,833
+Les presento... al bisonte del aire.
+
+90
+00:08:49,633 --> 00:08:50,633
+Arriba.
+
+91
+00:08:54,096 --> 00:08:55,972
+¡Arriba, vaca insolente!
+
+92
+00:08:59,601 --> 00:09:01,520
+¡Huye! ¡Aléjate de él!
+
+93
+00:09:06,691 --> 00:09:07,691
+Increíble.
+
+94
+00:09:31,508 --> 00:09:33,427
+Vete. Puedes hacerlo.
+
+95
+00:09:38,098 --> 00:09:40,517
+¡Vuelve aquí, bestia estúpida!
+
+96
+00:11:53,347 --> 00:11:54,515
+Elijan bien.
+
+97
+00:11:55,391 --> 00:11:58,770
+Un bisonte de los cielos
+es un compañero de por vida.
+
+98
+00:12:13,159 --> 00:12:16,245
+Creo que esto significa que
+siempre estaremos juntos.
+
+99
+00:12:23,085 --> 00:12:24,085
+Siempre.
+
+100
+00:12:27,924 --> 00:12:29,926
+¡Es algún tipo de monstruo!
+
+101
+00:12:57,870 --> 00:13:01,666
+Tío, ¿qué estás mirando?
+¿Hay algo ahí fuera?
+
+102
+00:13:03,167 --> 00:13:05,419
+No es nada. Vuelve a dormir.
+
+103
+00:14:47,897 --> 00:14:49,774
+Debe haber sido una gran pelea.
+
+104
+00:14:49,857 --> 00:14:51,317
+Espera, déjame ver eso.
+
+105
+00:14:52,276 --> 00:14:53,276
+No.
+
+106
+00:14:53,486 --> 00:14:54,820
+No puede ser.
+
+107
+00:15:01,243 --> 00:15:02,244
+¿Appa?
+
+108
+00:15:02,495 --> 00:15:03,496
+Oh, no.
+
+109
+00:15:12,672 --> 00:15:14,131
+Todo va a salir bien.
+
+110
+00:15:14,215 --> 00:15:17,301
+Me tengo que ir,
+pero volveré pronto con ayuda.
+
+111
+00:15:22,515 --> 00:15:23,975
+Sin movimientos bruscos.
+
+112
+00:15:24,100 --> 00:15:26,560
+Estuvo perdido
+y parece que está herido.
+
+113
+00:15:27,061 --> 00:15:31,607
+Es tímido con la gente y asustadizo.
+Manténganse agachados y callados.
+
+114
+00:15:31,691 --> 00:15:34,026
+Es increíble que encontraras
+al bisonte.
+
+115
+00:15:34,485 --> 00:15:36,654
+¿No viste al Avatar
+hace unos días?
+
+116
+00:15:36,737 --> 00:15:39,407
+Sí, así que no puede estar
+muy lejos de aquí.
+
+117
+00:15:39,824 --> 00:15:43,035
+Es nuestra responsabilidad
+devolverle a Appa.
+
+118
+00:15:43,119 --> 00:15:45,788
+Esta podría ser nuestra misión
+más importante.
+
+119
+00:15:50,292 --> 00:15:51,293
+Déjenle espacio.
+
+120
+00:15:54,880 --> 00:15:59,218
+Appa, soy yo, Suki. Soy una amiga.
+
+121
+00:16:04,015 --> 00:16:06,434
+Quiero ayudarte. Estás herido.
+
+122
+00:16:07,143 --> 00:16:08,811
+Podemos curarte.
+
+123
+00:16:10,646 --> 00:16:12,481
+Y ayudarte a encontrar a Aang.
+
+124
+00:16:35,963 --> 00:16:38,257
+Vaya, vaya, eres fácil de encontrar.
+
+125
+00:16:38,549 --> 00:16:42,011
+Es asombroso que mi hermano
+no te haya capturado todavía.
+
+126
+00:16:55,280 --> 00:16:56,823
+¿Qué quiere de nosotras?
+
+127
+00:16:56,906 --> 00:16:59,784
+¿Quienes son? ¿Las seguidoras del Avatar?
+
+128
+00:17:00,994 --> 00:17:04,706
+Oh, ya entiendo. Muy buena, Azula.
+
+129
+00:17:04,789 --> 00:17:07,625
+Si estás buscando al Avatar,
+no tienes suerte.
+
+130
+00:17:08,459 --> 00:17:10,628
+Sabía que era una pérdida de tiempo.
+
+131
+00:17:11,045 --> 00:17:12,422
+No está el Avatar, ¿eh?
+
+132
+00:17:12,505 --> 00:17:15,174
+Bueno, está bien.
+Cualquier amigo del Avatar
+
+133
+00:17:15,258 --> 00:17:17,093
+es mi enemigo.
+
+134
+00:17:26,227 --> 00:17:28,771
+Eres tan colorida,
+que me dan náuseas.
+
+135
+00:17:35,945 --> 00:17:37,864
+No eres más guapa que nosotras.
+
+136
+00:17:45,038 --> 00:17:48,541
+Le temes al fuego.
+Muy bien, deberías hacerlo.
+
+137
+00:17:49,876 --> 00:17:52,045
+Vete, Appa. Vuela lejos de aquí.
+
+138
+00:18:10,188 --> 00:18:11,356
+Vete de aquí.
+
+139
+00:18:11,439 --> 00:18:14,067
+Tienes que encontrar a Aang.
+Estaremos bien.
+
+140
+00:18:23,451 --> 00:18:26,245
+¿No sabes que los abanicos
+avivan las llamas?
+
+141
+00:19:33,062 --> 00:19:35,898
+Hola. Soy el Gurú Pathik.
+
+142
+00:19:42,321 --> 00:19:45,158
+Sé que no soy la persona que esperabas.
+
+143
+00:19:45,783 --> 00:19:49,454
+Y yo no esperaba que me lamiera
+una lengua gigante.
+
+144
+00:19:50,538 --> 00:19:52,498
+El mundo está lleno de sorpresas.
+
+145
+00:20:28,367 --> 00:20:29,367
+Oh, cielos.
+
+146
+00:20:30,495 --> 00:20:33,039
+Has sufrido mucho últimamente.
+
+147
+00:20:33,414 --> 00:20:37,210
+Herido y traicionado,
+estás retorcido por dentro.
+
+148
+00:20:40,880 --> 00:20:42,423
+Sigues lleno de amor.
+
+149
+00:20:43,466 --> 00:20:46,719
+Pero el miedo ha ocupado el lugar
+de la confianza.
+
+150
+00:20:47,512 --> 00:20:51,265
+Llevo tiempo esperándolos
+al joven Avatar y a ti.
+
+151
+00:20:51,849 --> 00:20:55,144
+Tuve una visión hace muchos años
+de que le ayudaba.
+
+152
+00:20:55,978 --> 00:20:58,689
+Por eso vine
+al Templo del Aire del Este.
+
+153
+00:21:04,654 --> 00:21:09,700
+Tus emociones son tan turbulentas,
+como remolinos de nubes de tormenta.
+
+154
+00:21:12,078 --> 00:21:16,290
+Deja que las nubes de tu mente
+sean amables, pacíficas.
+
+155
+00:21:35,726 --> 00:21:38,020
+Alguien parece muy descansado,
+
+156
+00:21:38,104 --> 00:21:39,897
+a juzgar por el pelo.
+
+157
+00:22:04,672 --> 00:22:06,841
+Escribí un mensaje para Aang.
+
+158
+00:22:07,466 --> 00:22:09,510
+¿Puedo atarlo a tu cuerno?
+
+159
+00:22:14,974 --> 00:22:18,102
+Tus energías y las del Avatar
+están unidas.
+
+160
+00:22:18,394 --> 00:22:20,563
+Tienen un vínculo inquebrantable.
+
+161
+00:22:21,564 --> 00:22:25,735
+Leyendo tu energía,
+puedo sentir dónde está Aang.
+
+162
+00:22:28,696 --> 00:22:31,991
+Es curioso cómo las cuerdas invisibles
+nos unen a todos.
+
+163
+00:22:41,584 --> 00:22:43,711
+Volveré a verte, gran bestia.
+

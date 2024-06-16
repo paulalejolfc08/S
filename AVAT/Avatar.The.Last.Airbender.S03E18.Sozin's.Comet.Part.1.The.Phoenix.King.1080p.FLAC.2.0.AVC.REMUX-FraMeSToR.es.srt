@@ -1,0 +1,1415 @@
+1
+00:00:02,289 --> 00:00:03,289
+<i>Agua.</i>
+
+2
+00:00:04,667 --> 00:00:05,667
+<i>Tierra.</i>
+
+3
+00:00:06,669 --> 00:00:07,669
+<i>Fuego.</i>
+
+4
+00:00:08,838 --> 00:00:09,838
+<i>Aire.</i>
+
+5
+00:00:11,048 --> 00:00:14,468
+<i>Hace tiempo,
+las cuatro naciones vivían en armonía.</i>
+
+6
+00:00:15,261 --> 00:00:18,597
+<i>Luego todo cambió
+cuando la nación de Fuego atacó.</i>
+
+7
+00:00:19,640 --> 00:00:20,641
+<i>Solo en Avatar,</i>
+
+8
+00:00:20,725 --> 00:00:23,644
+<i>maestro de los cuatro elementos,
+podía detenerlos,</i>
+
+9
+00:00:23,728 --> 00:00:26,397
+<i>pero cuando más lo necesitábamos,
+desapareció.</i>
+
+10
+00:00:27,231 --> 00:00:28,357
+<i>Pasaron cien años,</i>
+
+11
+00:00:28,441 --> 00:00:30,818
+<i>y mi hermano y yo encontramos al Avatar,</i>
+
+12
+00:00:30,901 --> 00:00:32,820
+<i>un maestro de Aire llamado Aang.</i>
+
+13
+00:00:32,903 --> 00:00:34,989
+<i>Su dominio del Aire es fantástico,</i>
+
+14
+00:00:35,072 --> 00:00:38,075
+<i>pero debe aprender mucho
+antes de poder salvarnos.</i>
+
+15
+00:00:38,993 --> 00:00:41,996
+<i>Pero creo que Aang puede salvar al mundo.</i>
+
+16
+00:00:42,580 --> 00:00:46,125
+AVATAR: LA LEYENDA DE AANG
+
+17
+00:00:49,486 --> 00:00:50,987
+LIBRO TRES: FUEGO
+
+18
+00:00:51,070 --> 00:00:54,365
+CAPÍTULO DIECIOCHO: EL COMETA DE SOZIN
+PARTE 1: EL REY FÉNIX
+
+19
+00:01:02,540 --> 00:01:03,625
+Más feroz.
+
+20
+00:01:04,626 --> 00:01:06,753
+Imagina que le das al corazón.
+
+21
+00:01:08,713 --> 00:01:09,923
+Eso intento.
+
+22
+00:01:10,131 --> 00:01:12,133
+¡Ahora ruge como un tigredillo!
+
+23
+00:01:15,094 --> 00:01:16,471
+Eso fue patético.
+
+24
+00:01:16,971 --> 00:01:18,264
+¡Dije que rugieras!
+
+25
+00:01:26,189 --> 00:01:29,442
+¿Quién quiere un poco
+de jugo de sandía fresco?
+
+26
+00:01:30,109 --> 00:01:31,194
+¡Yo!
+
+27
+00:01:31,903 --> 00:01:34,531
+Tu lección no terminó, ven aquí.
+
+28
+00:01:34,906 --> 00:01:35,906
+Vamos, Zuko.
+
+29
+00:01:35,990 --> 00:01:38,284
+Toma un recreo, ¿cuál es el problema?
+
+30
+00:01:38,993 --> 00:01:39,993
+Está bien.
+
+31
+00:01:41,079 --> 00:01:43,873
+Si quieren holgazanear como unas babosas,
+
+32
+00:01:43,957 --> 00:01:44,957
+adelante.
+
+33
+00:01:45,625 --> 00:01:46,918
+Zuko tiene razón.
+
+34
+00:01:47,252 --> 00:01:49,629
+Estamos bastante holgazanes,
+
+35
+00:01:49,712 --> 00:01:51,756
+pero sé qué hacer para cambiarlo.
+
+36
+00:01:52,215 --> 00:01:53,508
+¡Fiesta en la playa!
+
+37
+00:02:13,987 --> 00:02:15,947
+Miren mi escultura de Appa.
+
+38
+00:02:16,948 --> 00:02:18,032
+Nada mal, pelado.
+
+39
+00:02:19,242 --> 00:02:23,204
+He practicado dominar la arena.
+Esto te encantará.
+
+40
+00:02:30,378 --> 00:02:33,256
+Vaya, hiciste un rey de Tierra y un Bosco.
+
+41
+00:02:35,550 --> 00:02:37,051
+Intenta mejorarlo, Sokka.
+
+42
+00:02:40,597 --> 00:02:43,641
+¿Es un monstruo sin forma?
+
+43
+00:02:44,309 --> 00:02:45,518
+No, es Suki.
+
+44
+00:02:48,896 --> 00:02:52,567
+Suki, entenderemos si lo dejas
+después de eso.
+
+45
+00:02:52,817 --> 00:02:54,360
+Es tierno.
+
+46
+00:02:55,778 --> 00:02:57,280
+Pero ni si quiera...
+
+47
+00:03:11,836 --> 00:03:13,004
+¿Qué haces?
+
+48
+00:03:14,631 --> 00:03:16,049
+Te doy una lección.
+
+49
+00:03:31,689 --> 00:03:32,689
+¿Qué ocurrió?
+
+50
+00:03:32,940 --> 00:03:34,150
+Zuko se volvió loco.
+
+51
+00:03:34,400 --> 00:03:37,445
+Hice una escultura de Suki, y la destruyó.
+
+52
+00:03:38,863 --> 00:03:40,281
+Y atacó a Aang.
+
+53
+00:03:59,550 --> 00:04:01,928
+Tranquilízate
+antes de que te haga volar.
+
+54
+00:04:02,387 --> 00:04:03,596
+Adelante, hazlo.
+
+55
+00:04:36,963 --> 00:04:37,963
+¡Suficiente!
+
+56
+00:04:47,682 --> 00:04:50,017
+¿Qué te pasa?
+Podrías haberlo lastimado.
+
+57
+00:04:50,101 --> 00:04:51,185
+¿Qué me pasa a mí?
+
+58
+00:04:51,436 --> 00:04:52,895
+¿Qué les pasa a ustedes?
+
+59
+00:04:53,354 --> 00:04:57,108
+¿Cómo pueden estar en la playa
+si el cometa vendrá en tres días?
+
+60
+00:04:59,819 --> 00:05:01,821
+¿Por qué me miran así?
+
+61
+00:05:01,904 --> 00:05:03,406
+El cometa de Sozin...
+
+62
+00:05:03,948 --> 00:05:07,577
+Pensaba enfrentar al Señor de Fuego
+luego de que pasara.
+
+63
+00:05:07,660 --> 00:05:08,911
+¿Luego de que pasara?
+
+64
+00:05:08,995 --> 00:05:09,912
+No estoy listo.
+
+65
+00:05:09,996 --> 00:05:12,457
+Necesito más tiempo
+para dominar el Fuego.
+
+66
+00:05:12,540 --> 00:05:15,585
+Y tu dominio de Tierra
+también necesita práctica.
+
+67
+00:05:16,127 --> 00:05:18,713
+¿Todos sabían que Aang esperaría?
+
+68
+00:05:19,088 --> 00:05:22,967
+Francamente, si Aang se enfrenta
+al señor de Fuego ahora, perderá.
+
+69
+00:05:23,426 --> 00:05:24,427
+No te ofendas.
+
+70
+00:05:24,552 --> 00:05:26,971
+El punto de enfrentarlo antes del cometa
+
+71
+00:05:27,054 --> 00:05:29,599
+era para que no ganaran la guerra.
+
+72
+00:05:29,682 --> 00:05:32,310
+Pero ya la ganaron
+cuando tomaron Ba Sing Se.
+
+73
+00:05:32,685 --> 00:05:34,312
+No puede ser peor.
+
+74
+00:05:35,021 --> 00:05:36,021
+Te equivocas.
+
+75
+00:05:37,315 --> 00:05:39,567
+Todo empeorará más de lo que imaginas.
+
+76
+00:05:40,318 --> 00:05:41,778
+<i>El día antes del eclipse</i>
+
+77
+00:05:41,861 --> 00:05:44,322
+<i>mi padre hizo una gran reunión de guerra.</i>
+
+78
+00:05:45,114 --> 00:05:47,700
+<i>Era lo que había soñado
+durante muchos años.</i>
+
+79
+00:05:48,326 --> 00:05:50,495
+<i>Mi padre me había aceptado otra vez.</i>
+
+80
+00:05:54,081 --> 00:05:55,792
+Bienvenido, príncipe Zuko.
+
+81
+00:05:56,250 --> 00:05:57,710
+Estábamos esperándote.
+
+82
+00:06:05,426 --> 00:06:07,470
+General Shinu, su informe.
+
+83
+00:06:08,054 --> 00:06:09,054
+Gracias, señor.
+
+84
+00:06:10,139 --> 00:06:12,725
+Seguimos en poder de Ba Sing Se.
+
+85
+00:06:12,934 --> 00:06:15,561
+Sin embargo,
+rebeliones de maestros de Tierra
+
+86
+00:06:15,645 --> 00:06:18,981
+nos privan de la victoria total
+sobre el reino de Tierra.
+
+87
+00:06:19,065 --> 00:06:20,608
+¿Qué recomienda?
+
+88
+00:06:20,900 --> 00:06:22,652
+El ejército esta disperso.
+
+89
+00:06:22,735 --> 00:06:25,905
+Pero cuando pase el eclipse,
+y derrotemos la invasión,
+
+90
+00:06:25,988 --> 00:06:28,449
+recomiendo transferir más fuerzas locales
+
+91
+00:06:28,533 --> 00:06:29,700
+al reino de Tierra.
+
+92
+00:06:31,494 --> 00:06:32,662
+Príncipe Zuko,
+
+93
+00:06:32,745 --> 00:06:35,414
+estuviste con el pueblo
+en el reino de Tierra.
+
+94
+00:06:35,498 --> 00:06:38,501
+¿Crees que sumar tropas
+detendrán las rebeliones?
+
+95
+00:06:40,711 --> 00:06:43,714
+La gente del reino de Tierra
+es orgullosa y fuerte.
+
+96
+00:06:44,131 --> 00:06:47,051
+Soportan cualquier cosa
+mientras tengan esperanza.
+
+97
+00:06:48,219 --> 00:06:49,679
+Tienes razón.
+
+98
+00:06:51,138 --> 00:06:53,850
+Debemos destruir su esperanza.
+
+99
+00:06:54,559 --> 00:06:56,269
+Eso no es lo que...
+
+100
+00:06:56,394 --> 00:06:58,646
+Deberías tomar su preciada esperanza
+
+101
+00:06:58,771 --> 00:07:02,108
+y todo el territorio y quemarlo
+hasta que queden cenizas.
+
+102
+00:07:03,109 --> 00:07:04,109
+Sí.
+
+103
+00:07:04,610 --> 00:07:06,153
+Tienes razón, Azula.
+
+104
+00:07:07,280 --> 00:07:09,657
+El cometa de Sozin ya llega,
+
+105
+00:07:09,740 --> 00:07:11,909
+y ese día les daré
+
+106
+00:07:11,993 --> 00:07:14,704
+la fuerza y el poder de mil soles.
+
+107
+00:07:15,037 --> 00:07:17,582
+Ningún maestro podrá con nosotros.
+
+108
+00:07:17,915 --> 00:07:19,876
+¿Qué sugiere, señor?
+
+109
+00:07:20,376 --> 00:07:24,547
+Cuando el cometa vino, mi abuelo,
+el Señor de Fuego Sozin,
+
+110
+00:07:24,630 --> 00:07:26,757
+destruyó a los Nómadas de Aire.
+
+111
+00:07:27,091 --> 00:07:30,428
+Ahora usaré su poder para destruir
+al reino de Tierra.
+
+112
+00:07:31,137 --> 00:07:32,388
+Para siempre.
+
+113
+00:07:33,681 --> 00:07:37,685
+Haremos llover fuego en sus tierras
+desde nuestras naves aéreas.
+
+114
+00:07:37,768 --> 00:07:40,980
+El fuego destruirá todo.
+
+115
+00:07:41,522 --> 00:07:44,942
+Y de las cenizas nacerá un nuevo mundo.
+
+116
+00:07:45,026 --> 00:07:47,820
+Todas las tierras
+serán de la nación de Fuego.
+
+117
+00:07:48,070 --> 00:07:52,033
+¡Y yo seré el líder supremo de todo!
+
+118
+00:07:53,868 --> 00:07:56,829
+<i>Quise oponerme a ese plan horroroso.</i>
+
+119
+00:07:57,246 --> 00:07:59,332
+<i>Me avergüenza decir que no lo hice.</i>
+
+120
+00:07:59,832 --> 00:08:03,294
+Toda mi vida luché por el amor
+y la aceptación de mi padre.
+
+121
+00:08:03,753 --> 00:08:07,590
+Pero cuando lo tuve,
+supe que me había perdido en el camino.
+
+122
+00:08:08,341 --> 00:08:10,009
+Me olvidé de quién era.
+
+123
+00:08:10,801 --> 00:08:12,261
+No puedo creerlo.
+
+124
+00:08:13,387 --> 00:08:18,017
+Siempre supe que el Señor de Fuego
+era malo, pero ese plan es pura maldad.
+
+125
+00:08:19,393 --> 00:08:20,561
+¿Qué haré?
+
+126
+00:08:21,228 --> 00:08:25,149
+Sé que tienes miedo
+y que no estás listo para salvar al mundo.
+
+127
+00:08:25,733 --> 00:08:29,111
+Pero si no derrotas al Señor de Fuego
+antes del cometa,
+
+128
+00:08:29,195 --> 00:08:31,238
+ya no habrá un mundo para salvar.
+
+129
+00:08:37,951 --> 00:08:40,912
+¿Por qué no me contaste
+sobre ese plan malvado?
+
+130
+00:08:41,121 --> 00:08:42,539
+No se me ocurrió.
+
+131
+00:08:42,747 --> 00:08:45,250
+Asumí que lo enfrentarías
+antes del cometa.
+
+132
+00:08:45,333 --> 00:08:47,085
+Nadie me dijo que esperarías.
+
+133
+00:08:47,711 --> 00:08:48,920
+Esto es malo.
+
+134
+00:08:49,045 --> 00:08:51,548
+Es muy, muy malo.
+
+135
+00:08:51,756 --> 00:08:52,756
+Aang.
+
+136
+00:08:52,841 --> 00:08:54,759
+No lo harás solo.
+
+137
+00:08:54,843 --> 00:08:57,429
+Si luchamos juntos
+contra el Señor de Fuego,
+
+138
+00:08:57,512 --> 00:08:58,930
+podremos derrotarlo.
+
+139
+00:08:59,347 --> 00:09:01,892
+¡Genial! ¡Volvió el equipo Avatar!
+
+140
+00:09:02,434 --> 00:09:03,852
+Aire, agua,
+
+141
+00:09:04,519 --> 00:09:06,062
+tierra, fuego,
+
+142
+00:09:06,813 --> 00:09:08,106
+abanico y espada.
+
+143
+00:09:09,816 --> 00:09:13,195
+Esto será lo más difícil
+que hayamos hecho juntos...
+
+144
+00:09:14,070 --> 00:09:15,989
+...pero solo así quiero hacerlo.
+
+145
+00:09:18,325 --> 00:09:20,118
+- Sí.
+- Muy bien.
+
+146
+00:09:20,202 --> 00:09:21,495
+Ven aquí, Zuko.
+
+147
+00:09:21,745 --> 00:09:25,081
+Si eres parte del grupo,
+debes ser parte de los abrazos.
+
+148
+00:09:34,049 --> 00:09:37,385
+Debes conocer esta técnica
+antes de enfrentar a mi padre.
+
+149
+00:09:37,511 --> 00:09:39,054
+Cómo desviar un rayo.
+
+150
+00:09:40,514 --> 00:09:44,476
+Si dejas que fluya la energía
+en tu cuerpo, el rayo la seguirá.
+
+151
+00:09:44,684 --> 00:09:46,978
+Atacas al oponente con su energía.
+
+152
+00:09:47,270 --> 00:09:48,605
+Como dominar el Agua.
+
+153
+00:09:48,897 --> 00:09:51,566
+Exacto. Mi tío inventó esta técnica
+
+154
+00:09:51,691 --> 00:09:53,527
+al estudiar a maestros de Agua.
+
+155
+00:09:53,652 --> 00:09:56,780
+¿Alguna vez desviaste un rayo?
+
+156
+00:09:57,113 --> 00:09:59,199
+Una vez, contra mi padre.
+
+157
+00:09:59,324 --> 00:10:00,408
+¿Cómo se sintió?
+
+158
+00:10:01,701 --> 00:10:02,702
+Muy estimulante.
+
+159
+00:10:05,830 --> 00:10:06,957
+Pero aterrador.
+
+160
+00:10:09,918 --> 00:10:13,129
+Te sientes muy poderoso
+con tanta energía en el cuerpo.
+
+161
+00:10:13,338 --> 00:10:15,465
+Pero sabes que si haces algo mal,
+
+162
+00:10:15,715 --> 00:10:16,715
+es el fin.
+
+163
+00:10:17,676 --> 00:10:20,303
+Bueno, no será el fin de todo...
+
+164
+00:10:20,637 --> 00:10:23,265
+Siempre está Katara con agua de espíritu.
+
+165
+00:10:23,348 --> 00:10:24,348
+¿Verdad?
+
+166
+00:10:24,474 --> 00:10:27,561
+De hecho, la usé toda
+cuando Azula te disparó.
+
+167
+00:10:29,104 --> 00:10:31,147
+Deberás matar al Señor de Fuego
+
+168
+00:10:31,565 --> 00:10:33,024
+antes de que él te mate.
+
+169
+00:10:34,442 --> 00:10:36,695
+Sí, eso haré.
+
+170
+00:10:43,118 --> 00:10:44,869
+Reunámonos, equipo Avatar.
+
+171
+00:10:46,955 --> 00:10:50,834
+Para derrotar al Señor de Fuego,
+o, en este caso, el Señor Sandía,
+
+172
+00:10:50,917 --> 00:10:52,961
+debemos coordinar a la perfección.
+
+173
+00:10:53,295 --> 00:10:55,714
+Primero, Suki y yo distraemos su ataque,
+
+174
+00:10:55,797 --> 00:10:59,175
+Luego, Katara y Zuko lo atacan
+con algún líquido caliente,
+
+175
+00:10:59,259 --> 00:11:03,597
+y mientras el Señor Sandía está distraído,
+llega Aang y ¡pum!
+
+176
+00:11:03,763 --> 00:11:05,307
+Le da el golpe final.
+
+177
+00:11:06,433 --> 00:11:07,434
+¿Y yo?
+
+178
+00:11:07,642 --> 00:11:09,644
+Por ahora, serás el Señor Sandía.
+
+179
+00:11:09,936 --> 00:11:12,188
+¿Les arrojaré rocas con fuego?
+
+180
+00:11:12,314 --> 00:11:14,399
+Lo que sea para hacerlo realista.
+
+181
+00:11:15,400 --> 00:11:16,400
+Fantástico.
+
+182
+00:11:46,931 --> 00:11:48,141
+¡Cuidado, Toph!
+
+183
+00:11:48,224 --> 00:11:49,517
+No soy Toph.
+
+184
+00:11:49,726 --> 00:11:51,853
+¡Soy el Señor Sandía!
+
+185
+00:12:07,869 --> 00:12:08,869
+¡Ahora, Aang!
+
+186
+00:12:20,048 --> 00:12:22,384
+¿Qué esperas? ¡Derrótalo!
+
+187
+00:12:22,634 --> 00:12:23,634
+No puedo.
+
+188
+00:12:26,429 --> 00:12:27,597
+¿Qué te ocurre?
+
+189
+00:12:27,764 --> 00:12:31,184
+Si esto fuese real,
+ahora te estarían atacando con rayos.
+
+190
+00:12:31,309 --> 00:12:33,728
+Lo siento, no es lo correcto.
+
+191
+00:12:34,229 --> 00:12:35,897
+No me sentí como yo mismo.
+
+192
+00:12:40,151 --> 00:12:41,569
+Mira, así se hace.
+
+193
+00:12:55,208 --> 00:12:57,043
+Tengo una sorpresa para todos.
+
+194
+00:12:57,419 --> 00:13:00,463
+¡Lo sabía!
+Sí tenías una relación secreta con Haru.
+
+195
+00:13:03,717 --> 00:13:04,717
+No.
+
+196
+00:13:04,843 --> 00:13:08,054
+Buscaba ollas en el ático y encontré esto.
+
+197
+00:13:09,639 --> 00:13:12,767
+Miren a Zuko de bebé, ¿no es tierno?
+
+198
+00:13:16,020 --> 00:13:17,772
+Relájate, estoy bromeando.
+
+199
+00:13:18,148 --> 00:13:19,315
+Ese no soy yo...
+
+200
+00:13:20,316 --> 00:13:21,317
+Es mi padre.
+
+201
+00:13:22,944 --> 00:13:25,029
+Pero se ve tan tierno e inocente.
+
+202
+00:13:25,155 --> 00:13:27,782
+Pues creció y se convirtió en un monstruo
+
+203
+00:13:28,283 --> 00:13:30,326
+y en el peor padre en la historia.
+
+204
+00:13:30,702 --> 00:13:32,287
+Pero es un ser humano.
+
+205
+00:13:33,246 --> 00:13:34,664
+¿Lo defenderás?
+
+206
+00:13:34,789 --> 00:13:36,541
+No, estoy de acuerdo contigo.
+
+207
+00:13:36,624 --> 00:13:39,085
+El Señor de Fuego es una persona horrible
+
+208
+00:13:39,169 --> 00:13:41,087
+y el mundo estaría mejor sin él.
+
+209
+00:13:41,212 --> 00:13:42,964
+Pero debe haber otra forma.
+
+210
+00:13:43,131 --> 00:13:44,131
+¿Cuál?
+
+211
+00:13:44,424 --> 00:13:45,425
+No lo sé.
+
+212
+00:13:46,009 --> 00:13:49,262
+Podríamos hacer ollas enormes
+de pegamento y dominarlo
+
+213
+00:13:49,345 --> 00:13:52,307
+para pegarle los brazos y piernas
+así no nos ataca.
+
+214
+00:13:52,474 --> 00:13:54,434
+Sí, y muéstrale sus fotos de bebé
+
+215
+00:13:54,517 --> 00:13:56,686
+así esos recuerdos lo vuelven bueno.
+
+216
+00:13:56,770 --> 00:13:58,271
+¿Crees que funcionaría?
+
+217
+00:13:58,563 --> 00:13:59,563
+No.
+
+218
+00:14:02,233 --> 00:14:05,153
+Esto va en contra
+de lo que aprendí de los monjes.
+
+219
+00:14:05,236 --> 00:14:08,031
+No puedo ir por la vida matando gente.
+
+220
+00:14:08,323 --> 00:14:12,202
+Claro que puedes. Eres el Avatar.
+Debes mantener el equilibrio,
+
+221
+00:14:12,285 --> 00:14:14,245
+así que el universo te perdonará.
+
+222
+00:14:15,079 --> 00:14:19,209
+¡No es un chiste, Sokka!
+Ninguno entiende mi posición.
+
+223
+00:14:19,501 --> 00:14:21,419
+Aang, sí entendemos, es que...
+
+224
+00:14:21,503 --> 00:14:22,837
+¿Qué, Katara?
+
+225
+00:14:23,046 --> 00:14:24,798
+- ¿Qué?
+- Queremos ayudarte.
+
+226
+00:14:25,256 --> 00:14:29,010
+Cuando sepas la forma
+de derrotar al Señor de Fuego sin matarlo
+
+227
+00:14:29,093 --> 00:14:30,178
+¡dímela!
+
+228
+00:14:32,055 --> 00:14:34,140
+Aang, no te vayas.
+
+229
+00:14:35,725 --> 00:14:36,725
+Déjalo ir.
+
+230
+00:14:38,061 --> 00:14:40,271
+Necesita tiempo para resolverlo solo.
+
+231
+00:14:57,705 --> 00:15:00,875
+Hola, Momo. Supongo
+que tú no sabes que debería hacer.
+
+232
+00:15:02,836 --> 00:15:03,962
+Eso pensé.
+
+233
+00:16:03,943 --> 00:16:05,028
+Bien, eso es todo.
+
+234
+00:16:05,278 --> 00:16:06,278
+No.
+
+235
+00:16:06,821 --> 00:16:07,864
+¿Dónde está Aang?
+
+236
+00:16:12,535 --> 00:16:13,535
+¿Aang?
+
+237
+00:16:13,995 --> 00:16:14,995
+¡Aang!
+
+238
+00:16:15,121 --> 00:16:17,290
+Vamos, holgazán. Nos vamos.
+
+239
+00:16:30,803 --> 00:16:32,263
+Dejó su planeador.
+
+240
+00:16:32,347 --> 00:16:33,514
+Qué extraño.
+
+241
+00:16:33,640 --> 00:16:34,807
+No está en la casa.
+
+242
+00:16:34,891 --> 00:16:36,017
+Vayamos a la playa.
+
+243
+00:16:38,853 --> 00:16:39,729
+¡Miren!
+
+244
+00:16:39,812 --> 00:16:42,857
+¡Sus huellas! Terminan aquí.
+
+245
+00:16:43,524 --> 00:16:46,653
+¿Salió a nadar a la noche y no volvió?
+
+246
+00:16:47,153 --> 00:16:48,488
+Quizá lo capturaron.
+
+247
+00:16:48,571 --> 00:16:49,405
+No lo creo.
+
+248
+00:16:49,489 --> 00:16:50,949
+No hay señales de lucha.
+
+249
+00:16:51,032 --> 00:16:52,533
+Debe haberse escapado.
+
+250
+00:16:53,201 --> 00:16:55,370
+Dejó su planeador y a Appa.
+
+251
+00:16:55,536 --> 00:16:58,623
+¿Entonces qué crees que pasó, detective?
+
+252
+00:16:59,123 --> 00:17:03,544
+Es obvio. Aang desapareció
+misteriosamente antes de la batalla.
+
+253
+00:17:03,920 --> 00:17:06,214
+Está en un viaje espiritual.
+
+254
+00:17:06,464 --> 00:17:09,133
+En ese caso,
+¿su cuerpo no debería estar aquí?
+
+255
+00:17:09,217 --> 00:17:11,010
+Sí, olvídenlo.
+
+256
+00:17:11,177 --> 00:17:13,179
+Entonces debe estar en la isla.
+
+257
+00:17:13,429 --> 00:17:14,639
+Vamos a buscarlo.
+
+258
+00:17:15,139 --> 00:17:16,432
+¡Iré con Zuko!
+
+259
+00:17:17,558 --> 00:17:21,062
+¿Qué? Todos tuvieron
+su paseo transformador con Zuko.
+
+260
+00:17:21,145 --> 00:17:22,230
+Ahora es mi turno.
+
+261
+00:17:39,914 --> 00:17:40,914
+¡Estado Avatar!
+
+262
+00:17:44,627 --> 00:17:47,130
+Y cuando tenía nueve, me escapé otra vez.
+
+263
+00:17:48,172 --> 00:17:49,799
+Sé que no debería quejarme.
+
+264
+00:17:49,882 --> 00:17:52,010
+Mis padres me dieron todo,
+
+265
+00:17:52,093 --> 00:17:55,138
+pero nunca me dieron lo que quería.
+
+266
+00:17:55,221 --> 00:17:57,432
+Su amor, ¿me entiendes?
+
+267
+00:17:58,975 --> 00:18:01,102
+Mira, sé que tu niñez no fue fácil,
+
+268
+00:18:01,185 --> 00:18:03,187
+pero debemos encontrar a Aang.
+
+269
+00:18:04,731 --> 00:18:06,774
+Este paseo es de lo peor.
+
+270
+00:18:14,741 --> 00:18:16,075
+Por sus expresiones,
+
+271
+00:18:16,159 --> 00:18:18,077
+tampoco encontraron a Aang, ¿no?
+
+272
+00:18:19,912 --> 00:18:20,912
+No.
+
+273
+00:18:21,122 --> 00:18:23,791
+Es como si hubiese desaparecido.
+
+274
+00:18:24,208 --> 00:18:25,209
+Un momento.
+
+275
+00:18:25,335 --> 00:18:27,962
+¿Notaron que Momo también desapareció?
+
+276
+00:18:28,671 --> 00:18:29,671
+¡No!
+
+277
+00:18:29,881 --> 00:18:32,008
+¡Sabía que era cuestión de tiempo!
+
+278
+00:18:33,301 --> 00:18:34,969
+¡Appa se comió a Momo!
+
+279
+00:18:35,553 --> 00:18:37,680
+¡Momo, yo te rescataré, amiguito!
+
+280
+00:18:38,139 --> 00:18:40,141
+Sokka, Appa no se comió a Momo.
+
+281
+00:18:40,433 --> 00:18:41,642
+Debe estar con Aang.
+
+282
+00:18:42,101 --> 00:18:44,562
+Eso es lo que Appa quiere que pienses.
+
+283
+00:18:45,438 --> 00:18:47,482
+Sal de la boca del bisonte, Sokka.
+
+284
+00:18:47,732 --> 00:18:49,400
+Tenemos un problema.
+
+285
+00:18:49,609 --> 00:18:52,403
+Aang no está,
+y el cometa llega en dos días.
+
+286
+00:18:52,612 --> 00:18:54,030
+¿Qué haremos, Zuko?
+
+287
+00:18:55,823 --> 00:18:56,823
+No lo sé.
+
+288
+00:19:00,036 --> 00:19:01,412
+¿Por qué me miran?
+
+289
+00:19:01,746 --> 00:19:04,499
+Eres el experto en buscar a Aang.
+
+290
+00:19:04,582 --> 00:19:08,628
+Tienes mucha experiencia
+en buscar al Avatar.
+
+291
+00:19:13,257 --> 00:19:15,343
+Zuko, no quiero darte indicaciones,
+
+292
+00:19:15,426 --> 00:19:17,762
+¿pero por qué vamos al reino de Tierra?
+
+293
+00:19:18,137 --> 00:19:19,597
+Aang no está allí.
+
+294
+00:19:19,847 --> 00:19:21,015
+Confía en mí.
+
+295
+00:19:41,160 --> 00:19:43,204
+¡Vamos, tortugas! ¡Más rápido!
+
+296
+00:20:04,892 --> 00:20:06,394
+Perdona la demora, padre.
+
+297
+00:20:06,769 --> 00:20:09,772
+Es difícil conseguir
+tipos buenos con el palanquín.
+
+298
+00:20:10,314 --> 00:20:12,650
+¿Todo listo para la partida?
+
+299
+00:20:12,984 --> 00:20:16,237
+- Hubo un cambio de planes, Azula.
+- ¿Qué?
+
+300
+00:20:16,362 --> 00:20:20,324
+Decidí enviar la flota de naves aéreas
+a Ba Sing Se solas.
+
+301
+00:20:20,658 --> 00:20:23,244
+Te quedarás en la nación de Fuego.
+
+302
+00:20:24,620 --> 00:20:26,789
+Pensé que haríamos esto juntos.
+
+303
+00:20:27,123 --> 00:20:29,333
+Mi decisión está tomada.
+
+304
+00:20:30,501 --> 00:20:34,714
+No puedes hacerme esto,
+no puedes tratarme cono a Zuko.
+
+305
+00:20:35,089 --> 00:20:37,425
+Azula, cállate.
+
+306
+00:20:37,633 --> 00:20:40,178
+Pero fue mi idea quemar todo.
+
+307
+00:20:40,303 --> 00:20:41,971
+¡Merezco estar a tu lado!
+
+308
+00:20:42,138 --> 00:20:43,138
+¡Azula!
+
+309
+00:20:45,099 --> 00:20:46,100
+Escúchame.
+
+310
+00:20:46,350 --> 00:20:49,270
+Necesito que te quedes a cuidar la nación.
+
+311
+00:20:49,479 --> 00:20:52,940
+Es un trabajo importante,
+y solo confío en ti para hacerlo.
+
+312
+00:20:54,317 --> 00:20:55,317
+¿De verdad?
+
+313
+00:20:55,651 --> 00:20:57,612
+Y por tu lealtad,
+
+314
+00:20:57,695 --> 00:21:01,449
+he decidido proclamarte
+la nueva Señora de Fuego.
+
+315
+00:21:02,700 --> 00:21:04,076
+¿Señora de Fuego Azula?
+
+316
+00:21:04,911 --> 00:21:06,579
+Suena bien.
+
+317
+00:21:07,205 --> 00:21:08,581
+¿Pero y tú?
+
+318
+00:21:09,415 --> 00:21:11,584
+Ya no existe el Señor de Fuego Ozai.
+
+319
+00:21:12,335 --> 00:21:15,296
+El mundo renacerá del fuego,
+
+320
+00:21:15,630 --> 00:21:19,675
+y yo renaceré
+como el líder supremo del mundo.
+
+321
+00:21:20,343 --> 00:21:23,221
+Desde este momento, me conocerán
+
+322
+00:21:24,222 --> 00:21:26,140
+¡como el Rey Fénix!
+
+323
+00:21:58,047 --> 00:22:01,592
+¿Por qué nos trajiste
+a una taberna del reino de Tierra?
+
+324
+00:22:02,009 --> 00:22:03,009
+Por June.
+
+325
+00:22:06,973 --> 00:22:09,934
+Sí, la cazarecompensas extraña
+con el topo gigante.
+
+326
+00:22:10,309 --> 00:22:12,311
+Se ve perfecta.
+
+327
+00:22:12,728 --> 00:22:15,523
+Tiene un topo gigante
+y siempre anda con él.
+
+328
+00:22:15,940 --> 00:22:16,940
+El shirshu.
+
+329
+00:22:17,191 --> 00:22:20,528
+Es el único animal
+que puede rastrear a Aang por su olor.
+
+330
+00:22:20,653 --> 00:22:22,697
+Solo así podremos encontrarlo.
+
+331
+00:22:35,334 --> 00:22:38,879
+No sé quién será esta chica June,
+pero me cae bien.
+
+332
+00:22:46,095 --> 00:22:47,095
+Hola, Momo.
+
+333
+00:22:47,513 --> 00:22:49,557
+Tuve un sueño muy extraño.
+
+334
+00:22:52,685 --> 00:22:53,685
+Espera.
+
+335
+00:23:03,738 --> 00:23:04,738
+¿Dónde estamos?
+

@@ -1,0 +1,1205 @@
+1
+00:00:02,473 --> 00:00:03,473
+<i>Agua.</i>
+
+2
+00:00:04,850 --> 00:00:05,850
+<i>Tierra.</i>
+
+3
+00:00:06,811 --> 00:00:07,811
+<i>Fuego.</i>
+
+4
+00:00:08,938 --> 00:00:09,938
+<i>Aire.</i>
+
+5
+00:00:11,148 --> 00:00:14,652
+<i>Hace mucho, las cuatro naciones
+vivían en paz.</i>
+
+6
+00:00:15,319 --> 00:00:18,781
+<i>Pero todo cambió
+cuando la Nación del Fuego atacó.</i>
+
+7
+00:00:19,615 --> 00:00:23,661
+<i>Solo el Avatar, maestro de los
+cuatro elementos, podía detenerlos,</i>
+
+8
+00:00:23,744 --> 00:00:26,831
+<i>pero cuando el mundo
+más lo necesitaba, desapareció.</i>
+
+9
+00:00:27,039 --> 00:00:31,085
+<i>Han pasado cien años y mi hermano
+y yo encontramos al Avatar,</i>
+
+10
+00:00:31,168 --> 00:00:32,795
+<i>un maestro del aire llamado Aang.</i>
+
+11
+00:00:32,878 --> 00:00:35,047
+<i>Y aunque su dominio del aire
+es genial,</i>
+
+12
+00:00:35,131 --> 00:00:38,592
+<i>tiene mucho que aprender
+antes de poder salvar a alguien.</i>
+
+13
+00:00:38,843 --> 00:00:42,179
+<i>Pero creo que Aang
+puede salvar el mundo.</i>
+
+14
+00:00:42,603 --> 00:00:46,203
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:49,227 --> 00:00:50,713
+LIBRO UNO: AGUA
+
+16
+00:00:50,737 --> 00:00:53,527
+CAPÍTULO OCHO: EL AVATAR ROKU
+SOLSTICIO DE INVIERNO, PARTE 2
+
+17
+00:01:01,405 --> 00:01:04,241
+Vamos, Appa, muévete, chico.
+
+18
+00:01:05,867 --> 00:01:10,163
+Perdón, Katara y Sokka no irán
+a la nación de Fuego.
+
+19
+00:01:10,247 --> 00:01:13,333
+Si les pasa algo, no me lo perdonaré.
+
+20
+00:01:13,417 --> 00:01:16,628
+¡Levanta tu trasero enorme, y vámonos!
+
+21
+00:01:18,839 --> 00:01:21,299
+Ese trasero te dice algo.
+
+22
+00:01:21,883 --> 00:01:23,260
+No vayas, Aang.
+
+23
+00:01:23,343 --> 00:01:26,179
+El mundo no puede perderte.
+
+24
+00:01:26,263 --> 00:01:27,681
+Yo tampoco.
+
+25
+00:01:32,686 --> 00:01:36,064
+Hablaré con Roku sobre mi visión.
+
+26
+00:01:36,148 --> 00:01:40,277
+Debo llegar al templo
+antes de que se ponga el sol.
+
+27
+00:01:40,360 --> 00:01:41,486
+¡Es hoy!
+
+28
+00:01:44,531 --> 00:01:46,992
+No irás a la nación de Fuego.
+
+29
+00:01:48,201 --> 00:01:51,455
+No sin tus amigos, te cuidaremos.
+
+30
+00:01:55,667 --> 00:01:58,044
+Es un camino muy largo.
+
+31
+00:01:58,670 --> 00:02:02,215
+Vuela rápido para llegar
+antes del anochecer.
+
+32
+00:02:02,799 --> 00:02:03,800
+Buena suerte.
+
+33
+00:02:03,884 --> 00:02:05,594
+- Gracias...
+- ¡Vete!
+
+34
+00:02:12,684 --> 00:02:14,019
+¿No puede dormir?
+
+35
+00:02:16,563 --> 00:02:18,607
+¿Vio al Avatar?
+
+36
+00:02:26,990 --> 00:02:30,452
+Vamos, amigo, estamos lejos. ¡Rápido!
+
+37
+00:02:35,957 --> 00:02:39,169
+Vamos hacia la nación de Fuego.
+
+38
+00:02:39,753 --> 00:02:44,633
+De todas las cosas tontas
+que hiciste en tus 16 años,
+
+39
+00:02:44,716 --> 00:02:47,302
+esta es la peor.
+
+40
+00:02:47,385 --> 00:02:48,804
+No tengo opción.
+
+41
+00:02:48,887 --> 00:02:53,391
+¿Olvidaste que el Señor
+de Fuego te desterró?
+
+42
+00:02:53,934 --> 00:02:55,268
+¿Y si te atrapan?
+
+43
+00:02:55,352 --> 00:02:59,272
+Persigo al Avatar, mi padre lo entenderá.
+
+44
+00:02:59,356 --> 00:03:01,858
+Le das demasiado crédito.
+
+45
+00:03:01,942 --> 00:03:04,736
+Mi hermano no es muy comprensivo.
+
+46
+00:03:08,323 --> 00:03:09,574
+Allí están.
+
+47
+00:03:09,658 --> 00:03:11,618
+¡Timonel, a toda máquina!
+
+48
+00:03:13,203 --> 00:03:15,205
+Aang, tenemos problemas.
+
+49
+00:03:15,288 --> 00:03:17,165
+¡Sí, y llegan rápido!
+
+50
+00:03:24,381 --> 00:03:26,216
+Ay, príncipe Zuko,
+
+51
+00:03:26,299 --> 00:03:29,636
+¿y si les disparas
+con algo más perfumado?
+
+52
+00:03:32,681 --> 00:03:33,974
+Cuando les diga.
+
+53
+00:03:34,808 --> 00:03:35,808
+¡Fuego!
+
+54
+00:03:38,103 --> 00:03:39,604
+¡Una bola de fuego!
+
+55
+00:03:40,063 --> 00:03:41,063
+¡Bien!
+
+56
+00:03:45,068 --> 00:03:49,239
+¡Salgamos de su alcance
+antes de que disparen otra vez!
+
+57
+00:03:49,322 --> 00:03:51,449
+¿Appa no puede ir rápido?
+
+58
+00:03:51,533 --> 00:03:54,160
+Sí, pero hay un problemita.
+
+59
+00:03:54,619 --> 00:03:55,787
+Hay un bloqueo.
+
+60
+00:04:02,711 --> 00:04:07,924
+Estás en aguas del reino de Tierra.
+Si retrocedes, no te arrestarán.
+
+61
+00:04:08,008 --> 00:04:13,638
+Vamos al norte: rodearemos los barcos
+y los evitaremos. No queda otra.
+
+62
+00:04:13,722 --> 00:04:14,848
+¡No se puede!
+
+63
+00:04:14,931 --> 00:04:18,810
+Por eso, no quería que vinieran,
+es peligroso.
+
+64
+00:04:18,894 --> 00:04:20,896
+Y, por eso, vinimos.
+
+65
+00:04:20,979 --> 00:04:22,689
+¡Sigamos!
+
+66
+00:04:23,481 --> 00:04:24,566
+¡Vamos, Appa!
+
+67
+00:04:26,943 --> 00:04:28,653
+No volverá.
+
+68
+00:04:28,737 --> 00:04:33,992
+Por favor, si te captura la nación
+de Fuego, no podré ayudarte.
+
+69
+00:04:34,492 --> 00:04:36,244
+No sigas al Avatar.
+
+70
+00:04:36,828 --> 00:04:38,413
+Perdón, tío.
+
+71
+00:04:39,497 --> 00:04:41,166
+¡Vamos, sigan!
+
+72
+00:04:41,708 --> 00:04:43,043
+El Avatar...
+
+73
+00:04:43,960 --> 00:04:45,921
+y el príncipe desterrado.
+
+74
+00:04:46,546 --> 00:04:49,382
+Es mi día de suerte.
+
+75
+00:04:49,466 --> 00:04:53,845
+- ¿Comandante Zhao?
+- Dispare al bisonte, capitán.
+
+76
+00:04:53,929 --> 00:04:57,098
+Pero hay un barco de los nuestros, señor.
+
+77
+00:04:57,182 --> 00:05:01,269
+- ¿Si resulta dañado?
+- No importa, es de un traidor.
+
+78
+00:05:01,353 --> 00:05:02,354
+¡Fuego!
+
+79
+00:05:05,815 --> 00:05:07,192
+¡Láncenlas!
+
+80
+00:05:29,089 --> 00:05:30,632
+Appa, ¿estás bien?
+
+81
+00:05:44,854 --> 00:05:49,943
+¡Príncipe, se dañaron los motores!
+Hay que detenerse, y repararlos.
+
+82
+00:05:50,026 --> 00:05:51,903
+No detengan el barco.
+
+83
+00:05:51,987 --> 00:05:53,446
+¡Láncenlas!
+
+84
+00:06:14,134 --> 00:06:16,469
+¡Sokka!
+
+85
+00:06:37,699 --> 00:06:38,783
+¿Listos?
+
+86
+00:06:43,913 --> 00:06:45,165
+¡Disparen!
+
+87
+00:07:06,978 --> 00:07:08,021
+¡Lo logramos!
+
+88
+00:07:08,104 --> 00:07:11,191
+Llegamos a la nación de Fuego. Genial.
+
+89
+00:07:11,274 --> 00:07:13,860
+¿Adónde irá el Avatar, señor?
+
+90
+00:07:13,943 --> 00:07:15,028
+No sé.
+
+91
+00:07:15,653 --> 00:07:18,615
+Ese príncipe desterrado lo sabe.
+
+92
+00:07:21,076 --> 00:07:22,702
+¡Vamos a colisionar!
+
+93
+00:07:22,786 --> 00:07:23,953
+¡Lo lograremos!
+
+94
+00:07:24,037 --> 00:07:27,499
+Listos para capturar al príncipe Zuko.
+
+95
+00:07:27,582 --> 00:07:30,919
+No, apaguen los motores, déjenlos pasar.
+
+96
+00:07:31,002 --> 00:07:32,253
+¿Cómo?
+
+97
+00:07:54,025 --> 00:07:55,068
+¡Ahí está!
+
+98
+00:07:55,443 --> 00:07:57,987
+La isla donde me trajo el dragón.
+
+99
+00:08:03,159 --> 00:08:05,411
+Lo lograste, amigo. Bien.
+
+100
+00:08:07,330 --> 00:08:09,916
+- Seguro estás cansado.
+- No.
+
+101
+00:08:10,834 --> 00:08:14,796
+Estoy bien, listo para pelear
+con maestros de Fuego.
+
+102
+00:08:14,879 --> 00:08:16,798
+Le hablaba a Appa.
+
+103
+00:08:17,423 --> 00:08:19,634
+Y yo le hablaba a Momo.
+
+104
+00:08:27,433 --> 00:08:29,144
+No veo guardias.
+
+105
+00:08:29,227 --> 00:08:32,856
+La nación de Fuego lo abandonó
+al morir Roku.
+
+106
+00:08:32,939 --> 00:08:35,024
+Se oculta el sol, vamos.
+
+107
+00:08:44,826 --> 00:08:47,328
+Esperen, escuché algo.
+
+108
+00:08:48,705 --> 00:08:51,124
+Somos los sabios de Fuego,
+
+109
+00:08:51,666 --> 00:08:54,711
+los guardianes del Templo del Avatar.
+
+110
+00:08:54,794 --> 00:08:57,172
+Genial, yo soy el Avatar.
+
+111
+00:08:57,255 --> 00:08:58,506
+Lo sabemos.
+
+112
+00:09:04,426 --> 00:09:06,220
+Los frenaré, ¡corran!
+
+113
+00:09:10,766 --> 00:09:13,060
+Si el Avatar contacta a Roku,
+
+114
+00:09:13,143 --> 00:09:16,105
+no sabemos cuán poderoso será el niño.
+
+115
+00:09:16,188 --> 00:09:18,023
+Divídanse y búsquenlo.
+
+116
+00:09:21,694 --> 00:09:23,862
+- ¡Síganme!
+- ¿Adónde vamos?
+
+117
+00:09:23,946 --> 00:09:24,946
+No sé.
+
+118
+00:09:26,865 --> 00:09:27,991
+¡Me equivoqué!
+
+119
+00:09:28,742 --> 00:09:30,244
+¡Vuelve!
+
+120
+00:09:35,749 --> 00:09:37,334
+No quiero pelear.
+
+121
+00:09:37,835 --> 00:09:39,044
+Soy un amigo.
+
+122
+00:09:39,128 --> 00:09:41,255
+No, ustedes son el enemigo.
+
+123
+00:09:43,841 --> 00:09:46,260
+Sé por qué viniste, Avatar.
+
+124
+00:09:46,343 --> 00:09:48,011
+- ¿En serio?
+- Sí.
+
+125
+00:09:48,595 --> 00:09:50,597
+Deseas hablar con Roku.
+
+126
+00:09:51,223 --> 00:09:52,808
+Te llevaré a él.
+
+127
+00:09:52,891 --> 00:09:53,891
+¿Cómo?
+
+128
+00:09:59,398 --> 00:10:00,774
+Por aquí.
+
+129
+00:10:01,400 --> 00:10:02,401
+Encuéntrenlo.
+
+130
+00:10:03,819 --> 00:10:05,612
+¡Se acaba el tiempo!
+
+131
+00:10:14,163 --> 00:10:15,539
+¿Qué trama, tío?
+
+132
+00:10:15,914 --> 00:10:18,083
+¿Por qué Zhao no me arrestó?
+
+133
+00:10:18,167 --> 00:10:20,043
+¿Porque quiere seguirte?
+
+134
+00:10:20,711 --> 00:10:25,841
+Lo guiarás hasta el botín
+que ambos quieren: el Avatar.
+
+135
+00:10:25,924 --> 00:10:30,429
+Si Zhao quiere seguir el humo,
+que lo haga.
+
+136
+00:10:31,221 --> 00:10:34,016
+<i>Para Roku, este templo era su hogar.</i>
+
+137
+00:10:34,683 --> 00:10:37,770
+Él creó estos túneles del magma.
+
+138
+00:10:37,853 --> 00:10:42,399
+- ¿Usted conoció al Avatar Roku?
+- No, pero mi abuelo sí.
+
+139
+00:10:42,483 --> 00:10:46,904
+Muchas generaciones de sabios
+cuidaron este templo.
+
+140
+00:10:46,987 --> 00:10:50,449
+Todos tenemos
+una conexión espiritual con él.
+
+141
+00:10:50,741 --> 00:10:52,701
+¿Así supo que yo vendría?
+
+142
+00:10:53,118 --> 00:10:56,330
+Hace semanas, pasó algo sorprendente.
+
+143
+00:10:56,413 --> 00:11:00,459
+Los ojos de la estatua de Roku
+comenzaron a brillar.
+
+144
+00:11:00,542 --> 00:11:05,047
+Estábamos en el Templo de Aire,
+y le brillaron los ojos.
+
+145
+00:11:05,130 --> 00:11:09,259
+Y así supimos que habías vuelto al mundo.
+
+146
+00:11:09,343 --> 00:11:13,263
+Si es el Templo del Avatar,
+¿por qué me atacan?
+
+147
+00:11:13,347 --> 00:11:14,807
+Todo cambió.
+
+148
+00:11:15,307 --> 00:11:18,393
+Antes, los sabios eran leales al Avatar.
+
+149
+00:11:19,061 --> 00:11:23,524
+Cuando Roku murió,
+los sabios esperaron al próximo Avatar,
+
+150
+00:11:24,358 --> 00:11:25,901
+pero él nunca llegó.
+
+151
+00:11:25,984 --> 00:11:27,778
+Me esperaban.
+
+152
+00:11:27,861 --> 00:11:30,739
+Está bien, llegaste 100 años tarde.
+
+153
+00:11:30,823 --> 00:11:33,367
+Ya no esperaban más al Avatar.
+
+154
+00:11:33,575 --> 00:11:36,745
+El Señor de Fuego Sozin inició la guerra.
+
+155
+00:11:36,829 --> 00:11:40,707
+Obligó a mi abuelo
+y a los demás sabios a seguirlo.
+
+156
+00:11:41,124 --> 00:11:43,460
+Yo nunca quise servirlo.
+
+157
+00:11:44,086 --> 00:11:48,549
+Cuando supe que venías, sabía
+que traicionaría a los demás.
+
+158
+00:11:48,632 --> 00:11:50,342
+Gracias por ayudarme.
+
+159
+00:11:52,553 --> 00:11:54,972
+Las escaleras van al santuario.
+
+160
+00:11:55,430 --> 00:12:00,269
+Adentro, espera
+que la luz ilumine la estatua.
+
+161
+00:12:00,352 --> 00:12:03,063
+Entonces podrás hablar con él.
+
+162
+00:12:11,697 --> 00:12:12,697
+¡No!
+
+163
+00:12:13,991 --> 00:12:15,409
+¿Qué pasa, Shyu?
+
+164
+00:12:15,492 --> 00:12:17,870
+Las puertas están cerradas.
+
+165
+00:12:18,620 --> 00:12:22,499
+¿No puede dominar el Fuego y abrirlas?
+
+166
+00:12:22,583 --> 00:12:23,417
+No.
+
+167
+00:12:23,500 --> 00:12:28,422
+Solo un Avatar consagrado
+tiene el poder de abrir estas puertas.
+
+168
+00:12:29,006 --> 00:12:31,967
+Si no, los sabios abren las puertas
+
+169
+00:12:32,551 --> 00:12:35,637
+con cinco explosiones de fuego.
+
+170
+00:12:35,721 --> 00:12:37,681
+Conque cinco explosiones.
+
+171
+00:12:38,682 --> 00:12:40,017
+Ya sé qué hacer.
+
+172
+00:12:43,020 --> 00:12:44,646
+Tío, hacia el norte.
+
+173
+00:12:44,730 --> 00:12:48,025
+Zhao seguirá el humo que nos esconde.
+
+174
+00:12:57,576 --> 00:13:00,495
+Es un truco que aprendí de mi padre.
+
+175
+00:13:00,579 --> 00:13:03,916
+Sello la lámpara en una bolsa de piel.
+
+176
+00:13:03,999 --> 00:13:08,629
+Shyu encenderá el cordel mojado,
+y ¡tatan! Dominio del fuego.
+
+177
+00:13:08,712 --> 00:13:11,298
+Sí que te superaste, Sokka.
+
+178
+00:13:11,381 --> 00:13:13,926
+Puede que sirva.
+
+179
+00:13:15,886 --> 00:13:19,973
+Los sabios escucharán la explosión,
+así que corran.
+
+180
+00:13:22,517 --> 00:13:24,353
+Ya anochece. ¿Listo?
+
+181
+00:13:24,578 --> 00:13:26,146
+Totalmente.
+
+182
+00:13:41,536 --> 00:13:42,871
+¡Siguen cerradas!
+
+183
+00:13:46,291 --> 00:13:47,960
+No sirvió.
+
+184
+00:13:58,150 --> 00:14:01,070
+¿Por qué no se abren?
+
+185
+00:14:02,822 --> 00:14:04,574
+¡Basta, Aang!
+
+186
+00:14:04,657 --> 00:14:06,367
+No podemos hacer nada.
+
+187
+00:14:06,450 --> 00:14:08,786
+Perdón por todo esto.
+
+188
+00:14:09,745 --> 00:14:10,913
+No entiendo.
+
+189
+00:14:10,997 --> 00:14:14,417
+La explosión imitó el dominio del fuego.
+
+190
+00:14:15,376 --> 00:14:17,628
+¡Sokka, eres un genio!
+
+191
+00:14:17,712 --> 00:14:21,173
+¿Por qué es un genio? Su plan no sirvió.
+
+192
+00:14:21,257 --> 00:14:23,718
+Aang, déjala soñar.
+
+193
+00:14:24,260 --> 00:14:27,388
+Sí, su plan no funcionó,
+
+194
+00:14:27,471 --> 00:14:29,390
+pero parecerá que sí.
+
+195
+00:14:29,473 --> 00:14:32,727
+¿La definición de genio cambió
+en 100 años?
+
+196
+00:14:33,644 --> 00:14:36,606
+¡Rápido, el Avatar entró al santuario!
+
+197
+00:14:36,689 --> 00:14:37,940
+¿Cómo lo hizo?
+
+198
+00:14:38,024 --> 00:14:41,736
+No sé, pero vean las marcas,
+y miren abajo.
+
+199
+00:14:43,696 --> 00:14:45,114
+¡Está adentro!
+
+200
+00:14:45,197 --> 00:14:47,241
+Abran las puertas ahora,
+
+201
+00:14:47,325 --> 00:14:50,202
+antes de que él se contacte con Roku.
+
+202
+00:15:04,800 --> 00:15:06,594
+Es el lémur del Avatar.
+
+203
+00:15:06,677 --> 00:15:09,055
+¡Entró por las tuberías!
+
+204
+00:15:09,138 --> 00:15:10,473
+¡Nos engañaron!
+
+205
+00:15:14,644 --> 00:15:15,645
+¡Ahora, Aang!
+
+206
+00:15:17,229 --> 00:15:19,023
+¡Es tu oportunidad!
+
+207
+00:15:21,025 --> 00:15:22,568
+Él viene conmigo.
+
+208
+00:15:27,948 --> 00:15:29,825
+¡Cierren las puertas ya!
+
+209
+00:15:37,750 --> 00:15:38,750
+¡Ve!
+
+210
+00:15:45,883 --> 00:15:46,883
+¡Lo logró!
+
+211
+00:15:59,605 --> 00:16:01,941
+La luz lo ilumina, y le hablo.
+
+212
+00:16:02,024 --> 00:16:04,235
+¿Por qué no pasa nada?
+
+213
+00:16:09,407 --> 00:16:11,909
+Pero ¿qué pasa? Están selladas.
+
+214
+00:16:11,992 --> 00:16:16,288
+Quizá fue la luz.
+El Avatar Roku no quiere que entremos.
+
+215
+00:16:18,916 --> 00:16:20,668
+¿Por qué no pasa nada?
+
+216
+00:16:21,377 --> 00:16:26,757
+No sé qué hago, solo domino el Aire.
+Por favor, Avatar Roku, háblame.
+
+217
+00:16:34,348 --> 00:16:36,976
+Qué bueno verte, Aang.
+
+218
+00:16:37,059 --> 00:16:39,478
+¿Por qué tardaste tanto?
+
+219
+00:16:43,441 --> 00:16:45,609
+¿Por qué ayudó al Avatar?
+
+220
+00:16:45,693 --> 00:16:48,362
+Porque era el deber de los sabios.
+
+221
+00:16:48,988 --> 00:16:51,240
+Sigue siendo nuestro deber.
+
+222
+00:16:55,244 --> 00:16:58,956
+Qué actuación tan emocionante
+y conmovedora.
+
+223
+00:16:59,039 --> 00:17:04,670
+El Señor de Fuego entenderá
+cuando le explique por qué lo traicionó.
+
+224
+00:17:04,754 --> 00:17:06,505
+Comandante Zhao.
+
+225
+00:17:06,589 --> 00:17:08,299
+Y príncipe Zuko,
+
+226
+00:17:08,382 --> 00:17:13,429
+qué esfuerzo tan noble,
+pero esa pantalla de humo no sirvió.
+
+227
+00:17:13,512 --> 00:17:18,058
+Dos traidores en un día.
+El Señor de Fuego se alegrará.
+
+228
+00:17:18,142 --> 00:17:22,772
+¡Es tarde, Zhao! El Avatar entró,
+las puertas están selladas.
+
+229
+00:17:22,855 --> 00:17:23,855
+No importa.
+
+230
+00:17:24,440 --> 00:17:27,943
+Tarde o temprano, deberá salir.
+
+231
+00:17:31,405 --> 00:17:34,825
+Debo decirte algo muy importante, Aang.
+
+232
+00:17:35,659 --> 00:17:39,830
+Por eso, cuando estuviste
+en el mundo espiritual,
+
+233
+00:17:39,914 --> 00:17:42,249
+hice que mi dragón te buscara.
+
+234
+00:17:42,333 --> 00:17:45,211
+¿Es sobre la visión del cometa?
+
+235
+00:17:45,294 --> 00:17:46,420
+Sí.
+
+236
+00:17:46,504 --> 00:17:47,713
+¿Qué significa?
+
+237
+00:17:47,797 --> 00:17:49,423
+Hace 100 años,
+
+238
+00:17:49,507 --> 00:17:54,136
+el Señor de Fuego Sozin usó el cometa
+para iniciar la guerra.
+
+239
+00:17:54,220 --> 00:17:59,099
+Él y sus maestros de Fuego
+aprovecharon su poder increíble
+
+240
+00:17:59,183 --> 00:18:02,978
+y dieron un golpe mortal
+a las demás naciones.
+
+241
+00:18:03,229 --> 00:18:05,272
+¿El cometa los fortaleció?
+
+242
+00:18:05,356 --> 00:18:09,360
+Sí, más de lo que imaginas.
+
+243
+00:18:09,443 --> 00:18:11,237
+Eso pasó hace 100 años.
+
+244
+00:18:11,320 --> 00:18:15,199
+- ¿Qué tiene que ver el cometa ahora?
+- Escucha.
+
+245
+00:18:15,783 --> 00:18:19,370
+<i>El cometa regresará a fines del verano,</i>
+
+246
+00:18:19,453 --> 00:18:24,500
+<i>y Ozai usará ese poder
+para terminar la guerra de una vez.</i>
+
+247
+00:18:27,211 --> 00:18:32,758
+Si lo logra, ni siquiera el Avatar
+devolverá el equilibrio al mundo.
+
+248
+00:18:32,842 --> 00:18:38,681
+Aang, derrota al Señor de Fuego
+antes de que llegue el cometa.
+
+249
+00:18:38,764 --> 00:18:43,060
+Pero no sé dominar el Agua,
+menos la Tierra y el Fuego.
+
+250
+00:18:43,143 --> 00:18:47,565
+Dominar los elementos
+lleva años de práctica y disciplina.
+
+251
+00:18:47,648 --> 00:18:52,820
+Para que el mundo sobreviva,
+debes dominar todo antes del otoño.
+
+252
+00:19:00,703 --> 00:19:02,371
+Cuando se abran,
+
+253
+00:19:02,454 --> 00:19:04,999
+P Shyu ayudó al Avatar.
+
+254
+00:19:05,082 --> 00:19:07,084
+¿Cómo sobrevivirá Aang?
+
+255
+00:19:07,167 --> 00:19:09,169
+¿Y nosotros?
+
+256
+00:19:11,714 --> 00:19:15,134
+¿Y si fracaso y no lo logro a tiempo?
+
+257
+00:19:15,217 --> 00:19:17,511
+Sé que lo harás, Aang.
+
+258
+00:19:17,595 --> 00:19:19,763
+Ya lo hiciste.
+
+259
+00:19:20,806 --> 00:19:22,933
+El solsticio acabará.
+
+260
+00:19:23,475 --> 00:19:26,103
+Debemos seguir nuestros caminos...
+
+261
+00:19:26,729 --> 00:19:27,897
+por ahora.
+
+262
+00:19:27,980 --> 00:19:30,357
+No podré volver al templo.
+
+263
+00:19:30,441 --> 00:19:33,110
+Si tengo dudas, ¿cómo te hablaré?
+
+264
+00:19:33,193 --> 00:19:35,279
+Soy parte de ti.
+
+265
+00:19:36,030 --> 00:19:38,324
+Cuando quieras hablarme...
+
+266
+00:19:39,116 --> 00:19:40,826
+encontrarás la manera.
+
+267
+00:19:43,412 --> 00:19:46,332
+<i>Enfrentarás el peligro en el templo.</i>
+
+268
+00:19:47,249 --> 00:19:49,793
+<i>Puedo ayudarte a luchar</i>
+
+269
+00:19:49,877 --> 00:19:51,754
+<i>si estás listo.</i>
+
+270
+00:19:53,714 --> 00:19:54,715
+Estoy listo.
+
+271
+00:20:05,392 --> 00:20:06,602
+¿Listos?
+
+272
+00:20:07,853 --> 00:20:09,605
+¡No! ¡Aang!
+
+273
+00:20:09,688 --> 00:20:10,773
+¡Disparen!
+
+274
+00:20:17,863 --> 00:20:19,281
+El Avatar Roku.
+
+275
+00:20:31,085 --> 00:20:35,255
+¡El Avatar Roku destruirá el templo!
+¡Debemos salir!
+
+276
+00:20:35,339 --> 00:20:36,382
+¡No sin Aang!
+
+277
+00:21:07,371 --> 00:21:08,664
+Aquí estamos.
+
+278
+00:21:08,747 --> 00:21:10,749
+Gracias. ¿Dónde está Shyu?
+
+279
+00:21:10,833 --> 00:21:11,834
+No sé.
+
+280
+00:21:37,526 --> 00:21:40,112
+¡Sin príncipe ni Avatar!
+
+281
+00:21:40,195 --> 00:21:44,241
+Solamente tengo cinco traidores.
+
+282
+00:21:44,324 --> 00:21:47,036
+Pero solo Shyu ayudó al Avatar.
+
+283
+00:21:47,119 --> 00:21:49,705
+Mejor dígaselo al Señor de Fuego.
+
+284
+00:21:49,788 --> 00:21:53,417
+Según mi opinión, ¡todos son culpables!
+
+285
+00:21:53,500 --> 00:21:55,294
+¡Llévenlos a la cárcel!
+

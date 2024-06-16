@@ -1,0 +1,1371 @@
+1
+00:00:02,431 --> 00:00:03,431
+<i>Agua.</i>
+
+2
+00:00:05,184 --> 00:00:06,184
+<i>Tierra.</i>
+
+3
+00:00:07,478 --> 00:00:08,478
+<i>Fuego.</i>
+
+4
+00:00:10,022 --> 00:00:11,022
+<i>Aire.</i>
+
+5
+00:00:13,025 --> 00:00:16,403
+<i>Mi abuela contaba historias
+sobre viejos tiempos,</i>
+
+6
+00:00:16,487 --> 00:00:17,822
+<i>tiempos de paz,</i>
+
+7
+00:00:17,905 --> 00:00:20,825
+<i>cuando el Avatar equilibraba
+las tribus de Agua,</i>
+
+8
+00:00:20,908 --> 00:00:24,662
+<i>el reino de Tierra, la nación de Fuego
+y los nómadas de Aire.</i>
+
+9
+00:00:24,745 --> 00:00:28,457
+<i>Pero todo cambió
+cuando la nación de Fuego atacó.</i>
+
+10
+00:00:31,418 --> 00:00:34,839
+<i>Solo el Avatar
+dominaba los cuatro elementos.</i>
+
+11
+00:00:35,089 --> 00:00:38,050
+<i>Solo él podía detener
+a los maestros de Fuego.</i>
+
+12
+00:00:38,259 --> 00:00:41,595
+<i>Pero cuando más lo necesitaban,
+desapareció.</i>
+
+13
+00:00:44,515 --> 00:00:45,933
+<i>Pasaron 100 años,</i>
+
+14
+00:00:46,016 --> 00:00:49,103
+<i>y la nación de Fuego
+está cerca de la victoria.</i>
+
+15
+00:00:49,937 --> 00:00:52,815
+<i>Hace dos años,
+mi padre y los hombres de mi tribu</i>
+
+16
+00:00:52,898 --> 00:00:55,651
+<i>viajaron al reino de Tierra para luchar,</i>
+
+17
+00:00:55,734 --> 00:00:59,029
+<i>y dejaron a la tribu
+al cuidado de mi hermano y mío.</i>
+
+18
+00:00:59,738 --> 00:01:03,784
+<i>Algunos creen que el Avatar
+nunca reencarnó en los nómadas de Aire,</i>
+
+19
+00:01:03,868 --> 00:01:05,619
+<i>y que el ciclo se ha roto,</i>
+
+20
+00:01:05,870 --> 00:01:07,705
+<i>...pero no pierdo la esperanza.</i>
+
+21
+00:01:07,955 --> 00:01:13,067
+<i>Aún creo que, de alguna manera,
+el Avatar volverá a salvar al mundo.</i>
+
+22
+00:01:13,460 --> 00:01:15,921
+AVATAR: LA LEYENDA DE AANG
+
+23
+00:01:22,052 --> 00:01:26,348
+LIBRO UNO: AGUA
+CAPÍTULO UNO: EL NIÑO EN EL ICEBERG
+
+24
+00:01:58,047 --> 00:01:59,965
+Esta vez, no se escapará.
+
+25
+00:02:00,174 --> 00:02:01,675
+Mira y aprende, Katara.
+
+26
+00:02:01,759 --> 00:02:03,344
+Así atrapas a un pez.
+
+27
+00:02:14,563 --> 00:02:15,814
+¡Sokka, mira!
+
+28
+00:02:16,440 --> 00:02:18,525
+Katara, lo asustarás.
+
+29
+00:02:19,818 --> 00:02:21,570
+Puedo olerlo asado.
+
+30
+00:02:21,654 --> 00:02:23,614
+Pero, Sokka, ¡atrapé uno!
+
+31
+00:02:26,659 --> 00:02:27,659
+¡Oye!
+
+32
+00:02:28,953 --> 00:02:33,791
+¿Por qué me mojas cada vez
+que juegas con el agua mágica?
+
+33
+00:02:35,292 --> 00:02:37,920
+No es magia. Domino el agua.
+
+34
+00:02:38,003 --> 00:02:39,964
+- Es...
+- Un arte ancestral
+
+35
+00:02:40,047 --> 00:02:42,299
+único de nuestra cultura y demás.
+
+36
+00:02:42,424 --> 00:02:44,802
+Si yo tuviera poderes de verdad,
+
+37
+00:02:44,885 --> 00:02:46,512
+no mostraría que soy raro.
+
+38
+00:02:46,595 --> 00:02:48,263
+¿Dices que soy rara?
+
+39
+00:02:48,472 --> 00:02:50,683
+No soy yo quien admira sus músculos
+
+40
+00:02:50,766 --> 00:02:53,227
+cada vez que ve su reflejo en el agua.
+
+41
+00:03:09,410 --> 00:03:10,494
+¡Cuidado!
+
+42
+00:03:11,996 --> 00:03:13,664
+¡Ve a la izquierda!
+
+43
+00:03:25,884 --> 00:03:27,011
+Era a la izquierda.
+
+44
+00:03:27,094 --> 00:03:28,345
+¿No te gustó?
+
+45
+00:03:28,429 --> 00:03:32,016
+Deberías haber dominado el agua
+para quitar el hielo.
+
+46
+00:03:32,099 --> 00:03:33,100
+¿Es mi culpa?
+
+47
+00:03:33,183 --> 00:03:34,727
+No debería haberte traído.
+
+48
+00:03:34,935 --> 00:03:37,271
+Las chicas siempre arruinan todo.
+
+49
+00:03:39,148 --> 00:03:43,569
+Eres muy sexista, inmaduro,
+y tienes el cerebro como una nuez.
+
+50
+00:03:44,570 --> 00:03:46,488
+Es una vergüenza ser tu hermana.
+
+51
+00:03:48,824 --> 00:03:50,200
+Desde que mamá murió,
+
+52
+00:03:50,284 --> 00:03:52,119
+soy la única que trabaja
+
+53
+00:03:52,202 --> 00:03:54,163
+mientras juegas a ser un soldado.
+
+54
+00:03:54,830 --> 00:03:55,664
+Katara.
+
+55
+00:03:55,748 --> 00:03:57,750
+¡Hasta lavo toda la ropa!
+
+56
+00:03:58,167 --> 00:04:00,544
+¿Oliste tus calcetines sucios?
+
+57
+00:04:00,794 --> 00:04:01,920
+Te lo diré,
+
+58
+00:04:02,212 --> 00:04:03,338
+¡son apestosos!
+
+59
+00:04:03,464 --> 00:04:04,965
+¡Katara, tranquila!
+
+60
+00:04:05,299 --> 00:04:08,260
+¡Es suficiente! ¡Ya no te ayudaré!
+
+61
+00:04:08,510 --> 00:04:09,428
+En adelante,
+
+62
+00:04:09,511 --> 00:04:11,263
+¡haz tus propias cosas!
+
+63
+00:04:24,526 --> 00:04:27,362
+Pasaste de ser rara
+a ser un fenómeno, Katara.
+
+64
+00:04:27,446 --> 00:04:29,114
+¿Crees que hice eso?
+
+65
+00:04:29,198 --> 00:04:31,116
+Sí. Felicitaciones.
+
+66
+00:05:04,608 --> 00:05:05,442
+¡Está vivo!
+
+67
+00:05:05,609 --> 00:05:06,819
+Debemos ayudarlo.
+
+68
+00:05:06,902 --> 00:05:08,904
+¡Katara, vuelve!
+
+69
+00:05:08,987 --> 00:05:10,906
+¡No sabemos qué es eso!
+
+70
+00:05:44,314 --> 00:05:45,314
+¡Por fin!
+
+71
+00:05:45,941 --> 00:05:48,277
+Tío, ¿sabes qué significa eso?
+
+72
+00:05:48,485 --> 00:05:50,779
+¿Que no terminaré el juego?
+
+73
+00:05:50,863 --> 00:05:53,699
+Significa que mi búsqueda
+está por terminar.
+
+74
+00:05:56,660 --> 00:05:59,621
+Esa luz vino de una gran fuente de poder.
+
+75
+00:05:59,872 --> 00:06:00,914
+Tiene que ser él.
+
+76
+00:06:01,582 --> 00:06:03,750
+Es solo una luz celestial.
+
+77
+00:06:04,168 --> 00:06:07,045
+Esto ya ocurrió otra vez, príncipe Zuko.
+
+78
+00:06:07,296 --> 00:06:10,716
+No quiero que te emociones por nada.
+
+79
+00:06:12,050 --> 00:06:13,260
+Por favor, siéntate.
+
+80
+00:06:13,677 --> 00:06:18,098
+¿Por qué no disfrutas
+de un té de jazmín relajante?
+
+81
+00:06:18,348 --> 00:06:20,058
+¡No necesito relajarme!
+
+82
+00:06:20,142 --> 00:06:22,019
+Debo capturar al Avatar.
+
+83
+00:06:22,352 --> 00:06:23,228
+Heldman,
+
+84
+00:06:23,353 --> 00:06:24,771
+vayamos hacia esa luz.
+
+85
+00:06:44,333 --> 00:06:45,333
+¡Detente!
+
+86
+00:07:01,832 --> 00:07:02,832
+¡Detente!
+
+87
+00:07:14,761 --> 00:07:16,805
+Debo hacerte una pregunta.
+
+88
+00:07:17,430 --> 00:07:18,430
+¿Qué?
+
+89
+00:07:18,515 --> 00:07:19,516
+Por favor,
+
+90
+00:07:19,683 --> 00:07:20,683
+acércate más.
+
+91
+00:07:20,934 --> 00:07:21,934
+¿Qué ocurre?
+
+92
+00:07:23,770 --> 00:07:25,856
+¿Esquiamos sobre pingüinos juntos?
+
+93
+00:07:26,898 --> 00:07:28,733
+Supongo que sí.
+
+94
+00:07:30,819 --> 00:07:31,903
+¿Qué sucede?
+
+95
+00:07:31,987 --> 00:07:33,029
+Tú dinos eso.
+
+96
+00:07:33,196 --> 00:07:34,739
+¿Cómo te metiste al hielo?
+
+97
+00:07:34,823 --> 00:07:36,491
+¿Por qué no estás congelado?
+
+98
+00:07:36,575 --> 00:07:37,575
+No lo sé.
+
+99
+00:07:45,292 --> 00:07:46,292
+¡Appa!
+
+100
+00:07:46,543 --> 00:07:47,586
+¿Estás bien?
+
+101
+00:07:48,461 --> 00:07:49,796
+Despierta, amigo.
+
+102
+00:08:00,056 --> 00:08:01,057
+¡Estás bien!
+
+103
+00:08:07,856 --> 00:08:09,274
+¿Qué es esa cosa?
+
+104
+00:08:09,357 --> 00:08:11,151
+Es Appa, mi bisonte volador.
+
+105
+00:08:11,234 --> 00:08:12,903
+Bien. Ella es Katara,
+
+106
+00:08:12,986 --> 00:08:14,196
+mi hermana voladora.
+
+107
+00:08:26,541 --> 00:08:28,210
+No te preocupes, se quitará.
+
+108
+00:08:30,712 --> 00:08:32,464
+¿Viven por aquí, chicos?
+
+109
+00:08:32,589 --> 00:08:33,632
+¡No respondas!
+
+110
+00:08:33,798 --> 00:08:35,425
+¿Viste ese rayo de luz?
+
+111
+00:08:35,508 --> 00:08:37,552
+Contactaba a la Armada de Fuego.
+
+112
+00:08:37,636 --> 00:08:40,138
+Claro, seguro que es un espía.
+
+113
+00:08:40,222 --> 00:08:42,933
+Su mirada malvada lo delata.
+
+114
+00:08:44,893 --> 00:08:47,270
+Este es mi hermano paranoico, Sokka.
+
+115
+00:08:47,562 --> 00:08:49,022
+No sabemos tu nombre.
+
+116
+00:08:49,397 --> 00:08:50,397
+Soy...
+
+117
+00:09:03,912 --> 00:09:04,912
+Soy Aang.
+
+118
+00:09:06,831 --> 00:09:08,083
+¡Estornudaste
+
+119
+00:09:08,166 --> 00:09:10,126
+y volaste tres metros!
+
+120
+00:09:10,210 --> 00:09:12,045
+¿Sí? Pensé que era más.
+
+121
+00:09:12,629 --> 00:09:14,214
+¡Eres un Maestro de Aire!
+
+122
+00:09:14,297 --> 00:09:15,131
+Sí.
+
+123
+00:09:15,215 --> 00:09:18,385
+Luces gigantes, un bisonte volador,
+maestros de Aire.
+
+124
+00:09:18,468 --> 00:09:20,136
+Creo que el sol me hizo mal.
+
+125
+00:09:20,345 --> 00:09:22,514
+Volveré a casa, allí todo es normal.
+
+126
+00:09:26,559 --> 00:09:29,521
+Si están atascados, puedo llevarlos.
+
+127
+00:09:33,191 --> 00:09:34,901
+¡Nos encantaría, gracias!
+
+128
+00:09:35,068 --> 00:09:38,446
+No me subiré a ese monstruo peludo.
+
+129
+00:09:38,530 --> 00:09:40,782
+¿Esperas a otro tipo de monstruo
+
+130
+00:09:40,865 --> 00:09:42,951
+para que te lleve a casa
+
+131
+00:09:43,118 --> 00:09:45,328
+antes de que te congeles?
+
+132
+00:09:50,750 --> 00:09:52,627
+Pasajeros novatos,
+
+133
+00:09:52,711 --> 00:09:53,628
+¡sujétense!
+
+134
+00:09:53,712 --> 00:09:54,879
+Appa, ¡vamos!
+
+135
+00:10:04,931 --> 00:10:06,599
+¡Vamos, Appa!
+
+136
+00:10:07,183 --> 00:10:08,184
+¡Vaya!
+
+137
+00:10:08,393 --> 00:10:10,020
+Eso fue increíble.
+
+138
+00:10:10,145 --> 00:10:11,146
+Está cansado.
+
+139
+00:10:11,229 --> 00:10:13,732
+En cuanto descanse, volará por los cielos.
+
+140
+00:10:13,815 --> 00:10:14,815
+Ya lo verán.
+
+141
+00:10:18,278 --> 00:10:20,280
+¿Por qué me sonríes así?
+
+142
+00:10:20,572 --> 00:10:22,240
+¿Estaba sonriendo?
+
+143
+00:10:38,465 --> 00:10:40,175
+Iré a recostarme.
+
+144
+00:10:43,470 --> 00:10:46,222
+Sí, hay que descansar.
+
+145
+00:10:47,974 --> 00:10:49,225
+Príncipe Zuko,
+
+146
+00:10:49,392 --> 00:10:51,061
+necesitas dormir.
+
+147
+00:10:51,770 --> 00:10:53,188
+Aún si tienes razón
+
+148
+00:10:53,772 --> 00:10:55,940
+y el Avatar está vivo,
+
+149
+00:10:56,358 --> 00:10:57,734
+no lo encontrarás.
+
+150
+00:10:57,901 --> 00:11:00,445
+Tu padre, tu abuelo
+
+151
+00:11:00,528 --> 00:11:04,324
+y tu bisabuelo lo intentaron y fallaron.
+
+152
+00:11:04,574 --> 00:11:08,036
+Su honor no dependía
+de la captura del Avatar.
+
+153
+00:11:08,244 --> 00:11:09,244
+El mío, sí.
+
+154
+00:11:09,662 --> 00:11:12,582
+El escondite de este cobarde
+se ha terminado.
+
+155
+00:11:23,635 --> 00:11:24,635
+Hola.
+
+156
+00:11:25,261 --> 00:11:27,430
+Hola. ¿En qué piensas?
+
+157
+00:11:27,514 --> 00:11:28,932
+Pensaba,
+
+158
+00:11:29,057 --> 00:11:30,975
+ya que eres un maestro de Aire,
+
+159
+00:11:31,142 --> 00:11:33,770
+¿no sabes qué le ocurrió al Avatar?
+
+160
+00:11:35,271 --> 00:11:36,106
+No.
+
+161
+00:11:36,189 --> 00:11:37,190
+No lo conocía.
+
+162
+00:11:37,315 --> 00:11:39,442
+Conocía personas que lo conocían.
+
+163
+00:11:39,943 --> 00:11:41,528
+Pero yo no. Lo siento.
+
+164
+00:11:41,861 --> 00:11:43,530
+Descuida, sentía curiosidad.
+
+165
+00:11:43,696 --> 00:11:45,740
+- ¡Buenas noches!
+- Que descanses.
+
+166
+00:12:31,544 --> 00:12:33,546
+¡Aang, despierta!
+
+167
+00:12:34,464 --> 00:12:35,464
+Tranquilo.
+
+168
+00:12:35,590 --> 00:12:36,841
+Estamos en la aldea.
+
+169
+00:12:36,967 --> 00:12:38,051
+Ven, vístete.
+
+170
+00:12:38,134 --> 00:12:39,761
+Todos quieren conocerte.
+
+171
+00:12:54,359 --> 00:12:55,193
+Aang,
+
+172
+00:12:55,277 --> 00:12:57,320
+estos son los aldeanos.
+
+173
+00:12:58,071 --> 00:12:59,781
+Aldeanos, él es Aang.
+
+174
+00:13:04,369 --> 00:13:06,496
+¿Por qué me miran así?
+
+175
+00:13:07,122 --> 00:13:08,498
+¿Appa me estornudó?
+
+176
+00:13:08,623 --> 00:13:11,793
+Nadie ha visto un maestro de Aire
+en cientos de años.
+
+177
+00:13:11,960 --> 00:13:16,381
+Creímos que se habían extinguido
+hasta que mis nietos te encontraron.
+
+178
+00:13:17,048 --> 00:13:18,091
+¿Extinguidos?
+
+179
+00:13:18,174 --> 00:13:19,843
+Aang, ella es mi abuela.
+
+180
+00:13:20,176 --> 00:13:21,511
+Llámame abuela.
+
+181
+00:13:22,971 --> 00:13:24,222
+¿Qué es eso, un arma?
+
+182
+00:13:24,306 --> 00:13:26,182
+No puedes cazar nada con esto.
+
+183
+00:13:26,474 --> 00:13:27,892
+No es para cazar.
+
+184
+00:13:28,143 --> 00:13:29,602
+Es para dominar el aire.
+
+185
+00:13:31,271 --> 00:13:33,356
+¡Es magia! ¡Hazlo otra vez!
+
+186
+00:13:33,606 --> 00:13:35,567
+No es magia, domino el aire.
+
+187
+00:13:35,775 --> 00:13:38,945
+Controlo las corrientes de aire
+para poder volar.
+
+188
+00:13:39,362 --> 00:13:40,905
+Hasta donde yo sabía,
+
+189
+00:13:41,072 --> 00:13:42,866
+los humanos no vuelan.
+
+190
+00:13:43,074 --> 00:13:44,326
+¡Pues mira esto!
+
+191
+00:13:47,662 --> 00:13:49,080
+¡Vuela!
+
+192
+00:13:52,917 --> 00:13:54,419
+¡Es increíble!
+
+193
+00:14:07,182 --> 00:14:08,641
+¡Mi torre de vigilancia!
+
+194
+00:14:12,187 --> 00:14:13,688
+¡Eso fue fantástico!
+
+195
+00:14:19,527 --> 00:14:23,198
+Genial. Tú eres maestro de Aire,
+y Katara es maestra de Agua.
+
+196
+00:14:23,281 --> 00:14:25,158
+Pierdan el tiempo juntos.
+
+197
+00:14:25,367 --> 00:14:26,910
+¡Eres maestra de Agua!
+
+198
+00:14:26,993 --> 00:14:28,244
+Algo así.
+
+199
+00:14:28,411 --> 00:14:29,245
+Todavía no.
+
+200
+00:14:29,329 --> 00:14:31,164
+Bien, basta de juegos.
+
+201
+00:14:31,289 --> 00:14:33,375
+Vamos, Katara. Vuelve a tus tareas.
+
+202
+00:14:34,167 --> 00:14:36,544
+Te lo dije, es de verdad, abuela.
+
+203
+00:14:36,795 --> 00:14:38,838
+Encontré un maestro que me enseñe.
+
+204
+00:14:39,047 --> 00:14:39,881
+Katara,
+
+205
+00:14:40,048 --> 00:14:42,384
+no pongas todas tus esperanzas en él.
+
+206
+00:14:42,467 --> 00:14:43,635
+¡Pero es especial!
+
+207
+00:14:43,802 --> 00:14:44,802
+Lo presiento.
+
+208
+00:14:45,345 --> 00:14:47,680
+Presiento que es muy sabio.
+
+209
+00:14:48,515 --> 00:14:49,349
+¿Lo ven?
+
+210
+00:14:49,432 --> 00:14:51,851
+Ahora tengo la lengua pegada.
+
+211
+00:14:59,401 --> 00:15:00,401
+¿Otra vez?
+
+212
+00:15:06,157 --> 00:15:09,828
+No, el poder para dominar el fuego
+viene de la respiración,
+
+213
+00:15:10,370 --> 00:15:11,830
+no de los músculos.
+
+214
+00:15:12,789 --> 00:15:16,000
+La respiración se vuelve energía
+en el cuerpo.
+
+215
+00:15:16,126 --> 00:15:18,753
+La energía fluye por las extremidades
+
+216
+00:15:18,837 --> 00:15:20,672
+¡y se convierte en fuego!
+
+217
+00:15:21,798 --> 00:15:23,174
+Ahora hazlo bien.
+
+218
+00:15:23,258 --> 00:15:24,258
+Es suficiente.
+
+219
+00:15:24,300 --> 00:15:27,637
+He repetido esto todo el día.
+¡Enséñame lo que sigue!
+
+220
+00:15:27,720 --> 00:15:28,805
+Estoy preparado.
+
+221
+00:15:28,888 --> 00:15:30,640
+No, eres impaciente.
+
+222
+00:15:31,141 --> 00:15:33,226
+Debes dominar lo básico.
+
+223
+00:15:33,935 --> 00:15:34,935
+¡Hazlo otra vez!
+
+224
+00:15:38,982 --> 00:15:42,861
+Los sabios dicen que el Avatar
+es el último maestro de Aire.
+
+225
+00:15:42,986 --> 00:15:45,155
+Debe tener más de cien años.
+
+226
+00:15:45,238 --> 00:15:48,032
+Tuvo un siglo
+para dominar los cuatro elementos.
+
+227
+00:15:48,158 --> 00:15:51,244
+No lo derrotaré
+con el dominio básico del fuego.
+
+228
+00:15:51,453 --> 00:15:54,038
+¡Me enseñarás las técnicas avanzadas!
+
+229
+00:15:55,874 --> 00:15:56,874
+De acuerdo.
+
+230
+00:15:57,083 --> 00:16:00,545
+Pero primero debo terminar mi pato asado.
+
+231
+00:16:05,049 --> 00:16:09,220
+Es importante no demostrar miedo
+al enfrentar a un maestro de Fuego.
+
+232
+00:16:09,429 --> 00:16:10,513
+La tribu de Agua
+
+233
+00:16:10,638 --> 00:16:12,432
+lucha hasta el final.
+
+234
+00:16:12,682 --> 00:16:13,892
+Sin coraje,
+
+235
+00:16:13,975 --> 00:16:16,019
+¿cómo diremos que somos hombres?
+
+236
+00:16:19,105 --> 00:16:20,356
+Debo hacer pipí.
+
+237
+00:16:20,440 --> 00:16:23,109
+Hasta que sus padres regresen
+de la guerra,
+
+238
+00:16:23,193 --> 00:16:25,653
+ustedes son los hombres de la tribu.
+
+239
+00:16:25,737 --> 00:16:27,947
+¡No hay recreos para el baño!
+
+240
+00:16:28,323 --> 00:16:29,532
+Pero es urgente.
+
+241
+00:16:31,075 --> 00:16:33,286
+Bien, ¿alguien más quiere ir?
+
+242
+00:16:37,790 --> 00:16:38,875
+¿Viste a Aang?
+
+243
+00:16:39,125 --> 00:16:41,753
+La abuela dijo que desapareció
+hace una hora.
+
+244
+00:16:43,213 --> 00:16:44,923
+Todo se congela ahí dentro.
+
+245
+00:16:46,549 --> 00:16:48,343
+¡Katara, llévatelo!
+
+246
+00:16:48,426 --> 00:16:50,637
+Esta lección es solo para guerreros.
+
+247
+00:16:56,976 --> 00:16:57,810
+¡Deténganse!
+
+248
+00:16:57,894 --> 00:16:58,937
+¡Basta ya!
+
+249
+00:16:59,437 --> 00:17:00,563
+¿Qué te ocurre?
+
+250
+00:17:00,647 --> 00:17:03,525
+No hay tiempo para divertirse,
+estamos en guerra.
+
+251
+00:17:03,650 --> 00:17:04,650
+¿Qué guerra?
+
+252
+00:17:05,443 --> 00:17:08,029
+- ¿De qué hablas?
+- ¿Estás bromeando?
+
+253
+00:17:09,030 --> 00:17:10,740
+¡Un pingüino!
+
+254
+00:17:16,955 --> 00:17:18,331
+Bromea, ¿no?
+
+255
+00:17:25,855 --> 00:17:26,855
+¡Aang!
+
+256
+00:17:28,607 --> 00:17:30,109
+Ven aquí, amiguito.
+
+257
+00:17:30,234 --> 00:17:31,318
+¿Quieres esquiar?
+
+258
+00:17:34,864 --> 00:17:36,490
+Me gustan los animales.
+
+259
+00:17:41,120 --> 00:17:41,954
+Aang,
+
+260
+00:17:42,037 --> 00:17:45,958
+te ayudaré a atrapar un pingüino
+si me enseñas a dominar el Agua.
+
+261
+00:17:46,417 --> 00:17:47,501
+¡Trato hecho!
+
+262
+00:17:48,127 --> 00:17:49,670
+Solo hay un problema.
+
+263
+00:17:49,753 --> 00:17:51,964
+Soy un maestro de Aire, no de Agua.
+
+264
+00:17:52,214 --> 00:17:54,800
+¿Alguien de tu tribu no podrá enseñarte?
+
+265
+00:17:55,176 --> 00:17:56,010
+No.
+
+266
+00:17:56,093 --> 00:17:59,555
+Soy la única maestra de Agua del polo sur.
+
+267
+00:17:59,763 --> 00:18:00,890
+Qué mal.
+
+268
+00:18:00,973 --> 00:18:03,350
+Un maestro de Agua debe dominar el agua.
+
+269
+00:18:04,268 --> 00:18:05,728
+¿Y en el polo norte?
+
+270
+00:18:05,811 --> 00:18:08,022
+Hay otra tribu de Agua allí, ¿no?
+
+271
+00:18:08,105 --> 00:18:10,399
+Quizá haya maestros que te enseñen.
+
+272
+00:18:10,482 --> 00:18:11,400
+Tal vez.
+
+273
+00:18:11,483 --> 00:18:15,070
+Hace mucho que no tenemos contacto
+con otra tribu hermana.
+
+274
+00:18:15,196 --> 00:18:17,948
+No están a la vuelta del glaciar.
+
+275
+00:18:18,073 --> 00:18:19,950
+¡Están del otro lado del mundo!
+
+276
+00:18:20,034 --> 00:18:20,910
+Te olvidas
+
+277
+00:18:20,993 --> 00:18:22,411
+¡de mi bisonte volador!
+
+278
+00:18:22,494 --> 00:18:25,539
+¡Appa y yo podemos llevarte
+al polo norte!
+
+279
+00:18:25,873 --> 00:18:28,125
+Katara, te encontraremos un maestro.
+
+280
+00:18:28,292 --> 00:18:29,292
+Eso...
+
+281
+00:18:29,793 --> 00:18:31,420
+No lo sé.
+
+282
+00:18:31,795 --> 00:18:33,214
+Nunca me fui de casa.
+
+283
+00:18:33,589 --> 00:18:35,090
+Bueno, piénsalo.
+
+284
+00:18:35,257 --> 00:18:36,342
+Mientras tanto,
+
+285
+00:18:36,425 --> 00:18:38,802
+¿me enseñas a atrapar un pingüino?
+
+286
+00:18:39,220 --> 00:18:40,054
+De acuerdo.
+
+287
+00:18:40,137 --> 00:18:42,223
+Pon atención, mi joven alumno.
+
+288
+00:18:42,514 --> 00:18:45,601
+Atrapar pingüinos
+es un arte ancestral sagrado.
+
+289
+00:18:46,477 --> 00:18:47,477
+Observa.
+
+290
+00:19:15,381 --> 00:19:17,383
+No hacía esto desde que era niña.
+
+291
+00:19:17,466 --> 00:19:18,717
+¡Aún eres una niña!
+
+292
+00:19:42,658 --> 00:19:43,909
+¿Qué es esto?
+
+293
+00:19:44,785 --> 00:19:46,578
+Un barco de la Armada de Fuego
+
+294
+00:19:46,662 --> 00:19:48,872
+y un recuerdo triste para mi gente.
+
+295
+00:19:52,751 --> 00:19:53,751
+¡Aang, detente!
+
+296
+00:19:53,794 --> 00:19:55,421
+No podemos acercarnos.
+
+297
+00:19:55,546 --> 00:19:57,214
+Puede ser una trampa.
+
+298
+00:19:57,298 --> 00:20:00,259
+Si quieres ser una maestra,
+debes superar el miedo.
+
+299
+00:20:47,056 --> 00:20:50,726
+Este barco ha sido una obsesión
+para la tribu desde hace mucho.
+
+300
+00:20:50,809 --> 00:20:53,771
+Vino en los primeros ataques
+de la nación de Fuego.
+
+301
+00:20:54,355 --> 00:20:55,731
+Un momento.
+
+302
+00:20:55,856 --> 00:20:59,318
+Tengo amigos en todo el mundo,
+hasta en la nación de Fuego.
+
+303
+00:20:59,401 --> 00:21:00,944
+Nunca he visto una guerra.
+
+304
+00:21:01,028 --> 00:21:03,405
+¿Cuánto tiempo estuviste en el iceberg?
+
+305
+00:21:03,906 --> 00:21:06,408
+No lo sé, ¿unos días?
+
+306
+00:21:06,533 --> 00:21:09,495
+Creo que fueron cien años.
+
+307
+00:21:09,870 --> 00:21:10,704
+¿Qué?
+
+308
+00:21:10,788 --> 00:21:11,830
+Es imposible.
+
+309
+00:21:11,914 --> 00:21:14,083
+¿Parezco un chico de 112 años?
+
+310
+00:21:14,458 --> 00:21:15,458
+Piénsalo.
+
+311
+00:21:15,542 --> 00:21:17,461
+La guerra empezó hace cien años.
+
+312
+00:21:17,544 --> 00:21:19,254
+No lo sabes
+
+313
+00:21:19,463 --> 00:21:22,549
+porque estuviste allí todo el tiempo.
+
+314
+00:21:22,966 --> 00:21:24,551
+Es la única explicación.
+
+315
+00:21:26,720 --> 00:21:28,430
+Cien años.
+
+316
+00:21:29,098 --> 00:21:30,432
+No puedo creerlo.
+
+317
+00:21:30,599 --> 00:21:31,850
+Lo siento, Aang.
+
+318
+00:21:32,476 --> 00:21:35,104
+Quizá todo esto tenga algo positivo.
+
+319
+00:21:35,729 --> 00:21:37,189
+Nos conocimos.
+
+320
+00:21:38,857 --> 00:21:40,692
+Vamos, salgamos de aquí.
+
+321
+00:21:46,990 --> 00:21:48,534
+Aang, volvamos.
+
+322
+00:21:48,742 --> 00:21:50,160
+Este lugar es horrible.
+
+323
+00:21:53,789 --> 00:21:56,125
+¿Qué dijiste de unas trampas?
+
+324
+00:22:05,008 --> 00:22:06,008
+No.
+
+325
+00:22:10,806 --> 00:22:11,849
+Sujétate.
+
+326
+00:22:23,485 --> 00:22:25,070
+El último maestro de Aire.
+
+327
+00:22:25,988 --> 00:22:27,990
+Bastante ágil para su edad.
+
+328
+00:22:28,991 --> 00:22:30,242
+¡Despierten a mi tío!
+
+329
+00:22:30,367 --> 00:22:33,412
+Díganle que encontré al Avatar.
+
+330
+00:22:38,959 --> 00:22:41,211
+Y también a su escondite.
+
+331
+00:22:44,673 --> 00:22:47,634
+CONTINUARÁ
+

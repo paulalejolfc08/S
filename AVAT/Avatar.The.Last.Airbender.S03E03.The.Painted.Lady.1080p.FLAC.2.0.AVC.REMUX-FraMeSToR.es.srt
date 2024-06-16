@@ -1,0 +1,1249 @@
+1
+00:00:01,289 --> 00:00:02,289
+<i>Agua.</i>
+
+2
+00:00:03,667 --> 00:00:04,667
+<i>Tierra.</i>
+
+3
+00:00:05,669 --> 00:00:06,669
+<i>Fuego.</i>
+
+4
+00:00:07,838 --> 00:00:08,838
+<i>Aire.</i>
+
+5
+00:00:10,048 --> 00:00:13,468
+<i>Hace tiempo, las cuatro naciones
+vivían en armonía.</i>
+
+6
+00:00:14,261 --> 00:00:17,597
+<i>Luego todo cambió
+cuando la nación de Fuego atacó.</i>
+
+7
+00:00:18,515 --> 00:00:21,309
+<i>Solo el Avatar,
+maestro de los cuatro elementos,</i>
+
+8
+00:00:21,393 --> 00:00:22,519
+<i>podía detenerlos,</i>
+
+9
+00:00:22,602 --> 00:00:25,397
+<i>pero cuando más lo necesitábamos,
+desapareció.</i>
+
+10
+00:00:26,231 --> 00:00:27,315
+<i>Pasaron cien años,</i>
+
+11
+00:00:27,399 --> 00:00:29,735
+<i>y mi hermano y yo
+encontramos al Avatar,</i>
+
+12
+00:00:29,818 --> 00:00:31,737
+<i>un maestro de Aire llamado Aang.</i>
+
+13
+00:00:31,820 --> 00:00:33,989
+<i>Su dominio del aire es fantástico,</i>
+
+14
+00:00:34,072 --> 00:00:37,075
+<i>pero debe aprender mucho
+para poder salvarnos.</i>
+
+15
+00:00:37,784 --> 00:00:41,037
+<i>Pero creo que Aang puede salvar el mundo.</i>
+
+16
+00:00:41,661 --> 00:00:45,161
+AVATAR: LA LEYENDA DE AANG
+
+17
+00:00:46,877 --> 00:00:49,337
+<i>Anteriormente en Avatar...</i>
+
+18
+00:00:49,755 --> 00:00:50,839
+¿Y la invasión?
+
+19
+00:00:51,089 --> 00:00:54,342
+Nos reuniremos con mi papá
+el día del eclipse.
+
+20
+00:00:55,969 --> 00:00:58,847
+Quédate callado.
+Estamos en territorio enemigo.
+
+21
+00:01:00,766 --> 00:01:02,601
+Necesitamos ropa nueva.
+
+22
+00:01:02,934 --> 00:01:05,187
+Sí, mezclarse es mejor que ocultarse.
+
+23
+00:01:05,645 --> 00:01:09,816
+Si nos vestimos como la nación de Fuego,
+estaremos bien a salvo.
+
+24
+00:01:11,067 --> 00:01:12,736
+Listo, chico normal.
+
+25
+00:01:13,445 --> 00:01:14,529
+¿Cómo me veo?
+
+26
+00:01:20,243 --> 00:01:24,998
+LIBRO TRES: FUEGO
+CAPÍTULO TRES: LA DAMA PINTADA
+
+27
+00:01:30,128 --> 00:01:31,128
+¿Momo?
+
+28
+00:01:33,340 --> 00:01:34,340
+¿Momo?
+
+29
+00:01:38,762 --> 00:01:39,763
+Me encontraste.
+
+30
+00:01:41,973 --> 00:01:44,267
+Creo que el río está contaminado.
+
+31
+00:01:53,944 --> 00:01:56,404
+Eso explicaría por qué no pesco nada.
+
+32
+00:01:56,488 --> 00:01:59,991
+Porque todos siempre pican el anzuelo.
+
+33
+00:02:00,617 --> 00:02:01,617
+¿Entienden?
+
+34
+00:02:01,785 --> 00:02:03,286
+El anzuelo.
+
+35
+00:02:03,787 --> 00:02:06,122
+Qué mal que nosotros no lo piquemos.
+
+36
+00:02:10,544 --> 00:02:12,921
+Deberemos conseguir comida en otro lado.
+
+37
+00:02:13,880 --> 00:02:16,883
+Si queda tiempo para eso
+en el itinerario de Sokka.
+
+38
+00:02:18,385 --> 00:02:21,888
+Sí, pero solo podremos detenernos
+dos veces para ir al baño.
+
+39
+00:02:22,347 --> 00:02:24,307
+Quizá haya comida allí.
+
+40
+00:02:29,563 --> 00:02:31,815
+Ahora pareces una colina con cuernos.
+
+41
+00:02:31,898 --> 00:02:32,898
+Adiós, amigo.
+
+42
+00:02:37,737 --> 00:02:39,072
+No siento nada.
+
+43
+00:02:39,239 --> 00:02:40,490
+¿Dónde está la aldea?
+
+44
+00:02:40,657 --> 00:02:42,242
+En medio del río.
+
+45
+00:02:42,534 --> 00:02:43,827
+Claro.
+
+46
+00:02:44,077 --> 00:02:46,955
+Me llamo Puerto.
+¿Puedo preguntarles quiénes son?
+
+47
+00:02:47,539 --> 00:02:50,709
+Somos de las colonias
+del reino de la Tierra.
+
+48
+00:02:51,042 --> 00:02:52,919
+Vaya, colonos.
+
+49
+00:02:53,003 --> 00:02:55,338
+Súbanse. Los llevaré al pueblo.
+
+50
+00:02:58,884 --> 00:03:00,427
+¿Por qué viven en el río?
+
+51
+00:03:00,594 --> 00:03:02,429
+Somos un pueblo pesquero.
+
+52
+00:03:02,512 --> 00:03:05,390
+Al menos lo éramos
+hasta que llegó esa fábrica.
+
+53
+00:03:06,641 --> 00:03:08,226
+El ejército fabrica metal.
+
+54
+00:03:08,310 --> 00:03:11,354
+Se instalaron hace unos años
+y empezaron a ensuciar.
+
+55
+00:03:11,438 --> 00:03:14,399
+Ahora nos cuesta sobrevivir.
+
+56
+00:03:20,697 --> 00:03:22,032
+Gracias por traernos.
+
+57
+00:03:25,160 --> 00:03:27,621
+Miren este lugar. Qué triste.
+
+58
+00:03:29,080 --> 00:03:31,124
+Debemos ayudarlos.
+
+59
+00:03:31,416 --> 00:03:33,543
+No podemos perder el tiempo.
+
+60
+00:03:34,044 --> 00:03:36,338
+Debemos concentrarnos en la misión.
+
+61
+00:03:36,504 --> 00:03:38,048
+Que se arreglen solos.
+
+62
+00:03:39,966 --> 00:03:43,136
+Se están muriendo de hambre
+¿y les das la espalda?
+
+63
+00:03:43,219 --> 00:03:45,180
+¿Cómo puedes ser tan insensible?
+
+64
+00:03:45,263 --> 00:03:48,183
+No les doy la espalda. Solo soy realista.
+
+65
+00:03:48,266 --> 00:03:51,436
+No podemos ayudar
+a todos los pueblos que veamos.
+
+66
+00:03:51,603 --> 00:03:54,230
+Los ayudaremos
+al vencer al Señor del Fuego.
+
+67
+00:03:54,314 --> 00:03:55,523
+Oye, bocón.
+
+68
+00:03:56,149 --> 00:04:00,820
+No debemos decir tan fuerte
+que venceremos al Señor del Fuego.
+
+69
+00:04:01,529 --> 00:04:05,533
+Vamos, Katara. Sé razonable.
+Nuestra misión es más importante.
+
+70
+00:04:06,618 --> 00:04:07,619
+Supongo que sí.
+
+71
+00:04:07,702 --> 00:04:09,913
+Busquemos lo que necesitamos y vamos.
+
+72
+00:04:16,753 --> 00:04:18,588
+Hola, Puerto. ¿Trabajas aquí?
+
+73
+00:04:19,005 --> 00:04:21,007
+No soy Puerto. Soy Zapato.
+
+74
+00:04:21,091 --> 00:04:22,342
+Puerto es mi hermano.
+
+75
+00:04:23,551 --> 00:04:24,928
+Pero recién te vimos.
+
+76
+00:04:25,011 --> 00:04:28,515
+Hasta llevas puesto lo mismo,
+salvo por el sombrero.
+
+77
+00:04:28,598 --> 00:04:31,935
+Puerto trabaja en el puerto,
+por eso lo llaman así.
+
+78
+00:04:32,018 --> 00:04:35,230
+Yo trabajo en la tienda,
+por eso me llaman "Zapato".
+
+79
+00:04:35,355 --> 00:04:36,731
+No entiendo.
+
+80
+00:04:36,856 --> 00:04:37,856
+Yo tampoco.
+
+81
+00:04:39,484 --> 00:04:40,610
+¿Qué buscaban?
+
+82
+00:04:42,570 --> 00:04:44,531
+Les hago una oferta.
+
+83
+00:04:44,823 --> 00:04:47,993
+Si compran tres pescados,
+les regalo una almeja.
+
+84
+00:04:52,247 --> 00:04:53,999
+Solo compraremos el pescado.
+
+85
+00:04:54,332 --> 00:04:56,793
+¿Tu hermano podría llevarnos de regreso?
+
+86
+00:04:59,379 --> 00:05:02,257
+Hola. Mi hermano
+dice que necesitan transporte.
+
+87
+00:05:06,386 --> 00:05:08,221
+¿Tienes comida de sobra?
+
+88
+00:05:10,348 --> 00:05:12,183
+Desearía poder ayudar más.
+
+89
+00:05:28,867 --> 00:05:32,037
+Nuestro desvío de hoy
+atrasó todo el itinerario.
+
+90
+00:05:32,120 --> 00:05:35,290
+Deberemos tomar medidas
+para recuperar tiempo.
+
+91
+00:05:36,332 --> 00:05:39,127
+Toma medidas, maestro del itinerario.
+
+92
+00:05:39,210 --> 00:05:42,881
+Para empezar, deberemos despertarnos
+43 minutos antes a diario.
+
+93
+00:05:42,964 --> 00:05:44,883
+¿Dijiste 43?
+
+94
+00:05:44,966 --> 00:05:49,471
+Solo tenemos unas semanas para llegar
+a tiempo para la invasión y el eclipse,
+
+95
+00:05:49,554 --> 00:05:52,015
+que solo dura ocho minutos.
+
+96
+00:05:52,098 --> 00:05:53,892
+Perdimos un día entero,
+
+97
+00:05:53,975 --> 00:05:57,604
+así que, para compensar,
+deberemos despertarnos temprano.
+
+98
+00:05:58,104 --> 00:05:59,981
+No me despertaré temprano.
+
+99
+00:06:00,732 --> 00:06:03,234
+O podemos eliminar las pausas de almuerzo.
+
+100
+00:06:03,443 --> 00:06:04,360
+- ¿Qué?
+- No.
+
+101
+00:06:04,444 --> 00:06:05,444
+Olvídalo.
+
+102
+00:06:05,987 --> 00:06:07,447
+Ya sé. ¿Qué tal esto?
+
+103
+00:06:07,739 --> 00:06:11,743
+Desde ahora, comeremos
+e iremos al baño al mismo tiempo.
+
+104
+00:06:13,411 --> 00:06:15,497
+Es asqueroso pero eficiente.
+
+105
+00:06:15,747 --> 00:06:18,625
+De cualquier manera,
+debemos irnos bien temprano.
+
+106
+00:06:26,883 --> 00:06:28,051
+¿Qué pasa, Katara?
+
+107
+00:06:28,426 --> 00:06:29,803
+Appa está enfermo.
+
+108
+00:06:30,595 --> 00:06:32,639
+¿Qué? ¿Enfermo? ¡Qué horrible!
+
+109
+00:06:33,431 --> 00:06:36,267
+No sabía que te importaba tanto, Sokka.
+
+110
+00:06:36,684 --> 00:06:40,647
+Claro que me importa.
+Deberé arrojar el itinerario a la basura.
+
+111
+00:06:43,858 --> 00:06:47,946
+Y me preocupa que mi amigo peludo
+no se sienta bien.
+
+112
+00:06:48,238 --> 00:06:51,157
+Debe de haberse enfermado
+con el agua contaminada.
+
+113
+00:06:51,241 --> 00:06:52,408
+No parece enfermo.
+
+114
+00:06:52,867 --> 00:06:53,993
+¿Estás bien, amigo?
+
+115
+00:06:56,538 --> 00:06:59,415
+Tiene la lengua púrpura.
+No es buena señal.
+
+116
+00:06:59,749 --> 00:07:01,209
+Katara, ¿puedes curarlo?
+
+117
+00:07:01,334 --> 00:07:03,336
+Parece que necesita medicamentos.
+
+118
+00:07:03,503 --> 00:07:05,547
+Quizá haya hierbas en la aldea.
+
+119
+00:07:10,385 --> 00:07:13,972
+¿Soy yo o la aldea parece diferente?
+
+120
+00:07:14,264 --> 00:07:17,100
+Sí, la gente está más alegre, ¿no?
+
+121
+00:07:22,105 --> 00:07:24,440
+Hola, Zapato. ¿Qué les pasa a todos?
+
+122
+00:07:26,151 --> 00:07:28,444
+Algo increíble ocurrió anoche.
+
+123
+00:07:28,778 --> 00:07:32,991
+Una persona misteriosa y maravillosa
+nos envió comida.
+
+124
+00:07:33,700 --> 00:07:35,160
+La dama pintada.
+
+125
+00:07:35,368 --> 00:07:36,452
+¿La dama qué?
+
+126
+00:07:36,703 --> 00:07:38,079
+La dama pintada.
+
+127
+00:07:38,830 --> 00:07:40,665
+Es parte de nuestra tradición.
+
+128
+00:07:40,748 --> 00:07:45,461
+Es un espíritu del río que cuida
+a nuestra aldea en épocas de necesidad.
+
+129
+00:07:45,545 --> 00:07:47,463
+Siempre pensé quera una leyenda.
+
+130
+00:07:47,922 --> 00:07:49,382
+Hasta ahora.
+
+131
+00:07:49,591 --> 00:07:53,595
+No es necesario que los ayudemos.
+Ya tienen a alguien que los ayuda.
+
+132
+00:07:53,678 --> 00:07:56,014
+Necesitamos medicamentos para un amigo.
+
+133
+00:07:56,097 --> 00:07:57,097
+¿Medicamentos?
+
+134
+00:07:57,390 --> 00:08:00,768
+Lo siento, todos los medicamentos
+van a la fábrica.
+
+135
+00:08:01,102 --> 00:08:03,688
+Por eso hay tantos enfermos en la aldea.
+
+136
+00:08:04,022 --> 00:08:06,774
+Deberemos quedarnos
+para que Appa descanse.
+
+137
+00:08:07,859 --> 00:08:08,902
+Supongo que sí.
+
+138
+00:08:09,027 --> 00:08:10,486
+¿Tienes más comida?
+
+139
+00:08:12,363 --> 00:08:15,283
+¿Quieren el pescado
+de una o de dos cabezas?
+
+140
+00:08:16,367 --> 00:08:17,367
+El de dos.
+
+141
+00:08:18,745 --> 00:08:20,955
+¿Qué? Se aprovecha mejor el dinero.
+
+142
+00:09:02,038 --> 00:09:03,831
+Gracias, dama pintada.
+
+143
+00:09:17,150 --> 00:09:18,777
+Hola, Puerto. ¿Está Zapato?
+
+144
+00:09:19,110 --> 00:09:20,110
+Ya te digo.
+
+145
+00:09:24,240 --> 00:09:25,909
+Hola. ¿Volvieron?
+
+146
+00:09:26,242 --> 00:09:27,702
+Necesitamos más comida.
+
+147
+00:09:27,786 --> 00:09:30,497
+Nuestro amigo sigue enfermo.
+No podemos irnos.
+
+148
+00:09:32,499 --> 00:09:34,042
+Vaya, qué mal.
+
+149
+00:09:34,250 --> 00:09:38,922
+Si tienen suerte, quizá la dama pintada
+los visite y cure a su amigo.
+
+150
+00:09:39,464 --> 00:09:43,426
+Quizá nos traiga un bocadillo
+y todos cantemos a coro.
+
+151
+00:09:43,635 --> 00:09:44,969
+Puede ser.
+
+152
+00:09:45,428 --> 00:09:49,766
+Anoche nos volvió a visitar
+y curó a la mayoría de los enfermos.
+
+153
+00:09:49,933 --> 00:09:51,935
+¿Por eso están tan alegres?
+
+154
+00:09:52,352 --> 00:09:55,355
+Sí, todo gracias a la dama pintada.
+
+155
+00:09:56,106 --> 00:09:59,901
+¿Pueden creer lo mucho que afecta
+una sola dama a un pueblo?
+
+156
+00:10:00,068 --> 00:10:01,444
+Es decir, un espíritu.
+
+157
+00:10:01,736 --> 00:10:06,116
+Espero que vuelva todas las noches,
+o la aldea volverá al estado de antes.
+
+158
+00:10:06,366 --> 00:10:09,577
+¿Por qué dices eso?
+Mira lo mejor que está la gente.
+
+159
+00:10:09,661 --> 00:10:13,039
+Ahora sí, pero, sin ella,
+no podrán valerse por sí mismos.
+
+160
+00:10:13,331 --> 00:10:17,919
+Si realmente quisiera ayudar,
+usaría sus poderes para volar esa fábrica.
+
+161
+00:10:21,881 --> 00:10:24,175
+La magia de los espiritus no es así.
+
+162
+00:10:24,467 --> 00:10:25,510
+Es más bien así.
+
+163
+00:11:03,423 --> 00:11:04,716
+¿Qué pasa, amigo?
+
+164
+00:11:06,134 --> 00:11:07,134
+Es ella.
+
+165
+00:11:09,220 --> 00:11:10,972
+Hola, espíritu de la dama.
+
+166
+00:11:20,315 --> 00:11:22,192
+Disculpa. No quiero molestarte.
+
+167
+00:11:22,275 --> 00:11:24,986
+Mi amigo está enfermo, y estamos apurados.
+
+168
+00:11:27,030 --> 00:11:30,533
+Espera. Soy el gran puente
+entre tu mundo y el mío.
+
+169
+00:11:37,582 --> 00:11:40,502
+Conozco a Hei Bai. Somos muy amigos.
+
+170
+00:11:52,889 --> 00:11:54,140
+¡Oye!
+
+171
+00:12:07,237 --> 00:12:08,154
+Soy Aang.
+
+172
+00:12:08,238 --> 00:12:09,364
+Soy el Avatar.
+
+173
+00:12:11,908 --> 00:12:14,160
+Hola, Avatar.
+
+174
+00:12:14,661 --> 00:12:17,872
+Desearía poder hablar, pero estoy ocupada.
+
+175
+00:12:18,122 --> 00:12:20,750
+Yo también. Odio eso.
+
+176
+00:12:22,043 --> 00:12:24,254
+Eres muy bonita para ser un espíritu.
+
+177
+00:12:24,462 --> 00:12:28,967
+No conocí a muchos espíritus,
+pero no suelen ser muy atractivos.
+
+178
+00:12:30,885 --> 00:12:33,429
+- Gracias, pero...
+- Me resultas conocida.
+
+179
+00:12:34,847 --> 00:12:36,391
+Muchos me dicen eso.
+
+180
+00:12:36,724 --> 00:12:39,394
+No, realmente me resultas conocida.
+
+181
+00:12:39,727 --> 00:12:42,313
+En serio, debo irme.
+
+182
+00:12:47,402 --> 00:12:48,402
+¿Katara?
+
+183
+00:12:49,737 --> 00:12:50,737
+Hola, Aang.
+
+184
+00:12:51,114 --> 00:12:53,408
+¿Tú eres la dama pintada? ¿Cómo?
+
+185
+00:12:53,700 --> 00:12:57,036
+No era la idea.
+Solo quería ayudar al pueblo.
+
+186
+00:12:57,120 --> 00:13:01,583
+Pero como todos pensaron que era
+la dama pintada, me convertí en ella.
+
+187
+00:13:04,377 --> 00:13:06,754
+¿Así que te escabulles todas las noches?
+
+188
+00:13:06,921 --> 00:13:08,756
+Espera. ¿Appa está enfermo?
+
+189
+00:13:09,048 --> 00:13:12,594
+Puede que se sienta mal
+por todas las bayas que le di,
+
+190
+00:13:12,677 --> 00:13:14,721
+pero, más allá de eso, está bien.
+
+191
+00:13:14,846 --> 00:13:17,932
+No puedo creer
+que hayas mentido para ayudarlos.
+
+192
+00:13:18,099 --> 00:13:20,310
+Perdón. Sé que estuve mal.
+
+193
+00:13:20,560 --> 00:13:23,688
+No, me parece genial.
+Eres una heroína secreta.
+
+194
+00:13:25,231 --> 00:13:29,027
+Bueno, si quieres ayudarme,
+debo hacer una última cosa.
+
+195
+00:13:39,746 --> 00:13:41,789
+¿Quieres destruir la fábrica?
+
+196
+00:13:41,956 --> 00:13:44,876
+Sí, Sokka bromeaba, pero tiene razón.
+
+197
+00:13:45,293 --> 00:13:48,755
+Debo destruir esta fábrica
+para ayudarlos realmente.
+
+198
+00:14:45,228 --> 00:14:46,896
+No despertemos a Sokka.
+
+199
+00:14:47,939 --> 00:14:49,524
+Hola, Sokka.
+
+200
+00:14:49,857 --> 00:14:52,276
+Venimos de una caminata matutina.
+
+201
+00:14:52,860 --> 00:14:53,860
+¿En serio?
+
+202
+00:14:54,195 --> 00:14:55,822
+¿Una caminata matutina?
+
+203
+00:15:00,368 --> 00:15:04,163
+Sé que eres la dama pintada,
+que te escabulliste todas las noches
+
+204
+00:15:04,247 --> 00:15:08,334
+y que alimentaste a Appa
+con bayas púrpura para mentirnos.
+
+205
+00:15:12,004 --> 00:15:14,590
+Pusiste en peligro nuestra misión.
+
+206
+00:15:14,716 --> 00:15:16,008
+Nos vamos ya mismo.
+
+207
+00:15:19,303 --> 00:15:21,055
+¿Hace cuánto lo sabes tú?
+
+208
+00:15:21,556 --> 00:15:23,391
+Me enteré esta mañana.
+
+209
+00:15:45,580 --> 00:15:46,580
+¿Qué pasa?
+
+210
+00:15:46,748 --> 00:15:49,250
+Vienen soldados de la nación de Fuego.
+
+211
+00:15:49,333 --> 00:15:50,543
+¿Qué hiciste?
+
+212
+00:15:50,835 --> 00:15:53,254
+Destruí su fábrica.
+
+213
+00:15:53,337 --> 00:15:54,172
+¿Qué?
+
+214
+00:15:54,338 --> 00:15:55,506
+Fue tu idea.
+
+215
+00:15:55,715 --> 00:15:57,008
+Era una broma.
+
+216
+00:15:57,133 --> 00:16:00,303
+También hablé de magia
+e hice sonidos graciosos.
+
+217
+00:16:01,220 --> 00:16:04,599
+¿Acaso no lo pensaste?
+El ejército culpará a los aldeanos.
+
+218
+00:16:04,724 --> 00:16:06,726
+Están yendo allí para vengarse.
+
+219
+00:16:06,809 --> 00:16:08,519
+¿Y qué debía hacer?
+
+220
+00:16:08,728 --> 00:16:10,396
+Irte. No hacer nada.
+
+221
+00:16:11,522 --> 00:16:12,356
+No.
+
+222
+00:16:12,440 --> 00:16:16,027
+Nunca le daré la espalda
+a gente que me necesita.
+
+223
+00:16:17,278 --> 00:16:20,948
+Iré a la aldea y haré todo lo que pueda.
+
+224
+00:16:25,828 --> 00:16:26,828
+Espera.
+
+225
+00:16:27,663 --> 00:16:28,748
+Te acompaño.
+
+226
+00:16:29,582 --> 00:16:31,209
+Creí que no querías ayudar.
+
+227
+00:16:31,542 --> 00:16:34,754
+Tú me necesitas,
+y jamás te daré la espalda.
+
+228
+00:16:35,171 --> 00:16:37,924
+Sokka, realmente tienes corazón.
+
+229
+00:16:40,009 --> 00:16:41,886
+Realmente tiene corazón, ¿no?
+
+230
+00:16:55,889 --> 00:17:00,060
+Creí que podríamos vivir en paz,
+pero supongo que me equivoqué.
+
+231
+00:17:00,144 --> 00:17:04,857
+Nos robaron comida y medicamentos,
+y luego destruyeron nuestra fábrica.
+
+232
+00:17:05,315 --> 00:17:07,026
+No hicimos nada de eso.
+
+233
+00:17:07,860 --> 00:17:10,404
+Sí, la dama pintada nos trajo comida.
+
+234
+00:17:10,487 --> 00:17:13,449
+Ella curó a nuestros enfermos,
+no sus medicamentos.
+
+235
+00:17:14,366 --> 00:17:18,203
+Claro, fue la misteriosa dama pintada.
+
+236
+00:17:18,871 --> 00:17:22,624
+Y también dibujó el emblema del ejército
+en sus recipientes.
+
+237
+00:17:25,127 --> 00:17:27,629
+Aquí no hay más que ladrones y mentirosos.
+
+238
+00:17:32,259 --> 00:17:34,762
+¿Dónde está su dama pintada ahora?
+
+239
+00:17:36,430 --> 00:17:39,433
+Liberaremos al mundo
+de este pueblo horrible.
+
+240
+00:18:00,079 --> 00:18:01,413
+Vuelvan a encenderlo.
+
+241
+00:18:04,208 --> 00:18:06,627
+Miren eso. ¿De dónde viene?
+
+242
+00:18:07,044 --> 00:18:08,044
+No sé.
+
+243
+00:18:08,212 --> 00:18:10,005
+Ocurre algo extraño.
+
+244
+00:18:12,841 --> 00:18:16,303
+Es la dama pintada. Está en camino.
+
+245
+00:18:16,637 --> 00:18:18,514
+La dama pintada no existe.
+
+246
+00:18:38,742 --> 00:18:40,035
+¿Qué es ese sonido?
+
+247
+00:18:40,577 --> 00:18:41,620
+Quizá es ella.
+
+248
+00:18:59,429 --> 00:19:00,806
+Hagan algo.
+
+249
+00:19:12,359 --> 00:19:13,735
+No rompan filas.
+
+250
+00:19:36,091 --> 00:19:38,010
+Yo mismo me ocuparé de ti.
+
+251
+00:20:09,333 --> 00:20:12,544
+Vete de este pueblo y nunca regreses.
+
+252
+00:20:41,865 --> 00:20:43,242
+Sabía que vendrías.
+
+253
+00:20:43,700 --> 00:20:44,700
+Gracias.
+
+254
+00:20:44,785 --> 00:20:46,703
+Eres la mejor, dama pintada.
+
+255
+00:20:47,079 --> 00:20:49,706
+Mis hermanos y yo te debemos mucho.
+
+256
+00:20:51,124 --> 00:20:54,586
+Espera un minuto. Te conozco.
+
+257
+00:20:54,962 --> 00:20:58,715
+No eres la dama pintada. Eres la colona.
+
+258
+00:21:00,133 --> 00:21:03,220
+Sí, tú eres la que me dio un pescado.
+
+259
+00:21:03,637 --> 00:21:07,724
+Nos engañaste. Eres una maestra de Agua.
+
+260
+00:21:07,933 --> 00:21:09,351
+Es una maestra de Agua.
+
+261
+00:21:09,434 --> 00:21:12,187
+¿Cómo te atreves
+a disfrazarte de nuestra dama?
+
+262
+00:21:14,564 --> 00:21:18,360
+Quizá sea una maestra de Agua,
+pero intentaba ayudarlos.
+
+263
+00:21:18,485 --> 00:21:22,948
+Gracias a ella, el ejército se fue
+y la fábrica ya no contaminará el río.
+
+264
+00:21:23,031 --> 00:21:25,701
+Deberían agradecerle de rodillas.
+
+265
+00:21:25,909 --> 00:21:27,828
+Sokka, no te preocupes.
+
+266
+00:21:28,412 --> 00:21:32,624
+No debería haber fingido ser
+alguien que no era ni haberlos engañado,
+
+267
+00:21:32,708 --> 00:21:35,210
+pero sentí que debía hacer algo.
+
+268
+00:21:35,294 --> 00:21:38,672
+No importa si la dama pintada
+es real o no,
+
+269
+00:21:38,755 --> 00:21:42,592
+porque sus problemas son reales
+y este río es real.
+
+270
+00:21:42,968 --> 00:21:47,306
+No esperen a que alguien los ayude.
+Deben valerse por ustedes mismos.
+
+271
+00:21:48,140 --> 00:21:50,767
+Tiene razón, pero ¿qué deberíamos hacer?
+
+272
+00:21:51,393 --> 00:21:54,021
+Quizá podamos limpiar el río.
+
+273
+00:21:54,479 --> 00:21:57,691
+Sí, podemos limpiar el río.
+
+274
+00:22:01,945 --> 00:22:02,945
+Gracias.
+
+275
+00:22:03,322 --> 00:22:06,283
+No eres tan mala para ser maestra de Agua.
+
+276
+00:22:06,658 --> 00:22:09,036
+¿Podrías guardar ese secreto?
+
+277
+00:22:09,202 --> 00:22:10,202
+No hay problema.
+
+278
+00:22:10,245 --> 00:22:12,831
+Mantener la boca cerrada
+es mi especialidad.
+
+279
+00:22:13,123 --> 00:22:16,501
+Mi hermano Zapato es al revés, un bocón.
+
+280
+00:22:17,461 --> 00:22:19,713
+Puerto, ¿nos ayudarás a limpiar?
+
+281
+00:22:20,255 --> 00:22:23,342
+No, pero llamaré a mi otro hermano, Bushi.
+
+282
+00:22:23,467 --> 00:22:25,260
+A él le encanta limpiar ríos.
+
+283
+00:22:28,096 --> 00:22:29,598
+Bueno. Soy Bushi.
+
+284
+00:22:29,765 --> 00:22:31,600
+Limpiemos el río.
+
+285
+00:22:32,809 --> 00:22:33,809
+Lo sabía.
+
+286
+00:22:33,852 --> 00:22:37,481
+Sabía que eras el mismo,
+el dueño de la tienda y el del bote.
+
+287
+00:22:38,190 --> 00:22:41,360
+Debes estar hablando
+de mis hermanos, Puerto y Zapato.
+
+288
+00:22:41,777 --> 00:22:45,238
+No, acabo de verte.
+Solo te cambiaste el sombrero.
+
+289
+00:22:46,656 --> 00:22:49,368
+¿Sabes quién hace eso? Mi hermano Puerto.
+
+290
+00:22:50,285 --> 00:22:51,661
+Está loco.
+
+291
+00:23:32,244 --> 00:23:33,244
+Gracias.
+

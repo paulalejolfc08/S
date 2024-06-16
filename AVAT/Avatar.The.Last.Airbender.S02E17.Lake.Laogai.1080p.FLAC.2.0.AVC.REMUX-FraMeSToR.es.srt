@@ -1,0 +1,1364 @@
+1
+00:00:02,489 --> 00:00:03,489
+<i>Agua.</i>
+
+2
+00:00:04,950 --> 00:00:05,950
+<i>Tierra.</i>
+
+3
+00:00:06,910 --> 00:00:07,910
+<i>Fuego.</i>
+
+4
+00:00:09,037 --> 00:00:10,037
+<i>Aire.</i>
+
+5
+00:00:11,248 --> 00:00:14,751
+<i>Hace mucho, las cuatro naciones
+vivían en armonía...</i>
+
+6
+00:00:15,460 --> 00:00:18,839
+<i>pero todo cambió
+cuando la Nación de Fuego atacó.</i>
+
+7
+00:00:19,714 --> 00:00:23,760
+<i>Solo el Avatar, maestro
+de los cuatro elementos, podía detenerlos.</i>
+
+8
+00:00:23,844 --> 00:00:26,805
+<i>Pero desapareció
+cuando el mundo más lo necesitaba.</i>
+
+9
+00:00:27,264 --> 00:00:31,143
+<i>Cien años después, mi hermano y yo
+descubrimos al nuevo Avatar.</i>
+
+10
+00:00:31,226 --> 00:00:32,894
+<i>Aang, un maestro del aire.</i>
+
+11
+00:00:32,978 --> 00:00:35,230
+<i>Aunque controla muy bien el aire,</i>
+
+12
+00:00:35,313 --> 00:00:38,275
+<i>tiene mucho que aprender
+para salvar a alguien.</i>
+
+13
+00:00:38,984 --> 00:00:42,154
+<i>Pero creo que Aang puede salvar al mundo.</i>
+
+14
+00:00:42,878 --> 00:00:46,378
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:48,076 --> 00:00:50,537
+<i>Anteriormente en Avatar...</i>
+
+16
+00:00:50,620 --> 00:00:54,082
+La Nación de Fuego mató a mis padres.
+Solo tenía ocho años.
+
+17
+00:00:54,291 --> 00:00:56,960
+Hola. Me llamo Joo Dee.
+
+18
+00:00:57,043 --> 00:01:00,464
+Un eclipse solar
+dejará a la Nación de Fuego indefensa.
+
+19
+00:01:00,547 --> 00:01:03,133
+Una estricta política de Ba Sing Se
+
+20
+00:01:03,216 --> 00:01:06,011
+es que no se mencione la guerra.
+
+21
+00:01:08,597 --> 00:01:10,682
+¡Son de la Nación de Fuego!
+
+22
+00:01:10,765 --> 00:01:12,184
+¡Tienen que creerme!
+
+23
+00:01:12,851 --> 00:01:15,562
+No hay guerra dentro de las murallas.
+
+24
+00:01:15,645 --> 00:01:17,230
+Aquí estamos a salvo.
+
+25
+00:01:17,314 --> 00:01:20,025
+Aquí somos libres.
+
+26
+00:01:20,108 --> 00:01:22,068
+<i>Buscan a su bisonte.</i>
+
+27
+00:01:22,652 --> 00:01:26,448
+<i>Sería una lástima que no completaran
+la búsqueda.</i>
+
+28
+00:01:28,158 --> 00:01:32,829
+LIBRO DOS: TIERRA
+CAPÍTULO DIECISIETE: EL LAGO LAOGAI
+
+29
+00:01:47,344 --> 00:01:49,429
+Hemos encontrado una imprenta.
+
+30
+00:01:51,306 --> 00:01:54,392
+Pensé que diseñar
+el póster de Appa era mi trabajo.
+
+31
+00:01:54,476 --> 00:01:56,811
+Llevo todo el día trabajando
+en mi Appa.
+
+32
+00:01:57,479 --> 00:01:59,689
+La flecha la tiene en la cabeza.
+
+33
+00:02:00,273 --> 00:02:01,733
+Esta es la cabeza.
+
+34
+00:02:02,817 --> 00:02:04,803
+¿Por qué se le salen los pies?
+
+35
+00:02:04,886 --> 00:02:06,613
+¡Son sus cuernos!
+
+36
+00:02:06,696 --> 00:02:08,532
+Hace tiempo que no lo veo.
+
+37
+00:02:08,615 --> 00:02:11,034
+A mí se me parece.
+
+38
+00:02:11,117 --> 00:02:12,786
+Gracias. He trabajado...
+
+39
+00:02:13,453 --> 00:02:15,455
+¿Por qué haces eso?
+
+40
+00:02:15,539 --> 00:02:17,999
+Quedémonos con la versión profesional.
+
+41
+00:02:20,293 --> 00:02:21,878
+¡Vamos, a trabajar!
+
+42
+00:02:39,062 --> 00:02:42,274
+Así que tú eres el genio
+de esta increíble bebida.
+
+43
+00:02:42,357 --> 00:02:44,401
+Toda la ciudad habla de ti.
+
+44
+00:02:45,026 --> 00:02:46,736
+Espero que Pao pague bien.
+
+45
+00:02:46,820 --> 00:02:49,197
+El buen té es su propia recompensa.
+
+46
+00:02:49,281 --> 00:02:52,701
+Pero no tiene que ser la única recompensa.
+
+47
+00:02:52,784 --> 00:02:55,078
+¿Te gustaría tener tu propia tetería?
+
+48
+00:02:55,161 --> 00:02:56,955
+¿Mi propia tetería?
+
+49
+00:02:57,038 --> 00:02:58,873
+Es un sueño hecho realidad.
+
+50
+00:02:59,624 --> 00:03:01,167
+¿Qué está pasando aquí?
+
+51
+00:03:01,251 --> 00:03:03,587
+¿Quieres robarme a mi preparador de té?
+
+52
+00:03:03,670 --> 00:03:06,590
+Lo siento, amigo, pero así son
+los negocios, ¿no?
+
+53
+00:03:07,173 --> 00:03:11,595
+Mushi, si te quedas,
+te nombraré subdirector.
+
+54
+00:03:11,678 --> 00:03:14,097
+Espera, subdirector jefe.
+
+55
+00:03:14,180 --> 00:03:16,891
+Te daré un apartamento
+en el Anillo Superior.
+
+56
+00:03:16,975 --> 00:03:19,436
+Haz lo que quieras en la tetería.
+
+57
+00:03:19,603 --> 00:03:21,479
+Total libertad creativa.
+
+58
+00:03:21,563 --> 00:03:23,648
+¿Incluso puedo ponerle nombre?
+
+59
+00:03:23,732 --> 00:03:24,733
+Por supuesto.
+
+60
+00:03:25,567 --> 00:03:28,570
+Subdirector ejecutivo jefe.
+
+61
+00:03:33,199 --> 00:03:34,743
+¿Has escuchado, sobrino?
+
+62
+00:03:34,826 --> 00:03:39,414
+Este hombre quiere darnos nuestra propia
+tetería en el Anillo Superior.
+
+63
+00:03:39,914 --> 00:03:41,416
+Eso es, joven.
+
+64
+00:03:41,499 --> 00:03:44,461
+Tu vida está a punto de cambiar
+para mejor.
+
+65
+00:03:44,544 --> 00:03:46,630
+Intentaré contener mi alegría.
+
+66
+00:04:18,244 --> 00:04:21,998
+Terminé de colgar los folletos.
+¿Ha venido alguien?
+
+67
+00:04:22,082 --> 00:04:24,626
+Solo ha pasado un día. Ten paciencia.
+
+68
+00:04:27,879 --> 00:04:30,548
+Tienes razón,
+tener paciencia vale la pena.
+
+69
+00:04:32,926 --> 00:04:33,760
+¿Joo Dee?
+
+70
+00:04:33,843 --> 00:04:38,348
+Hola, Aang y Katara y Sokka y Toph.
+
+71
+00:04:38,431 --> 00:04:41,142
+¿Qué te pasó?
+¿Te arrestaron los Dai Li?
+
+72
+00:04:41,434 --> 00:04:43,353
+¿Qué? ¿Arrestarme?
+
+73
+00:04:43,436 --> 00:04:44,646
+Claro que no.
+
+74
+00:04:44,729 --> 00:04:48,525
+Los Dai Li son los protectores
+de nuestro patrimonio cultural.
+
+75
+00:04:48,608 --> 00:04:50,902
+Pero desapareciste en la fiesta.
+
+76
+00:04:50,985 --> 00:04:55,782
+Solo me tomé unas cortas vacaciones
+al lago Laogai, en el campo.
+
+77
+00:04:55,865 --> 00:04:57,575
+Fue muy relajante.
+
+78
+00:04:57,659 --> 00:05:02,330
+Pero te reemplazaron por otra
+mujer que también decía que era Joo Dee.
+
+79
+00:05:02,414 --> 00:05:03,748
+Yo soy Joo Dee.
+
+80
+00:05:03,832 --> 00:05:05,041
+¿Por qué has venido?
+
+81
+00:05:05,583 --> 00:05:09,587
+Colocar carteles
+no está permitido dentro de la ciudad,
+
+82
+00:05:09,671 --> 00:05:11,339
+no sin autorización.
+
+83
+00:05:11,423 --> 00:05:13,883
+No podemos pedir permiso para todo.
+
+84
+00:05:13,967 --> 00:05:17,053
+Se les prohíbe, por las reglas de la ciudad
+
+85
+00:05:17,137 --> 00:05:19,139
+seguir poniendo carteles.
+
+86
+00:05:20,390 --> 00:05:23,476
+¡Nos dan igual las reglas
+y vamos a pedir permiso!
+
+87
+00:05:23,560 --> 00:05:27,147
+Vamos a encontrar a Appa
+¡y tú deberías apartarte!
+
+88
+00:05:27,731 --> 00:05:30,483
+Nos vamos a arrepentir.
+
+89
+00:05:30,567 --> 00:05:31,568
+No me importa.
+
+90
+00:05:31,651 --> 00:05:34,112
+Haremos lo que sea para encontrar a Appa.
+
+91
+00:05:34,195 --> 00:05:36,656
+Sí, rompamos las reglas.
+
+92
+00:05:49,127 --> 00:05:53,339
+Estoy decepcionado con tu trabajo
+con el Avatar y sus amigos, Joo Dee.
+
+93
+00:05:53,423 --> 00:05:56,050
+Esperaba que controlaras la situación.
+
+94
+00:05:56,134 --> 00:05:59,763
+Lo siento, pero ya no confían en mí.
+
+95
+00:05:59,846 --> 00:06:02,807
+No creo que pueda seguir trabajando así.
+
+96
+00:06:02,891 --> 00:06:06,978
+Joo Dee, el Rey de la Tierra
+te ha invitado al lago Laogai.
+
+97
+00:06:10,064 --> 00:06:13,234
+Es un honor aceptar su invitación.
+
+98
+00:06:14,736 --> 00:06:15,736
+Bien.
+
+99
+00:06:16,237 --> 00:06:18,323
+Ahora ve a esperar órdenes.
+
+100
+00:06:22,452 --> 00:06:24,913
+Si el Avatar sigue buscando a su bisonte,
+
+101
+00:06:24,996 --> 00:06:28,041
+podría alterar el delicado equilibrio
+de la ciudad.
+
+102
+00:06:28,666 --> 00:06:31,044
+Incluso costarnos el control
+del Rey.
+
+103
+00:06:31,127 --> 00:06:32,712
+¿Nos encargamos de él?
+
+104
+00:06:32,796 --> 00:06:36,758
+No, es demasiado peligroso enfrentarnos
+a él directamente.
+
+105
+00:06:36,841 --> 00:06:40,345
+Veamos si aún podemos
+manejar esto sin hacer ruido.
+
+106
+00:06:46,434 --> 00:06:49,979
+Estaba pensando nombres para la tetería.
+
+107
+00:06:50,063 --> 00:06:52,941
+¿Qué tal el Dragón de Jazmín?
+
+108
+00:06:53,024 --> 00:06:55,693
+Es dramático, poético
+
+109
+00:06:55,777 --> 00:06:57,320
+suena bien.
+
+110
+00:06:57,403 --> 00:06:59,489
+El Avatar está aquí en Ba Sing Se,
+
+111
+00:06:59,572 --> 00:07:01,324
+y ha perdido su bisonte.
+
+112
+00:07:03,535 --> 00:07:05,787
+Podemos empezar una nueva vida aquí.
+
+113
+00:07:05,870 --> 00:07:08,122
+Si empiezas a armar problemas,
+
+114
+00:07:08,206 --> 00:07:11,876
+podríamos perder todas las cosas buenas
+que nos están pasando.
+
+115
+00:07:11,960 --> 00:07:13,837
+Te pasan a ti.
+
+116
+00:07:13,920 --> 00:07:17,090
+¿Has pensado que quiero más
+que un bonito apartamento
+
+117
+00:07:17,173 --> 00:07:18,508
+y servir té?
+
+118
+00:07:18,591 --> 00:07:22,262
+No tiene nada de malo
+una vida de paz y prosperidad.
+
+119
+00:07:22,345 --> 00:07:26,724
+Te aconsejo que pienses en lo que
+quieres de la vida
+
+120
+00:07:26,808 --> 00:07:27,809
+y porqué.
+
+121
+00:07:28,560 --> 00:07:30,436
+Quiero mi destino.
+
+122
+00:07:30,520 --> 00:07:32,897
+Lo que eso signifique depende de ti.
+
+123
+00:07:34,315 --> 00:07:35,984
+¡El gorgojo del té!
+
+124
+00:07:36,609 --> 00:07:38,236
+No, eso es estúpido.
+
+125
+00:07:41,781 --> 00:07:43,950
+Nos separaremos para abarcar más.
+
+126
+00:07:44,033 --> 00:07:46,202
+Toph, deberías venir conmigo.
+
+127
+00:07:46,286 --> 00:07:49,372
+¿Por qué? ¿Crees que no puedo
+colgar carteles?
+
+128
+00:07:53,418 --> 00:07:55,086
+Está al revés, ¿verdad?
+
+129
+00:07:56,170 --> 00:07:57,839
+Iré con Sokka.
+
+130
+00:08:06,806 --> 00:08:07,806
+¿Katara?
+
+131
+00:08:10,768 --> 00:08:12,186
+Puedo ayudarte.
+
+132
+00:08:16,482 --> 00:08:17,942
+¡Katara, he cambiado!
+
+133
+00:08:23,781 --> 00:08:25,700
+Cuéntaselo a otra chica, Jet.
+
+134
+00:08:31,247 --> 00:08:33,583
+No quiero pelear contigo.
+Vine a ayudar.
+
+135
+00:08:46,679 --> 00:08:47,847
+Katara, ¿qué pasa?
+
+136
+00:08:49,390 --> 00:08:50,391
+Jet ha vuelto.
+
+137
+00:08:56,704 --> 00:08:58,914
+No podemos creer a Jet.
+
+138
+00:08:58,998 --> 00:09:00,833
+Ni sabemos qué hace aquí.
+
+139
+00:09:00,916 --> 00:09:04,295
+¡No me importa por qué está aquí!
+No puede ser nada bueno.
+
+140
+00:09:04,378 --> 00:09:06,464
+Vine a ayudarles a encontrar a Appa.
+
+141
+00:09:09,592 --> 00:09:12,178
+Katara, tenemos que darle una oportunidad.
+
+142
+00:09:12,261 --> 00:09:13,888
+Juro que he cambiado.
+
+143
+00:09:13,971 --> 00:09:16,766
+Era conflictivo
+y me dejé llevar por la ira.
+
+144
+00:09:16,849 --> 00:09:20,061
+Pero ya no tengo a la pandilla.
+Dejé eso atrás.
+
+145
+00:09:20,728 --> 00:09:21,729
+¡Mientes!
+
+146
+00:09:24,607 --> 00:09:26,025
+No miente.
+
+147
+00:09:26,108 --> 00:09:27,193
+¿Cómo lo sabes?
+
+148
+00:09:27,276 --> 00:09:29,487
+Siento su respiración y sus latidos.
+
+149
+00:09:29,570 --> 00:09:32,406
+Cuando la gente miente,
+hay una reacción física.
+
+150
+00:09:32,531 --> 00:09:34,533
+Dice la verdad.
+
+151
+00:09:34,617 --> 00:09:36,786
+Katara, no tenemos pistas.
+
+152
+00:09:36,869 --> 00:09:39,830
+Si Jet puede llevarnos a Appa,
+tenemos que probar.
+
+153
+00:09:40,915 --> 00:09:41,915
+De acuerdo.
+
+154
+00:09:42,833 --> 00:09:45,044
+¡Pero no te perderemos de vista!
+
+155
+00:09:46,712 --> 00:09:48,631
+Este es es el sitio que escuché.
+
+156
+00:09:50,424 --> 00:09:51,717
+Aquí no hay nada.
+
+157
+00:09:52,384 --> 00:09:55,471
+- Si es una trampa...
+- Ya te dije que trabajo cerca.
+
+158
+00:09:55,679 --> 00:09:58,349
+Dos hombres hablaban
+de una criatura gigante.
+
+159
+00:09:58,432 --> 00:09:59,975
+Supuse que sería Appa.
+
+160
+00:10:00,059 --> 00:10:01,060
+¡Estuvo aquí!
+
+161
+00:10:06,732 --> 00:10:08,067
+Lo perdimos.
+
+162
+00:10:08,150 --> 00:10:10,319
+Se llevaron esa cosa enorme ayer.
+
+163
+00:10:11,028 --> 00:10:12,947
+Lo enviaron a una isla.
+
+164
+00:10:13,030 --> 00:10:14,031
+Ya era hora.
+
+165
+00:10:14,115 --> 00:10:19,578
+He estado limpiando pieles
+y varias pérdidas todo el día.
+
+166
+00:10:19,662 --> 00:10:21,747
+¿Qué isla? ¿Dónde está Appa?
+
+167
+00:10:22,706 --> 00:10:27,586
+Foreman dijo que un hombre rico
+de la isla Whale Tail lo compró.
+
+168
+00:10:27,670 --> 00:10:29,547
+Supongo que para un zoológico.
+
+169
+00:10:29,630 --> 00:10:31,841
+Aunque la carne podría ser buena.
+
+170
+00:10:32,466 --> 00:10:34,677
+Tenemos que ir a la isla Whale Tail.
+
+171
+00:10:35,594 --> 00:10:38,097
+- ¿Dónde está la isla Whale Tail?
+- Lejos.
+
+172
+00:10:38,848 --> 00:10:39,932
+Muy lejos.
+
+173
+00:10:41,016 --> 00:10:44,311
+Aquí, cerca del Polo Sur,
+casi de vuelta a casa.
+
+174
+00:10:44,395 --> 00:10:47,523
+Tardaremos semanas en salir
+del Reino de la Tierra,
+
+175
+00:10:47,606 --> 00:10:50,109
+y después tenemos que conseguir un barco.
+
+176
+00:10:50,192 --> 00:10:53,529
+No importa. Podemos encontrar a Appa.
+Intentémoslo.
+
+177
+00:10:54,196 --> 00:10:56,407
+Debe ser agradable visitar una isla.
+
+178
+00:10:56,949 --> 00:10:59,827
+No he tenido vacaciones en años.
+
+179
+00:10:59,910 --> 00:11:02,079
+¿No tiene más pelo que limpiar?
+
+180
+00:11:02,163 --> 00:11:04,373
+Me largo. Lo pillo.
+
+181
+00:11:04,456 --> 00:11:07,334
+No necesitan al viejo barrendero.
+
+182
+00:11:07,418 --> 00:11:10,921
+Tienes razón. Nuestra
+prioridad es encontrar a Appa.
+
+183
+00:11:11,005 --> 00:11:12,590
+Volveremos con él.
+
+184
+00:11:12,673 --> 00:11:14,550
+Muy bien, en marcha.
+
+185
+00:11:14,633 --> 00:11:15,718
+Voy con ustedes.
+
+186
+00:11:15,801 --> 00:11:17,052
+No hace falta.
+
+187
+00:11:17,136 --> 00:11:18,679
+¿Por qué no confías en mí?
+
+188
+00:11:20,598 --> 00:11:22,099
+Vaya, eso me lo pregunto.
+
+189
+00:11:22,349 --> 00:11:25,102
+¿Era tu novio o algo así?
+
+190
+00:11:25,186 --> 00:11:26,687
+¿Qué? ¡No!
+
+191
+00:11:27,438 --> 00:11:29,648
+Sé que estás mintiendo.
+
+192
+00:11:31,901 --> 00:11:34,945
+Iremos el tren hasta la muralla
+y luego caminaremos.
+
+193
+00:11:35,029 --> 00:11:37,406
+No te preocupes.
+A la vuelta, volaremos.
+
+194
+00:11:37,489 --> 00:11:40,242
+Por fin nos vamos de Ba Sing Se.
+
+195
+00:11:40,993 --> 00:11:42,870
+La peor ciudad del mundo.
+
+196
+00:11:44,121 --> 00:11:45,331
+¡Jet!
+
+197
+00:11:46,415 --> 00:11:48,751
+Dijiste que ya no tenías la banda.
+
+198
+00:11:48,834 --> 00:11:50,794
+- No.
+- Estábamos preocupados.
+
+199
+00:11:50,878 --> 00:11:53,005
+¿Cómo te escapaste de los Dai Li?
+
+200
+00:11:53,088 --> 00:11:53,964
+¿Los Dai Li?
+
+201
+00:11:54,048 --> 00:11:55,925
+No sé de qué habla.
+
+202
+00:11:56,008 --> 00:11:58,594
+Le arrestaron los Dai Li
+hace unas semanas.
+
+203
+00:11:58,677 --> 00:12:00,095
+Los vimos llevárselo.
+
+204
+00:12:00,638 --> 00:12:03,891
+¿Por qué me iban a arrestar?
+Vivo pacíficamente.
+
+205
+00:12:03,974 --> 00:12:08,145
+Esto no tiene sentido.
+Los dos dicen la verdad.
+
+206
+00:12:08,229 --> 00:12:09,480
+Es imposible.
+
+207
+00:12:09,563 --> 00:12:10,856
+No, no lo es.
+
+208
+00:12:10,940 --> 00:12:14,860
+Toph no puede decir quién miente porque
+ambos dicen la verdad.
+
+209
+00:12:14,944 --> 00:12:16,528
+Le han lavado el cerebro.
+
+210
+00:12:16,612 --> 00:12:18,656
+Eso es una locura. No puede ser.
+
+211
+00:12:20,157 --> 00:12:21,533
+¡Aléjense de mí!
+
+212
+00:12:38,259 --> 00:12:39,927
+¡Apártate, flacucho!
+
+213
+00:13:01,865 --> 00:13:05,202
+Si no quieres terminar como él,
+harás lo que yo diga.
+
+214
+00:13:07,830 --> 00:13:12,126
+Los Dai Li enviaron a Jet para engañarnos
+y al conserje también.
+
+215
+00:13:12,501 --> 00:13:14,420
+Seguro que tienen a Appa aquí.
+
+216
+00:13:14,503 --> 00:13:17,756
+Dónde se llevaron a Jet
+¿Adónde te llevaron?
+
+217
+00:13:17,840 --> 00:13:20,968
+A ninguna parte.
+No sé de qué hablas.
+
+218
+00:13:21,468 --> 00:13:24,096
+Tenemos que recuperar sus recuerdos.
+
+219
+00:13:24,179 --> 00:13:27,433
+Tal vez si Katara le besa le vuelva algo.
+
+220
+00:13:27,516 --> 00:13:29,643
+Tal vez deberías besarle tú, Sokka.
+
+221
+00:13:29,727 --> 00:13:31,061
+Solo es una idea.
+
+222
+00:13:31,145 --> 00:13:32,438
+Una mala.
+
+223
+00:13:34,064 --> 00:13:35,983
+Oh, espera. ¡Lo tengo!
+
+224
+00:13:40,237 --> 00:13:41,655
+Creo que no funciona.
+
+225
+00:13:42,531 --> 00:13:46,618
+Trata de pensar en algo de tu pasado
+que desencadene tus emociones.
+
+226
+00:13:46,702 --> 00:13:49,955
+La Nación de Fuego,
+recuerda lo que les hicieron.
+
+227
+00:13:50,331 --> 00:13:52,416
+Cierra los ojos, imagínatelo.
+
+228
+00:14:04,887 --> 00:14:05,887
+¡No!
+
+229
+00:14:06,472 --> 00:14:07,806
+Es demasiado doloroso.
+
+230
+00:14:08,849 --> 00:14:10,100
+Puede que esto ayude.
+
+231
+00:14:33,415 --> 00:14:35,626
+Me llevaron a un cuartel
+bajo el agua,
+
+232
+00:14:36,251 --> 00:14:37,252
+como un lago.
+
+233
+00:14:37,336 --> 00:14:39,546
+¿Recuerdan lo que dijo Joo Dee?
+
+234
+00:14:39,630 --> 00:14:42,341
+Dijo que se fue de vacaciones
+al lago Laogai.
+
+235
+00:14:42,424 --> 00:14:43,342
+¡Eso es!
+
+236
+00:14:43,425 --> 00:14:45,010
+El lago Laogai.
+
+237
+00:14:54,802 --> 00:14:56,637
+¿Dónde está el cuartel secreto?
+
+238
+00:14:56,720 --> 00:14:58,639
+Debajo del agua, creo.
+
+239
+00:14:58,722 --> 00:15:00,891
+Hay un túnel ahí,
+cerca de la orilla.
+
+240
+00:15:26,208 --> 00:15:28,252
+Empiezo a recordar todo.
+
+241
+00:15:32,005 --> 00:15:33,340
+Me llamo Joo Dee.
+
+242
+00:15:33,423 --> 00:15:35,217
+Bienvenido a Ba Sing Se.
+
+243
+00:15:35,300 --> 00:15:39,346
+Me llamo Joo Dee. Bienvenido a Ba Sing Se.
+
+244
+00:15:39,429 --> 00:15:42,808
+Tenemos suerte de que
+las murallas mantengan el orden.
+
+245
+00:15:42,891 --> 00:15:46,145
+Tenemos suerte de que
+las murallas mantengan el orden.
+
+246
+00:15:46,228 --> 00:15:49,356
+Ahí puede haber
+una celda grande para Appa.
+
+247
+00:15:51,108 --> 00:15:52,401
+Creo que es por aquí.
+
+248
+00:15:58,198 --> 00:15:59,825
+¿Esperabas a otra persona?
+
+249
+00:16:16,967 --> 00:16:18,552
+Esto es diferente.
+
+250
+00:16:18,635 --> 00:16:21,180
+Ahora son enemigos del Estado.
+
+251
+00:16:22,139 --> 00:16:23,724
+Pónganlos bajo custodia.
+
+252
+00:17:17,569 --> 00:17:19,238
+¡Long Feng se escapa!
+
+253
+00:17:30,082 --> 00:17:33,001
+Avatar,
+ya me has causado bastantes problemas.
+
+254
+00:17:33,085 --> 00:17:35,003
+Esta es tu última oportunidad...
+
+255
+00:17:35,087 --> 00:17:37,172
+si quieres recuperar tu bisonte.
+
+256
+00:17:37,256 --> 00:17:39,967
+¡Tienes a Appa! ¡Dime dónde está!
+
+257
+00:17:40,050 --> 00:17:44,012
+Acepta salir de la ciudad
+y te quitaré todos los cargos
+
+258
+00:17:44,096 --> 00:17:46,515
+y permitiré que te vayas con tu mascota.
+
+259
+00:17:47,140 --> 00:17:48,725
+No te conviene negociar.
+
+260
+00:17:49,101 --> 00:17:50,435
+¿No?
+
+261
+00:17:50,519 --> 00:17:52,145
+¡Desde luego que no!
+
+262
+00:17:52,229 --> 00:17:56,316
+Jet, el Rey de la Tierra te ha invitado
+al lago Laogai.
+
+263
+00:17:58,277 --> 00:18:00,612
+Es un honor aceptar su invitación.
+
+264
+00:18:10,747 --> 00:18:12,332
+Ahora eres mío.
+
+265
+00:18:16,670 --> 00:18:17,713
+¿Tío?
+
+266
+00:18:17,796 --> 00:18:20,382
+Así que el espíritu azul...
+
+267
+00:18:20,465 --> 00:18:23,468
+Me pregunto quién estará
+detrás de esa máscara.
+
+268
+00:18:24,678 --> 00:18:25,846
+¿Qué haces aquí?
+
+269
+00:18:25,929 --> 00:18:28,807
+Iba a preguntarte lo mismo.
+
+270
+00:18:29,433 --> 00:18:33,687
+¿Qué vas a hacer ahora
+que has encontrado al bisonte del Avatar?
+
+271
+00:18:33,770 --> 00:18:36,064
+Encerrarlo en nuestro apartamento.
+
+272
+00:18:36,148 --> 00:18:40,360
+- ¿Le preparo una taza de té?
+- Primero tengo que sacarlo de aquí.
+
+273
+00:18:40,444 --> 00:18:42,195
+¿Y después qué?
+
+274
+00:18:42,279 --> 00:18:44,698
+¡Nunca piensas en estas cosas!
+
+275
+00:18:44,781 --> 00:18:49,286
+Esto es exactamente lo que pasó cuando
+capturaste al Avatar en el Polo Norte.
+
+276
+00:18:49,870 --> 00:18:52,873
+¡Lo capturaste
+y luego no tenías a dónde ir!
+
+277
+00:18:52,956 --> 00:18:54,541
+¡Se me ocurrirá algo!
+
+278
+00:18:54,624 --> 00:18:59,338
+¡No! ¡Si sus amigos no te hubieran
+encontrado, habrías muerto congelado!
+
+279
+00:19:00,255 --> 00:19:02,049
+Conozco mi destino, tío.
+
+280
+00:19:02,132 --> 00:19:04,259
+¿Es tu propio destino,
+
+281
+00:19:04,343 --> 00:19:08,263
+o es un destino que alguien
+te ha impuesto?
+
+282
+00:19:08,847 --> 00:19:11,141
+¡Para, tío! ¡Tengo que hacer esto!
+
+283
+00:19:11,224 --> 00:19:13,894
+Te lo ruego, príncipe Zuko.
+
+284
+00:19:13,977 --> 00:19:16,938
+Es hora de que mires hacia adentro
+
+285
+00:19:17,022 --> 00:19:20,192
+y te hagas las grandes preguntas.
+
+286
+00:19:20,734 --> 00:19:21,735
+¿Quién eres...
+
+287
+00:19:22,319 --> 00:19:23,987
+y qué quieres?
+
+288
+00:19:31,870 --> 00:19:34,206
+¡Jet, soy yo, Aang!
+
+289
+00:19:35,374 --> 00:19:37,000
+¡No tienes que hacer esto!
+
+290
+00:19:37,084 --> 00:19:39,503
+Me temo que ya no tiene elección.
+
+291
+00:19:50,138 --> 00:19:51,681
+¡Jet, soy tu amigo!
+
+292
+00:19:51,765 --> 00:19:53,433
+Mira en tu corazón.
+
+293
+00:19:54,726 --> 00:19:56,436
+Cumple con tu deber, Jet.
+
+294
+00:19:58,939 --> 00:20:00,273
+¡No puede obligarte!
+
+295
+00:20:00,732 --> 00:20:02,317
+Luchador de la Libertad.
+
+296
+00:20:13,120 --> 00:20:14,746
+¡Hazlo ya!
+
+297
+00:20:33,473 --> 00:20:35,058
+Chico estúpido.
+
+298
+00:20:35,142 --> 00:20:37,018
+Has elegido tu muerte.
+
+299
+00:20:40,480 --> 00:20:42,232
+Lo siento, Aang.
+
+300
+00:20:42,315 --> 00:20:43,316
+No lo sientas.
+
+301
+00:20:58,415 --> 00:20:59,458
+Esto no es bueno.
+
+302
+00:20:59,875 --> 00:21:02,669
+Vayan a buscar a Appa. Cuidaremos de Jet.
+
+303
+00:21:02,752 --> 00:21:05,088
+- No los vamos a dejar.
+- No hay tiempo.
+
+304
+00:21:05,172 --> 00:21:06,172
+Váyanse.
+
+305
+00:21:06,840 --> 00:21:09,050
+Cuidaremos de él. Es nuestro líder.
+
+306
+00:21:10,635 --> 00:21:11,803
+No te preocupes.
+
+307
+00:21:12,387 --> 00:21:13,638
+Estaré bien.
+
+308
+00:21:20,479 --> 00:21:21,480
+Miente.
+
+309
+00:21:34,242 --> 00:21:35,494
+¡Appa no está!
+
+310
+00:21:36,119 --> 00:21:37,454
+Long Feng nos venció.
+
+311
+00:21:37,537 --> 00:21:40,207
+Si nos movemos a lo mejor les atrapamos.
+
+312
+00:21:55,055 --> 00:21:58,099
+- ¿Podemos dejarlos atrás?
+- No creo que importe.
+
+313
+00:22:09,444 --> 00:22:10,487
+¿Qué pasa, Momo?
+
+314
+00:22:21,831 --> 00:22:22,832
+¡Appa!
+
+315
+00:22:43,395 --> 00:22:45,146
+Puedo encargarme de ti.
+
+316
+00:22:58,368 --> 00:22:59,661
+¡Sí!
+
+317
+00:22:59,744 --> 00:23:01,121
+¡Appa!
+
+318
+00:23:01,705 --> 00:23:03,039
+Te he echado de menos.
+
+319
+00:23:24,728 --> 00:23:26,938
+Hiciste lo correcto, sobrino.
+
+320
+00:23:30,942 --> 00:23:32,360
+Déjalo atrás.
+

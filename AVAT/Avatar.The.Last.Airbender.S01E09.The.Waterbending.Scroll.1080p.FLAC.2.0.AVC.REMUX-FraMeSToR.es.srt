@@ -1,0 +1,1219 @@
+1
+00:00:02,489 --> 00:00:03,489
+<i>Agua.</i>
+
+2
+00:00:04,866 --> 00:00:05,866
+<i>Tierra.</i>
+
+3
+00:00:06,827 --> 00:00:07,827
+<i>Fuego.</i>
+
+4
+00:00:08,954 --> 00:00:09,954
+<i>Aire.</i>
+
+5
+00:00:11,164 --> 00:00:14,668
+<i>Hace mucho, las cuatro naciones
+vivían en paz.</i>
+
+6
+00:00:15,335 --> 00:00:18,797
+<i>Pero todo cambió
+cuando la Nación del Fuego atacó.</i>
+
+7
+00:00:19,631 --> 00:00:23,677
+<i>Solo el Avatar, maestro de los
+cuatro elementos, podía detenerlos,</i>
+
+8
+00:00:23,760 --> 00:00:26,847
+<i>pero cuando el mundo
+más lo necesitaba, desapareció.</i>
+
+9
+00:00:27,055 --> 00:00:31,101
+<i>Han pasado cien años y mi hermano
+y yo encontramos al Avatar,</i>
+
+10
+00:00:31,184 --> 00:00:32,811
+<i>un maestro del aire llamado Aang.</i>
+
+11
+00:00:32,894 --> 00:00:35,063
+<i>Y aunque su dominio del aire
+es genial,</i>
+
+12
+00:00:35,147 --> 00:00:38,608
+<i>tiene mucho que aprender
+antes de poder salvar a alguien.</i>
+
+13
+00:00:38,859 --> 00:00:42,195
+<i>Pero creo que Aang
+puede salvar el mundo.</i>
+
+14
+00:00:42,613 --> 00:00:46,617
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:49,541 --> 00:00:51,054
+LIBRO UNO: AGUA
+
+16
+00:00:51,078 --> 00:00:53,641
+CAPÍTULO NUEVE:
+EL PERGAMINO DE LOS MAESTROS AGUA
+
+17
+00:01:04,809 --> 00:01:05,977
+¿Te sentarías?
+
+18
+00:01:06,060 --> 00:01:09,438
+Si nos sacudimos, caerás.
+¿En qué piensas?
+
+19
+00:01:09,522 --> 00:01:11,565
+En lo que dijo Roku:
+
+20
+00:01:11,649 --> 00:01:14,819
+dominar los elementos
+debido a ese cometa.
+
+21
+00:01:14,902 --> 00:01:17,530
+Bueno, ya dominas el Aire,
+
+22
+00:01:17,613 --> 00:01:19,615
+y eso te llevó 112 años.
+
+23
+00:01:19,699 --> 00:01:22,493
+Dominarás el resto antes del verano.
+
+24
+00:01:22,827 --> 00:01:26,998
+No sé dominar el Agua,
+y aún no llegamos al Polo.
+
+25
+00:01:27,081 --> 00:01:28,624
+¿Qué haré?
+
+26
+00:01:28,708 --> 00:01:30,668
+Calma, todo saldrá bien.
+
+27
+00:01:31,419 --> 00:01:34,672
+Yo puedo enseñarte lo que sé si quieres.
+
+28
+00:01:34,755 --> 00:01:36,382
+¿En serio?
+
+29
+00:01:36,465 --> 00:01:38,884
+Busquemos una fuente de agua.
+
+30
+00:01:39,385 --> 00:01:41,804
+Podrías chapotear en un charco.
+
+31
+00:01:44,432 --> 00:01:45,683
+Lindo charco.
+
+32
+00:01:56,736 --> 00:01:58,612
+¡Sí, no empieces sin mí!
+
+33
+00:01:58,696 --> 00:02:03,117
+- Recuerda por qué vinimos.
+- Cierto: dominemos el Agua.
+
+34
+00:02:03,576 --> 00:02:05,828
+Claro, ¿y yo qué haré?
+
+35
+00:02:05,911 --> 00:02:08,497
+Quítale la mugre a Appa.
+
+36
+00:02:09,999 --> 00:02:12,251
+Mientras juegan con el agua,
+
+37
+00:02:12,335 --> 00:02:15,588
+¿yo debo quitarle la mugre al bisonte?
+
+38
+00:02:15,671 --> 00:02:17,006
+Y los insectos.
+
+39
+00:02:19,300 --> 00:02:20,300
+Bueno.
+
+40
+00:02:31,645 --> 00:02:33,147
+Cambiaron el curso.
+
+41
+00:02:35,733 --> 00:02:38,944
+¿Por qué desobedeces y cambias el curso?
+
+42
+00:02:39,028 --> 00:02:41,238
+Yo le dije que lo cambiara.
+
+43
+00:02:41,322 --> 00:02:46,077
+Príncipe Zuko,
+es por un asunto importante.
+
+44
+00:02:46,160 --> 00:02:48,037
+¿Por el Avatar?
+
+45
+00:02:48,120 --> 00:02:49,663
+No, por algo peor.
+
+46
+00:02:49,747 --> 00:02:53,334
+Creo... que perdí mi ficha del loto.
+
+47
+00:02:54,377 --> 00:02:55,544
+¿Cómo?
+
+48
+00:02:55,628 --> 00:02:57,755
+Del tablero de Pai Sho.
+
+49
+00:02:57,838 --> 00:03:00,966
+Muchos creen que el loto no sirve,
+
+50
+00:03:01,050 --> 00:03:06,472
+pero, para mi estrategia, es esencial.
+
+51
+00:03:06,555 --> 00:03:09,475
+¿Cambiaste el curso por una ficha?
+
+52
+00:03:09,558 --> 00:03:13,854
+Tú, como la mayoría, la subestima.
+
+53
+00:03:13,938 --> 00:03:17,483
+Cuando hagamos escala, dame diez minutos.
+
+54
+00:03:17,566 --> 00:03:20,986
+Quizá pueda comprar una ficha
+
+55
+00:03:21,070 --> 00:03:23,531
+y, así, podré seguir con esto.
+
+56
+00:03:25,908 --> 00:03:29,495
+Qué suerte que mi sobrino es comprensivo.
+
+57
+00:03:32,415 --> 00:03:34,208
+No te alegres tanto.
+
+58
+00:03:34,291 --> 00:03:35,793
+También me lavarás.
+
+59
+00:03:37,294 --> 00:03:41,090
+Esto es básico, pero me llevó meses.
+
+60
+00:03:41,173 --> 00:03:43,926
+Si no te sale, no te frustres.
+
+61
+00:03:45,261 --> 00:03:49,932
+Empuja y jala el agua,
+debes mover las muñecas.
+
+62
+00:03:51,142 --> 00:03:52,518
+¿Así?
+
+63
+00:03:55,229 --> 00:03:56,814
+Bastante bien.
+
+64
+00:03:56,897 --> 00:03:59,233
+Si practicas, con el tiempo...
+
+65
+00:03:59,316 --> 00:04:00,818
+¡Ey, ya lo domino!
+
+66
+00:04:00,901 --> 00:04:03,988
+Guau, qué rápido lo aprendiste.
+
+67
+00:04:04,071 --> 00:04:06,031
+Yo tardé dos meses.
+
+68
+00:04:06,115 --> 00:04:10,578
+Lo tuviste que hacer sola,
+yo tengo una maestra increíble.
+
+69
+00:04:11,203 --> 00:04:12,037
+Gracias.
+
+70
+00:04:12,121 --> 00:04:13,664
+¿Qué más?
+
+71
+00:04:13,747 --> 00:04:17,460
+Esta es compleja:
+"manejar la corriente".
+
+72
+00:04:20,588 --> 00:04:23,340
+Es difícil, no te decepciones...
+
+73
+00:04:34,101 --> 00:04:37,480
+Bien, aunque no era necesaria la vuelta...
+
+74
+00:04:38,063 --> 00:04:41,484
+Perdón. No pares, sigue contándome.
+
+75
+00:04:41,567 --> 00:04:45,112
+Esta otra es bastante complicada.
+
+76
+00:04:45,196 --> 00:04:47,114
+Aún no me sale muy bien.
+
+77
+00:04:47,198 --> 00:04:50,743
+La idea es crear
+una ola enorme y poderosa.
+
+78
+00:04:56,290 --> 00:04:57,458
+¿Así?
+
+79
+00:05:02,421 --> 00:05:03,839
+¿Aang?
+
+80
+00:05:12,139 --> 00:05:14,975
+Lo entendí rápido. ¿Qué más?
+
+81
+00:05:15,059 --> 00:05:16,769
+Ya fue suficiente.
+
+82
+00:05:16,852 --> 00:05:20,606
+Sí, practicaste en la comida y se fue.
+
+83
+00:05:22,233 --> 00:05:25,736
+Perdón, seguro encontraremos otra cosa.
+
+84
+00:05:25,819 --> 00:05:28,989
+Ya era difícil cuando dominabas el Aire.
+
+85
+00:05:38,874 --> 00:05:40,626
+¡Bájeme, por favor!
+
+86
+00:05:40,709 --> 00:05:43,212
+Vean la maravilla de esta bolsa.
+
+87
+00:05:43,295 --> 00:05:46,090
+¿Quién no teme mirar?
+
+88
+00:05:50,261 --> 00:05:53,889
+Solo nos quedan tres piezas de cobre.
+
+89
+00:05:53,973 --> 00:05:55,140
+Gastemos poco.
+
+90
+00:05:55,933 --> 00:05:57,977
+Bueno, quedan dos.
+
+91
+00:05:58,060 --> 00:06:00,312
+No me resistí a este silbato.
+
+92
+00:06:03,607 --> 00:06:04,733
+No sirve.
+
+93
+00:06:07,528 --> 00:06:10,072
+Hasta Momo sabe que es basura.
+
+94
+00:06:10,447 --> 00:06:13,576
+No te ofendas: yo guardaré el dinero.
+
+95
+00:06:18,872 --> 00:06:22,501
+Naciones de Tierra, Agua y Fuego:
+
+96
+00:06:22,585 --> 00:06:26,672
+si les gustan las ofertas,
+son bienvenidas.
+
+97
+00:06:26,755 --> 00:06:29,883
+¡No sean tímidas, vengan!
+
+98
+00:06:30,718 --> 00:06:35,764
+¡Ustedes! ¡Por sus ropas, veo que viajan!
+
+99
+00:06:35,848 --> 00:06:39,310
+¿Quizá les interese un recuerdín exótico?
+
+100
+00:06:39,393 --> 00:06:42,146
+Claro, pero ¿qué es un recuerdín?
+
+101
+00:06:44,231 --> 00:06:46,900
+No sé, pero tengo varios.
+
+102
+00:07:03,208 --> 00:07:07,421
+Nunca vi un lémur tan refinado.
+
+103
+00:07:07,504 --> 00:07:12,217
+Con esa bestia,
+obtendría una suma considerable.
+
+104
+00:07:15,387 --> 00:07:16,722
+No está en venta.
+
+105
+00:07:26,315 --> 00:07:29,818
+Mira, tiene movidas para dominar el Agua.
+
+106
+00:07:29,902 --> 00:07:32,071
+Qué poses locas.
+
+107
+00:07:32,154 --> 00:07:33,864
+¿Dónde lo consiguió?
+
+108
+00:07:34,823 --> 00:07:37,743
+Fue en el norte
+
+109
+00:07:37,826 --> 00:07:40,871
+y a un precio razonable: gratis.
+
+110
+00:07:43,666 --> 00:07:45,334
+Esperen.
+
+111
+00:07:45,417 --> 00:07:50,005
+¿Navegantes con mercancía sospechosa
+
+112
+00:07:50,089 --> 00:07:52,091
+y con aves tipo reptil?
+
+113
+00:07:52,841 --> 00:07:54,510
+¡Son piratas!
+
+114
+00:07:54,593 --> 00:07:58,138
+Más bien,
+somos comerciantes de alto riesgo.
+
+115
+00:07:59,556 --> 00:08:02,351
+¿Y cuánto cuesta ese... pergamino?
+
+116
+00:08:02,434 --> 00:08:05,688
+Ya lo compró un noble del reino de Tierra.
+
+117
+00:08:06,397 --> 00:08:11,694
+A menos que tengan 200 piezas de oro.
+
+118
+00:08:11,777 --> 00:08:15,322
+Sé lidiar con piratas: les gusta regatear.
+
+119
+00:08:17,449 --> 00:08:19,159
+Mira y aprende.
+
+120
+00:08:20,035 --> 00:08:23,497
+¿Qué le parece... una pieza de cobre?
+
+121
+00:08:26,667 --> 00:08:29,545
+Cuesta 200 piezas de oro.
+
+122
+00:08:29,628 --> 00:08:32,005
+No regateo con productos así.
+
+123
+00:08:32,089 --> 00:08:34,675
+Bueno, dos piezas de cobre.
+
+124
+00:08:35,217 --> 00:08:37,845
+Ya no me da tanta risa.
+
+125
+00:08:37,928 --> 00:08:41,473
+Aang, ¿nos vamos? Nos miran raro.
+
+126
+00:08:42,057 --> 00:08:44,643
+¡Sí, ya zarparemos!
+
+127
+00:08:44,727 --> 00:08:46,895
+¿Qué pasó, Katara?
+
+128
+00:08:46,979 --> 00:08:50,023
+Sí, estaba mirando los búmeran.
+
+129
+00:08:50,107 --> 00:08:52,484
+No me siento bien, vámonos.
+
+130
+00:08:53,110 --> 00:08:54,945
+¡Ey, vuelvan!
+
+131
+00:08:55,696 --> 00:09:00,159
+Bueno, recapacitaron.
+Sabía que regatear serviría.
+
+132
+00:09:11,901 --> 00:09:13,444
+¡Allí están!
+
+133
+00:09:13,528 --> 00:09:16,573
+¡Atrápenlos! No se irán.
+
+134
+00:09:19,284 --> 00:09:22,871
+No creo que quieran vendernos nada.
+
+135
+00:09:22,954 --> 00:09:24,622
+¡Vuelvan!
+
+136
+00:09:27,542 --> 00:09:29,544
+¡Por aquí! Separémoslos.
+
+137
+00:09:51,232 --> 00:09:54,402
+¡Mis repollos! Es peor que en Omashu.
+
+138
+00:10:05,830 --> 00:10:08,708
+¡Ojalá ese lémur tenga nueve vidas!
+
+139
+00:10:10,835 --> 00:10:15,590
+¿Quién quiere sentir mi espada?
+
+140
+00:10:15,673 --> 00:10:16,716
+Ninguno.
+
+141
+00:10:20,720 --> 00:10:22,138
+¡Sujétense!
+
+142
+00:10:22,222 --> 00:10:25,767
+Aang, creí que escapábamos de los piratas.
+
+143
+00:10:25,850 --> 00:10:26,851
+¡Sosténganse!
+
+144
+00:10:34,776 --> 00:10:38,029
+Admiraba a los piratas, pero a esos no.
+
+145
+00:10:38,112 --> 00:10:41,574
+Lo sé, por eso me llevé esto.
+
+146
+00:10:41,658 --> 00:10:42,867
+No puede ser.
+
+147
+00:10:42,951 --> 00:10:44,244
+¿No es genial?
+
+148
+00:10:44,327 --> 00:10:48,289
+Con razón,
+nos querían despedazar: les robaste.
+
+149
+00:10:48,373 --> 00:10:51,793
+Más bien,
+fue una operación de alto riesgo.
+
+150
+00:10:52,835 --> 00:10:54,254
+Muy bueno, Katara.
+
+151
+00:10:54,337 --> 00:10:58,967
+¿Sabes a quién se lo robaron?
+A un maestro de Agua.
+
+152
+00:10:59,050 --> 00:11:00,301
+No importa.
+
+153
+00:11:00,385 --> 00:11:04,847
+Nos pusiste en peligro
+para aprender unas poses estúpidas.
+
+154
+00:11:04,931 --> 00:11:07,767
+Son poses auténticas.
+
+155
+00:11:07,850 --> 00:11:10,853
+Es esencial que Aang domine el Agua.
+
+156
+00:11:12,438 --> 00:11:13,439
+Qué importa.
+
+157
+00:11:13,523 --> 00:11:17,777
+Lo hecho, hecho está.
+Usémoslo y aprendamos.
+
+158
+00:11:26,119 --> 00:11:28,913
+Ya busqué en todas las tiendas.
+
+159
+00:11:28,997 --> 00:11:33,001
+Nadie tiene una ficha de loto.
+
+160
+00:11:33,084 --> 00:11:36,671
+Esto fue una pérdida de tiempo
+¡para todos!
+
+161
+00:11:36,754 --> 00:11:38,548
+Al contrario.
+
+162
+00:11:38,631 --> 00:11:40,925
+Siempre digo que lo mejor
+
+163
+00:11:41,009 --> 00:11:43,720
+no es encontrar lo que buscas,
+
+164
+00:11:43,803 --> 00:11:48,850
+sino otras cosas, pero en oferta.
+
+165
+00:11:50,018 --> 00:11:51,894
+¿Un cuerno tsungi?
+
+166
+00:11:52,020 --> 00:11:56,357
+Para musicalizar la noche.
+Faltan instrumentos de viento.
+
+167
+00:11:58,026 --> 00:12:00,361
+Qué lugar prometedor.
+
+168
+00:12:01,404 --> 00:12:06,409
+Pero qué bonito.
+Se vería magnífico en la cocina.
+
+169
+00:12:06,492 --> 00:12:10,079
+Perdimos a la chica y al niño monje.
+
+170
+00:12:10,788 --> 00:12:13,333
+¿El niño con un dibujo de flecha?
+
+171
+00:12:15,293 --> 00:12:18,046
+Probaré esto, luego te lo doy.
+
+172
+00:12:18,129 --> 00:12:19,922
+Mantenlo abierto.
+
+173
+00:12:23,509 --> 00:12:26,095
+El látigo de agua: parece fácil.
+
+174
+00:12:33,770 --> 00:12:35,146
+¿De qué te ríes?
+
+175
+00:12:35,229 --> 00:12:40,151
+Perdón, pero te lo merecías.
+Te engañó con eso, es para ella.
+
+176
+00:12:40,234 --> 00:12:43,029
+Cuando yo aprenda, Aang lo hará.
+
+177
+00:12:48,368 --> 00:12:50,328
+¿Por qué no me sale?
+
+178
+00:12:50,411 --> 00:12:51,411
+Lo lograrás.
+
+179
+00:12:53,831 --> 00:12:56,459
+Mueve tu peso según las poses.
+
+180
+00:12:56,959 --> 00:12:59,170
+¿Ves? La clave de dominar...
+
+181
+00:12:59,253 --> 00:13:01,464
+¿Y si cierras el pico?
+
+182
+00:13:01,547 --> 00:13:05,093
+A veces, tu eterna sabiduría es anticuada.
+
+183
+00:13:05,176 --> 00:13:09,097
+Con tanto talento natural,
+¡tiremos el pergamino!
+
+184
+00:13:10,973 --> 00:13:11,973
+¿Qué pasa?
+
+185
+00:13:14,769 --> 00:13:16,062
+Ay, no, Aang.
+
+186
+00:13:16,813 --> 00:13:18,731
+Lo siento mucho.
+
+187
+00:13:18,815 --> 00:13:20,691
+No sé qué me pasó.
+
+188
+00:13:20,775 --> 00:13:23,569
+¿Sabes algo? No volverá a pasar.
+
+189
+00:13:24,112 --> 00:13:25,321
+Toma, es tuyo.
+
+190
+00:13:25,947 --> 00:13:28,408
+No quiero tenerlo nunca más.
+
+191
+00:13:28,491 --> 00:13:29,492
+Está bien.
+
+192
+00:13:29,575 --> 00:13:32,328
+¿Y Momo? Él fue quien sufrió.
+
+193
+00:13:32,412 --> 00:13:33,746
+Perdón, Momo.
+
+194
+00:13:33,830 --> 00:13:36,040
+¿Y yo? Antes tú me...
+
+195
+00:13:36,124 --> 00:13:37,875
+¡No más disculpas!
+
+196
+00:13:48,803 --> 00:13:51,097
+¿Y si buscamos en el bosque?
+
+197
+00:13:51,180 --> 00:13:54,100
+El pergamino es para dominar el Agua.
+
+198
+00:13:55,143 --> 00:13:57,019
+Estarán donde haya agua.
+
+199
+00:14:18,608 --> 00:14:21,235
+Momo, ve a dormir.
+
+200
+00:14:36,000 --> 00:14:39,629
+¡No! ¡Agua, coopera conmigo, vamos!
+
+201
+00:14:39,712 --> 00:14:40,797
+¿Y si...?
+
+202
+00:14:41,589 --> 00:14:42,965
+¡Pergamino tonto!
+
+203
+00:14:44,050 --> 00:14:47,136
+Katara, mueve tu peso según las poses.
+
+204
+00:14:56,104 --> 00:14:58,106
+¡No, suélteme!
+
+205
+00:15:00,108 --> 00:15:02,193
+Te salvaré de los piratas.
+
+206
+00:15:10,532 --> 00:15:14,619
+- ¿Y el niño? No te lastimaremos.
+- ¡Muérete!
+
+207
+00:15:16,413 --> 00:15:17,622
+Entiende.
+
+208
+00:15:17,705 --> 00:15:22,168
+Lo necesito para recuperar mi honor.
+
+209
+00:15:22,252 --> 00:15:25,004
+Te daré algo que hayas perdido.
+
+210
+00:15:27,257 --> 00:15:29,050
+¡El collar de mi madre!
+
+211
+00:15:29,843 --> 00:15:31,094
+¿Cómo?
+
+212
+00:15:31,177 --> 00:15:34,013
+Para que sepas, no lo robé.
+
+213
+00:15:34,097 --> 00:15:35,932
+¿Dónde está él?
+
+214
+00:15:36,015 --> 00:15:36,850
+¡No!
+
+215
+00:15:36,933 --> 00:15:40,437
+¡Basta con el collarcito!
+Dame el pergamino.
+
+216
+00:15:41,688 --> 00:15:44,065
+No sé, ¿cuánto costará?
+
+217
+00:15:44,149 --> 00:15:45,233
+¡No!
+
+218
+00:15:45,316 --> 00:15:47,152
+Cuesta mucho, ¿no?
+
+219
+00:15:47,735 --> 00:15:49,696
+Ayúdame en la búsqueda,
+
+220
+00:15:49,779 --> 00:15:52,532
+te devolveré esto, y todos felices.
+
+221
+00:15:53,116 --> 00:15:55,452
+Busca al niño y vuelve aquí.
+
+222
+00:15:55,535 --> 00:15:56,535
+Bien.
+
+223
+00:16:02,542 --> 00:16:04,043
+¿Adónde se fue?
+
+224
+00:16:04,127 --> 00:16:05,170
+Es increíble.
+
+225
+00:16:06,337 --> 00:16:07,255
+¿Qué pasa?
+
+226
+00:16:07,338 --> 00:16:13,011
+Se llevó el pergamino, está obsesionada.
+En poco tiempo, nos meterá en...
+
+227
+00:16:26,524 --> 00:16:28,026
+¡Lo atrapé! ¡Vamos!
+
+228
+00:16:28,109 --> 00:16:30,528
+¿Qué? ¿A mí no me secuestran?
+
+229
+00:16:36,284 --> 00:16:37,285
+Muy bien.
+
+230
+00:16:43,374 --> 00:16:45,335
+Aang, es mi culpa.
+
+231
+00:16:45,418 --> 00:16:46,878
+No, Katara.
+
+232
+00:16:46,961 --> 00:16:48,838
+Claro que sí.
+
+233
+00:16:49,797 --> 00:16:51,090
+Dame al chico.
+
+234
+00:16:51,174 --> 00:16:53,384
+Danos el pergamino.
+
+235
+00:16:53,968 --> 00:16:57,764
+¿Entregará al Avatar por un pergamino?
+
+236
+00:16:57,847 --> 00:17:00,725
+¡Silencio! ¡Quiere que nos peleemos!
+
+237
+00:17:01,351 --> 00:17:03,686
+¿Tu amigo es el Avatar?
+
+238
+00:17:03,770 --> 00:17:08,233
+Sí, y con él conseguirás más dinero
+que con ese pergamino.
+
+239
+00:17:08,358 --> 00:17:11,110
+¡Cállate, campesino de tribu!
+
+240
+00:17:11,194 --> 00:17:14,405
+Sí, Sokka, cállate, por favor.
+
+241
+00:17:14,489 --> 00:17:17,450
+Solo digo que no es mal negocio.
+
+242
+00:17:17,534 --> 00:17:20,453
+El Señor de Fuego pagaría mucho.
+
+243
+00:17:20,537 --> 00:17:22,622
+Serán ricos de por vida.
+
+244
+00:17:22,705 --> 00:17:27,418
+Quédate con el pergamino.
+Ganaremos más con la recompensa.
+
+245
+00:17:28,086 --> 00:17:30,672
+Lamentarás no cumplir el trato.
+
+246
+00:17:52,777 --> 00:17:55,280
+Gracias, Momo, te debo manzanas.
+
+247
+00:18:37,238 --> 00:18:38,656
+Aang, ¿estás ahí?
+
+248
+00:18:39,240 --> 00:18:41,576
+Aquí estoy, sigue mi voz.
+
+249
+00:18:41,659 --> 00:18:43,578
+¿Dónde estás?
+
+250
+00:18:43,661 --> 00:18:44,954
+¡Aquí!
+
+251
+00:18:50,001 --> 00:18:51,919
+No importa, yo te busco.
+
+252
+00:18:53,588 --> 00:18:54,797
+¡Corre!
+
+253
+00:18:56,466 --> 00:18:58,176
+Katara, ¿estás bien?
+
+254
+00:18:58,259 --> 00:19:01,262
+Empujemos el barco, así nos vamos.
+
+255
+00:19:05,516 --> 00:19:07,977
+Necesitamos rinocerontes.
+
+256
+00:19:08,061 --> 00:19:11,397
+O dos maestros de Agua.
+
+257
+00:19:22,450 --> 00:19:23,451
+¡Subamos!
+
+258
+00:19:26,496 --> 00:19:31,417
+¿Con tanto pelear no vio su barco zarpar?
+
+259
+00:19:31,501 --> 00:19:33,878
+No es momento de proverbios.
+
+260
+00:19:33,961 --> 00:19:35,421
+No, no es eso.
+
+261
+00:19:36,673 --> 00:19:38,549
+¡Monos saltarines!
+
+262
+00:19:44,847 --> 00:19:47,308
+¡Ey, es mi barco!
+
+263
+00:19:47,392 --> 00:19:49,727
+Debería ser un proverbio.
+
+264
+00:19:49,811 --> 00:19:50,853
+¡Vamos, tío!
+
+265
+00:19:54,273 --> 00:19:56,401
+¿Podemos ir más rápido?
+
+266
+00:19:56,484 --> 00:19:59,779
+No sé cómo, no lo hizo la tribu de Agua.
+
+267
+00:20:17,255 --> 00:20:21,175
+- ¡Hiciste el látigo de agua!
+- Gracias a tu ayuda.
+
+268
+00:20:21,259 --> 00:20:24,512
+¿Y si dejan de felicitarse y me ayudan?
+
+269
+00:20:40,987 --> 00:20:42,071
+Muy bien.
+
+270
+00:20:51,998 --> 00:20:53,166
+¡Mira, Aang!
+
+271
+00:20:55,918 --> 00:20:57,420
+Ay, no.
+
+272
+00:21:07,096 --> 00:21:08,556
+¿Te volviste loco?
+
+273
+00:21:08,639 --> 00:21:10,850
+¡No es momento de jugar!
+
+274
+00:21:12,560 --> 00:21:15,146
+Aang, detengamos el barco.
+
+275
+00:21:15,229 --> 00:21:16,939
+Empuja y jala el agua.
+
+276
+00:21:24,530 --> 00:21:26,365
+¡Bajó la velocidad!
+
+277
+00:21:33,498 --> 00:21:34,874
+¡Lo logramos!
+
+278
+00:21:34,957 --> 00:21:36,501
+Hay otro problema.
+
+279
+00:21:58,564 --> 00:22:02,610
+Sirvió el silbato para bisontes.
+Gracias, Appa.
+
+280
+00:22:02,693 --> 00:22:04,278
+Te debemos una.
+
+281
+00:22:07,698 --> 00:22:09,033
+¡Mi barco!
+
+282
+00:22:14,747 --> 00:22:18,125
+Príncipe Zuko, esto te hará reír.
+
+283
+00:22:18,835 --> 00:22:22,380
+¡La ficha del loto estaba en mi manga!
+
+284
+00:22:31,389 --> 00:22:34,016
+Aang, quiero disculparme.
+
+285
+00:22:34,934 --> 00:22:38,354
+Eres muy bueno para dominar el Agua.
+
+286
+00:22:38,437 --> 00:22:41,816
+Me puse competitiva, y eso fue peligroso.
+
+287
+00:22:41,899 --> 00:22:42,984
+Perdón.
+
+288
+00:22:43,067 --> 00:22:44,819
+Está bien, Katara.
+
+289
+00:22:44,902 --> 00:22:47,989
+¿Quién necesita el pergamino tonto?
+
+290
+00:22:48,072 --> 00:22:50,116
+¿En serio lo dices?
+
+291
+00:22:50,199 --> 00:22:51,033
+¡Dámelo!
+
+292
+00:22:51,117 --> 00:22:53,327
+Primero, ¿qué aprendiste?
+
+293
+00:22:53,411 --> 00:22:54,996
+Robar es malo.
+
+294
+00:22:56,581 --> 00:22:58,124
+A los piratas, no.
+
+295
+00:22:59,625 --> 00:23:01,043
+Muy bueno, Katara.
+

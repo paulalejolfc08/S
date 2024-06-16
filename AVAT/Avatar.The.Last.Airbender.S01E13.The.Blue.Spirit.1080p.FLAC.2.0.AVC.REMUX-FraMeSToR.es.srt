@@ -1,0 +1,870 @@
+1
+00:00:02,531 --> 00:00:03,531
+<i>Agua.</i>
+
+2
+00:00:04,908 --> 00:00:05,908
+<i>Tierra.</i>
+
+3
+00:00:06,869 --> 00:00:07,869
+<i>Fuego.</i>
+
+4
+00:00:08,996 --> 00:00:09,996
+<i>Aire.</i>
+
+5
+00:00:11,206 --> 00:00:14,710
+<i>Hace mucho, las cuatro naciones
+vivían en paz.</i>
+
+6
+00:00:15,377 --> 00:00:18,839
+<i>Pero todo cambió
+cuando la Nación del Fuego atacó.</i>
+
+7
+00:00:19,673 --> 00:00:23,719
+<i>Solo el Avatar, maestro de los
+cuatro elementos, podía detenerlos,</i>
+
+8
+00:00:23,802 --> 00:00:26,889
+<i>pero cuando el mundo
+más lo necesitaba, desapareció.</i>
+
+9
+00:00:27,097 --> 00:00:31,143
+<i>Han pasado cien años y mi hermano
+y yo encontramos al Avatar,</i>
+
+10
+00:00:31,226 --> 00:00:32,853
+<i>un maestro del aire llamado Aang.</i>
+
+11
+00:00:32,936 --> 00:00:35,105
+<i>Y aunque su dominio del aire
+es genial,</i>
+
+12
+00:00:35,189 --> 00:00:38,650
+<i>tiene mucho que aprender
+antes de poder salvar a alguien.</i>
+
+13
+00:00:38,901 --> 00:00:42,237
+<i>Pero creo que Aang
+puede salvar el mundo.</i>
+
+14
+00:00:42,488 --> 00:00:46,492
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:49,416 --> 00:00:53,616
+LIBRO UNO: AGUA
+CAPÍTULO TRECE: EL ESPÍRITU AZUL
+
+16
+00:01:16,688 --> 00:01:18,606
+Definitivamente no.
+
+17
+00:01:18,690 --> 00:01:20,942
+Los arqueros yuyan se quedan.
+
+18
+00:01:21,025 --> 00:01:24,237
+Pedido denegado, comandante Zhao.
+
+19
+00:01:24,320 --> 00:01:27,323
+Piénselo, Coronel Shino.
+
+20
+00:01:27,824 --> 00:01:29,909
+Su precisión es legendaria.
+
+21
+00:01:29,993 --> 00:01:34,872
+<i>Ellos le darían a una mosca
+desde unos 90 m y no la matarían.</i>
+
+22
+00:01:36,582 --> 00:01:40,586
+Así, como meros guardias,
+desperdician su talento.
+
+23
+00:01:40,670 --> 00:01:46,134
+Yo dispongo de su talento.
+Son mis arqueros, se hace lo que digo.
+
+24
+00:01:46,217 --> 00:01:48,261
+Mi búsqueda del Avatar...
+
+25
+00:01:48,344 --> 00:01:50,888
+Solo lo hace por vanidad.
+
+26
+00:01:50,972 --> 00:01:55,685
+Estamos en guerra,
+y necesito a todos mis hombres.
+
+27
+00:01:55,768 --> 00:01:57,437
+- Pero...
+- ¡Basta!
+
+28
+00:01:57,520 --> 00:01:59,522
+No quiero escuchar más.
+
+29
+00:02:11,200 --> 00:02:13,453
+¿Una nota del Señor de Fuego?
+
+30
+00:02:14,537 --> 00:02:16,831
+Me ascendieron a almirante.
+
+31
+00:02:17,415 --> 00:02:20,293
+Mi pedido ahora es una orden.
+
+32
+00:02:41,647 --> 00:02:43,733
+Esto bajará la temperatura.
+
+33
+00:02:44,901 --> 00:02:49,197
+¿Sabes qué me encanta de Appa?
+Su sentido del humor.
+
+34
+00:02:49,280 --> 00:02:51,449
+Qué bien, se lo diré.
+
+35
+00:02:54,702 --> 00:02:56,079
+Típico de Appa.
+
+36
+00:02:56,162 --> 00:03:01,042
+- ¿Cómo está Sokka?
+- Más o menos. Esa tormenta le hizo mal.
+
+37
+00:03:04,462 --> 00:03:07,590
+No encontré jengibre, pero sí un mapa.
+
+38
+00:03:08,174 --> 00:03:12,970
+Hay un herbario en la montaña.
+Quizá haya una cura.
+
+39
+00:03:13,054 --> 00:03:15,556
+Aang, Sokka no puede viajar así.
+
+40
+00:03:15,640 --> 00:03:17,433
+Necesita más descanso.
+
+41
+00:03:17,517 --> 00:03:19,560
+Mañana estará mejor.
+
+42
+00:03:23,689 --> 00:03:24,816
+¡Tú también!
+
+43
+00:03:24,899 --> 00:03:27,860
+Tranquilo, solo es tos. Estoy...
+
+44
+00:03:34,659 --> 00:03:39,372
+Ayer Sokka estuvo así.
+Ahora cree que es un maestro de Tierra.
+
+45
+00:03:39,455 --> 00:03:41,624
+Toma eso, piedra.
+
+46
+00:03:42,625 --> 00:03:47,296
+En unas horas, tú también dirás tonterías.
+Buscaré medicinas.
+
+47
+00:03:54,137 --> 00:03:57,557
+Mejor iré a pie. Cuídenlo, chicos.
+
+48
+00:04:01,477 --> 00:04:03,312
+Chicos, qué chistosos.
+
+49
+00:04:15,658 --> 00:04:18,953
+No vimos al Avatar desde la tormenta.
+
+50
+00:04:19,036 --> 00:04:20,872
+Si vamos al norte...
+
+51
+00:04:23,374 --> 00:04:24,584
+¿Qué quieren?
+
+52
+00:04:24,667 --> 00:04:27,712
+Quizá quieran jugar al Pai Sho.
+
+53
+00:04:33,092 --> 00:04:35,970
+La búsqueda del Avatar es primordial.
+
+54
+00:04:36,053 --> 00:04:40,308
+Deben informar todo al almirante Zhao.
+
+55
+00:04:40,391 --> 00:04:42,643
+¿Ascendieron a Zhao?
+
+56
+00:04:42,727 --> 00:04:44,437
+Qué bueno para él.
+
+57
+00:04:45,521 --> 00:04:47,815
+No tengo nada que informar.
+
+58
+00:04:47,899 --> 00:04:50,735
+Salgan de mi barco y déjennos pasar.
+
+59
+00:04:50,818 --> 00:04:54,488
+El almirante Zhao
+no permite el paso de barcos.
+
+60
+00:04:54,989 --> 00:04:56,490
+¡Fuera de mi barco!
+
+61
+00:04:57,658 --> 00:04:58,993
+¡Excelente!
+
+62
+00:04:59,577 --> 00:05:01,037
+Me llevo todo.
+
+63
+00:05:02,038 --> 00:05:03,956
+Pero están mejorando.
+
+64
+00:05:04,040 --> 00:05:07,168
+Si volvemos a jugar, ganarán.
+
+65
+00:05:12,924 --> 00:05:15,635
+Escucha: el Avatar crea tornados
+
+66
+00:05:15,718 --> 00:05:18,804
+y es más rápido que el viento,
+increíble.
+
+67
+00:05:19,055 --> 00:05:21,849
+Es propaganda del Señor de Fuego.
+
+68
+00:05:21,933 --> 00:05:23,559
+No es verdad.
+
+69
+00:05:38,366 --> 00:05:42,203
+Katara, dame agua, por favor.
+
+70
+00:05:42,286 --> 00:05:43,955
+Escucha, Momo.
+
+71
+00:05:44,538 --> 00:05:48,793
+Lleva esto al río y llénalo con agua.
+
+72
+00:05:53,881 --> 00:05:54,924
+¿Entiendes?
+
+73
+00:06:14,068 --> 00:06:18,406
+Perdón por entrar así,
+necesito medicina para mis amigos.
+
+74
+00:06:18,489 --> 00:06:21,993
+- Tienen tos y fiebre...
+- Ponte cómodo.
+
+75
+00:06:22,076 --> 00:06:25,079
+Tus amigos estarán bien.
+
+76
+00:06:25,162 --> 00:06:29,041
+Hace más de 40 años que estoy aquí.
+
+77
+00:06:29,125 --> 00:06:32,753
+Había otras personas,
+pero hace años se fueron.
+
+78
+00:06:32,837 --> 00:06:36,382
+Ahora quedamos Miyuki y yo.
+
+79
+00:06:36,465 --> 00:06:37,508
+Qué bien.
+
+80
+00:06:37,591 --> 00:06:42,096
+A veces, vienen soldados heridos
+del reino de Tierra.
+
+81
+00:06:42,179 --> 00:06:43,723
+Qué valientes.
+
+82
+00:06:43,806 --> 00:06:45,683
+Gracias a mis remedios,
+
+83
+00:06:45,766 --> 00:06:49,395
+se van mejor de lo que vinieron.
+
+84
+00:06:49,478 --> 00:06:51,355
+Qué bien. ¿Falta mucho?
+
+85
+00:06:51,439 --> 00:06:55,818
+Espera,
+debo agregar el último ingrediente.
+
+86
+00:06:55,901 --> 00:06:58,029
+El sándalo...
+
+87
+00:06:58,112 --> 00:07:00,656
+Sí... no, no servirá.
+
+88
+00:07:00,740 --> 00:07:02,867
+¿Una hoja de banana? No.
+
+89
+00:07:02,950 --> 00:07:04,702
+¿Raíz de jengibre?
+
+90
+00:07:05,494 --> 00:07:08,456
+¿Dónde está esa planta molesta?
+
+91
+00:07:15,212 --> 00:07:17,048
+¿Todo está bien?
+
+92
+00:07:17,131 --> 00:07:21,761
+Pasó casi una hora, y no diste órdenes.
+
+93
+00:07:21,844 --> 00:07:23,471
+¡No importan ellos!
+
+94
+00:07:23,554 --> 00:07:28,100
+No desesperes,
+encontrarás al Avatar antes que Zhao.
+
+95
+00:07:28,684 --> 00:07:29,685
+¿Cómo, tío?
+
+96
+00:07:29,769 --> 00:07:33,731
+Zhao tiene recursos,
+pronto encontrará al Avatar.
+
+97
+00:07:33,814 --> 00:07:38,778
+Voy a perder mi honor, mi trono y mi país.
+
+98
+00:07:41,572 --> 00:07:44,367
+Ay, esto es lo que buscaba.
+
+99
+00:07:45,076 --> 00:07:46,869
+La ciruela china.
+
+100
+00:07:47,703 --> 00:07:48,703
+Por fin.
+
+101
+00:07:49,288 --> 00:07:51,040
+- Gracias.
+- ¡Suéltalo!
+
+102
+00:07:51,123 --> 00:07:54,710
+- ¿Qué haces?
+- Se lo llevo a mis amigos.
+
+103
+00:07:56,128 --> 00:07:59,340
+No es medicina, es la cena de Miyuki.
+
+104
+00:07:59,423 --> 00:08:01,842
+Le encanta la ciruela china.
+
+105
+00:08:01,926 --> 00:08:03,344
+¿Y mis amigos?
+
+106
+00:08:03,427 --> 00:08:07,223
+Necesitan ranas de la madera congeladas.
+
+107
+00:08:07,306 --> 00:08:09,683
+Hay muchísimas en el valle.
+
+108
+00:08:09,767 --> 00:08:12,144
+¿Y para qué sirven las ranas?
+
+109
+00:08:12,228 --> 00:08:14,438
+Hay que succionarlas.
+
+110
+00:08:14,522 --> 00:08:15,815
+¿Cómo?
+
+111
+00:08:15,898 --> 00:08:20,444
+La piel de la rana
+tiene una sustancia curativa.
+
+112
+00:08:20,528 --> 00:08:22,530
+Consigue bastantes.
+
+113
+00:08:22,613 --> 00:08:25,866
+Cuando ellas se descongelen, no servirán.
+
+114
+00:08:27,618 --> 00:08:29,078
+Está loca, ¿no?
+
+115
+00:08:29,161 --> 00:08:30,704
+Sí.
+
+116
+00:08:31,831 --> 00:08:34,875
+No te quedes ahí. ¡Vete!
+
+117
+00:08:53,727 --> 00:08:55,438
+Creo que se les cayó.
+
+118
+00:09:49,232 --> 00:09:50,233
+¡Una rana!
+
+119
+00:10:30,273 --> 00:10:32,609
+Conque eres el gran Avatar,
+
+120
+00:10:32,692 --> 00:10:35,612
+el maestro de todos los elementos.
+
+121
+00:10:35,695 --> 00:10:38,698
+No sé cómo evitaste
+a la nación de Fuego
+
+122
+00:10:38,782 --> 00:10:40,408
+durante 100 años,
+
+123
+00:10:40,492 --> 00:10:43,119
+pero el jueguito de las escondidas
+
+124
+00:10:43,203 --> 00:10:44,371
+se acabó.
+
+125
+00:10:44,454 --> 00:10:47,958
+Nunca me escondí. Desátame, y pelearemos.
+
+126
+00:10:48,041 --> 00:10:49,834
+Eh... no.
+
+127
+00:10:50,585 --> 00:10:54,839
+Dime, ¿qué se siente ser
+el único maestro de Aire?
+
+128
+00:10:54,923 --> 00:10:56,883
+¿Extrañas a tu pueblo?
+
+129
+00:10:58,635 --> 00:11:02,430
+Ay, no te preocupes.
+No te matarán como a ellos.
+
+130
+00:11:02,514 --> 00:11:04,599
+Si mueres, renacerás,
+
+131
+00:11:04,683 --> 00:11:08,770
+y la nación de Fuego tendrá
+que buscarte de nuevo.
+
+132
+00:11:09,312 --> 00:11:11,022
+Te mantendré vivo...
+
+133
+00:11:11,606 --> 00:11:13,566
+pero por poco.
+
+134
+00:11:19,990 --> 00:11:21,658
+Sopla lo que quieras.
+
+135
+00:11:21,741 --> 00:11:26,079
+Lo que hagas será inútil.
+No escaparás de la fortaleza.
+
+136
+00:11:26,162 --> 00:11:29,624
+Nadie vendrá a rescatarte.
+
+137
+00:11:36,756 --> 00:11:37,757
+Agua.
+
+138
+00:11:37,841 --> 00:11:40,343
+Momo no tardará en volver.
+
+139
+00:11:46,474 --> 00:11:47,851
+No, Momo.
+
+140
+00:11:47,934 --> 00:11:48,934
+Agua.
+
+141
+00:11:49,436 --> 00:11:51,021
+Agua.
+
+142
+00:11:54,065 --> 00:11:57,319
+Aang, ¿por qué tardas tanto?
+
+143
+00:12:31,144 --> 00:12:32,228
+Despejado.
+
+144
+00:12:44,157 --> 00:12:46,159
+Despejado. Entre.
+
+145
+00:13:07,347 --> 00:13:10,225
+Somos los hijos y las hijas de fuego,
+
+146
+00:13:10,308 --> 00:13:12,102
+¡el elemento superior!
+
+147
+00:13:12,685 --> 00:13:13,686
+Hasta hoy,
+
+148
+00:13:13,770 --> 00:13:16,940
+había un obstáculo en nuestra victoria:
+
+149
+00:13:17,023 --> 00:13:18,400
+¡el Avatar!
+
+150
+00:13:18,483 --> 00:13:23,196
+Vine a decirles que ¡es mi prisionero!
+
+151
+00:13:25,990 --> 00:13:28,910
+Este año, vuelve el cometa de Sozin
+
+152
+00:13:28,993 --> 00:13:30,954
+para darnos su poder.
+
+153
+00:13:33,081 --> 00:13:38,002
+Este año, la nación de Fuego
+derrumba los muros de Ba Sing Se
+
+154
+00:13:38,086 --> 00:13:41,005
+para quemarla totalmente.
+
+155
+00:13:59,482 --> 00:14:03,820
+¡No se vayan!
+Mis amigos están enfermos, las necesito.
+
+156
+00:14:03,903 --> 00:14:05,905
+Vuelvan a congelarse.
+
+157
+00:15:20,963 --> 00:15:23,424
+¿Quién eres? ¿Qué es esto?
+
+158
+00:15:23,507 --> 00:15:25,092
+¿Me rescatarás?
+
+159
+00:15:27,553 --> 00:15:29,346
+Supongo que sí.
+
+160
+00:15:35,644 --> 00:15:39,022
+¡Las ranas! ¡Vuelvan, no se descongelen!
+
+161
+00:15:40,524 --> 00:15:41,608
+¡Espera!
+
+162
+00:15:41,692 --> 00:15:44,736
+¡Mis amigos deben succionarlas!
+
+163
+00:15:50,534 --> 00:15:53,036
+¿Cuántas veces lo diré, Momo?
+
+164
+00:15:53,579 --> 00:15:55,038
+Necesitamos agua.
+
+165
+00:15:55,122 --> 00:15:57,207
+Agua.
+
+166
+00:15:58,333 --> 00:15:59,543
+Olvídalo.
+
+167
+00:16:00,127 --> 00:16:02,629
+Apúrate, Aang, por favor.
+
+168
+00:16:02,713 --> 00:16:06,091
+¿Quién es ese Aang, su alteza?
+
+169
+00:16:32,951 --> 00:16:36,705
+Envíen mi discurso escrito
+al Señor de Fuego
+
+170
+00:16:36,788 --> 00:16:42,377
+junto con testimonios brillantes
+de los oficiales superiores presentes...
+
+171
+00:16:53,347 --> 00:16:56,725
+Señor, ¿postergo el envío del discurso?
+
+172
+00:17:04,900 --> 00:17:06,902
+¡Miren la pared!
+
+173
+00:17:14,201 --> 00:17:16,453
+¡El Avatar escapó!
+
+174
+00:17:16,537 --> 00:17:18,747
+¡Cierren todas las puertas!
+
+175
+00:17:19,706 --> 00:17:21,166
+¡No te alejes!
+
+176
+00:18:45,042 --> 00:18:46,043
+¡Tómalo!
+
+177
+00:18:46,710 --> 00:18:48,253
+¡Salta a mi espalda!
+
+178
+00:18:55,135 --> 00:18:56,637
+¡Dame el otro!
+
+179
+00:19:13,695 --> 00:19:15,280
+¡No disparen!
+
+180
+00:19:16,239 --> 00:19:18,492
+¡El Avatar debe estar vivo!
+
+181
+00:19:25,082 --> 00:19:26,583
+Abran la puerta.
+
+182
+00:19:26,667 --> 00:19:28,543
+Almirante, ¿qué hace?
+
+183
+00:19:28,627 --> 00:19:30,796
+¡Déjenlos salir!
+
+184
+00:19:33,590 --> 00:19:35,634
+¿Por qué los dejó irse?
+
+185
+00:19:35,717 --> 00:19:38,261
+Una situación así...
+
+186
+00:19:39,137 --> 00:19:40,806
+requiere precisión.
+
+187
+00:19:54,903 --> 00:19:56,613
+¿Lo tienes en la mira?
+
+188
+00:19:58,323 --> 00:20:00,242
+Elimina al ladrón.
+
+189
+00:20:00,325 --> 00:20:03,662
+Lo llevaré al Señor de Fuego
+con el Avatar.
+
+190
+00:20:18,927 --> 00:20:20,554
+¡Rápido, el Avatar!
+
+191
+00:21:05,015 --> 00:21:08,560
+Lo peor de haber nacido
+hace más de 100 años
+
+192
+00:21:09,269 --> 00:21:11,813
+es que extraño a mis amigos.
+
+193
+00:21:11,897 --> 00:21:15,692
+Antes de la guerra,
+visitaba a mi amigo Kuzon.
+
+194
+00:21:15,776 --> 00:21:19,613
+Juntos nos metíamos en tantos problemas.
+
+195
+00:21:20,155 --> 00:21:22,365
+Uno de mis mejores amigos.
+
+196
+00:21:22,908 --> 00:21:25,619
+Era de la nación de Fuego, como tú.
+
+197
+00:21:26,411 --> 00:21:30,540
+Si nos conociéramos de esa época,
+¿seríamos amigos?
+
+198
+00:21:52,103 --> 00:21:55,565
+¿Dónde estuviste, Zuko?
+Te perdiste la música.
+
+199
+00:21:55,649 --> 00:21:59,736
+El teniente Jee
+cantó una emotiva canción de amor.
+
+200
+00:21:59,820 --> 00:22:01,321
+Iré a dormir.
+
+201
+00:22:01,905 --> 00:22:03,281
+No me molesten.
+
+202
+00:22:14,960 --> 00:22:17,462
+Succiónenlos, se sentirán mejor.
+
+203
+00:22:20,465 --> 00:22:22,759
+¿Qué tal tu viaje, Aang?
+
+204
+00:22:22,843 --> 00:22:24,761
+¿Hiciste amigos?
+
+205
+00:22:24,845 --> 00:22:27,389
+No, creo que no.
+
+206
+00:22:45,240 --> 00:22:47,033
+Qué delicioso.
+

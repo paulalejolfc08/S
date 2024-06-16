@@ -1,0 +1,1308 @@
+1
+00:00:01,489 --> 00:00:02,489
+<i>Agua.</i>
+
+2
+00:00:03,867 --> 00:00:04,867
+<i>Tierra.</i>
+
+3
+00:00:05,869 --> 00:00:06,869
+<i>Fuego.</i>
+
+4
+00:00:08,038 --> 00:00:09,038
+<i>Aire.</i>
+
+5
+00:00:10,248 --> 00:00:13,585
+<i>Hace tiempo,
+las cuatro naciones vivían en armonía.</i>
+
+6
+00:00:14,461 --> 00:00:17,797
+<i>Luego todo cambió</i>
+<i>cuando la nación de Fuego atacó.</i>
+
+7
+00:00:18,757 --> 00:00:19,674
+<i>Solo el Avatar,</i>
+
+8
+00:00:19,758 --> 00:00:22,719
+<i>maestro de los cuatro elementos,
+podía detenerlos.</i>
+
+9
+00:00:22,802 --> 00:00:25,472
+<i>Pero cuando más lo necesitábamos,
+desapareció.</i>
+
+10
+00:00:26,056 --> 00:00:27,098
+<i>Pasaron 100 años,</i>
+
+11
+00:00:27,182 --> 00:00:29,851
+<i>y mi hermano y yo encontramos
+al nuevo Avatar,</i>
+
+12
+00:00:29,935 --> 00:00:31,853
+<i>un maestro de aire llamado Aang.</i>
+
+13
+00:00:31,937 --> 00:00:34,189
+<i>Su habilidad con el aire es excelente,</i>
+
+14
+00:00:34,272 --> 00:00:37,859
+<i>pero debe aprender mucho
+antes de estar listo para salvarnos.</i>
+
+15
+00:00:37,984 --> 00:00:41,237
+<i>Yo creo que Aang puede salvar al mundo.</i>
+
+16
+00:00:42,364 --> 00:00:45,367
+AVATAR: LA LEYENDA DE AANG
+
+17
+00:00:46,952 --> 00:00:49,579
+<i>Anteriormente en Avatar...</i>
+
+18
+00:00:49,746 --> 00:00:50,914
+Te necesito, Zuko.
+
+19
+00:00:51,373 --> 00:00:56,211
+Tengo todo planeado para este día,
+y solo ganaremos si nos unimos.
+
+20
+00:00:58,880 --> 00:01:00,173
+Lo hicimos, Zuko.
+
+21
+00:01:00,423 --> 00:01:03,093
+La nación de Fuego
+ha conquistado Ba Sing Se.
+
+22
+00:01:03,468 --> 00:01:04,678
+Traicioné a mi tío.
+
+23
+00:01:04,761 --> 00:01:06,596
+No, él te traicionó.
+
+24
+00:01:07,472 --> 00:01:11,351
+Cuando vuelvas a casa,
+padre te recibirá como a un héroe.
+
+25
+00:01:11,559 --> 00:01:13,019
+Pero no tengo al avatar.
+
+26
+00:01:13,561 --> 00:01:15,939
+¿Y si padre no me devuelve mi honor?
+
+27
+00:01:17,065 --> 00:01:21,695
+LIBRO TRES: FUEGO
+CAPÍTULO UNO: EL DESPERTAR
+
+28
+00:01:40,380 --> 00:01:41,589
+¿Qué pasó?
+
+29
+00:01:48,096 --> 00:01:49,096
+¡No!
+
+30
+00:02:00,316 --> 00:02:01,443
+¿Escuchaste eso?
+
+31
+00:02:06,031 --> 00:02:07,031
+¡Ha despertado!
+
+32
+00:02:08,950 --> 00:02:10,035
+¡Detente! ¡Espera!
+
+33
+00:02:17,667 --> 00:02:18,667
+¿Momo?
+
+34
+00:02:23,048 --> 00:02:25,258
+Piernas locas, tienes que ser tú.
+
+35
+00:02:26,801 --> 00:02:28,261
+Aang, despertaste.
+
+36
+00:02:28,344 --> 00:02:29,429
+¿Es cierto?
+
+37
+00:02:29,971 --> 00:02:31,556
+Siento que estoy soñando.
+
+38
+00:02:32,140 --> 00:02:34,726
+No estás soñando. Por fin despertaste.
+
+39
+00:02:34,809 --> 00:02:37,729
+Aang, bienvenido al mundo
+de los vivos, amigo.
+
+40
+00:02:37,896 --> 00:02:38,980
+¿Sokka?
+
+41
+00:02:40,774 --> 00:02:42,776
+Ayúdenlo, se va a...
+
+42
+00:02:55,288 --> 00:02:56,372
+¿No tienes frío?
+
+43
+00:02:58,374 --> 00:02:59,918
+Tengo la mente ocupada.
+
+44
+00:03:00,418 --> 00:03:01,586
+Pasó mucho tiempo.
+
+45
+00:03:02,295 --> 00:03:04,422
+Me fui de casa hace tres años.
+
+46
+00:03:05,632 --> 00:03:07,092
+¿Habrá cambiado algo?
+
+47
+00:03:07,801 --> 00:03:09,344
+¿Habré cambiado yo?
+
+48
+00:03:10,345 --> 00:03:13,848
+Quería saber si tenías frío,
+no la historia de tu vida.
+
+49
+00:03:16,810 --> 00:03:17,936
+No te preocupes.
+
+50
+00:03:29,072 --> 00:03:33,243
+¿Este es un barco de la nación de Fuego?
+¿Y esa ropa?
+
+51
+00:03:33,368 --> 00:03:36,079
+¿Por qué no estoy vestido así?
+
+52
+00:03:36,412 --> 00:03:38,248
+Vamos despacio, ¿de acuerdo?
+
+53
+00:03:38,373 --> 00:03:39,874
+Te hirieron de gravedad.
+
+54
+00:03:41,960 --> 00:03:43,169
+Me gusta tu peinado.
+
+55
+00:03:43,628 --> 00:03:44,628
+¿Tengo cabello?
+
+56
+00:03:45,839 --> 00:03:47,048
+¿Dormí mucho?
+
+57
+00:03:47,423 --> 00:03:48,423
+Unas semanas.
+
+58
+00:03:48,758 --> 00:03:49,801
+¿Todo bien?
+
+59
+00:03:50,051 --> 00:03:51,094
+Sí, papá.
+
+60
+00:03:51,761 --> 00:03:54,430
+Soy Hakoda, el padre de Katara y Sokka.
+
+61
+00:03:54,514 --> 00:03:57,058
+Sabe quién eres, acabo de decirte papá.
+
+62
+00:03:57,892 --> 00:03:59,185
+Tienes razón.
+
+63
+00:04:00,562 --> 00:04:02,981
+Un placer conocerlo oficialmente.
+
+64
+00:04:03,064 --> 00:04:04,607
+El honor es mío.
+
+65
+00:04:04,816 --> 00:04:05,650
+Genial.
+
+66
+00:04:05,733 --> 00:04:08,987
+Ahora que se conocieron,
+¿quieres darnos privacidad?
+
+67
+00:04:09,821 --> 00:04:10,821
+Por supuesto.
+
+68
+00:04:13,491 --> 00:04:15,326
+¿Estás enojada con tu papá?
+
+69
+00:04:16,161 --> 00:04:16,995
+¿Qué?
+
+70
+00:04:17,078 --> 00:04:18,454
+No, ¿por qué?
+
+71
+00:04:21,583 --> 00:04:23,376
+Deberíamos ir arriba,
+
+72
+00:04:23,459 --> 00:04:25,086
+a una sesión de sanación.
+
+73
+00:04:30,216 --> 00:04:32,802
+Dime cuando el dolor sea más intenso.
+
+74
+00:04:33,469 --> 00:04:34,554
+Un poco más alto.
+
+75
+00:04:44,147 --> 00:04:46,649
+Vaya, ese es el lugar indicado.
+
+76
+00:04:46,858 --> 00:04:49,819
+Siento mucha energía concentrada ahí.
+
+77
+00:04:49,944 --> 00:04:51,613
+A ver si puedo...
+
+78
+00:05:01,456 --> 00:05:02,456
+Me derrotaron.
+
+79
+00:05:02,665 --> 00:05:04,459
+No solo me hirieron, ¿verdad?
+
+80
+00:05:04,626 --> 00:05:06,085
+Fue peor.
+
+81
+00:05:06,252 --> 00:05:09,172
+No sobreviví, pero tú me trajiste.
+
+82
+00:05:09,672 --> 00:05:12,508
+Solo usé el Espíritu de Agua
+del polo norte.
+
+83
+00:05:12,592 --> 00:05:14,010
+No sé qué hice.
+
+84
+00:05:14,802 --> 00:05:15,845
+Me salvaste.
+
+85
+00:05:16,763 --> 00:05:17,805
+Debes descansar.
+
+86
+00:05:21,351 --> 00:05:25,605
+Su princesa Azula, inteligente y hermosa,
+
+87
+00:05:26,022 --> 00:05:28,149
+se disfrazó como el enemigo
+
+88
+00:05:28,274 --> 00:05:31,653
+e ingresó a la capital
+del reino de Tierra.
+
+89
+00:05:31,986 --> 00:05:33,529
+En Ba Sing Se,
+
+90
+00:05:33,863 --> 00:05:36,407
+encontró a su hermano Zuko,
+
+91
+00:05:36,491 --> 00:05:40,161
+y juntos enfrentaron al Avatar.
+
+92
+00:05:40,286 --> 00:05:45,375
+<i>Y el Avatar cayó,
+y el reino de Tierra cayó.</i>
+
+93
+00:05:45,458 --> 00:05:50,213
+<i>Los soldados de Azula tomaron la ciudad
+rápidamente.</i>
+
+94
+00:05:50,296 --> 00:05:53,675
+<i>Fueron a las murallas de Ba Sing Se</i>
+
+95
+00:05:53,841 --> 00:05:56,177
+<i>y las destruyeron.</i>
+
+96
+00:06:04,560 --> 00:06:08,523
+<i>Los ejércitos de la nación de Fuego
+ingresaron por la muralla</i>
+
+97
+00:06:08,648 --> 00:06:14,112
+<i>y plagaron Ba Sing Se,
+y aseguraron nuestra victoria.</i>
+
+98
+00:06:25,957 --> 00:06:29,168
+<i>Ahora los héroes regresaron a casa.</i>
+
+99
+00:06:29,627 --> 00:06:33,172
+¡Su princesa Azula!
+
+100
+00:06:36,926 --> 00:06:39,220
+Y después de tres largos años
+
+101
+00:06:39,304 --> 00:06:41,681
+su príncipe ha regresado.
+
+102
+00:06:42,056 --> 00:06:43,683
+¡Zuko!
+
+103
+00:06:52,400 --> 00:06:55,361
+Después de lo de Ba Sing Se,
+debíamos resguardarte.
+
+104
+00:06:56,654 --> 00:06:58,323
+<i>Volvimos a la bahía Camaleón</i>
+
+105
+00:06:58,406 --> 00:07:01,034
+donde estaban mi padre
+y la tribu de Agua.
+
+106
+00:07:02,285 --> 00:07:05,204
+<i>El rey de Tierra viajaría
+por el mundo disfrazado,</i>
+
+107
+00:07:05,288 --> 00:07:07,206
+<i>así que se fue solo.</i>
+
+108
+00:07:07,332 --> 00:07:09,000
+<i>No del todo solo.</i>
+
+109
+00:07:12,754 --> 00:07:15,131
+<i>La bahía estaba llena
+de barcos de Fuego.</i>
+
+110
+00:07:15,214 --> 00:07:19,218
+<i>En vez de luchar contra todos,
+capturamos uno, y es nuestro disfraz.</i>
+
+111
+00:07:19,385 --> 00:07:21,346
+Hemos viajado al oeste.
+
+112
+00:07:21,512 --> 00:07:23,473
+Cruzamos el Paso de la Serpiente.
+
+113
+00:07:23,890 --> 00:07:27,352
+Vimos barcos de la nación de Fuego,
+pero no nos molestaron.
+
+114
+00:07:27,685 --> 00:07:28,685
+¿Y ahora!
+
+115
+00:07:28,770 --> 00:07:32,023
+Modificamos el plan de invasión.
+
+116
+00:07:32,190 --> 00:07:34,150
+El plan de invasión de Sokka.
+
+117
+00:07:35,109 --> 00:07:36,736
+Sí, el plan de Sokka.
+
+118
+00:07:37,737 --> 00:07:41,282
+No podremos invadir sin los ejércitos
+del rey de Tierra,
+
+119
+00:07:41,449 --> 00:07:44,702
+pero el eclipse solar debilitará
+a la nación de Fuego.
+
+120
+00:07:45,161 --> 00:07:47,205
+Planeamos una invasión más pequeña
+
+121
+00:07:47,288 --> 00:07:50,249
+con un equipo de amigos
+del reino de Tierra.
+
+122
+00:07:50,416 --> 00:07:52,335
+Reclutamos a Duke y a Pipsqueak.
+
+123
+00:07:52,877 --> 00:07:54,545
+Me alegro de verte, Aang.
+
+124
+00:07:55,171 --> 00:07:58,257
+Lo mejor es que el eclipse
+no es la mejor ventaja.
+
+125
+00:07:58,549 --> 00:08:00,218
+Tenemos un secreto.
+
+126
+00:08:01,511 --> 00:08:02,387
+Tú.
+
+127
+00:08:02,470 --> 00:08:03,304
+¿Yo?
+
+128
+00:08:03,429 --> 00:08:05,807
+Sí. Todos creen que estás muerto.
+
+129
+00:08:06,224 --> 00:08:07,475
+¿No es genial?
+
+130
+00:08:13,896 --> 00:08:15,356
+¿Creen que estoy muerto?
+
+131
+00:08:15,898 --> 00:08:18,526
+¿Por qué es genial? Es terrible.
+
+132
+00:08:18,734 --> 00:08:19,860
+No, es genial.
+
+133
+00:08:19,944 --> 00:08:22,196
+La nación de Fuego ya no nos atacará.
+
+134
+00:08:22,363 --> 00:08:25,282
+Y mejor, no esperan verte
+el día del Sol Negro.
+
+135
+00:08:25,533 --> 00:08:26,826
+No.
+
+136
+00:08:27,076 --> 00:08:28,577
+No sabes de qué hablas.
+
+137
+00:08:28,786 --> 00:08:30,287
+Esto está muy mal.
+
+138
+00:08:33,541 --> 00:08:34,542
+Yo me encargaré.
+
+139
+00:08:35,126 --> 00:08:36,460
+El Avatar ha vuelto.
+
+140
+00:08:38,587 --> 00:08:41,966
+Aang, espera. No saben
+que no somos de la nación de Fuego.
+
+141
+00:08:45,386 --> 00:08:47,346
+Cálmense todos.
+
+142
+00:08:47,680 --> 00:08:49,723
+Bato y yo nos ocuparemos.
+
+143
+00:08:55,229 --> 00:08:57,523
+Detesto no poder hacer nada.
+
+144
+00:08:58,023 --> 00:08:59,733
+Ojalá no tengas que hacerlo.
+
+145
+00:09:12,288 --> 00:09:14,331
+Comandante, están fuera de curso.
+
+146
+00:09:14,665 --> 00:09:17,001
+Toda la flota del oeste deben viajar
+
+147
+00:09:17,084 --> 00:09:19,545
+a Ba Sing Se a apoyar la ocupación.
+
+148
+00:09:19,879 --> 00:09:22,465
+En realidad, somos de la flota del este.
+
+149
+00:09:22,548 --> 00:09:24,300
+Entregaremos un cargamento.
+
+150
+00:09:25,426 --> 00:09:26,844
+La flota del este.
+
+151
+00:09:27,178 --> 00:09:31,140
+El almirante Chan no nos informó
+que enviaría uno de sus barcos.
+
+152
+00:09:31,432 --> 00:09:33,809
+El almirante Chan no quiso ser grosero.
+
+153
+00:09:34,143 --> 00:09:37,646
+¿Es muy difícil escribir una nota
+y enviarla con un halcón?
+
+154
+00:09:37,897 --> 00:09:41,567
+La próxima enviaremos dos halcones
+para estar seguros.
+
+155
+00:09:43,819 --> 00:09:47,281
+Señor, el almirante Chan está de licencia
+hace dos meses.
+
+156
+00:09:47,656 --> 00:09:50,409
+¿Qué? ¿Por qué no me informaron?
+
+157
+00:09:50,576 --> 00:09:53,078
+Algo no anda bien. Deberían saberlo.
+
+158
+00:09:53,204 --> 00:09:54,830
+Este es un barco capturado.
+
+159
+00:09:55,706 --> 00:09:58,667
+No digan nada hasta cruzar la rampa.
+
+160
+00:09:58,751 --> 00:10:00,336
+Hundiremos este barco.
+
+161
+00:10:01,629 --> 00:10:02,629
+¡Lo saben!
+
+162
+00:10:36,747 --> 00:10:38,666
+Te ves abatido.
+
+163
+00:10:38,791 --> 00:10:40,417
+¿Mai te ha afectado?
+
+164
+00:10:40,668 --> 00:10:44,129
+Aunque ha estado
+de buen humor últimamente.
+
+165
+00:10:44,463 --> 00:10:45,839
+No he visto a papá.
+
+166
+00:10:45,923 --> 00:10:49,426
+No lo veo hace tres años,
+desde que me hicieron desaparecer.
+
+167
+00:10:49,552 --> 00:10:50,552
+¿Y qué?
+
+168
+00:10:50,719 --> 00:10:53,264
+No capturé al Avatar.
+
+169
+00:10:53,430 --> 00:10:55,599
+¿A quién le importa? Está muerto.
+
+170
+00:10:58,143 --> 00:11:01,897
+A menos que pienses
+que haya sobrevivido de milagro.
+
+171
+00:11:04,149 --> 00:11:07,278
+Es agua del Oasis del Espíritu
+del polo norte.
+
+172
+00:11:07,486 --> 00:11:11,448
+Tiene propiedades, la he guardado
+para algo importante.
+
+173
+00:11:12,950 --> 00:11:13,950
+No.
+
+174
+00:11:14,201 --> 00:11:16,078
+No puede haber sobrevivido.
+
+175
+00:11:20,874 --> 00:11:24,003
+Entonces no debe preocuparte.
+
+176
+00:11:39,393 --> 00:11:40,728
+¡Pongan el Toph!
+
+177
+00:12:21,226 --> 00:12:22,686
+Los cubriré.
+
+178
+00:12:44,333 --> 00:12:46,585
+No puedo no hacer nada.
+
+179
+00:12:47,002 --> 00:12:48,002
+¡Aang, no!
+
+180
+00:12:48,921 --> 00:12:51,632
+Estás herido
+y debes mantenerte en secreto.
+
+181
+00:12:51,840 --> 00:12:53,258
+Nosotros lo haremos.
+
+182
+00:12:54,259 --> 00:12:55,259
+Bien.
+
+183
+00:13:06,605 --> 00:13:07,605
+¿Cómo vamos?
+
+184
+00:13:07,940 --> 00:13:09,274
+No puede empeorar.
+
+185
+00:13:12,695 --> 00:13:15,823
+El universo adora contradecirme.
+
+186
+00:13:16,073 --> 00:13:17,491
+Lo haces muy fácil.
+
+187
+00:13:30,963 --> 00:13:32,381
+Gracias, universo.
+
+188
+00:13:43,934 --> 00:13:44,934
+Aang.
+
+189
+00:13:45,144 --> 00:13:46,895
+Iremos a cenar a la ciudad.
+
+190
+00:13:48,731 --> 00:13:50,524
+Tengo hambre.
+
+191
+00:13:50,733 --> 00:13:52,359
+Quizá cenar sea buena idea.
+
+192
+00:13:53,068 --> 00:13:55,654
+Ponte esto en la cabeza.
+Cubrirá tu flecha.
+
+193
+00:13:56,447 --> 00:13:59,158
+No saldré si no puedo mostrar mi flecha.
+
+194
+00:13:59,825 --> 00:14:01,827
+Aang, vamos. Sé práctico.
+
+195
+00:14:02,619 --> 00:14:05,247
+Vayan sin nosotros. Los alcanzaremos.
+
+196
+00:14:08,041 --> 00:14:13,380
+Creo que sé porqué ocultarte te molesta.
+No quieres que piensen que fallaste.
+
+197
+00:14:13,630 --> 00:14:17,092
+Es cierto. Pero el problema es que fallé.
+
+198
+00:14:17,718 --> 00:14:19,094
+Aang, no es así.
+
+199
+00:14:19,678 --> 00:14:20,678
+Sí.
+
+200
+00:14:21,263 --> 00:14:22,765
+Estuve en Ba Sing Se.
+
+201
+00:14:22,973 --> 00:14:26,059
+Estuve allí, pero perdí.
+
+202
+00:14:26,351 --> 00:14:28,604
+Y el reino de Tierra fue derrotado.
+
+203
+00:14:29,396 --> 00:14:30,522
+No por mucho.
+
+204
+00:14:30,606 --> 00:14:33,233
+Recuerda que tenemos un plan. La invasión.
+
+205
+00:14:33,442 --> 00:14:35,319
+Detesto el plan de invasión.
+
+206
+00:14:35,527 --> 00:14:39,740
+No quiero que tú ni nadie arriesgue
+su vida para reparar mis errores.
+
+207
+00:14:40,157 --> 00:14:42,826
+Siempre supe que enfrentaría
+al Señor de Fuego
+
+208
+00:14:43,160 --> 00:14:45,120
+y ahora sé que debo hacerlo solo.
+
+209
+00:14:46,121 --> 00:14:48,540
+- Aang.
+- Katara, por favor.
+
+210
+00:14:48,832 --> 00:14:49,832
+Ve,
+
+211
+00:14:50,542 --> 00:14:51,542
+por favor.
+
+212
+00:14:53,337 --> 00:14:55,005
+¿Necesitas algo?
+
+213
+00:14:56,590 --> 00:14:58,050
+Redimirme.
+
+214
+00:14:59,092 --> 00:15:00,677
+Necesito mi honor.
+
+215
+00:15:28,038 --> 00:15:29,456
+Te traje comida.
+
+216
+00:15:32,376 --> 00:15:33,376
+No.
+
+217
+00:15:49,768 --> 00:15:51,979
+Estuviste fuera mucho tiempo.
+
+218
+00:15:52,813 --> 00:15:55,357
+El peso de tus viajes te cambió.
+
+219
+00:15:56,191 --> 00:15:58,652
+Te has redimido, hijo.
+
+220
+00:16:04,775 --> 00:16:06,159
+Bienvenido a casa.
+
+221
+00:16:26,535 --> 00:16:28,204
+Los dejaré solos.
+
+222
+00:16:29,955 --> 00:16:31,290
+¿Qué ocurre, Katara?
+
+223
+00:16:31,499 --> 00:16:32,499
+Se ha ido.
+
+224
+00:16:32,875 --> 00:16:34,251
+- ¿Qué?
+- Aang.
+
+225
+00:16:34,460 --> 00:16:36,378
+Tomó su planeador y desapareció.
+
+226
+00:16:36,962 --> 00:16:40,841
+Piensa que debe salvar al mundo solo.
+
+227
+00:16:41,050 --> 00:16:42,718
+Que es su responsabilidad.
+
+228
+00:16:43,219 --> 00:16:45,304
+Quizá es su forma de ser valiente.
+
+229
+00:16:45,387 --> 00:16:48,224
+No es valiente, es egoísta y estúpido.
+
+230
+00:16:48,349 --> 00:16:51,143
+Podemos ayudarlo,
+y sé que el mundo lo necesita,
+
+231
+00:16:51,227 --> 00:16:53,813
+pero no sabe
+cuánto lo necesitamos nosotros.
+
+232
+00:16:54,021 --> 00:16:55,481
+¿Por qué nos dejó?
+
+233
+00:16:57,650 --> 00:16:59,777
+También hablas de mí, ¿no?
+
+234
+00:17:00,110 --> 00:17:01,862
+¿Por qué nos dejaste, papá?
+
+235
+00:17:02,530 --> 00:17:05,449
+Nos dejaste con Gran Gran,
+que nos ama, pero...
+
+236
+00:17:06,325 --> 00:17:08,536
+...estábamos perdidos sin ti.
+
+237
+00:17:10,538 --> 00:17:12,206
+Lo siento mucho, Katara.
+
+238
+00:17:15,084 --> 00:17:18,337
+Entiendo porqué te fuiste, de verdad.
+
+239
+00:17:18,796 --> 00:17:20,798
+Sé que debías irte.
+
+240
+00:17:21,507 --> 00:17:24,510
+¿Por qué me siento así?
+
+241
+00:17:25,135 --> 00:17:28,889
+Estaba muy triste, enojada y dolida.
+
+242
+00:17:29,265 --> 00:17:31,642
+Te amo mas que a nadie.
+
+243
+00:17:32,142 --> 00:17:34,603
+Tú y tu hermano son todo para mí.
+
+244
+00:17:34,979 --> 00:17:37,481
+Pensé en ti cada día mientras estuve lejos
+
+245
+00:17:37,565 --> 00:17:39,692
+y cada noche antes de dormir.
+
+246
+00:17:40,067 --> 00:17:43,195
+Te extrañaba tanto que me dolía.
+
+247
+00:17:47,491 --> 00:17:49,702
+Estoy orgulloso de ti, príncipe Zuko.
+
+248
+00:17:50,160 --> 00:17:54,456
+Estoy orgulloso porque tú
+y tu hermana conquistaron Ba Sing Se.
+
+249
+00:17:54,582 --> 00:17:59,670
+Porque cuando tu lealtad fue puesta
+a prueba por el desleal de tu tío
+
+250
+00:18:00,129 --> 00:18:03,007
+hiciste lo correcto
+y capturaste al traidor.
+
+251
+00:18:03,841 --> 00:18:08,470
+Y estoy orgulloso
+de tu logro más legendario.
+
+252
+00:18:08,762 --> 00:18:10,514
+Mataste al Avatar.
+
+253
+00:18:12,266 --> 00:18:13,350
+¿Qué sabes de eso?
+
+254
+00:18:13,434 --> 00:18:15,227
+Azula me dijo todo.
+
+255
+00:18:15,936 --> 00:18:18,272
+Dijo que estaba asombrada y sorprendida
+
+256
+00:18:18,355 --> 00:18:20,274
+de tu poder y ferocidad
+
+257
+00:18:20,691 --> 00:18:22,902
+al momento de la verdad.
+
+258
+00:18:30,618 --> 00:18:31,619
+Un bloqueo.
+
+259
+00:19:20,751 --> 00:19:21,961
+¿Por qué lo hiciste?
+
+260
+00:19:23,295 --> 00:19:26,340
+Tendrás que ser un poco más específico.
+
+261
+00:19:26,507 --> 00:19:29,718
+¿Por qué le dijiste a nuestro padre
+que maté al Avatar?
+
+262
+00:19:30,052 --> 00:19:31,971
+¿No puedes esperar hasta mañana?
+
+263
+00:19:32,096 --> 00:19:33,305
+No.
+
+264
+00:19:34,473 --> 00:19:35,473
+Bien.
+
+265
+00:19:36,308 --> 00:19:37,726
+Estabas muy preocupado
+
+266
+00:19:37,810 --> 00:19:41,105
+por su reacción
+por no haber capturado al Avatar.
+
+267
+00:19:41,230 --> 00:19:44,817
+Pensé que si te daba el crédito,
+no tendrías que preocuparte.
+
+268
+00:19:44,900 --> 00:19:45,900
+¿Por qué?
+
+269
+00:19:46,110 --> 00:19:48,153
+Fue un gesto generoso.
+
+270
+00:19:48,278 --> 00:19:52,574
+Quería agradecerte tu ayuda
+y compartir la gloria.
+
+271
+00:19:52,700 --> 00:19:53,742
+Mientes.
+
+272
+00:19:54,618 --> 00:19:55,661
+Si tú lo dices...
+
+273
+00:19:56,495 --> 00:20:00,541
+Lo haces por otros motivos,
+pero aún no sé cuáles son.
+
+274
+00:20:00,624 --> 00:20:04,253
+Por favor, Zuko.
+¿Qué otro motivo podría tener?
+
+275
+00:20:04,378 --> 00:20:07,006
+¿Qué ganaría al dejar que te lleves
+
+276
+00:20:07,089 --> 00:20:09,591
+toda la gloria de la derrota del Avatar?
+
+277
+00:20:09,758 --> 00:20:13,387
+A menos de que, de alguna manera,
+el Avatar siga vivo.
+
+278
+00:20:14,346 --> 00:20:18,809
+La gloria se transformaría
+en vergüenza e idiotez.
+
+279
+00:20:20,185 --> 00:20:23,355
+Pero dijiste que era imposible.
+
+280
+00:20:25,315 --> 00:20:26,692
+Descansa, Zuzu.
+
+281
+00:20:52,676 --> 00:20:54,136
+No no lograré.
+
+282
+00:20:54,762 --> 00:20:55,763
+Fallé.
+
+283
+00:20:58,140 --> 00:20:59,140
+¿Roku?
+
+284
+00:20:59,308 --> 00:21:01,393
+No has fallado, Aang.
+
+285
+00:21:02,144 --> 00:21:04,229
+Pero todos creen que estoy muerto.
+
+286
+00:21:04,563 --> 00:21:08,025
+Creen que los abandoné,
+y estoy perdiendo la guerra.
+
+287
+00:21:08,776 --> 00:21:10,819
+Estoy defraudando a todo el mundo.
+
+288
+00:21:11,195 --> 00:21:15,324
+Si hay un culpable
+por el estado del mundo, soy yo.
+
+289
+00:21:15,908 --> 00:21:19,703
+Debería haber sabido de esta guerra
+y debería haberla prevenido.
+
+290
+00:21:19,787 --> 00:21:24,124
+Heredaste mis problemas y mis errores.
+
+291
+00:21:24,458 --> 00:21:27,544
+Pero creo que estás destinado a redimirme
+
+292
+00:21:27,628 --> 00:21:29,379
+y a salvar al mundo.
+
+293
+00:21:29,755 --> 00:21:30,756
+No lo sé.
+
+294
+00:21:32,257 --> 00:21:33,967
+Ya lo has salvado.
+
+295
+00:21:37,513 --> 00:21:39,431
+Y lo salvarás otra vez.
+
+296
+00:21:40,057 --> 00:21:41,642
+Pero no puedes rendirte.
+
+297
+00:21:47,314 --> 00:21:48,314
+Tienes razón.
+
+298
+00:21:48,607 --> 00:21:49,650
+No me rendiré.
+
+299
+00:22:39,658 --> 00:22:40,658
+Estás bien.
+
+300
+00:22:50,294 --> 00:22:51,628
+Tengo mucho por hacer.
+
+301
+00:22:52,004 --> 00:22:53,797
+Lo sé, pero te ayudaremos.
+
+302
+00:22:54,131 --> 00:22:55,924
+¿Creíste que no entrenarías
+
+303
+00:22:56,008 --> 00:22:57,926
+por estar en la nación de Fuego?
+
+304
+00:22:59,720 --> 00:23:01,138
+¿Y la invasión?
+
+305
+00:23:01,221 --> 00:23:04,516
+Nos uniremos a mi papá y al ejército
+el día del eclipse.
+
+306
+00:23:04,725 --> 00:23:06,393
+¿Qué...?
+
+307
+00:23:08,061 --> 00:23:09,104
+Es tu planeador.
+
+308
+00:23:10,981 --> 00:23:11,982
+No importa.
+
+309
+00:23:13,692 --> 00:23:16,612
+Si alguien lo viera,
+descubriría mi identidad.
+
+310
+00:23:17,362 --> 00:23:19,698
+Es mejor que nadie sepa que estoy vivo.
+

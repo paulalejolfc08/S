@@ -1,0 +1,1439 @@
+1
+00:00:02,431 --> 00:00:03,431
+<i>Agua.</i>
+
+2
+00:00:04,808 --> 00:00:05,808
+<i>Tierra.</i>
+
+3
+00:00:06,727 --> 00:00:07,727
+<i>Fuego.</i>
+
+4
+00:00:08,895 --> 00:00:09,895
+<i>Aire.</i>
+
+5
+00:00:11,148 --> 00:00:14,568
+<i>Hace mucho, las cuatro naciones
+vivían en armonía...</i>
+
+6
+00:00:15,319 --> 00:00:18,530
+<i>pero todo cambió
+cuando la Nación de Fuego atacó.</i>
+
+7
+00:00:19,614 --> 00:00:23,618
+<i>Solo el Avatar, maestro
+de los cuatro elementos, podía detenerlos.</i>
+
+8
+00:00:23,702 --> 00:00:26,663
+<i>Pero desapareció
+cuando el mundo más lo necesitaba.</i>
+
+9
+00:00:27,122 --> 00:00:31,126
+<i>Cien años después, mi hermano y yo
+descubrimos al nuevo Avatar.</i>
+
+10
+00:00:31,209 --> 00:00:32,753
+<i>Aang, un maestro del aire.</i>
+
+11
+00:00:32,836 --> 00:00:35,047
+<i>Aunque controla muy bien el aire,</i>
+
+12
+00:00:35,130 --> 00:00:37,883
+<i>tiene mucho que aprender
+para salvar a alguien.</i>
+
+13
+00:00:38,800 --> 00:00:41,928
+<i>Pero creo que Aang puede salvar al mundo.</i>
+
+14
+00:00:42,852 --> 00:00:46,352
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:47,851 --> 00:00:50,228
+<i>Anteriormente en Avatar...</i>
+
+16
+00:00:51,021 --> 00:00:53,648
+Sabes que los abanicos avivan las llamas.
+
+17
+00:00:56,860 --> 00:00:59,029
+Soy Long Feng, jefe de los Dai Li.
+
+18
+00:00:59,112 --> 00:01:00,947
+¿Por qué no podemos ver al Rey?
+
+19
+00:01:01,031 --> 00:01:04,326
+El Rey no tiene tiempo
+para disputas políticas.
+
+20
+00:01:04,409 --> 00:01:06,620
+Así que el rey es solo una figura.
+
+21
+00:01:07,162 --> 00:01:08,413
+¡Es tu marioneta!
+
+22
+00:01:09,039 --> 00:01:11,750
+Es hora de que mires hacia adentro
+
+23
+00:01:11,833 --> 00:01:15,003
+y te empieces a hacer
+las grandes preguntas:
+
+24
+00:01:15,629 --> 00:01:17,130
+quién eres,
+
+25
+00:01:17,214 --> 00:01:18,799
+y qué quieres.
+
+26
+00:01:18,882 --> 00:01:20,842
+Me ocuparé personalmente de ti.
+
+27
+00:01:24,346 --> 00:01:25,680
+Te he echado de menos.
+
+28
+00:01:27,307 --> 00:01:31,937
+LIBRO DOS: TIERRA
+CAPÍTULO DIECIOCHO: EL REY DE LA TIERRA
+
+29
+00:01:37,275 --> 00:01:39,778
+Nunca sabrás
+lo que te he echado de menos.
+
+30
+00:01:44,991 --> 00:01:48,161
+Miren, escapamos de los Dai Li,
+recuperamos a Appa,
+
+31
+00:01:48,245 --> 00:01:51,081
+deberíamos ir a contarle nuestro plan
+al Rey.
+
+32
+00:01:51,164 --> 00:01:52,207
+Estamos en racha.
+
+33
+00:01:52,290 --> 00:01:55,710
+Una buena hora tras semanas malas
+no es una buena racha.
+
+34
+00:01:55,794 --> 00:01:57,087
+Podemos aprovecharla.
+
+35
+00:01:57,170 --> 00:02:01,383
+Para invadir la Nación del Fuego
+necesitamos el apoyo del Rey.
+
+36
+00:02:01,675 --> 00:02:04,761
+¿Por qué crees que nos lo dará?
+No sé si lo notas,
+
+37
+00:02:04,845 --> 00:02:08,223
+pero las cosas no nos suelen ir tan bien.
+
+38
+00:02:08,306 --> 00:02:11,935
+Lo sé, pero creo que esta vez
+va a ser diferente.
+
+39
+00:02:12,018 --> 00:02:14,521
+Sokka, Long Feng controla la ciudad.
+
+40
+00:02:14,604 --> 00:02:17,357
+Su conspiración con los Dai Li
+es muy poderosa.
+
+41
+00:02:17,441 --> 00:02:20,735
+Deberíamos seguir volando
+y dejar este horrible lugar.
+
+42
+00:02:20,819 --> 00:02:22,279
+Yo estoy con ella.
+
+43
+00:02:22,362 --> 00:02:24,823
+Ya he visto suficiente de Ba Sing Se,
+
+44
+00:02:24,906 --> 00:02:26,450
+y ni siquiera puedo ver.
+
+45
+00:02:27,659 --> 00:02:30,078
+Ahora que tenemos a Appa,
+nada nos impide
+
+46
+00:02:30,162 --> 00:02:33,582
+hablar con el Rey sobre la
+conspiración y la guerra.
+
+47
+00:02:33,665 --> 00:02:35,250
+¿Ven? Aang me apoya.
+
+48
+00:02:36,251 --> 00:02:38,462
+Es la razón por la que vinimos aquí.
+
+49
+00:02:38,545 --> 00:02:39,921
+Tenemos que intentarlo.
+
+50
+00:02:41,131 --> 00:02:45,260
+Supongo que si el Rey supiera
+la verdad, podrían cambiar las cosas.
+
+51
+00:02:46,470 --> 00:02:49,014
+No me fío del nuevo Sokka optimista.
+
+52
+00:02:49,097 --> 00:02:51,725
+Long Feng te lavó el cerebro, ¿verdad?
+
+53
+00:02:56,521 --> 00:02:59,316
+Será el Dai Li buscándonos. ¿Y bien?
+
+54
+00:03:00,609 --> 00:03:01,860
+Volemos.
+
+55
+00:03:06,823 --> 00:03:08,700
+¿Podemos comprar otra silla?
+
+56
+00:03:08,783 --> 00:03:11,036
+Montar a pelo es terrorífico.
+
+57
+00:03:13,830 --> 00:03:14,664
+Ahí está.
+
+58
+00:03:14,748 --> 00:03:18,376
+Todo es el palacio.
+Los aposentos del Rey están en el centro.
+
+59
+00:03:18,460 --> 00:03:21,922
+Debemos tener cuidado.
+Long Feng habrá avisado al Rey.
+
+60
+00:03:22,005 --> 00:03:23,507
+¿Por qué crees eso?
+
+61
+00:03:23,590 --> 00:03:26,134
+Yo creo que vamos a llegar hasta...
+
+62
+00:03:27,928 --> 00:03:30,347
+- ¿Qué fue eso?
+- ¡Rocas tierra-aire!
+
+63
+00:03:30,430 --> 00:03:31,473
+¡Hay más!
+
+64
+00:04:26,069 --> 00:04:27,195
+¡Perdón!
+
+65
+00:04:36,454 --> 00:04:38,999
+¡Perdón! Necesitamos pasar
+para ver al Rey.
+
+66
+00:05:32,344 --> 00:05:35,305
+¡En serio, estamos de su lado!
+
+67
+00:05:37,724 --> 00:05:38,724
+Perdón.
+
+68
+00:05:45,148 --> 00:05:46,148
+¡Ahí!
+
+69
+00:05:55,200 --> 00:05:56,951
+Toph, ¿dónde está el Rey?
+
+70
+00:05:57,035 --> 00:06:00,372
+¿Cómo voy a saberlo?
+Sigo votando que dejemos Ba Sing Se.
+
+71
+00:06:10,298 --> 00:06:11,675
+¡Ladrón!
+
+72
+00:06:11,758 --> 00:06:13,510
+Perdón, puerta equivocada.
+
+73
+00:06:19,391 --> 00:06:24,229
+Hiciste lo correcto,
+dejando libre al bisonte del Avatar.
+
+74
+00:06:24,312 --> 00:06:25,772
+No me encuentro bien.
+
+75
+00:06:34,531 --> 00:06:35,531
+¡Zuko!
+
+76
+00:06:43,289 --> 00:06:46,376
+Una puerta impresionante.
+Tiene que ir a algún lado.
+
+77
+00:06:57,887 --> 00:06:59,681
+La próxima vez avisa.
+
+78
+00:07:08,356 --> 00:07:10,233
+Necesitamos hablar con usted.
+
+79
+00:07:10,316 --> 00:07:12,736
+Están aquí para derrocarlo.
+
+80
+00:07:12,861 --> 00:07:15,530
+No, estamos de su lado.
+Vinimos a ayudar.
+
+81
+00:07:15,613 --> 00:07:17,073
+Tiene que creernos.
+
+82
+00:07:17,157 --> 00:07:18,616
+Invaden mi palacio,
+
+83
+00:07:18,700 --> 00:07:22,245
+derrotan a todos mis guardias,
+derriban mi preciosa puerta
+
+84
+00:07:22,328 --> 00:07:24,581
+¿y esperan que confíe en ustedes?
+
+85
+00:07:24,664 --> 00:07:26,082
+Tiene razón.
+
+86
+00:07:26,166 --> 00:07:30,712
+Si están de mi lado,
+suelten las armas y no ataquen.
+
+87
+00:07:36,926 --> 00:07:39,763
+¿Ven? Somos amigos, Su Terrenidad.
+
+88
+00:07:54,135 --> 00:07:55,845
+Detengan a los asaltantes.
+
+89
+00:07:58,306 --> 00:08:01,518
+Pero hemos soltado nuestras armas.
+Somos aliados.
+
+90
+00:08:01,601 --> 00:08:05,814
+Asegúrense de que el Avatar y sus amigos
+no vuelvan a ver la luz del día.
+
+91
+00:08:06,272 --> 00:08:07,273
+¿El Avatar?
+
+92
+00:08:07,899 --> 00:08:09,150
+¿Tú eres el Avatar?
+
+93
+00:08:09,859 --> 00:08:11,152
+No, él.
+
+94
+00:08:11,236 --> 00:08:12,236
+Aquí.
+
+95
+00:08:12,987 --> 00:08:14,572
+¿Qué importa eso, Alteza?
+
+96
+00:08:14,656 --> 00:08:16,741
+Son enemigos del Estado.
+
+97
+00:08:17,367 --> 00:08:18,702
+Tal vez tengas razón.
+
+98
+00:08:22,914 --> 00:08:24,999
+Aunque parece que le gusta a Bosco.
+
+99
+00:08:25,583 --> 00:08:27,544
+Escucharé lo que tenga que decir.
+
+100
+00:08:29,546 --> 00:08:32,257
+Bueno, señor, estamos en guerra
+
+101
+00:08:32,340 --> 00:08:34,634
+desde hace 100 años, de hecho.
+
+102
+00:08:34,718 --> 00:08:36,886
+Los Dai Li se lo han ocultado.
+
+103
+00:08:36,970 --> 00:08:40,306
+Es una conspiración para controlar
+la ciudad y a usted.
+
+104
+00:08:40,390 --> 00:08:43,268
+¿Una guerra secreta? Eso es una locura.
+
+105
+00:08:43,351 --> 00:08:44,978
+Completamente.
+
+106
+00:08:45,061 --> 00:08:49,607
+Long Feng robó a nuestro bisonte
+para que no se lo dijéramos.
+
+107
+00:08:49,691 --> 00:08:53,486
+Y el chantaje es lo de menos.
+Le lavó el cerebro a nuestro amigo.
+
+108
+00:08:53,570 --> 00:08:54,821
+Miente.
+
+109
+00:08:54,904 --> 00:08:57,782
+Nunca he visto un bisonte del cielo,
+Su Majestad.
+
+110
+00:08:57,866 --> 00:08:59,909
+Pensé que se habían extinguido.
+
+111
+00:08:59,993 --> 00:09:02,036
+Tu afirmación es difícil de creer,
+
+112
+00:09:02,579 --> 00:09:04,122
+incluso de un Avatar.
+
+113
+00:09:04,205 --> 00:09:07,125
+Estos vándalos
+son de una célula anarquista
+
+114
+00:09:07,208 --> 00:09:09,753
+que mis agentes
+llevan semanas rastreando.
+
+115
+00:09:09,836 --> 00:09:14,340
+Si los escuchas, estarán jugando
+con su propia destrucción.
+
+116
+00:09:16,426 --> 00:09:18,511
+Tengo que confiar en mi consejero.
+
+117
+00:09:22,557 --> 00:09:25,143
+¡Esperen! Puedo demostrar que miente.
+
+118
+00:09:25,727 --> 00:09:28,062
+Long Feng dijo que
+nunca vio un bisonte.
+
+119
+00:09:28,354 --> 00:09:29,981
+Que se levante la túnica.
+
+120
+00:09:30,064 --> 00:09:32,817
+¿Qué? No me voy a desnudar.
+
+121
+00:09:39,240 --> 00:09:41,451
+¡Justo ahí! ¡Appa le mordió!
+
+122
+00:09:41,534 --> 00:09:43,661
+Nunca viste un bisonte, ¿eh?
+
+123
+00:09:44,370 --> 00:09:47,248
+Es una gran marca de nacimiento.
+
+124
+00:09:47,332 --> 00:09:49,250
+Gracias por mostrársela a todos.
+
+125
+00:09:49,459 --> 00:09:52,796
+No hay forma de demostrar
+de qué son esas marcas.
+
+126
+00:09:52,879 --> 00:09:54,339
+Claro que la hay.
+
+127
+00:09:59,719 --> 00:10:01,763
+Sí, eso lo prueba.
+
+128
+00:10:02,764 --> 00:10:05,016
+¡Sí!
+
+129
+00:10:05,099 --> 00:10:08,228
+Pero no prueba
+la loca teoría de la conspiración.
+
+130
+00:10:10,021 --> 00:10:12,982
+Aunque merece la pena
+investigar el asunto.
+
+131
+00:10:14,734 --> 00:10:16,945
+- Lo aceptamos.
+- Sí, está bien.
+
+132
+00:10:26,204 --> 00:10:27,413
+Estás ardiendo.
+
+133
+00:10:28,122 --> 00:10:30,124
+Tienes mucha fiebre.
+
+134
+00:10:30,208 --> 00:10:32,752
+Esto te ayudará a enfriarte.
+
+135
+00:10:32,836 --> 00:10:33,962
+Tengo sed.
+
+136
+00:10:37,757 --> 00:10:40,051
+Aquí tienes agua limpia para beber.
+
+137
+00:10:40,134 --> 00:10:42,720
+Quédate debajo de las mantas
+y suda un poco.
+
+138
+00:11:03,199 --> 00:11:05,577
+Así que esto es un tren.
+
+139
+00:11:05,994 --> 00:11:07,829
+No me di cuenta de que sería...
+
+140
+00:11:08,788 --> 00:11:09,788
+tan público.
+
+141
+00:11:10,206 --> 00:11:13,209
+¿Nunca saliste del anillo superior?
+
+142
+00:11:13,293 --> 00:11:15,169
+Nunca he salido del palacio.
+
+143
+00:11:15,712 --> 00:11:17,422
+Así se viaja.
+
+144
+00:11:20,133 --> 00:11:22,677
+¿Puedo preguntar adónde vamos?
+
+145
+00:11:23,177 --> 00:11:27,557
+Debajo del lago Laogai, Su Reicidad,
+al cuartel secreto de los Dai Li.
+
+146
+00:11:27,807 --> 00:11:31,811
+Verás donde se realizan
+los lavados de cerebro y la conspiración.
+
+147
+00:11:42,614 --> 00:11:44,073
+Ya no está.
+
+148
+00:11:44,490 --> 00:11:45,950
+Oh, no me digas...
+
+149
+00:11:46,826 --> 00:11:49,746
+No importa.
+Todavía tengo mi actitud positiva.
+
+150
+00:11:49,829 --> 00:11:53,166
+Los Dai Li sabían que veníamos
+y destruyeron las pruebas.
+
+151
+00:11:54,292 --> 00:11:56,753
+Eso parece muy conveniente.
+
+152
+00:11:56,836 --> 00:12:00,673
+Eh, si acaso, esto prueba
+que la conspiración existe aún más.
+
+153
+00:12:01,424 --> 00:12:04,510
+Long Feng tenía razón.
+Esto es una pérdida de tiempo.
+
+154
+00:12:04,886 --> 00:12:06,054
+Si me disculpan,
+
+155
+00:12:06,554 --> 00:12:08,348
+vuelvo al palacio.
+
+156
+00:12:09,223 --> 00:12:12,310
+¡La muralla! Nunca podrían ocultarlo
+a tiempo.
+
+157
+00:12:12,393 --> 00:12:13,394
+¡Sí!
+
+158
+00:12:15,480 --> 00:12:20,360
+Si nos acompaña a la muralla exterior,
+podemos demostrarle que la guerra es real.
+
+159
+00:12:20,443 --> 00:12:23,112
+Ningún Rey ha estado
+en la muralla exterior.
+
+160
+00:12:23,738 --> 00:12:26,366
+No tengo tiempo para esta tontería.
+
+161
+00:12:28,076 --> 00:12:31,329
+Si viene con nosotros,
+podrá montar en Appa.
+
+162
+00:12:37,043 --> 00:12:38,378
+¿Su primer vuelo?
+
+163
+00:12:38,461 --> 00:12:41,339
+Es emocionante y aterrador.
+
+164
+00:12:41,422 --> 00:12:43,007
+Sí, yo también lo odio.
+
+165
+00:12:43,925 --> 00:12:45,426
+Tengo que ser sincero...
+
+166
+00:12:45,927 --> 00:12:49,305
+Una parte de mí quiere que lo que me dicen
+sobre la guerra
+
+167
+00:12:49,389 --> 00:12:50,473
+no sea verdad.
+
+168
+00:12:51,349 --> 00:12:52,433
+Ojalá no lo fuera.
+
+169
+00:13:13,162 --> 00:13:14,539
+<i>Se hace tarde.</i>
+
+170
+00:13:14,622 --> 00:13:17,375
+<i>¿Piensa retirarse pronto, milord?</i>
+
+171
+00:13:18,251 --> 00:13:19,335
+No estoy cansado.
+
+172
+00:13:20,044 --> 00:13:22,171
+<i>Tranquilo, Señor del Fuego Zuko.</i>
+
+173
+00:13:22,255 --> 00:13:25,258
+<i>Déjelo ir, ceda,</i>
+
+174
+00:13:25,341 --> 00:13:27,260
+<i>cierre los ojos un momento.</i>
+
+175
+00:13:27,844 --> 00:13:29,387
+<i>¡No, Señor del Fuego Zuko!</i>
+
+176
+00:13:30,304 --> 00:13:32,640
+<i>No escuche al dragón azul.</i>
+
+177
+00:13:32,724 --> 00:13:35,309
+<i>Debería irse de aquí ahora mismo.</i>
+
+178
+00:13:35,393 --> 00:13:37,979
+<i>¡Váyase, antes de que sea demasiado tarde!</i>
+
+179
+00:13:39,689 --> 00:13:42,525
+<i>Duerma, Señor del Fuego Zuko.</i>
+
+180
+00:13:54,871 --> 00:13:56,205
+<i>Duerma,</i>
+
+181
+00:13:56,289 --> 00:13:58,249
+<i>¡como su madre!</i>
+
+182
+00:14:00,293 --> 00:14:02,962
+<i>¡Zuko, ayúdame!</i>
+
+183
+00:14:10,636 --> 00:14:11,721
+¡Sigue ahí!
+
+184
+00:14:13,848 --> 00:14:15,349
+¿Qué es eso?
+
+185
+00:14:15,433 --> 00:14:18,853
+Un taladro gigante que ha hecho
+la Nación de Fuego
+
+186
+00:14:18,936 --> 00:14:20,813
+para atravesar su muralla.
+
+187
+00:14:25,276 --> 00:14:27,487
+No me puedo creer que no lo supiera.
+
+188
+00:14:29,781 --> 00:14:32,450
+Puedo explicarlo, Su Majestad.
+
+189
+00:14:32,533 --> 00:14:35,745
+No es nada más
+que un proyecto de construcción.
+
+190
+00:14:35,828 --> 00:14:36,954
+¿De verdad?
+
+191
+00:14:37,038 --> 00:14:40,958
+Entonces explícanos por qué hay
+una insignia de la Nación del Fuego
+
+192
+00:14:41,042 --> 00:14:42,919
+en su proyecto.
+
+193
+00:14:44,295 --> 00:14:46,422
+Bueno, es importado, por supuesto.
+
+194
+00:14:46,506 --> 00:14:48,883
+No confío en la
+maquinaria doméstica.
+
+195
+00:14:52,011 --> 00:14:55,556
+¿No creerá a estos niños
+en vez de a su asistente más leal?
+
+196
+00:15:02,855 --> 00:15:05,108
+Dai Li, arresten a Long Feng.
+
+197
+00:15:05,191 --> 00:15:08,778
+Se le juzgará
+por crímenes contra el Reino de la Tierra.
+
+198
+00:15:19,413 --> 00:15:20,832
+No puede arrestarme.
+
+199
+00:15:20,915 --> 00:15:22,834
+¡Me necesita más de lo que cree!
+
+200
+00:15:23,251 --> 00:15:26,254
+Parece que Long Feng ha desaparecido.
+
+201
+00:15:27,755 --> 00:15:30,508
+Oh, sí.
+Deseaba decir eso.
+
+202
+00:15:36,196 --> 00:15:39,824
+Quiero agradecerles, jóvenes héroes,
+que me abrieran los ojos.
+
+203
+00:15:39,950 --> 00:15:44,412
+Todo este tiempo, lo que creía una gran
+metrópolis era una ciudad de tontos.
+
+204
+00:15:44,913 --> 00:15:47,666
+Y eso me convierte
+en el rey de los tontos.
+
+205
+00:15:49,334 --> 00:15:52,087
+Estamos en guerra con la Nación del Fuego.
+
+206
+00:15:52,587 --> 00:15:54,923
+Por eso vinimos a Ba Sing Se, Alteza,
+
+207
+00:15:55,006 --> 00:15:57,217
+porque creemos que puede ayudarnos.
+
+208
+00:15:57,926 --> 00:15:59,386
+No tenemos mucho tiempo.
+
+209
+00:15:59,469 --> 00:16:01,179
+Habrá un cometa este verano
+
+210
+00:16:01,263 --> 00:16:04,808
+que le dará a los maestros del fuego
+un poder increíble.
+
+211
+00:16:04,891 --> 00:16:06,142
+Serán imparables.
+
+212
+00:16:06,226 --> 00:16:07,852
+Pero hay esperanza.
+
+213
+00:16:07,936 --> 00:16:10,480
+Antes del cometa,
+tenemos una oportunidad.
+
+214
+00:16:10,563 --> 00:16:12,399
+Se acerca un eclipse solar.
+
+215
+00:16:13,066 --> 00:16:17,737
+El sol quedará oculto por la luna,
+y los maestros fuego estarán indefensos.
+
+216
+00:16:17,862 --> 00:16:19,281
+¿Qué insinúas, Sokka?
+
+217
+00:16:19,364 --> 00:16:22,158
+Ese día tenemos que
+invadir la Nación del Fuego.
+
+218
+00:16:23,326 --> 00:16:25,036
+El día del Sol Negro.
+
+219
+00:16:26,579 --> 00:16:27,914
+No sé.
+
+220
+00:16:27,998 --> 00:16:30,667
+Eso requeriría mover tropas
+de Ba Sing Se.
+
+221
+00:16:30,750 --> 00:16:32,377
+Seríamos muy vulnerables.
+
+222
+00:16:32,460 --> 00:16:34,379
+Ya son vulnerables.
+
+223
+00:16:34,921 --> 00:16:38,675
+La Nación del Fuego no se detendrá
+hasta que Ba Sing Se caiga.
+
+224
+00:16:38,758 --> 00:16:41,636
+Pueden quedarse quietos
+y esperar a que eso suceda
+
+225
+00:16:41,720 --> 00:16:45,223
+o tomar la ofensiva
+y tener una oportunidad de luchar.
+
+226
+00:16:49,436 --> 00:16:51,604
+Muy bien. Tienen mi apoyo.
+
+227
+00:16:52,772 --> 00:16:55,567
+- ¡Sí!
+- ¡Sí! ¡Buen equipo!
+
+228
+00:16:56,234 --> 00:16:57,652
+Majestad...
+
+229
+00:16:59,696 --> 00:17:01,698
+Lamento la interrupción.
+
+230
+00:17:02,741 --> 00:17:04,242
+Este es el General How.
+
+231
+00:17:04,326 --> 00:17:08,413
+Es el líder del Consejo de los Cinco,
+mis generales de más alto rango.
+
+232
+00:17:09,456 --> 00:17:14,377
+Hemos registrado el despacho de Long Feng
+y encontramos algo que les va a interesar.
+
+233
+00:17:16,212 --> 00:17:19,507
+Hay archivos secretos
+de todo el mundo en Ba Sing Se,
+
+234
+00:17:20,258 --> 00:17:21,551
+incluidos ustedes.
+
+235
+00:17:22,052 --> 00:17:23,219
+¿Archivos secretos?
+
+236
+00:17:23,970 --> 00:17:25,221
+Toph Beifong.
+
+237
+00:17:28,224 --> 00:17:29,726
+Es una carta de tu madre.
+
+238
+00:17:30,226 --> 00:17:31,853
+Tu madre está en la ciudad,
+
+239
+00:17:31,978 --> 00:17:33,313
+y quiere verte.
+
+240
+00:17:34,022 --> 00:17:36,858
+¿Wong Feng interceptó nuestras cartas
+de casa?
+
+241
+00:17:36,941 --> 00:17:38,151
+Qué triste.
+
+242
+00:17:38,693 --> 00:17:39,527
+Aang...
+
+243
+00:17:39,611 --> 00:17:44,366
+Tu bisonte llevaba esto en el
+cuerno cuando lo capturaron los Dai Li.
+
+244
+00:17:44,699 --> 00:17:46,910
+Es del Templo del Aire del Este.
+
+245
+00:17:47,619 --> 00:17:51,456
+¿Hay alguna carta para Sokka y para mí?
+
+246
+00:17:52,874 --> 00:17:54,000
+Me temo que no.
+
+247
+00:17:56,795 --> 00:18:00,256
+Pero hay un informe de inteligencia
+que podría interesarles.
+
+248
+00:18:00,632 --> 00:18:03,134
+¿Una pequeña flota
+de la Tribu del Agua?
+
+249
+00:18:03,218 --> 00:18:05,345
+¿Qué? ¡Podría ser papá!
+
+250
+00:18:05,428 --> 00:18:09,057
+¡Protegiendo la
+Bahía del Camaleón liderada por Hakoda!
+
+251
+00:18:09,140 --> 00:18:10,183
+¡Es papá!
+
+252
+00:18:13,144 --> 00:18:16,606
+Deberías saber
+que no es una enfermedad natural,
+
+253
+00:18:16,689 --> 00:18:19,818
+pero eso no debería impedirte
+disfrutar del té.
+
+254
+00:18:21,236 --> 00:18:22,236
+¿Qué pasa?
+
+255
+00:18:22,529 --> 00:18:24,614
+Tu decisión crítica,
+
+256
+00:18:24,697 --> 00:18:27,117
+lo que hiciste debajo de ese lago,
+
+257
+00:18:27,200 --> 00:18:31,037
+estaba en tal conflicto
+con tu imagen de ti mismo
+
+258
+00:18:31,121 --> 00:18:35,834
+que ahora estás en guerra
+con tu mente y tu cuerpo.
+
+259
+00:18:36,543 --> 00:18:37,669
+¿Qué significa eso?
+
+260
+00:18:40,964 --> 00:18:44,551
+Estás pasando por
+una metamorfosis, sobrino.
+
+261
+00:18:44,634 --> 00:18:47,429
+No será una experiencia agradable.
+
+262
+00:18:48,096 --> 00:18:49,848
+Pero cuando salgas de ella,
+
+263
+00:18:49,931 --> 00:18:54,310
+serás el hermoso príncipe
+que siempre estuviste destinado a ser.
+
+264
+00:18:56,229 --> 00:18:59,858
+Increíble. Un hombre
+vive en el Templo del Aire del Este.
+
+265
+00:18:59,941 --> 00:19:01,401
+Dice que es un gurú.
+
+266
+00:19:01,484 --> 00:19:04,446
+¿Qué es un gurú?
+¿Algún tipo de pez globo venenoso?
+
+267
+00:19:04,737 --> 00:19:06,656
+No, un experto espiritual.
+
+268
+00:19:06,739 --> 00:19:09,826
+Quiere ayudarme a
+avanzar en el viaje Avatar.
+
+269
+00:19:09,909 --> 00:19:12,370
+Me enseñará
+a controlar el estado Avatar.
+
+270
+00:19:12,454 --> 00:19:15,206
+No me puedo creer que
+sepamos dónde está papá.
+
+271
+00:19:15,748 --> 00:19:17,250
+Sé a lo que te refieres.
+
+272
+00:19:17,333 --> 00:19:18,585
+Mi madre está aquí
+
+273
+00:19:18,668 --> 00:19:22,130
+y por su carta, parece que
+por fin me entiende.
+
+274
+00:19:22,213 --> 00:19:24,215
+Son todo buenas noticias.
+
+275
+00:19:24,299 --> 00:19:25,842
+¿Por dónde empezamos?
+
+276
+00:19:25,925 --> 00:19:27,427
+Odio decirlo, pero...
+
+277
+00:19:28,094 --> 00:19:29,637
+tenemos que separarnos.
+
+278
+00:19:29,721 --> 00:19:33,266
+¿Separarnos? Acabamos de encontrar a Appa
+y de reunirnos.
+
+279
+00:19:33,349 --> 00:19:35,393
+¿Ahora quieres que nos separemos?
+
+280
+00:19:36,644 --> 00:19:38,646
+Tienes que conocer a ese gurú.
+
+281
+00:19:38,730 --> 00:19:41,900
+Tienes que prepararte para invadir
+la Nación de Fuego.
+
+282
+00:19:43,151 --> 00:19:46,446
+Si voy al Templo del Aire del Este
+los dejaré en la bahía
+
+283
+00:19:46,529 --> 00:19:48,490
+para que vean a su padre.
+
+284
+00:19:49,115 --> 00:19:52,744
+Alguien tiene que quedarse y
+y ayudar al Rey con la invasión.
+
+285
+00:19:52,827 --> 00:19:54,037
+Lo haré yo.
+
+286
+00:19:54,120 --> 00:19:56,956
+No. Sé lo mucho que
+quieres ayudar a papá.
+
+287
+00:19:57,040 --> 00:19:59,751
+Vete a la bahía.
+Yo me quedaré con el Rey.
+
+288
+00:20:01,294 --> 00:20:05,882
+¡Eres la mejor hermana del mundo!
+
+289
+00:20:07,717 --> 00:20:09,260
+Tranquilo, hermano mayor.
+
+290
+00:20:09,844 --> 00:20:11,346
+Aunque tienes razón.
+
+291
+00:20:18,228 --> 00:20:19,521
+Katara,
+
+292
+00:20:19,604 --> 00:20:21,189
+tengo que decirte algo.
+
+293
+00:20:21,814 --> 00:20:23,942
+Llevo tiempo queriéndotelo decir.
+
+294
+00:20:24,025 --> 00:20:25,025
+¿Qué es, Aang?
+
+295
+00:20:25,568 --> 00:20:27,487
+Katara, yo...
+
+296
+00:20:27,570 --> 00:20:31,699
+¡De acuerdo! ¿Quién está listo
+para hacer un viaje de chicos?
+
+297
+00:20:33,368 --> 00:20:35,245
+Aang y Sokka,
+
+298
+00:20:35,328 --> 00:20:36,704
+Les deseo un buen viaje.
+
+299
+00:20:37,163 --> 00:20:39,207
+Ba Sing Se les está agradecida
+
+300
+00:20:39,290 --> 00:20:41,626
+y espera que vuelvan sanos y salvos.
+
+301
+00:20:43,253 --> 00:20:46,339
+Majestad,
+han venido a verlo tres guerreras.
+
+302
+00:20:46,422 --> 00:20:48,007
+Son de la isla de Kyoshi.
+
+303
+00:20:48,091 --> 00:20:49,300
+¡Es Suki!
+
+304
+00:20:51,844 --> 00:20:53,388
+¿Conoces a esas guerreras?
+
+305
+00:20:53,471 --> 00:20:54,347
+Sí.
+
+306
+00:20:54,430 --> 00:20:58,226
+Las guerreras de Kyoshi son buenas
+luchadoras y de confianza.
+
+307
+00:20:58,309 --> 00:20:59,936
+Son amigas nuestras.
+
+308
+00:21:01,646 --> 00:21:04,190
+Las recibiremos
+como invitadas de honor.
+
+309
+00:21:05,316 --> 00:21:06,359
+Aang, espera...
+
+310
+00:21:13,116 --> 00:21:15,326
+Los voy a echar de menos.
+
+311
+00:21:15,410 --> 00:21:16,786
+- Yo también.
+- Sí.
+
+312
+00:21:20,832 --> 00:21:22,500
+Genial. Ya es suficiente.
+
+313
+00:21:23,042 --> 00:21:25,962
+Bien, nos queremos. En serio.
+
+314
+00:22:04,000 --> 00:22:07,003
+¿Ves Aang?
+El pensamiento positivo hace maravillas.
+
+315
+00:22:07,086 --> 00:22:09,672
+El Rey nos apoya,
+arrestaron a Long Feng,
+
+316
+00:22:09,756 --> 00:22:12,717
+y cuando volvamos,
+Suki me estará esperando.
+
+317
+00:22:12,800 --> 00:22:15,845
+Sí... las chicas nos esperan.
+
+318
+00:22:16,429 --> 00:22:17,972
+Gracias, actitud positiva.
+
+319
+00:22:18,056 --> 00:22:20,725
+Todo va a salir perfecto,
+
+320
+00:22:20,808 --> 00:22:22,727
+de ahora en adelante.
+
+321
+00:22:31,527 --> 00:22:32,570
+La cena.
+
+322
+00:22:32,654 --> 00:22:36,741
+El Consejo de los Cinco y los militares
+son leales al Rey,
+
+323
+00:22:36,824 --> 00:22:39,577
+pero el Dai Li le sigue siendo leal,
+
+324
+00:22:39,661 --> 00:22:41,496
+Long Feng, señor.
+
+325
+00:22:56,803 --> 00:22:58,888
+¿Hola? ¿Mamá?
+
+326
+00:22:59,472 --> 00:23:00,807
+¿Hay alguien en casa?
+
+327
+00:23:06,646 --> 00:23:09,691
+¡Oye! ¿Con quién crees que estás tratando?
+
+328
+00:23:10,650 --> 00:23:14,987
+Con una mocosa bocazas
+que se alejó demasiado de casa.
+
+329
+00:23:25,164 --> 00:23:27,959
+En este momento de necesidad,
+es un gran honor
+
+330
+00:23:28,042 --> 00:23:31,838
+darle la bienvenida a nuestras aliadas,
+las guerreras Kyoshi.
+
+331
+00:23:33,589 --> 00:23:36,676
+Somos las humildes servidoras
+del Rey de la Tierra.
+

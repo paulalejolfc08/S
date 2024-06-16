@@ -1,0 +1,1271 @@
+1
+00:00:02,415 --> 00:00:03,415
+<i>Agua.</i>
+
+2
+00:00:04,792 --> 00:00:05,792
+<i>Tierra.</i>
+
+3
+00:00:06,753 --> 00:00:07,753
+<i>Fuego.</i>
+
+4
+00:00:08,880 --> 00:00:09,880
+<i>Aire.</i>
+
+5
+00:00:11,090 --> 00:00:14,594
+<i>Hace mucho, las cuatro naciones
+vivían en paz.</i>
+
+6
+00:00:15,261 --> 00:00:18,723
+<i>Pero todo cambió
+cuando la Nación del Fuego atacó.</i>
+
+7
+00:00:19,557 --> 00:00:23,603
+<i>Solo el Avatar, maestro de los
+cuatro elementos, podía detenerlos,</i>
+
+8
+00:00:23,686 --> 00:00:26,773
+<i>pero cuando el mundo
+más lo necesitaba, desapareció.</i>
+
+9
+00:00:26,981 --> 00:00:31,027
+<i>Han pasado cien años y mi hermano
+y yo encontramos al Avatar,</i>
+
+10
+00:00:31,110 --> 00:00:32,737
+<i>un maestro del aire llamado Aang.</i>
+
+11
+00:00:32,820 --> 00:00:34,989
+<i>Y aunque su dominio del aire
+es genial,</i>
+
+12
+00:00:35,073 --> 00:00:38,534
+<i>tiene mucho que aprender
+antes de poder salvar a alguien.</i>
+
+13
+00:00:38,785 --> 00:00:42,121
+<i>Pero creo que Aang
+puede salvar el mundo.</i>
+
+14
+00:00:42,329 --> 00:00:46,417
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:49,341 --> 00:00:53,441
+LIBRO UNO: AGUA
+CAPÍTULO ONCE: LA GRAN DIVISIÓN
+
+16
+00:01:01,647 --> 00:01:03,441
+¿No olvidaste el toldo?
+
+17
+00:01:03,524 --> 00:01:04,817
+Sí, es verdad.
+
+18
+00:01:05,359 --> 00:01:10,740
+Sokka, el toldo va sobre la tienda
+para que no entre la lluvia.
+
+19
+00:01:10,823 --> 00:01:12,492
+Sí, tendrías razón,
+
+20
+00:01:12,575 --> 00:01:15,203
+salvo porque es la estación seca.
+
+21
+00:01:15,286 --> 00:01:17,497
+El toldo servirá de manta.
+
+22
+00:01:17,580 --> 00:01:18,915
+¿Y si llueve?
+
+23
+00:01:18,998 --> 00:01:22,043
+¿Y si no? El toldo no serviría.
+
+24
+00:01:22,752 --> 00:01:24,170
+¡Eres exasperante!
+
+25
+00:01:24,253 --> 00:01:26,798
+Katara, ¿por qué no recoges leña?
+
+26
+00:01:26,881 --> 00:01:29,634
+Esos pedacitos de madera no sirven.
+
+27
+00:01:30,343 --> 00:01:32,178
+¡Si no te gustan...!
+
+28
+00:01:33,679 --> 00:01:36,599
+¡Bien! ¡No hagas tu trabajo...!
+
+29
+00:01:37,600 --> 00:01:42,688
+Traeré la comida si ustedes...
+¿Qué pasó con la fogata y la tienda?
+
+30
+00:01:42,772 --> 00:01:46,109
+Ella es la sabelotodo,
+reina de las ramitas.
+
+31
+00:01:46,192 --> 00:01:49,070
+Ah, ¿sí? Tú eres un perezoso,
+
+32
+00:01:49,153 --> 00:01:51,197
+¡rey de la tienda!
+
+33
+00:01:52,782 --> 00:01:56,786
+Chicos, insultar no resuelve nada.
+
+34
+00:01:56,869 --> 00:01:59,914
+La acción sí. ¿Y si cambian de tareas?
+
+35
+00:01:59,997 --> 00:02:01,124
+- Claro.
+- Sí.
+
+36
+00:02:01,207 --> 00:02:02,041
+¿Ven?
+
+37
+00:02:02,125 --> 00:02:06,754
+Resolver peleas y hacer la paz,
+un día de trabajo del Avatar.
+
+38
+00:02:22,645 --> 00:02:26,274
+Momo, es justo.
+Appa tiene cinco estómagos.
+
+39
+00:02:30,987 --> 00:02:33,823
+Ahí está: la gran división.
+
+40
+00:02:33,906 --> 00:02:34,740
+Guau.
+
+41
+00:02:34,824 --> 00:02:36,868
+Me quedaría para siempre.
+
+42
+00:02:36,951 --> 00:02:38,619
+Listo, ya lo vi.
+
+43
+00:02:38,703 --> 00:02:41,330
+¿Por qué no te fascina, Sokka?
+
+44
+00:02:41,414 --> 00:02:44,041
+Es el cañón más grande del mundo.
+
+45
+00:02:44,125 --> 00:02:47,920
+Lo veremos desde el aire mientras volamos.
+
+46
+00:02:48,004 --> 00:02:51,257
+¡Si busca al guía, yo llegué primero!
+
+47
+00:02:51,340 --> 00:02:54,010
+Ay, el guía, qué informativo.
+
+48
+00:02:54,093 --> 00:02:57,722
+Él es más que un guía.
+Es un maestro de Tierra.
+
+49
+00:02:57,805 --> 00:03:01,058
+Solo con él se entra y se sale del cañón.
+
+50
+00:03:01,142 --> 00:03:03,186
+¡Ahora llevará a mi tribu!
+
+51
+00:03:03,269 --> 00:03:04,979
+Calma, ya entendimos.
+
+52
+00:03:05,062 --> 00:03:09,108
+¿Y si la nación de Fuego
+destruyera su hogar?
+
+53
+00:03:09,192 --> 00:03:13,821
+Mi tribu caminará kilómetros
+hasta la ciudad de Ba Sing Se.
+
+54
+00:03:13,905 --> 00:03:17,200
+- Es un refugiado.
+- Obviamente.
+
+55
+00:03:20,203 --> 00:03:21,495
+¿Es su tribu?
+
+56
+00:03:21,579 --> 00:03:23,122
+¡Claro que no!
+
+57
+00:03:23,206 --> 00:03:26,626
+<i>Es la tribu Zhang,
+son ladrones de lo peor.</i>
+
+58
+00:03:26,709 --> 00:03:29,629
+Hace 100 años que somos enemigos.
+
+59
+00:03:30,713 --> 00:03:35,509
+Escuchen, ya tengo un lugar para mi tribu,
+no lo robarán.
+
+60
+00:03:35,593 --> 00:03:37,720
+¿Y los demás Gan Jin?
+
+61
+00:03:37,803 --> 00:03:40,556
+¿Acomodan el campamento?
+
+62
+00:03:40,640 --> 00:03:43,476
+Sí, y yo vine para conseguir lugar.
+
+63
+00:03:43,559 --> 00:03:47,855
+- No sabía que había que reservar.
+- Claro que no sabes.
+
+64
+00:03:47,939 --> 00:03:53,653
+Los Zhang son ignorantes
+y desorganizados para viajar.
+
+65
+00:03:53,736 --> 00:03:55,446
+Ey, ¿qué dijiste?
+
+66
+00:04:04,664 --> 00:04:07,083
+Perdón por la demora, jóvenes.
+
+67
+00:04:07,166 --> 00:04:10,127
+¿Quién quiere cruzar el cañón?
+
+68
+00:04:11,212 --> 00:04:12,630
+Uno de ellos.
+
+69
+00:04:12,713 --> 00:04:14,757
+¡Yo! Ya viene mi grupo.
+
+70
+00:04:14,840 --> 00:04:17,551
+Si no están, no puedo guiarlos.
+
+71
+00:04:17,635 --> 00:04:20,179
+Parece que viajarán mañana.
+
+72
+00:04:22,181 --> 00:04:23,557
+¡Ey, allí vienen!
+
+73
+00:04:30,356 --> 00:04:33,693
+No llevará a estos Gan Jin malcriados.
+
+74
+00:04:33,776 --> 00:04:38,030
+También somos refugiados
+y tenemos enfermos.
+
+75
+00:04:38,114 --> 00:04:39,490
+Bueno...
+
+76
+00:04:39,573 --> 00:04:42,201
+Hay ancianos cansados de viajar.
+
+77
+00:04:42,743 --> 00:04:45,079
+Los enfermos, primero.
+
+78
+00:04:45,162 --> 00:04:48,082
+No tendrían tantos enfermos
+
+79
+00:04:48,165 --> 00:04:50,042
+si no fueran tan sucios.
+
+80
+00:04:50,126 --> 00:04:54,839
+Si no fueran tan limpios,
+no vivirían tanto.
+
+81
+00:04:54,922 --> 00:04:55,923
+Y su olor...
+
+82
+00:04:56,007 --> 00:04:59,260
+Aang, ¿listo para ayudar a hacer la paz?
+
+83
+00:04:59,343 --> 00:05:05,349
+Pelear por las tareas es una cosa,
+pero hace 100 años que ellos son enemigos.
+
+84
+00:05:05,433 --> 00:05:07,351
+¡Miren!
+
+85
+00:05:07,435 --> 00:05:08,978
+Él es el Avatar.
+
+86
+00:05:09,061 --> 00:05:14,400
+Si lo escuchan, él logrará un acuerdo
+que dejará contentos a todos.
+
+87
+00:05:16,610 --> 00:05:19,905
+¿Y si viajan todos juntos con el maestro?
+
+88
+00:05:19,989 --> 00:05:25,536
+Preferimos estar con la nación de Fuego
+que viajar con ladrones olorosos.
+
+89
+00:05:25,619 --> 00:05:28,414
+No iríamos con esos presuntuosos.
+
+90
+00:05:28,497 --> 00:05:31,375
+- No soy pomposo.
+- ¡Bueno, basta!
+
+91
+00:05:31,459 --> 00:05:35,880
+¡Todos irán juntos,
+y Appa llevará ancianos y enfermos!
+
+92
+00:05:35,963 --> 00:05:37,506
+¿Les parece justo?
+
+93
+00:05:47,892 --> 00:05:51,187
+Perdón, Appa, lo harás solo.
+
+94
+00:05:51,270 --> 00:05:53,606
+Aang, esta pelea es grave.
+
+95
+00:05:53,689 --> 00:05:55,649
+¿Está bien involucrarnos?
+
+96
+00:05:55,733 --> 00:06:00,404
+Sinceramente, no sé. Nunca estoy seguro.
+
+97
+00:06:00,488 --> 00:06:04,200
+Es el Avatar, Sokka.
+Debe restablecer la paz.
+
+98
+00:06:04,784 --> 00:06:07,703
+No, nos hará cruzar este lugar a pie.
+
+99
+00:06:07,787 --> 00:06:10,164
+Bien, malas noticias.
+
+100
+00:06:10,247 --> 00:06:13,125
+No lleven comida al cañón.
+
+101
+00:06:13,209 --> 00:06:16,670
+Atrae a los predadores.
+
+102
+00:06:17,296 --> 00:06:19,465
+¿Qué? Es ridículo.
+
+103
+00:06:19,548 --> 00:06:23,886
+Ay, los bebés no pueden ayunar un día.
+
+104
+00:06:24,178 --> 00:06:26,806
+¿Prefieren tener hambre o morirse?
+
+105
+00:06:28,057 --> 00:06:30,559
+¡Nos vamos en diez minutos!
+
+106
+00:06:30,643 --> 00:06:34,188
+¡Toda la comida al estómago o a la basura!
+
+107
+00:06:40,611 --> 00:06:43,572
+Appa los cuidará hasta que lleguemos.
+
+108
+00:06:44,824 --> 00:06:47,410
+Nos vemos del otro lado, amigo.
+
+109
+00:07:01,424 --> 00:07:02,967
+¡Qué buen dominio!
+
+110
+00:07:03,759 --> 00:07:06,720
+Es mucho más que dominar, hijo.
+
+111
+00:07:06,804 --> 00:07:08,973
+La gente quiere información.
+
+112
+00:07:10,015 --> 00:07:14,353
+Seguro quieren saber
+cómo se forman los cañones.
+
+113
+00:07:14,437 --> 00:07:20,025
+El cañón fue tallado
+por los espíritus de Tierra
+
+114
+00:07:20,109 --> 00:07:22,695
+que se enojaron con los granjeros
+
+115
+00:07:22,778 --> 00:07:26,323
+porque no le ofrecieron un sacrificio.
+
+116
+00:07:35,040 --> 00:07:37,376
+Supongo que siguen enojados.
+
+117
+00:07:37,835 --> 00:07:40,254
+Ojalá hayan traído sacrificios.
+
+118
+00:07:45,050 --> 00:07:48,721
+Bien, aléjense de la pared.
+
+119
+00:07:54,226 --> 00:07:58,856
+- ¿Por qué hizo eso?
+- Porque huyen de la nación de Fuego.
+
+120
+00:07:58,939 --> 00:08:01,484
+Me aseguro de que no nos sigan.
+
+121
+00:08:01,567 --> 00:08:02,985
+Estaremos seguros.
+
+122
+00:08:08,073 --> 00:08:09,950
+¡Ayudémoslo!
+
+123
+00:08:15,080 --> 00:08:17,458
+¡Ahora ayúdenme!
+
+124
+00:08:37,811 --> 00:08:38,812
+¿Qué fue eso?
+
+125
+00:08:38,896 --> 00:08:40,439
+Un gusano del cañón.
+
+126
+00:08:42,191 --> 00:08:44,235
+Seguramente hay más.
+
+127
+00:08:44,318 --> 00:08:46,695
+Se fracturó los brazos.
+
+128
+00:08:46,779 --> 00:08:49,490
+No podré dominar la Tierra.
+
+129
+00:08:49,573 --> 00:08:52,618
+- O sea...
+- Estamos atrapados aquí.
+
+130
+00:09:03,386 --> 00:09:08,307
+Creí que tirábamos la comida
+para no lidiar con cosas así.
+
+131
+00:09:08,391 --> 00:09:13,396
+Los Zhang seguro trajeron comida,
+aunque el guía les dijo que no.
+
+132
+00:09:13,479 --> 00:09:17,191
+¿Qué? Los únicos
+que no pueden ayunar un día
+
+133
+00:09:17,275 --> 00:09:19,443
+son ustedes, consentidos.
+
+134
+00:09:19,527 --> 00:09:23,072
+Estamos atrapados aquí, los felicito.
+
+135
+00:09:23,155 --> 00:09:25,491
+Ustedes escondieron la comida.
+
+136
+00:09:25,575 --> 00:09:27,952
+Si nos mantenemos juntos...
+
+137
+00:09:28,035 --> 00:09:30,746
+¡No daré un paso más con estos!
+
+138
+00:09:30,830 --> 00:09:33,833
+Por fin, estamos de acuerdo.
+
+139
+00:09:33,916 --> 00:09:34,917
+¿Alguna idea?
+
+140
+00:09:35,001 --> 00:09:38,337
+No puedo usar mi poder, salgamos de aquí.
+
+141
+00:09:38,421 --> 00:09:43,134
+No moriré, no seré parte
+de la cadena alimenticia.
+
+142
+00:09:43,968 --> 00:09:47,096
+¿Ven? Esto es culpa de ustedes.
+
+143
+00:09:47,179 --> 00:09:50,600
+Claro, culpen a los Zhang, como siempre.
+
+144
+00:09:50,683 --> 00:09:51,809
+Es un placer.
+
+145
+00:09:51,893 --> 00:09:52,977
+¡Basta!
+
+146
+00:09:53,060 --> 00:09:56,522
+Creí que nos ayudarían, pero veo que no.
+
+147
+00:09:59,150 --> 00:10:03,321
+Los Gan Jin irán de un lado,
+los Zhang, del otro.
+
+148
+00:10:03,404 --> 00:10:05,615
+Viajaremos en dos hileras.
+
+149
+00:10:12,204 --> 00:10:15,917
+Sokka, ve con los Zhang,
+Katara, con los Gan Jin.
+
+150
+00:10:16,000 --> 00:10:19,170
+Averigüen por qué se odian tanto.
+
+151
+00:10:38,105 --> 00:10:40,232
+¿Ustedes no pondrán toldos?
+
+152
+00:10:40,316 --> 00:10:43,653
+- ¿Para qué? Es la estación seca.
+- Claro.
+
+153
+00:10:43,736 --> 00:10:46,489
+Nos gusta usar el toldo de manta.
+
+154
+00:10:46,572 --> 00:10:48,658
+Alguien que entiende.
+
+155
+00:10:56,248 --> 00:10:57,750
+¿Creen que lloverá?
+
+156
+00:10:57,833 --> 00:11:01,212
+No, pero hay que ser precavidos.
+
+157
+00:11:19,897 --> 00:11:21,941
+¿Quieres pan, Katara?
+
+158
+00:11:22,024 --> 00:11:24,026
+Ustedes tenían comida.
+
+159
+00:11:24,110 --> 00:11:28,531
+¿Crees que esos ladrones
+no trajeron comida?
+
+160
+00:11:28,614 --> 00:11:33,202
+¿Por qué morir de hambre
+si los Zhang se llenan la panza?
+
+161
+00:11:33,828 --> 00:11:37,331
+Si todos lo hacen, creo que está bien.
+
+162
+00:11:41,585 --> 00:11:44,839
+¿Por qué odian tanto a los Zhang?
+
+163
+00:11:44,922 --> 00:11:47,508
+Eres inteligente, Katara.
+
+164
+00:11:47,591 --> 00:11:50,469
+Seguro te gustará escuchar esto.
+
+165
+00:11:57,309 --> 00:12:01,689
+<i>Nuestro patriarca, Jin Wei,
+era un maestro de Tierra</i>
+
+166
+00:12:01,772 --> 00:12:03,774
+<i>con una misión importante:</i>
+
+167
+00:12:03,858 --> 00:12:08,029
+<i>transportar la esfera sagrada
+de la Puerta Oriental</i>
+
+168
+00:12:08,112 --> 00:12:09,905
+<i>a la Puerta Occidental.</i>
+
+169
+00:12:15,161 --> 00:12:20,541
+<i>Llevar la esfera
+representa la salida y la puesta del sol.</i>
+
+170
+00:12:20,624 --> 00:12:24,045
+<i>Era un antiguo ritual de redención.</i>
+
+171
+00:12:24,879 --> 00:12:29,425
+<i>Al llegar a la puerta,
+Jin Wei fue atacado por un Zhang,</i>
+
+172
+00:12:30,134 --> 00:12:35,431
+<i>el canalla Wei Jin,
+que envidiaba la esfera.</i>
+
+173
+00:12:35,514 --> 00:12:39,018
+<i>Ese cobarde derribó a Jin Wei</i>
+
+174
+00:12:39,101 --> 00:12:41,645
+<i>y se robó nuestra esfera.</i>
+
+175
+00:12:42,813 --> 00:12:45,441
+Nuestro pueblo nunca lo olvidó.
+
+176
+00:12:45,524 --> 00:12:48,611
+No confíes en un Zhang.
+
+177
+00:12:54,241 --> 00:12:55,576
+¿Quieres carne?
+
+178
+00:12:55,659 --> 00:12:56,660
+¿En serio?
+
+179
+00:12:57,411 --> 00:12:58,954
+Sé lo que piensas.
+
+180
+00:12:59,038 --> 00:13:02,416
+Arriesgamos a todos con esta comida.
+
+181
+00:13:03,709 --> 00:13:09,423
+Los Gan Jin piensan tan mal de nosotros
+que también habrán traído comida.
+
+182
+00:13:09,507 --> 00:13:11,467
+Por eso, la trajimos.
+
+183
+00:13:12,635 --> 00:13:16,639
+Hace un siglo que estamos peleados
+con los Gan Jin.
+
+184
+00:13:20,518 --> 00:13:24,688
+<i>Nuestro ancestro Wei Jin
+salía por la Puerta Occidental</i>
+
+185
+00:13:24,772 --> 00:13:27,024
+<i>cuando vio algo a lo lejos.</i>
+
+186
+00:13:27,108 --> 00:13:29,944
+<i>Era un Gan Jin.</i>
+
+187
+00:13:30,027 --> 00:13:32,571
+<i>Jin Wei cayó al piso.</i>
+
+188
+00:13:32,655 --> 00:13:34,782
+<i>Wei Jin fue a ayudarlo.</i>
+
+189
+00:13:35,407 --> 00:13:41,789
+<i>Jin Wei llevaba una esfera sagrada
+para el ritual de redención de su tribu.</i>
+
+190
+00:13:42,540 --> 00:13:47,920
+<i>Wei Jin intentó curarlo,
+pero la esfera era importante,</i>
+
+191
+00:13:48,003 --> 00:13:50,840
+<i>y Jin Wei pidió que la devolviera.</i>
+
+192
+00:13:50,923 --> 00:13:54,885
+<i>Wei Jin prometió enviarle ayuda enseguida.</i>
+
+193
+00:13:55,302 --> 00:13:59,014
+<i>Y cuando Wei Jin cruzó la frontera,</i>
+
+194
+00:13:59,723 --> 00:14:00,850
+<i>lo arrestaron.</i>
+
+195
+00:14:05,354 --> 00:14:08,524
+<i>En lugar de agradecerle por su altruismo,</i>
+
+196
+00:14:08,607 --> 00:14:11,694
+<i>lo condenaron a 20 años de cárcel.</i>
+
+197
+00:14:13,654 --> 00:14:16,532
+Nunca olvidaremos esa injusticia.
+
+198
+00:14:16,615 --> 00:14:18,159
+Es terrible.
+
+199
+00:14:18,993 --> 00:14:20,411
+¿Seguirá comiendo?
+
+200
+00:14:22,454 --> 00:14:27,459
+Sería lindo estar con ellos,
+escuchar historias y reír.
+
+201
+00:14:28,419 --> 00:14:31,338
+Está bien, Momo, pronto nos iremos
+
+202
+00:14:31,672 --> 00:14:34,133
+y nos empacharemos con lichi.
+
+203
+00:14:40,097 --> 00:14:42,391
+No, prefiero el lichi.
+
+204
+00:14:43,184 --> 00:14:44,727
+Es solitario
+
+205
+00:14:44,810 --> 00:14:46,520
+ser neutral, ¿no?
+
+206
+00:14:47,229 --> 00:14:51,150
+Quisiera que fueran amigos,
+pero es imposible.
+
+207
+00:14:51,442 --> 00:14:54,069
+También hay que salir de aquí.
+
+208
+00:14:54,153 --> 00:14:58,532
+Creo que ambas cuestiones
+están relacionadas.
+
+209
+00:15:06,081 --> 00:15:09,543
+Todo bien, ya casi llegamos al otro lado.
+
+210
+00:15:19,428 --> 00:15:23,557
+Katara, Sokka, ¿ellos cooperarán
+para salir de aquí?
+
+211
+00:15:23,641 --> 00:15:26,936
+No creo. Los Zhang los perjudicaron.
+
+212
+00:15:27,019 --> 00:15:30,356
+Sorprendieron a Jin Wei
+y robaron la esfera.
+
+213
+00:15:30,439 --> 00:15:32,024
+¿Cómo?
+
+214
+00:15:32,107 --> 00:15:36,195
+¿Qué dices? Wei Jin no robó la esfera.
+
+215
+00:15:36,278 --> 00:15:39,907
+Se las devolvió,
+pero los Gan Jin lo castigaron.
+
+216
+00:15:39,990 --> 00:15:41,992
+Parece que eso no bastó.
+
+217
+00:15:42,493 --> 00:15:44,995
+¡Ya entendí! Necesito su ayuda.
+
+218
+00:15:45,079 --> 00:15:48,123
+Todos vayan hasta la base de la pared.
+
+219
+00:15:56,173 --> 00:16:00,427
+Por favor, cuando salgamos, comerán
+y tomarán su camino.
+
+220
+00:16:00,511 --> 00:16:03,973
+Pensemos juntos cómo cruzar el acantilado.
+
+221
+00:16:04,223 --> 00:16:08,519
+Los Zhang podrían trepar
+con sus uñas asquerosas.
+
+222
+00:16:08,602 --> 00:16:11,522
+Olvidé que, para los Gan Jin,
+
+223
+00:16:11,605 --> 00:16:15,484
+es un delito tener las uñas largas.
+
+224
+00:16:15,567 --> 00:16:17,319
+¡Sucia ladrona!
+
+225
+00:16:17,403 --> 00:16:19,113
+¡Tonto vanidoso!
+
+226
+00:16:21,198 --> 00:16:22,574
+¡Concentrénse!
+
+227
+00:16:22,658 --> 00:16:24,743
+¿Cuántas veces lo diré?
+
+228
+00:16:24,827 --> 00:16:27,955
+Insultar no resuelve nada, la acción sí.
+
+229
+00:16:28,831 --> 00:16:31,000
+Quizá el Avatar tenga razón.
+
+230
+00:16:31,083 --> 00:16:33,002
+Sí, tal vez.
+
+231
+00:16:35,212 --> 00:16:38,007
+Insultar no resuelve nada.
+
+232
+00:16:38,090 --> 00:16:39,566
+¡La acción sí!
+
+233
+00:16:48,782 --> 00:16:51,911
+¡Luchemos a muerte para terminar esto!
+
+234
+00:16:52,620 --> 00:16:55,873
+Me retracto.
+Los insultos no son tan malos.
+
+235
+00:17:21,607 --> 00:17:23,484
+¿Trajeron comida?
+
+236
+00:17:23,567 --> 00:17:25,903
+¿La trajeron a escondidas?
+
+237
+00:17:25,986 --> 00:17:27,237
+¡Es increíble!
+
+238
+00:17:27,321 --> 00:17:31,033
+¡Nos arriesgaron
+porque no aguantaban el hambre!
+
+239
+00:17:31,116 --> 00:17:33,994
+Todos son... ¡horribles!
+
+240
+00:17:40,793 --> 00:17:42,795
+Qué hambre.
+
+241
+00:17:42,878 --> 00:17:46,215
+¿Ese pastel tiene huevo?
+
+242
+00:17:55,474 --> 00:17:58,686
+¡No! Son gusanos del cañón.
+
+243
+00:17:58,769 --> 00:18:00,604
+Casi nos mata uno.
+
+244
+00:18:00,688 --> 00:18:02,481
+¡Vienen a buscarme!
+
+245
+00:18:02,564 --> 00:18:05,442
+¡Ya me probaron, ahora me quieren!
+
+246
+00:18:05,943 --> 00:18:11,323
+Sokka, no me importa esta pelea.
+Quiero que salgamos vivos de aquí.
+
+247
+00:18:11,407 --> 00:18:15,035
+A mí tampoco,
+los defendí porque me alimentaron.
+
+248
+00:19:16,472 --> 00:19:19,725
+¡Miren, repitan lo que yo hago!
+
+249
+00:19:46,752 --> 00:19:49,797
+¡Síganme! Salgamos de este agujero.
+
+250
+00:20:07,022 --> 00:20:08,524
+¡Salgan todos!
+
+251
+00:20:13,028 --> 00:20:14,029
+¡Lo logramos!
+
+252
+00:20:27,000 --> 00:20:30,170
+No creí que un Gan Jin se ensuciaría así.
+
+253
+00:20:30,254 --> 00:20:33,507
+No creí que los Zhang serían confiables.
+
+254
+00:20:33,590 --> 00:20:35,968
+Quizá no seamos diferentes.
+
+255
+00:20:37,511 --> 00:20:39,680
+La historia no se reescribe.
+
+256
+00:20:40,264 --> 00:20:43,851
+Le robaron la esfera sagrada a Jin Wei.
+
+257
+00:20:43,934 --> 00:20:48,647
+Encarcelaron injustamente a Wei Jin
+durante 20 años.
+
+258
+00:20:49,898 --> 00:20:51,525
+Un momento.
+
+259
+00:20:51,608 --> 00:20:53,986
+¿Jin Wei? ¿Wei Jin?
+
+260
+00:20:54,069 --> 00:20:55,279
+¡Los conozco!
+
+261
+00:20:55,362 --> 00:20:58,323
+Sí, ya conocemos la historia.
+
+262
+00:20:58,407 --> 00:21:01,201
+No, los conocí en persona.
+
+263
+00:21:01,285 --> 00:21:04,079
+Aunque no parezca, tengo 112 años.
+
+264
+00:21:04,246 --> 00:21:07,332
+Yo estuve ese día.
+
+265
+00:21:08,458 --> 00:21:11,295
+<i>Hay confusión sobre lo que pasó.</i>
+
+266
+00:21:11,378 --> 00:21:14,381
+<i>Jin Wei y Wei Jin no eran enemigos.</i>
+
+267
+00:21:14,464 --> 00:21:16,717
+<i>Eran hermanos gemelos.</i>
+
+268
+00:21:17,551 --> 00:21:19,052
+<i>Tenían ocho años</i>
+
+269
+00:21:19,136 --> 00:21:22,055
+<i>y solo estaban jugando.</i>
+
+270
+00:21:22,806 --> 00:21:26,018
+<i>La esfera sagrada era una pelota.</i>
+
+271
+00:21:26,101 --> 00:21:28,729
+<i>Las puertas eran postes de fútbol.</i>
+
+272
+00:21:29,354 --> 00:21:32,816
+<i>Jin Wei corría con la pelota
+cuando la soltó.</i>
+
+273
+00:21:33,358 --> 00:21:37,988
+<i>Wei Jin no robó la pelota,
+la tomó y corrió hacia el poste,</i>
+
+274
+00:21:38,071 --> 00:21:39,698
+<i>pero salió del borde.</i>
+
+275
+00:21:40,365 --> 00:21:45,454
+<i>Le cobraron un penal.
+Eso no duró 20 años, sino dos minutos.</i>
+
+276
+00:21:47,581 --> 00:21:50,584
+Nadie robó ni encarceló a nadie.
+
+277
+00:21:50,667 --> 00:21:51,919
+Fue un juego.
+
+278
+00:21:52,002 --> 00:21:54,880
+¿La esfera era una pelota sagrada?
+
+279
+00:21:54,963 --> 00:21:56,924
+No, una pelota común.
+
+280
+00:21:57,007 --> 00:21:59,051
+¿Y el ritual de redención?
+
+281
+00:21:59,134 --> 00:22:01,595
+El juego se llamaba Redención.
+
+282
+00:22:01,678 --> 00:22:07,392
+Si llevaban la pelota al lado contrario,
+todos gritaban: "¡Redención!".
+
+283
+00:22:08,852 --> 00:22:11,271
+Bueno, Wei Jin era algo sucio
+
+284
+00:22:11,355 --> 00:22:13,732
+y Jin Wei, medio estirado,
+
+285
+00:22:13,815 --> 00:22:18,070
+pero respetaban sus diferencias
+y compartían el juego.
+
+286
+00:22:18,695 --> 00:22:21,323
+Es hora de olvidar el pasado.
+
+287
+00:22:22,032 --> 00:22:23,659
+Y de mirar el futuro.
+
+288
+00:22:32,584 --> 00:22:35,087
+Qué bueno verte, ¿me extrañaste?
+
+289
+00:22:36,296 --> 00:22:38,298
+No sé cómo agradecerte.
+
+290
+00:22:38,715 --> 00:22:40,550
+Hago lo que puedo.
+
+291
+00:22:43,303 --> 00:22:47,849
+Viajemos al reino de Tierra
+como una sola tribu.
+
+292
+00:22:49,226 --> 00:22:52,521
+¡Yo voy! ¡Me cansé de este lugar!
+
+293
+00:22:53,230 --> 00:22:57,567
+- Conocías a Jin Wei y a Wei Jin.
+- Sí, qué suerte.
+
+294
+00:22:57,651 --> 00:22:59,111
+O qué mentira.
+
+295
+00:22:59,194 --> 00:23:01,571
+- ¿Qué?
+- Lo inventé.
+
+296
+00:23:01,655 --> 00:23:03,448
+¿En serio?
+
+297
+00:23:04,032 --> 00:23:05,534
+Qué mal.
+
+298
+00:23:05,617 --> 00:23:07,577
+¿Dónde está ese pastel?
+
+299
+00:23:07,661 --> 00:23:09,496
+Me muero de hambre.
+

@@ -1,0 +1,1063 @@
+1
+00:00:02,589 --> 00:00:03,589
+<i>Agua.</i>
+
+2
+00:00:04,967 --> 00:00:05,967
+<i>Tierra.</i>
+
+3
+00:00:06,969 --> 00:00:07,969
+<i>Fuego.</i>
+
+4
+00:00:09,138 --> 00:00:10,138
+<i>Aire.</i>
+
+5
+00:00:11,348 --> 00:00:14,768
+<i>Hace tiempo,
+las cuatro naciones vivían en armonía.</i>
+
+6
+00:00:15,561 --> 00:00:18,897
+<i>Luego todo cambió
+cuando la nación de Fuego atacó.</i>
+
+7
+00:00:19,940 --> 00:00:20,941
+<i>Solo el Avatar,</i>
+
+8
+00:00:21,025 --> 00:00:23,986
+<i>maestro de los cuatro elementos,
+podría detenerlos.</i>
+
+9
+00:00:24,069 --> 00:00:26,905
+<i>Pero cuando más lo necesitábamos,
+desapareció.</i>
+
+10
+00:00:27,531 --> 00:00:28,657
+<i>Pasaron cien años,</i>
+
+11
+00:00:28,741 --> 00:00:31,118
+<i>y mi hermano y yo encontramos al Avatar,</i>
+
+12
+00:00:31,201 --> 00:00:33,120
+<i>un maestro de Aire llamado Aang.</i>
+
+13
+00:00:33,203 --> 00:00:35,289
+<i>Su dominio del aire es fantástico,</i>
+
+14
+00:00:35,372 --> 00:00:38,375
+<i>pero debe aprender mucho
+antes de poder salvarnos.</i>
+
+15
+00:00:39,084 --> 00:00:42,337
+<i>Pero creo que Aang puede salvar al mundo.</i>
+
+16
+00:00:43,213 --> 00:00:46,633
+AVATAR: LA LEYENDA DE AANG
+
+17
+00:00:47,975 --> 00:00:49,018
+LIBRO TRES: FUEGO
+
+18
+00:00:49,102 --> 00:00:52,813
+CAPÍTULO DIEZ: EL DÍA DEL SOL NEGRO
+PARTE 1: LA INVASIÓN
+
+19
+00:01:06,160 --> 00:01:07,662
+Buenos días, Momo.
+
+20
+00:01:07,870 --> 00:01:08,955
+¿Dormiste bien?
+
+21
+00:01:09,038 --> 00:01:12,500
+Como un bebé. Estoy listo
+para enfrentar al Señor de Fuego.
+
+22
+00:01:12,834 --> 00:01:15,253
+¿Cuál es tu estrategia para derrotarlo?
+
+23
+00:01:15,336 --> 00:01:18,256
+¿Sacarás tu brillo
+y le darás golpes de Avatar?
+
+24
+00:01:18,339 --> 00:01:19,339
+No puedo.
+
+25
+00:01:19,507 --> 00:01:22,969
+Cuando Azula me disparó el rayo,
+mi séptimo chakra se cerró
+
+26
+00:01:23,052 --> 00:01:26,139
+y me desconectó
+de la energía cósmica del universo.
+
+27
+00:01:27,140 --> 00:01:30,226
+¿Sabes qué escuché?
+Patrañas y tonteras espirituales.
+
+28
+00:01:30,309 --> 00:01:32,103
+Bla, bla, algo del espacio.
+
+29
+00:01:33,271 --> 00:01:34,772
+No, Sokka,
+
+30
+00:01:34,856 --> 00:01:37,316
+¿crees que la niebla
+demorará la invasión?
+
+31
+00:01:38,192 --> 00:01:39,192
+No.
+
+32
+00:01:39,736 --> 00:01:41,320
+Esa es la invasión.
+
+33
+00:01:52,206 --> 00:01:53,416
+Llegaste, papá.
+
+34
+00:01:53,499 --> 00:01:55,960
+¿Pudiste encontrar a todos?
+
+35
+00:01:56,419 --> 00:01:58,963
+Sí, pero estoy preocupado, Sokka.
+
+36
+00:01:59,255 --> 00:02:01,716
+Algunos de estos hombres
+no son guerreros.
+
+37
+00:02:04,093 --> 00:02:06,179
+Este lugar no es como el pantano.
+
+38
+00:02:06,637 --> 00:02:08,264
+¿Qué es eso, Tho?
+
+39
+00:02:08,347 --> 00:02:11,100
+¿Alguna trampa explosiva
+de la nación de Fuego?
+
+40
+00:02:11,684 --> 00:02:13,186
+Es una roca, Due.
+
+41
+00:02:13,394 --> 00:02:15,271
+Vaya, no me digas.
+
+42
+00:02:16,063 --> 00:02:19,233
+¿Soy yo o esos tipos
+tienen algo suelto en sus gorros?
+
+43
+00:02:19,317 --> 00:02:21,235
+Solo quiero que usen pantalones.
+
+44
+00:02:22,320 --> 00:02:26,324
+Los pantalones son una ilusión,
+igual que la muerte.
+
+45
+00:02:28,576 --> 00:02:29,952
+Hola, Katara.
+
+46
+00:02:31,913 --> 00:02:33,956
+Haru, me alegra verte.
+
+47
+00:02:34,373 --> 00:02:35,416
+Toph, él es Haru.
+
+48
+00:02:35,625 --> 00:02:39,712
+Cuando la nación de Fuego
+controlaba su aldea, ocultó su poder.
+
+49
+00:02:39,796 --> 00:02:42,965
+Katara nos inspiró
+para recuperar nuestra aldea.
+
+50
+00:02:43,424 --> 00:02:45,968
+Nos ayudaste a tomar coraje, Katara.
+
+51
+00:02:46,511 --> 00:02:48,429
+Ahora vinimos a ayudarte a ti.
+
+52
+00:02:50,389 --> 00:02:52,725
+No puede ser. ¿Es...?
+
+53
+00:02:52,809 --> 00:02:55,770
+Hippo está feliz ver bandida ciega.
+
+54
+00:02:56,020 --> 00:02:57,647
+¿Volvieron por la revancha?
+
+55
+00:02:58,189 --> 00:02:59,273
+Estás equivocada.
+
+56
+00:02:59,524 --> 00:03:04,529
+Hippo y la Roca ya no pelean
+para que otros se entretengan.
+
+57
+00:03:04,737 --> 00:03:07,448
+Ahora peleamos por nuestro reino.
+
+58
+00:03:08,324 --> 00:03:09,324
+Genial.
+
+59
+00:03:23,381 --> 00:03:24,465
+¿Un invento nuevo?
+
+60
+00:03:24,549 --> 00:03:27,510
+Sí, pero por desgracia
+
+61
+00:03:27,593 --> 00:03:30,721
+las capacidades incendiarias
+de la salsa de maní
+
+62
+00:03:30,805 --> 00:03:32,306
+probaron ser un fracaso.
+
+63
+00:03:32,598 --> 00:03:34,475
+¿Haces bombas de salsa de maní?
+
+64
+00:03:34,559 --> 00:03:35,977
+Son destructivas.
+
+65
+00:03:36,060 --> 00:03:37,436
+Y deliciosas.
+
+66
+00:03:39,897 --> 00:03:42,191
+¿Terminaron los planes que les envié?
+
+67
+00:03:42,900 --> 00:03:43,900
+Sí.
+
+68
+00:03:44,068 --> 00:03:47,071
+Y creo que la nación de Fuego
+quedará sorprendida.
+
+69
+00:03:47,530 --> 00:03:49,699
+Aang, mi papá hizo esto para ti.
+
+70
+00:03:53,828 --> 00:03:56,163
+Un planeador nuevo. Es fantástico.
+
+71
+00:03:56,330 --> 00:03:57,957
+Y tiene algo especial.
+
+72
+00:03:58,040 --> 00:04:00,418
+Le agregué un compartimento para comida.
+
+73
+00:04:02,211 --> 00:04:05,006
+Vaya, seguro que será práctico.
+
+74
+00:04:07,550 --> 00:04:10,720
+Apuesto a que estás cansado
+de estar encerrado, viejo.
+
+75
+00:04:11,053 --> 00:04:12,471
+Qué pena.
+
+76
+00:04:12,555 --> 00:04:15,474
+Nunca volverás a salir de aquí.
+
+77
+00:04:16,017 --> 00:04:17,017
+El desayuno.
+
+78
+00:04:17,810 --> 00:04:20,021
+Cuidado, Ming. No te acerques.
+
+79
+00:04:20,479 --> 00:04:22,648
+Este viejo te golpeará.
+
+80
+00:04:25,192 --> 00:04:28,821
+Le traje un té blanco de jade.
+Sé que le gustan los tés raros.
+
+81
+00:04:30,364 --> 00:04:31,449
+Gracias, Ming.
+
+82
+00:04:31,949 --> 00:04:33,910
+Desde que me trajeron aquí,
+
+83
+00:04:34,035 --> 00:04:36,621
+has sido muy buena conmigo.
+
+84
+00:04:43,002 --> 00:04:44,002
+No te preocupes.
+
+85
+00:04:44,045 --> 00:04:45,171
+Lo harás muy bien.
+
+86
+00:04:48,341 --> 00:04:49,800
+Buenos días a todos.
+
+87
+00:04:54,972 --> 00:04:58,684
+Como saben, hoy invadiremos
+a la nación de Fuego.
+
+88
+00:04:58,809 --> 00:05:00,144
+Sé que lo saben,
+
+89
+00:05:00,227 --> 00:05:02,104
+¿si no por qué estarían aquí?
+
+90
+00:05:03,105 --> 00:05:04,190
+De todas formas...
+
+91
+00:05:06,692 --> 00:05:08,945
+Este es el palacio del Señor de Fuego.
+
+92
+00:05:09,028 --> 00:05:10,863
+No, esperen, aquí.
+
+93
+00:05:10,947 --> 00:05:12,907
+Y hoy habrá un eclipse.
+
+94
+00:05:13,032 --> 00:05:14,700
+Y Aang luchará contra él.
+
+95
+00:05:14,784 --> 00:05:18,537
+Los maestro de Fuego
+no tendrán fuego para luchar, es bueno.
+
+96
+00:05:18,621 --> 00:05:19,621
+Y...
+
+97
+00:05:20,164 --> 00:05:22,583
+Lo siento, empezaré otra vez.
+
+98
+00:05:23,793 --> 00:05:25,628
+Katara y yo encontramos a Aang.
+
+99
+00:05:25,711 --> 00:05:28,047
+No me gustaba, pero aprendí a quererlo.
+
+100
+00:05:28,130 --> 00:05:31,634
+Fuimos al templo de Aire del sur.
+Conocimos a Suki...
+
+101
+00:05:31,717 --> 00:05:34,887
+Empezó desde el principio de todo.
+
+102
+00:05:34,971 --> 00:05:38,474
+Katara hizo que arrestaran a Haru.
+Ahora tiene bigotes...
+
+103
+00:05:38,557 --> 00:05:39,557
+Gracias, Sokka.
+
+104
+00:05:40,267 --> 00:05:42,561
+¿Por qué no te tomas un recreo?
+
+105
+00:05:43,479 --> 00:05:46,065
+Les aclararé unos puntos.
+
+106
+00:05:46,148 --> 00:05:49,068
+Hoy es el día del Sol Negro,
+
+107
+00:05:49,151 --> 00:05:53,197
+y quiero agradecerles
+por su sacrificio y coraje.
+
+108
+00:05:53,280 --> 00:05:55,408
+Hay dos partes en la invasión:
+
+109
+00:05:55,533 --> 00:05:57,994
+una etapa naval y una terrestre.
+
+110
+00:05:58,703 --> 00:06:00,955
+Para llegar a la capital,
+
+111
+00:06:01,038 --> 00:06:04,834
+debemos pasar el obstáculo más grande.
+
+112
+00:06:05,251 --> 00:06:07,044
+Las puertas de Azulon.
+
+113
+00:06:07,253 --> 00:06:09,922
+Luego, llegamos a tierra
+y llegamos con todo.
+
+114
+00:06:10,006 --> 00:06:13,884
+Debemos luchar contra su ejército
+y asegurar la torre de la plaza.
+
+115
+00:06:14,051 --> 00:06:16,512
+Luego, iremos al palacio real.
+
+116
+00:06:16,595 --> 00:06:18,931
+En ese momento, empezará el eclipse.
+
+117
+00:06:19,765 --> 00:06:20,891
+Disculpe.
+
+118
+00:06:21,225 --> 00:06:23,477
+La Roca está confundida.
+
+119
+00:06:23,686 --> 00:06:27,023
+¿No deberíamos invadir durante el eclipse
+
+120
+00:06:27,148 --> 00:06:29,734
+cuando los maestro de Fuego
+no tienen poder?
+
+121
+00:06:29,817 --> 00:06:33,988
+El eclipse dura ocho minutos,
+no es suficiente para toda la invasión.
+
+122
+00:06:34,113 --> 00:06:37,283
+En el palacio real hay
+muchos maestro de Fuego
+
+123
+00:06:37,366 --> 00:06:40,119
+así que aprovecharemos
+más el eclipse allí.
+
+124
+00:06:40,202 --> 00:06:41,537
+Cuando esto termine,
+
+125
+00:06:41,996 --> 00:06:44,832
+el Avatar habrá derrotado
+al Señor de Fuego.
+
+126
+00:06:44,915 --> 00:06:47,793
+Controlaremos la capital
+de la nación de Fuego,
+
+127
+00:06:47,877 --> 00:06:50,838
+y la guerra habrá terminado.
+
+128
+00:07:54,026 --> 00:07:57,404
+Te hemos buscado por todos lados.
+Los botes van a partir.
+
+129
+00:07:57,571 --> 00:07:59,865
+- Lo arruiné, Aang.
+- ¿Qué?
+
+130
+00:07:59,949 --> 00:08:02,368
+El plan de invasión era mi momento,
+
+131
+00:08:02,827 --> 00:08:04,495
+y lo arruiné.
+
+132
+00:08:05,037 --> 00:08:07,081
+Me puse muy nervioso.
+
+133
+00:08:07,790 --> 00:08:10,251
+Sokka, ese discurso no era tu momento.
+
+134
+00:08:10,626 --> 00:08:13,838
+Eso fue hablar en público,
+y nadie es muy bueno en eso.
+
+135
+00:08:13,921 --> 00:08:14,755
+Mi papá sí.
+
+136
+00:08:14,839 --> 00:08:17,967
+Explicó perfectamente el plan
+e inspiró a todos
+
+137
+00:08:18,467 --> 00:08:20,136
+como un verdadero líder.
+
+138
+00:08:20,636 --> 00:08:23,722
+Tu momento de la verdad
+no será frente a un mapa.
+
+139
+00:08:24,140 --> 00:08:26,308
+Será en el campo de batalla.
+
+140
+00:08:26,392 --> 00:08:28,602
+Pareces muy confiado.
+
+141
+00:08:28,686 --> 00:08:30,271
+¿Cómo sabes que ganaremos?
+
+142
+00:08:30,479 --> 00:08:33,190
+Porque ya fallé en Ba Sing Se.
+
+143
+00:08:33,274 --> 00:08:35,276
+No permitiré que ocurra otra vez.
+
+144
+00:08:41,949 --> 00:08:44,618
+Allí están, las granes puertas de Azulon.
+
+145
+00:08:44,994 --> 00:08:46,620
+No veo las puertas.
+
+146
+00:08:47,288 --> 00:08:50,332
+Katara, tú y los maestros del Pantano
+creen niebla.
+
+147
+00:08:50,457 --> 00:08:51,667
+Nos esconderemos
+
+148
+00:08:51,750 --> 00:08:54,920
+como lo hicimos en la barricada
+de la Armada de Fuego.
+
+149
+00:09:05,431 --> 00:09:07,841
+Manténganla, ya casi pasamos.
+
+150
+00:09:40,864 --> 00:09:42,073
+Bajen todos.
+
+151
+00:09:44,075 --> 00:09:46,036
+Espero que tu invento funcione.
+
+152
+00:10:11,144 --> 00:10:12,562
+No hay nadie, señor.
+
+153
+00:10:12,771 --> 00:10:13,771
+¿A dónde fueron?
+
+154
+00:10:25,617 --> 00:10:28,286
+Te superaste con creces, hijo.
+
+155
+00:10:28,370 --> 00:10:31,164
+Sí, felicitaciones, Sokka.
+
+156
+00:10:31,289 --> 00:10:34,626
+Lograste inventar una forma
+de viajar peor que volar.
+
+157
+00:10:34,876 --> 00:10:35,876
+¿Un casco?
+
+158
+00:10:37,045 --> 00:10:40,173
+Solo tuve la idea.
+El mecanista hizo todo el trabajo.
+
+159
+00:10:40,423 --> 00:10:42,384
+No seas humilde, hijo.
+
+160
+00:10:42,467 --> 00:10:47,889
+Fue idea tuya dominar el Agua
+para que el submarino flote y se hunda.
+
+161
+00:10:47,972 --> 00:10:48,972
+¡Brillante!
+
+162
+00:10:49,432 --> 00:10:54,229
+Aunque fue difícil descifrar
+los diseños originales.
+
+163
+00:10:54,354 --> 00:10:57,816
+Por desgracia, hubo un problema
+que no pude solucionar.
+
+164
+00:10:57,899 --> 00:11:00,777
+Tienen poco suministro de aire.
+
+165
+00:11:00,860 --> 00:11:04,489
+Antes de llegar a las playas
+deberemos subir a la superficie.
+
+166
+00:11:06,991 --> 00:11:08,743
+Su almuerzo, General Iroh.
+
+167
+00:11:09,953 --> 00:11:12,664
+Esta vez, le traje otra porción de arroz.
+
+168
+00:11:13,248 --> 00:11:14,416
+Gracias, Ming.
+
+169
+00:11:14,999 --> 00:11:20,338
+Tus pequeños gestos de bondad
+hacen que tolere esta cárcel.
+
+170
+00:11:21,423 --> 00:11:24,217
+Deberías tomarte el resto del día libre.
+
+171
+00:11:24,592 --> 00:11:25,677
+¿Qué?
+
+172
+00:11:25,802 --> 00:11:27,637
+No te ves bien.
+
+173
+00:11:28,179 --> 00:11:30,974
+Deberías ir a casa a descansar.
+
+174
+00:11:31,433 --> 00:11:33,143
+No, me siento bien.
+
+175
+00:11:33,393 --> 00:11:34,393
+Confía en mí.
+
+176
+00:11:34,436 --> 00:11:38,565
+Será mejor que no estés aquí esta tarde.
+
+177
+00:11:54,748 --> 00:11:56,666
+Llegó la hora, ¿verdad?
+
+178
+00:11:57,167 --> 00:12:00,086
+¿Listo para que la nación de Fuego
+vea al Avatar?
+
+179
+00:12:00,795 --> 00:12:01,795
+Estoy listo.
+
+180
+00:12:06,176 --> 00:12:09,471
+Dale una paliza al Señor de Fuego,
+piernas locas.
+
+181
+00:12:10,054 --> 00:12:11,222
+Escuchen todos.
+
+182
+00:12:11,431 --> 00:12:14,517
+Volveremos a subir a la superficie
+en las playas.
+
+183
+00:12:14,601 --> 00:12:16,686
+Estén alertas y luchen con astucia.
+
+184
+00:12:16,936 --> 00:12:19,147
+A trabajar, vuelvan a los submarinos.
+
+185
+00:12:26,070 --> 00:12:27,489
+- Aang...
+- Katara...
+
+186
+00:12:28,406 --> 00:12:29,657
+Tú primero.
+
+187
+00:12:30,700 --> 00:12:32,911
+Pasamos muchas cosas juntos,
+
+188
+00:12:33,161 --> 00:12:35,789
+y te he visto evolucionar.
+
+189
+00:12:35,872 --> 00:12:39,334
+Ya no eres el niño tonto
+que encontramos en el iceberg.
+
+190
+00:12:39,417 --> 00:12:41,336
+Lo que quiero decir es...
+
+191
+00:12:41,461 --> 00:12:42,962
+Estoy orgullosa de ti.
+
+192
+00:12:45,048 --> 00:12:47,550
+Después de hoy, todo será diferente, ¿no?
+
+193
+00:12:47,634 --> 00:12:48,885
+Así es.
+
+194
+00:12:50,053 --> 00:12:52,889
+¿Y si no vuelvo?
+
+195
+00:12:53,264 --> 00:12:54,808
+Aang, no digas eso.
+
+196
+00:12:54,974 --> 00:12:56,226
+Claro que...
+
+197
+00:13:08,404 --> 00:13:10,698
+Katara, ¿qué haces? Nos sumergiremos.
+
+198
+00:13:11,449 --> 00:13:13,326
+¿Qué? Sí, ya voy.
+
+199
+00:13:33,304 --> 00:13:34,639
+Lo siento, Mai.
+
+200
+00:13:51,739 --> 00:13:54,200
+Vaya, resultó ser práctico.
+
+201
+00:14:04,878 --> 00:14:06,004
+¡Posiciones!
+
+202
+00:14:06,087 --> 00:14:09,424
+Maestros de Tierra, a los tanques.
+Será un viaje agitado.
+
+203
+00:14:57,388 --> 00:14:58,723
+Preparen los torpedos.
+
+204
+00:15:02,810 --> 00:15:03,810
+Disparen.
+
+205
+00:16:59,891 --> 00:17:01,059
+Nos falta uno.
+
+206
+00:17:01,851 --> 00:17:03,644
+¿Dónde diablos está Huu?
+
+207
+00:17:21,996 --> 00:17:24,374
+¡Hola, Huu! ¿Dónde estabas?
+
+208
+00:17:26,042 --> 00:17:27,960
+Comunicándome con la naturaleza.
+
+209
+00:17:28,169 --> 00:17:30,755
+No es fácil juntar tantas algas.
+
+210
+00:17:48,147 --> 00:17:49,147
+¡Papá, cuidado!
+
+211
+00:18:15,383 --> 00:18:17,593
+Sokka, debemos derribar esas torres.
+
+212
+00:18:18,136 --> 00:18:19,387
+Es ahora.
+
+213
+00:18:19,470 --> 00:18:20,513
+Tengo una idea.
+
+214
+00:18:44,370 --> 00:18:46,372
+Derriben esa torre. Yo, esta.
+
+215
+00:18:47,081 --> 00:18:48,958
+Cuídense.
+
+216
+00:19:16,444 --> 00:19:18,029
+- ¿Papá?
+- ¡Papá!
+
+217
+00:19:25,119 --> 00:19:27,079
+Sé que tomé malas decisiones.
+
+218
+00:19:28,206 --> 00:19:31,501
+Pero hoy haré las cosas bien.
+
+219
+00:19:53,231 --> 00:19:54,357
+¿Te alivia, papá?
+
+220
+00:19:55,358 --> 00:19:56,692
+Un poco.
+
+221
+00:19:57,151 --> 00:19:59,570
+Debo volver con las tropas...
+
+222
+00:20:00,821 --> 00:20:02,698
+Tu herida es grave.
+
+223
+00:20:02,865 --> 00:20:04,242
+No puedes luchar.
+
+224
+00:20:04,784 --> 00:20:07,578
+Todos esperan que los lidere, Katara.
+
+225
+00:20:08,120 --> 00:20:09,455
+No los defraudaré.
+
+226
+00:20:12,333 --> 00:20:14,168
+¿No puedes curarlo más rápido?
+
+227
+00:20:14,252 --> 00:20:16,003
+Hago todo lo que puedo.
+
+228
+00:20:19,882 --> 00:20:20,882
+Yo lo haré.
+
+229
+00:20:21,217 --> 00:20:24,720
+No quiero ofenderte, Sokka,
+pero no eres bueno para esto.
+
+230
+00:20:24,971 --> 00:20:27,765
+No, yo lideraré la invasión.
+
+231
+00:20:27,890 --> 00:20:29,433
+Es una locura, Sokka.
+
+232
+00:20:29,559 --> 00:20:32,728
+Quizá sea una locura,
+pero ya empezará el eclipse
+
+233
+00:20:32,812 --> 00:20:35,314
+y debemos llegar al volcán
+en ese momento.
+
+234
+00:20:35,565 --> 00:20:37,191
+Puedes hacerlo.
+
+235
+00:20:37,942 --> 00:20:39,402
+Estoy orgulloso de ti.
+
+236
+00:20:41,153 --> 00:20:44,574
+Sigo pensando que estás loco,
+pero estoy orgullosa de ti.
+
+237
+00:21:07,430 --> 00:21:08,848
+Escuchen todos.
+
+238
+00:21:08,931 --> 00:21:13,436
+Quiero los tanques en posición de combate.
+Guerreros y maestros, al centro.
+
+239
+00:21:13,853 --> 00:21:17,273
+Tomaremos esa torre
+e iremos al palacio real.
+
+240
+00:21:25,156 --> 00:21:26,198
+¡A la carga!
+
+241
+00:21:43,683 --> 00:21:44,851
+Qué extraño.
+
+242
+00:21:53,443 --> 00:21:54,819
+El Avatar ha vuelto.
+
+243
+00:22:00,491 --> 00:22:01,491
+¿Hola?
+
+244
+00:22:02,410 --> 00:22:03,661
+¿Hay alguien en casa?
+
+245
+00:22:34,066 --> 00:22:36,486
+La nación de Fuego está retrocediendo.
+
+246
+00:22:39,030 --> 00:22:42,074
+Sokka, vamos hacia la victoria.
+
+247
+00:22:57,673 --> 00:22:58,673
+No.
+
+248
+00:23:00,593 --> 00:23:02,803
+¡No!
+
+249
+00:23:05,014 --> 00:23:06,449
+Señor de Fuego Ozai.
+
+250
+00:23:07,058 --> 00:23:08,434
+¿Dónde estás?
+

@@ -1,0 +1,942 @@
+1
+00:00:02,447 --> 00:00:03,447
+<i>Agua.</i>
+
+2
+00:00:04,741 --> 00:00:05,741
+<i>Tierra.</i>
+
+3
+00:00:06,535 --> 00:00:07,535
+<i>Fuego.</i>
+
+4
+00:00:08,829 --> 00:00:09,829
+<i>Aire.</i>
+
+5
+00:00:11,248 --> 00:00:14,709
+<i>Hace mucho, las cuatro naciones
+vivían en armonía...</i>
+
+6
+00:00:15,377 --> 00:00:18,630
+<i>pero todo cambió
+cuando la Nación de Fuego atacó.</i>
+
+7
+00:00:19,714 --> 00:00:23,677
+<i>Solo el Avatar, maestro
+de los cuatro elementos, podía detenerlos.</i>
+
+8
+00:00:23,760 --> 00:00:26,721
+<i>Pero desapareció
+cuando el mundo más lo necesitaba.</i>
+
+9
+00:00:27,097 --> 00:00:28,348
+<i>Cien años después,</i>
+
+10
+00:00:28,432 --> 00:00:31,226
+<i>mi hermano y yo
+descubrimos al nuevo Avatar.</i>
+
+11
+00:00:31,309 --> 00:00:32,853
+<i>Aang, un maestro del aire.</i>
+
+12
+00:00:32,936 --> 00:00:35,147
+<i>Aunque controla muy bien el aire,</i>
+
+13
+00:00:35,230 --> 00:00:38,108
+<i>tiene mucho que aprender
+para salvar a alguien.</i>
+
+14
+00:00:38,817 --> 00:00:42,028
+Pero creo que Aang puede salvar al mundo.
+
+15
+00:00:42,852 --> 00:00:46,352
+AVATAR: LA LEYENDA DE AANG
+
+16
+00:00:49,026 --> 00:00:53,948
+LIBRO DOS: TIERRA
+CAPÍTULO CUATRO: EL PANTANO
+
+17
+00:01:10,881 --> 00:01:13,217
+¿Una moneda para los viajeros cansados?
+
+18
+00:01:15,636 --> 00:01:20,182
+Es humillante. Somos de la realeza.
+La gente debería darnos lo que queramos.
+
+19
+00:01:20,933 --> 00:01:23,352
+Lo harán, si se lo pides bien.
+
+20
+00:01:25,479 --> 00:01:28,691
+¿Una moneda para un viejo hambriento?
+
+21
+00:01:30,901 --> 00:01:31,944
+Tome.
+
+22
+00:01:32,903 --> 00:01:35,156
+Se aprecia la moneda...
+
+23
+00:01:35,739 --> 00:01:38,284
+pero no tanto como su sonrisa.
+
+24
+00:01:41,620 --> 00:01:46,959
+¿Qué tal un poco de entretenimiento
+a cambio de una pieza de oro?
+
+25
+00:01:47,042 --> 00:01:48,919
+No somos artistas.
+
+26
+00:01:49,462 --> 00:01:51,464
+No de manera profesional.
+
+27
+00:01:51,881 --> 00:01:56,635
+<i>Es un largo camino hasta Ba Sing Se</i>
+
+28
+00:01:56,719 --> 00:01:59,096
+<i>Pero las chicas de la ciudad</i>
+
+29
+00:01:59,180 --> 00:02:02,516
+<i>son muy guapas</i>
+
+30
+00:02:02,975 --> 00:02:06,729
+Estamos hablando de una pieza de oro.
+Veamos algo de acción.
+
+31
+00:02:08,272 --> 00:02:09,356
+¡Baila!
+
+32
+00:02:09,440 --> 00:02:11,317
+<i>Besan tan dulcemente</i>
+
+33
+00:02:11,400 --> 00:02:14,028
+<i>Que realmente tienes que conocer</i>
+
+34
+00:02:14,111 --> 00:02:18,616
+<i>A las chicas de Ba Sing Se</i>
+
+35
+00:02:21,785 --> 00:02:26,582
+Nada como un hombre gordo
+bailando por su cena. Aquí tienes.
+
+36
+00:02:29,251 --> 00:02:31,504
+Qué hombre tan amable.
+
+37
+00:02:55,653 --> 00:02:58,072
+¿Estamos descendiendo por algo?
+
+38
+00:02:58,948 --> 00:03:01,283
+Aang, ¿por qué bajamos?
+
+39
+00:03:01,784 --> 00:03:04,286
+¿Qué? Ni me di cuenta.
+
+40
+00:03:05,287 --> 00:03:08,207
+- ¿Te das cuenta ahora?
+- ¿Pasa algo?
+
+41
+00:03:08,290 --> 00:03:13,337
+Sé que esto va a sonar raro,
+pero creo que el pantano me está llamando.
+
+42
+00:03:13,420 --> 00:03:15,548
+¿Te dice dónde podemos comer algo?
+
+43
+00:03:15,631 --> 00:03:16,882
+No, yo...
+
+44
+00:03:17,466 --> 00:03:19,385
+Creo que quiere que bajemos.
+
+45
+00:03:19,468 --> 00:03:23,305
+Sin ofender al pantano,
+pero no veo tierra en la que aterrizar.
+
+46
+00:03:23,389 --> 00:03:27,351
+Bumi dijo que para controlar la
+tierra tengo que esperar y escuchar
+
+47
+00:03:27,434 --> 00:03:31,564
+y ahora estoy escuchando la tierra.
+¿Quieres que la ignore?
+
+48
+00:03:32,439 --> 00:03:33,439
+Sí.
+
+49
+00:03:33,732 --> 00:03:37,570
+No sé. Hay algo siniestro en este lugar.
+
+50
+00:03:41,323 --> 00:03:43,867
+Incluso a Appa y a Momo
+no les gusta.
+
+51
+00:03:43,951 --> 00:03:48,581
+Bien, si todo el mundo lo tiene claro,
+adiós pantano.
+
+52
+00:03:48,664 --> 00:03:49,664
+¡Arre!
+
+53
+00:03:55,129 --> 00:03:58,048
+¡Di un "arre" más!
+¡Tenemos que movernos!
+
+54
+00:04:39,465 --> 00:04:41,091
+¿Dónde están Appa y Momo?
+
+55
+00:04:47,348 --> 00:04:48,515
+¡Appa!
+
+56
+00:04:48,849 --> 00:04:50,392
+¡Momo!
+
+57
+00:04:53,937 --> 00:04:57,399
+- Sokka, tienes una sanguijuela de codo
+- ¿Dónde?
+
+58
+00:04:57,483 --> 00:04:58,651
+¿Dónde crees?
+
+59
+00:04:59,693 --> 00:05:02,488
+¿Por qué se me pegan las cosas?
+
+60
+00:05:04,865 --> 00:05:07,034
+- ¿No los encontraste?
+- No.
+
+61
+00:05:07,117 --> 00:05:10,704
+Y el tornado... desapareció.
+
+62
+00:05:47,658 --> 00:05:49,326
+Aceleremos las cosas.
+
+63
+00:05:50,911 --> 00:05:53,997
+Tal vez deberíamos tratar bien al pantano.
+
+64
+00:05:54,081 --> 00:05:55,499
+Aang, solo son plantas.
+
+65
+00:05:55,582 --> 00:05:59,294
+¿Quieres que diga "por favor" y "gracias"
+mientras corto?
+
+66
+00:05:59,670 --> 00:06:05,384
+Tal vez deberías escuchar a Aang. Hay algo
+en este lugar que se siente... vivo.
+
+67
+00:06:05,467 --> 00:06:08,220
+Seguro que hay muchas cosas vivas aquí
+
+68
+00:06:08,303 --> 00:06:10,514
+y si no queremos que nos coman
+
+69
+00:06:10,597 --> 00:06:13,058
+tenemos que encontrar a Appa rápido.
+
+70
+00:06:46,967 --> 00:06:48,177
+¡Appa!
+
+71
+00:06:48,886 --> 00:06:50,137
+¡Momo!
+
+72
+00:06:50,220 --> 00:06:53,348
+No pueden oírnos
+y nosotros no podemos verles.
+
+73
+00:06:53,432 --> 00:06:55,100
+Tendremos que acampar.
+
+74
+00:06:59,897 --> 00:07:03,233
+- ¿Qué fue eso?
+- Nada. Solo gas de pantano.
+
+75
+00:07:03,317 --> 00:07:05,903
+Mira, no pasa nada sobrenatural.
+
+76
+00:07:10,991 --> 00:07:12,910
+Deberíamos hacer una hoguera.
+
+77
+00:07:16,663 --> 00:07:20,375
+Sokka, sigo pensando
+que no deberías hacer eso.
+
+78
+00:07:20,459 --> 00:07:24,338
+Le pregunté al pantano.
+Dijo que estaba bien. ¿Verdad, pantano?
+
+79
+00:07:24,421 --> 00:07:25,839
+Son problema, Sokka.
+
+80
+00:07:32,596 --> 00:07:35,390
+¿Alguien siente
+de que nos observan?
+
+81
+00:07:35,891 --> 00:07:38,185
+Por favor. Estamos solos.
+
+82
+00:07:45,067 --> 00:07:46,527
+Excepto por ellos.
+
+83
+00:07:47,528 --> 00:07:49,321
+Exacto, menos por ellos.
+
+84
+00:09:20,660 --> 00:09:21,703
+¿Chicos?
+
+85
+00:09:27,667 --> 00:09:30,295
+¿Qué crees que haría una huella como esta?
+
+86
+00:09:30,378 --> 00:09:31,463
+No sé, Due.
+
+87
+00:09:31,880 --> 00:09:35,592
+Algo con seis patas.
+Bastante grande.
+
+88
+00:09:36,593 --> 00:09:41,014
+- Deja un sendero ancho y agradable.
+- ¿Sabes lo que hay al final?
+
+89
+00:09:42,766 --> 00:09:43,766
+La cena.
+
+90
+00:10:16,675 --> 00:10:17,676
+¿Aang?
+
+91
+00:10:18,301 --> 00:10:19,427
+¿Sokka?
+
+92
+00:10:23,098 --> 00:10:25,141
+¿Hola?
+
+93
+00:10:26,017 --> 00:10:27,060
+¿Puedes ayudarme?
+
+94
+00:10:29,437 --> 00:10:30,437
+¿Mamá?
+
+95
+00:10:30,855 --> 00:10:31,855
+¡Mamá!
+
+96
+00:10:35,652 --> 00:10:36,987
+No puedo creer...
+
+97
+00:10:47,872 --> 00:10:49,457
+¡Aang!
+
+98
+00:10:50,000 --> 00:10:52,877
+¡Estúpido pantano!
+¡Estúpidas enredaderas!
+
+99
+00:10:53,503 --> 00:10:54,754
+¡Katara!
+
+100
+00:10:55,755 --> 00:10:57,590
+Te crees muy duro, ¿eh?
+
+101
+00:11:05,098 --> 00:11:06,098
+¿Hola?
+
+102
+00:11:10,812 --> 00:11:11,812
+¿Yue?
+
+103
+00:11:12,480 --> 00:11:15,567
+Es un truco de la luz.
+El gas de pantano.
+
+104
+00:11:16,026 --> 00:11:19,654
+Me golpeé la cabeza huyendo anoche.
+Me estoy volviendo loco.
+
+105
+00:11:22,699 --> 00:11:24,909
+No me protegiste.
+
+106
+00:11:38,298 --> 00:11:39,507
+¡Katara!
+
+107
+00:11:41,843 --> 00:11:43,094
+¡Appa!
+
+108
+00:11:44,304 --> 00:11:45,304
+¿Hola?
+
+109
+00:11:45,805 --> 00:11:46,805
+¿Quién eres?
+
+110
+00:11:49,267 --> 00:11:50,894
+¡Eh, vuelve!
+
+111
+00:12:25,929 --> 00:12:27,055
+Mira, Tho.
+
+112
+00:12:27,472 --> 00:12:30,308
+¿Está ese pequeño peludo
+montando esa cosa?
+
+113
+00:12:30,391 --> 00:12:34,604
+No, eso es es un lémur.
+Una vez vi uno en un espectáculo.
+
+114
+00:12:34,687 --> 00:12:38,483
+- Dicen que son muy inteligentes
+- Seguro que sabe a zarigüeya.
+
+115
+00:12:38,566 --> 00:12:40,902
+Piensas que todo sabe a zarigüeya.
+
+116
+00:12:41,361 --> 00:12:46,491
+Vamos, muchachos.
+Un poco más cerca. Despacio y con cuidado.
+
+117
+00:12:46,574 --> 00:12:49,744
+No hay nada de qué preocuparse.
+Solo los vamos a comer.
+
+118
+00:12:51,329 --> 00:12:53,998
+- ¿Por qué dijiste eso?
+- Bueno, es verdad.
+
+119
+00:12:54,082 --> 00:12:57,836
+- Pero no tienes que decírselo.
+- No sabía que me entendían.
+
+120
+00:12:57,919 --> 00:12:58,919
+¡Vamos!
+
+121
+00:13:26,739 --> 00:13:27,991
+¿Quién eres?
+
+122
+00:13:39,085 --> 00:13:42,714
+¿Qué están haciendo?
+¡Los he buscado por todas partes!
+
+123
+00:13:42,797 --> 00:13:45,300
+¡Te he estado buscando!
+
+124
+00:13:45,383 --> 00:13:48,636
+- Yo perseguía a una chica.
+- ¿Qué chica?
+
+125
+00:13:48,720 --> 00:13:52,891
+No lo sé. Oí risas,
+y vi a una chica con un vestido elegante.
+
+126
+00:13:52,974 --> 00:13:57,437
+Debe de haber una fiesta del té
+y no nos han invitado.
+
+127
+00:13:58,104 --> 00:13:59,814
+Pensé que vi a mamá.
+
+128
+00:14:02,108 --> 00:14:06,237
+Tenemos hambre y estamos asustados.
+La mente nos juega malas pasadas.
+
+129
+00:14:06,321 --> 00:14:09,449
+- Por eso todos vimos cosas.
+- ¿Tú viste algo?
+
+130
+00:14:09,866 --> 00:14:13,203
+Me pareció ver a Yue,
+pero eso no prueba nada.
+
+131
+00:14:13,286 --> 00:14:16,581
+Pienso en ella todo el tiempo.
+Y tú viste a mamá.
+
+132
+00:14:16,664 --> 00:14:17,790
+La echas de menos.
+
+133
+00:14:18,166 --> 00:14:19,166
+¿Y yo?
+
+134
+00:14:19,500 --> 00:14:23,796
+No conocía a la chica. Y todas
+nuestras visiones nos trajeron aquí.
+
+135
+00:14:23,880 --> 00:14:27,508
+Bien, ¿y esto qué es?
+¿En medio del pantano?
+
+136
+00:14:27,592 --> 00:14:30,094
+Sí, el centro.
+
+137
+00:14:32,889 --> 00:14:34,474
+Es el corazón del pantano.
+
+138
+00:14:34,557 --> 00:14:40,855
+- Nos ha estado llamando aquí. Lo sabía.
+- Es un árbol. No puede llamar a nadie.
+
+139
+00:14:40,939 --> 00:14:43,316
+Por última vez,
+no nos persigue nada,
+
+140
+00:14:43,399 --> 00:14:46,027
+y no pasa nada mágico.
+
+141
+00:16:19,093 --> 00:16:21,929
+¿Para qué necesitaría
+un lémur una camiseta?
+
+142
+00:17:35,586 --> 00:17:38,589
+¡Hay alguien dentro!
+¡Dobla las enredaderas!
+
+143
+00:17:52,603 --> 00:17:55,439
+¿Para qué nos llamaste
+si quieres matarnos?
+
+144
+00:17:55,523 --> 00:17:56,523
+¡Esperen!
+
+145
+00:17:57,566 --> 00:17:59,485
+Yo no les llamé.
+
+146
+00:18:01,278 --> 00:18:04,949
+Estábamos volando y algo me llamó.
+Me dijo que aterrizara.
+
+147
+00:18:05,032 --> 00:18:08,327
+Es el Avatar.
+Nos pasan cosas así a menudo.
+
+148
+00:18:08,410 --> 00:18:11,539
+¿El Avatar? Vengan conmigo.
+
+149
+00:18:14,625 --> 00:18:16,085
+¿Y quién eres?
+
+150
+00:18:17,294 --> 00:18:20,256
+Protejo el pantano
+de la gente que le hace daño,
+
+151
+00:18:20,339 --> 00:18:24,552
+- Como este tipo con su gran cuchillo.
+- ¿Ven? Completamente razonable.
+
+152
+00:18:24,635 --> 00:18:27,596
+Solo es un tipo normal
+que defiende su hogar.
+
+153
+00:18:27,680 --> 00:18:29,390
+No tiene nada de místico.
+
+154
+00:18:30,641 --> 00:18:35,104
+El pantano es un lugar místico.
+Es sagrado.
+
+155
+00:18:35,187 --> 00:18:39,775
+Alcancé la iluminación justo aquí,
+bajo el árbol baniano.
+
+156
+00:18:39,858 --> 00:18:43,028
+Oí que me llamaba, como tú.
+
+157
+00:18:43,696 --> 00:18:46,490
+Seguro. Parece muy hablador.
+
+158
+00:18:47,950 --> 00:18:53,038
+Todo el pantano es en realidad
+un árbol que se extiende kilómetros.
+
+159
+00:18:53,122 --> 00:18:58,377
+Las ramas se extienden, se hunden y echan
+raíces, y luego se esparcen un poco más.
+
+160
+00:18:58,877 --> 00:19:03,924
+Un gran organismo vivo,
+como el mundo entero.
+
+161
+00:19:06,135 --> 00:19:10,097
+Entiendo que el árbol es algo grande,
+¿pero el mundo entero?
+
+162
+00:19:10,180 --> 00:19:11,181
+Claro.
+
+163
+00:19:11,557 --> 00:19:16,312
+¿Crees que eres diferente a mí,
+a tus amigos, o a este árbol?
+
+164
+00:19:16,395 --> 00:19:21,734
+Si prestas atención, puedes oír
+a todos los seres vivos respirando juntos.
+
+165
+00:19:21,817 --> 00:19:24,820
+Puedes sentir que todo crece.
+
+166
+00:19:25,362 --> 00:19:29,617
+Todos vivimos juntos aunque
+la mayoría de la gente no actúa así.
+
+167
+00:19:29,700 --> 00:19:35,748
+Todos tenemos las mismas raíces,
+y todos somos ramas del mismo árbol
+
+168
+00:19:35,831 --> 00:19:37,625
+¿Qué significan las visiones?
+
+169
+00:19:37,708 --> 00:19:41,503
+En el pantano, vemos visiones
+de gente que hemos perdido.
+
+170
+00:19:41,587 --> 00:19:45,007
+<i>Gente que amábamos,
+gente que creemos que se ha ido.</i>
+
+171
+00:19:45,507 --> 00:19:47,968
+<i>Pero el pantano nos dice que no.</i>
+
+172
+00:19:48,052 --> 00:19:50,054
+Seguimos conectados a ellos.
+
+173
+00:19:50,554 --> 00:19:54,308
+El tiempo es una ilusión
+y también la muerte.
+
+174
+00:19:54,391 --> 00:19:57,936
+¿Pero y mi visión?
+Era alguien que nunca había visto.
+
+175
+00:19:58,020 --> 00:20:00,731
+Tú eres el Avatar. Dímelo tú.
+
+176
+00:20:01,440 --> 00:20:03,776
+El tiempo es una ilusión.
+
+177
+00:20:04,443 --> 00:20:08,322
+Así que es alguien que conoceré.
+
+178
+00:20:09,698 --> 00:20:13,243
+Siento interrumpir.
+Tenemos que encontrar a Appa y a Momo.
+
+179
+00:20:13,327 --> 00:20:15,204
+Creo que sé cómo encontrarlos.
+
+180
+00:20:15,954 --> 00:20:18,248
+Todo está conectado.
+
+181
+00:20:37,184 --> 00:20:39,061
+¡Tenemos que darnos prisa!
+
+182
+00:20:39,144 --> 00:20:42,690
+<i>Tiré el sedal al cauce del río</i>
+
+183
+00:20:42,773 --> 00:20:46,068
+<i>Atrapé diez peces y los maté</i>
+
+184
+00:20:46,151 --> 00:20:47,361
+<i>Los destripé</i>
+
+185
+00:20:47,444 --> 00:20:50,155
+<i>Y tiré las cabezas al agua</i>
+
+186
+00:20:50,239 --> 00:20:53,409
+<i>Para alimentar a los gatodrilos</i>
+
+187
+00:20:58,580 --> 00:20:59,665
+¡Appa!
+
+188
+00:21:02,042 --> 00:21:03,335
+¡Nos atacan!
+
+189
+00:21:07,715 --> 00:21:13,846
+- Son maestros agua.
+- ¿Tú también? Somos familia.
+
+190
+00:21:19,101 --> 00:21:21,270
+Huu. ¿Qué tal te ha ido?
+
+191
+00:21:21,353 --> 00:21:26,191
+Ya sabes, asustando a la gente,
+apartando enredaderas. Lo de siempre.
+
+192
+00:21:26,734 --> 00:21:27,734
+¿Huu?
+
+193
+00:21:31,822 --> 00:21:35,576
+- ¿Qué tal la zarigüeya?
+- Sabe igual que la gallina del Ártico.
+
+194
+00:21:35,951 --> 00:21:38,454
+¿Por qué querían comer a Appa?
+
+195
+00:21:38,537 --> 00:21:41,123
+Tienes muchas de esas cosas grandes
+por ahí.
+
+196
+00:21:41,206 --> 00:21:45,085
+¿Quieres que me coma al viejo Slim?
+Es como de la familia.
+
+197
+00:21:46,587 --> 00:21:47,587
+Slim bonito.
+
+198
+00:21:51,133 --> 00:21:53,969
+No come bichos.
+Eso es comida de la gente.
+
+199
+00:21:54,595 --> 00:21:57,431
+- ¿De dónde eran?
+- Del Polo Sur.
+
+200
+00:21:57,514 --> 00:22:01,894
+No sabía que había maestros agua
+en otro sitio. Hay un bonito pantano, ¿no?
+
+201
+00:22:02,269 --> 00:22:04,730
+No, es todo hielo y nieve.
+
+202
+00:22:06,273 --> 00:22:07,608
+Normal que se fueran.
+
+203
+00:22:07,691 --> 00:22:11,820
+Bueno, espero que te des cuenta ahora
+de que no pasaba nada raro.
+
+204
+00:22:11,904 --> 00:22:14,323
+Solo era gente mugrienta en un pantano.
+
+205
+00:22:14,406 --> 00:22:16,200
+¿Y las visiones?
+
+206
+00:22:16,283 --> 00:22:20,370
+Te lo dije, teníamos hambre.
+Estoy comiendo un bicho gigante.
+
+207
+00:22:23,874 --> 00:22:27,044
+¿Y cuando el árbol me enseñó
+a Appa y a Momo?
+
+208
+00:22:27,127 --> 00:22:30,839
+Cosas de Avatar. No cuenta.
+Lo único que no puedo entender
+
+209
+00:22:30,923 --> 00:22:33,300
+es cómo creaste el tornado
+que nos tragó.
+
+210
+00:22:33,383 --> 00:22:38,305
+No puedo hacer nada de eso.
+Solo doblo el agua de las plantas.
+
+211
+00:22:39,556 --> 00:22:41,225
+Bueno, el tiempo no cuenta.
+
+212
+00:22:41,308 --> 00:22:44,853
+Así que no hay nada misterioso
+en el pantano.
+
+213
+00:23:00,285 --> 00:23:01,285
+¿Quién está ahí?
+

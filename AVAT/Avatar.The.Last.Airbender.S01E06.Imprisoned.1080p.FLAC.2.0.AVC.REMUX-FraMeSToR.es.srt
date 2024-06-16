@@ -1,0 +1,1258 @@
+1
+00:00:02,431 --> 00:00:03,431
+<i>Agua.</i>
+
+2
+00:00:04,808 --> 00:00:05,808
+<i>Tierra.</i>
+
+3
+00:00:06,769 --> 00:00:07,769
+<i>Fuego.</i>
+
+4
+00:00:08,896 --> 00:00:09,896
+<i>Aire.</i>
+
+5
+00:00:11,106 --> 00:00:14,610
+<i>Hace mucho, las cuatro naciones
+vivían en paz.</i>
+
+6
+00:00:15,277 --> 00:00:18,739
+<i>Pero todo cambió
+cuando la Nación del Fuego atacó.</i>
+
+7
+00:00:19,573 --> 00:00:23,619
+<i>Solo el Avatar, maestro de los
+cuatro elementos, podía detenerlos,</i>
+
+8
+00:00:23,702 --> 00:00:26,789
+<i>pero cuando el mundo
+más lo necesitaba, desapareció.</i>
+
+9
+00:00:26,997 --> 00:00:31,043
+<i>Han pasado cien años y mi hermano
+y yo encontramos al Avatar,</i>
+
+10
+00:00:31,126 --> 00:00:32,753
+<i>un maestro del aire llamado Aang.</i>
+
+11
+00:00:32,836 --> 00:00:35,005
+<i>Y aunque su dominio del aire
+es genial,</i>
+
+12
+00:00:35,089 --> 00:00:38,550
+<i>tiene mucho que aprender
+antes de poder salvar a alguien.</i>
+
+13
+00:00:38,801 --> 00:00:42,137
+<i>Pero creo que Aang
+puede salvar el mundo.</i>
+
+14
+00:00:42,596 --> 00:00:46,475
+AVATAR: LA LEYENDA DE AANG
+
+15
+00:00:49,299 --> 00:00:53,399
+LIBRO UNO: AGUA
+CAPÍTULO SEIS: PRISIONEROS
+
+16
+00:01:08,137 --> 00:01:10,515
+Volviste. ¿Qué cenaremos?
+
+17
+00:01:10,598 --> 00:01:13,559
+Las opciones son nueces redondas,
+
+18
+00:01:13,643 --> 00:01:16,062
+otras algo ovaladas,
+
+19
+00:01:16,145 --> 00:01:19,440
+y otras así que, quizá, sean piedras.
+
+20
+00:01:21,776 --> 00:01:22,776
+Empiecen.
+
+21
+00:01:23,695 --> 00:01:25,863
+En serio, ¿qué trajiste?
+
+22
+00:01:35,373 --> 00:01:36,373
+¿Y eso?
+
+23
+00:01:41,379 --> 00:01:43,089
+¡Viene de allí!
+
+24
+00:01:43,798 --> 00:01:47,260
+¿No deberíamos alejarnos del estruendo?
+
+25
+00:01:58,604 --> 00:02:01,399
+- Un maestro de Tierra.
+- Hablémosle.
+
+26
+00:02:01,482 --> 00:02:03,901
+Parece peligroso, cuidado.
+
+27
+00:02:03,985 --> 00:02:06,154
+Hola, soy Katara.
+
+28
+00:02:06,654 --> 00:02:07,739
+¿Y tú?
+
+29
+00:02:16,497 --> 00:02:17,957
+¡Fue un gusto!
+
+30
+00:02:18,041 --> 00:02:19,292
+Solo lo saludé.
+
+31
+00:02:19,834 --> 00:02:22,503
+El tipo se fue corriendo.
+
+32
+00:02:22,587 --> 00:02:26,382
+Quizá estemos cerca de un pueblo
+con un mercado.
+
+33
+00:02:26,466 --> 00:02:28,426
+¡Nada de nueces!
+
+34
+00:02:28,509 --> 00:02:31,054
+Ey, me esforcé para conseguirlas.
+
+35
+00:02:32,263 --> 00:02:33,765
+Tampoco me gustan.
+
+36
+00:02:42,023 --> 00:02:44,817
+Buen sombrero, lo cambio por nueces.
+
+37
+00:02:48,362 --> 00:02:49,362
+Ey.
+
+38
+00:02:51,199 --> 00:02:54,452
+- Mamá.
+- ¿Donde estabas, Haru? Es tarde.
+
+39
+00:02:54,535 --> 00:02:56,454
+Haz tus tareas.
+
+40
+00:02:56,537 --> 00:02:58,247
+Ey, eres ese chico.
+
+41
+00:02:59,040 --> 00:03:00,416
+¿Por qué huiste?
+
+42
+00:03:01,209 --> 00:03:03,294
+Me confundiste con otro.
+
+43
+00:03:03,377 --> 00:03:06,047
+No. Te vimos dominar la Tierra.
+
+44
+00:03:08,091 --> 00:03:10,051
+¿Qué hiciste?
+
+45
+00:03:10,134 --> 00:03:12,970
+Están locos, mamá. Mira su ropa.
+
+46
+00:03:14,931 --> 00:03:17,308
+Sabes que eso es peligroso.
+
+47
+00:03:17,391 --> 00:03:20,561
+¿Y si te vieran dominar la Tierra?
+
+48
+00:03:21,145 --> 00:03:22,145
+¡Abran!
+
+49
+00:03:24,232 --> 00:03:26,567
+¡La nación de Fuego! ¡Finjan!
+
+50
+00:03:38,204 --> 00:03:41,082
+¿Qué quiere? Ya le pagué esta semana.
+
+51
+00:03:41,165 --> 00:03:42,875
+Aumentó el impuesto.
+
+52
+00:03:42,959 --> 00:03:45,044
+No desea un accidente, ¿no?
+
+53
+00:03:46,170 --> 00:03:49,423
+Qué difícil es controlar el fuego.
+
+54
+00:03:57,557 --> 00:03:59,267
+Conserve las de cobre.
+
+55
+00:04:03,980 --> 00:04:07,150
+Simpático. ¿Hace cuánto están ellos aquí?
+
+56
+00:04:07,775 --> 00:04:09,026
+Hace cinco años.
+
+57
+00:04:09,110 --> 00:04:13,239
+Ozai usa nuestro carbón para sus barcos.
+
+58
+00:04:13,322 --> 00:04:15,741
+Son matones, nos roban,
+
+59
+00:04:15,825 --> 00:04:18,870
+y nadie hace nada en este pueblo.
+
+60
+00:04:18,953 --> 00:04:21,497
+Silencio, Haru, no hables así.
+
+61
+00:04:21,581 --> 00:04:24,000
+Haru es maestro, puede ayudar.
+
+62
+00:04:24,083 --> 00:04:28,588
+Está prohibido dominar la Tierra,
+eso nos causó desgracias.
+
+63
+00:04:28,671 --> 00:04:31,174
+Él no debe usar sus habilidades.
+
+64
+00:04:31,257 --> 00:04:33,092
+¿Por qué dice eso?
+
+65
+00:04:33,176 --> 00:04:34,635
+Haru tiene un don.
+
+66
+00:04:34,719 --> 00:04:38,556
+El domina la Tierra
+como yo domino el Agua.
+
+67
+00:04:38,639 --> 00:04:40,016
+Es lo que somos.
+
+68
+00:04:40,099 --> 00:04:41,684
+No entiendes.
+
+69
+00:04:41,767 --> 00:04:44,896
+Haru puede ayudarlos a luchar.
+
+70
+00:04:44,979 --> 00:04:47,940
+¿Qué más les haría la nación de Fuego?
+
+71
+00:04:48,024 --> 00:04:49,901
+Podrían llevarse a Haru:
+
+72
+00:04:50,610 --> 00:04:52,570
+eso le pasó a su padre.
+
+73
+00:05:00,536 --> 00:05:04,498
+Mamá dice que dormirán aquí,
+pero váyanse mañana.
+
+74
+00:05:04,582 --> 00:05:07,293
+Gracias. Appa no se comerá el heno.
+
+75
+00:05:13,299 --> 00:05:15,134
+Perdón por lo que dije.
+
+76
+00:05:15,551 --> 00:05:18,512
+- No sabía lo de tu padre.
+- Está bien.
+
+77
+00:05:18,596 --> 00:05:21,682
+Qué curioso lo que dijiste en la tienda.
+
+78
+00:05:22,350 --> 00:05:23,851
+Me recordaste a él.
+
+79
+00:05:24,393 --> 00:05:25,228
+Gracias.
+
+80
+00:05:25,311 --> 00:05:27,855
+Cuando nos invadieron las tropas,
+
+81
+00:05:27,939 --> 00:05:33,194
+mi padre, tan valiente, y el resto
+eran menos, pero lucharon igual.
+
+82
+00:05:33,277 --> 00:05:35,071
+Es un gran hombre.
+
+83
+00:05:35,905 --> 00:05:41,077
+Juntaron a los maestros de Tierra,
+como mi padre, y se los llevaron.
+
+84
+00:05:41,702 --> 00:05:43,371
+Nunca más lo vimos.
+
+85
+00:05:43,454 --> 00:05:46,791
+- Por eso escondes tu poder.
+- Sí.
+
+86
+00:05:47,708 --> 00:05:52,380
+Pero la única forma
+en que siento cerca a mi padre
+
+87
+00:05:52,463 --> 00:05:54,548
+es cuando domino la Tierra.
+
+88
+00:05:55,424 --> 00:05:57,510
+Él me enseño lo que sé.
+
+89
+00:05:59,512 --> 00:06:00,846
+Mira este collar.
+
+90
+00:06:01,472 --> 00:06:04,183
+- Me lo dio mi madre.
+- Es hermoso.
+
+91
+00:06:04,267 --> 00:06:08,896
+La perdí cuando atacó la nación de Fuego.
+Solo me queda esto.
+
+92
+00:06:08,980 --> 00:06:10,690
+Pero no basta, ¿no?
+
+93
+00:06:11,315 --> 00:06:12,315
+No.
+
+94
+00:06:18,489 --> 00:06:20,199
+- ¡Socorro!
+- ¡La mina!
+
+95
+00:06:23,369 --> 00:06:25,121
+¡Auxilio!
+
+96
+00:06:31,711 --> 00:06:34,171
+No sirve, busquemos ayuda.
+
+97
+00:06:34,255 --> 00:06:36,048
+¡No hay tiempo! ¡Vamos!
+
+98
+00:06:36,716 --> 00:06:38,926
+Haru, tú puedes ayudarlo.
+
+99
+00:06:39,802 --> 00:06:40,678
+No puedo.
+
+100
+00:06:40,761 --> 00:06:44,348
+Por favor, es la única manera,
+nadie te verá.
+
+101
+00:06:57,111 --> 00:06:58,612
+¡Lo lograste, Haru!
+
+102
+00:07:07,204 --> 00:07:11,000
+Haru fue tan valiente
+al ayudar al anciano.
+
+103
+00:07:11,083 --> 00:07:14,462
+- Seguro lo inspiraste.
+- Creo que sí.
+
+104
+00:07:14,545 --> 00:07:17,048
+Duérmanse, nos iremos al alba.
+
+105
+00:07:17,131 --> 00:07:19,216
+¿Podemos dormir más tiempo?
+
+106
+00:07:19,300 --> 00:07:22,970
+¡No! El pueblo está repleto de tropas.
+
+107
+00:07:23,054 --> 00:07:27,516
+Aang, si te descubren,
+desayunaremos fuego. Buenas noches.
+
+108
+00:07:27,600 --> 00:07:29,769
+Prefiero fuego y no nueces.
+
+109
+00:07:29,852 --> 00:07:30,936
+Buenas noches.
+
+110
+00:07:55,127 --> 00:07:56,170
+¡Es él!
+
+111
+00:07:56,253 --> 00:07:58,214
+¡El maestro de Tierra!
+
+112
+00:08:28,141 --> 00:08:31,269
+- ¡Se llevaron a Haru!
+- ¿Qué?
+
+113
+00:08:31,352 --> 00:08:35,565
+El anciano lo delató.
+¡Yo hice que usara su poder!
+
+114
+00:08:35,648 --> 00:08:38,318
+Calma, Katara. ¿Cuándo pasó?
+
+115
+00:08:38,401 --> 00:08:40,862
+Vinieron a la medianoche.
+
+116
+00:08:40,945 --> 00:08:42,905
+Es tarde para rastrearlo.
+
+117
+00:08:42,989 --> 00:08:44,365
+No hace falta.
+
+118
+00:08:44,449 --> 00:08:49,662
+- La nación de Fuego me llevará con él.
+- Y... ¿Por qué?
+
+119
+00:08:49,746 --> 00:08:52,832
+Me arrestarán por dominar la Tierra.
+
+120
+00:08:55,918 --> 00:08:58,963
+Creí que estabas loca,
+pero quizá no.
+
+121
+00:08:59,047 --> 00:09:04,844
+Usaremos la ventilación de la mina.
+Aang enviará una corriente desde allí.
+
+122
+00:09:04,927 --> 00:09:08,681
+La piedra levitará y ¡tatan!
+Dominarás la Tierra.
+
+123
+00:09:08,765 --> 00:09:10,266
+Aang, ¿entendiste?
+
+124
+00:09:10,350 --> 00:09:11,726
+Sí, claro.
+
+125
+00:09:12,393 --> 00:09:13,853
+¿Recuerdas todo?
+
+126
+00:09:13,936 --> 00:09:17,815
+Sí, relájense, así no es divertido.
+
+127
+00:09:17,899 --> 00:09:22,445
+¿Es divertido ser arrestado
+por un ejército cruel?
+
+128
+00:09:22,528 --> 00:09:24,989
+Sí, exactamente.
+
+129
+00:09:25,448 --> 00:09:27,575
+¡Ya vienen! ¡A sus puestos!
+
+130
+00:09:30,912 --> 00:09:34,582
+- ¡Sal del camino, mocosa!
+- ¿Cómo te atreves?
+
+131
+00:09:34,665 --> 00:09:37,210
+¡Cretino orejudo!
+
+132
+00:09:37,293 --> 00:09:38,836
+¿Qué me dijiste?
+
+133
+00:09:38,920 --> 00:09:41,089
+¡Cretino orejudo!
+
+134
+00:09:41,172 --> 00:09:44,884
+¿Los animales se paran allí
+para tener sombra?
+
+135
+00:09:44,967 --> 00:09:46,427
+¡Retráctate!
+
+136
+00:09:47,136 --> 00:09:48,346
+En serio.
+
+137
+00:09:48,429 --> 00:09:50,264
+¡No lo haré!
+
+138
+00:09:50,348 --> 00:09:54,769
+Los elefantes se ríen
+del tamaño de tus orejas.
+
+139
+00:09:54,852 --> 00:09:57,230
+¡Basta! ¡Te acabaré!
+
+140
+00:09:57,313 --> 00:09:59,607
+Te enseñaré quién manda:
+
+141
+00:09:59,690 --> 00:10:01,401
+dominaré la Tierra.
+
+142
+00:10:05,279 --> 00:10:08,699
+¡Dominaré la Tierra!
+
+143
+00:10:12,620 --> 00:10:15,665
+¡El lémur domina la Tierra!
+
+144
+00:10:17,458 --> 00:10:19,627
+¡No, idiota, es la chica!
+
+145
+00:10:21,003 --> 00:10:22,130
+Claro.
+
+146
+00:10:23,256 --> 00:10:24,590
+¡Yo la retendré!
+
+147
+00:10:25,091 --> 00:10:28,428
+Tienes 12 h para encontrarlo,
+te seguiremos.
+
+148
+00:10:36,894 --> 00:10:39,230
+Momo, tienes orejas grandes.
+
+149
+00:11:18,010 --> 00:11:20,721
+Ella estará bien, sabe lo que hace.
+
+150
+00:11:28,771 --> 00:11:31,649
+Maestros de Tierra, es un placer
+
+151
+00:11:31,732 --> 00:11:34,985
+acogerlos en mi humilde astillero.
+
+152
+00:11:35,069 --> 00:11:37,530
+Soy su carcelero.
+
+153
+00:11:37,613 --> 00:11:40,866
+No pienso en ustedes como prisioneros,
+
+154
+00:11:40,950 --> 00:11:43,285
+sino como estimados invitados,
+
+155
+00:11:43,369 --> 00:11:45,830
+y espero que me consideren
+
+156
+00:11:45,913 --> 00:11:48,874
+su humilde y cariñoso anfitrión.
+
+157
+00:11:49,417 --> 00:11:52,294
+Les irá bien si obedecen...
+
+158
+00:11:58,592 --> 00:12:02,513
+¿Qué invitado interrumpe a su anfitrión?
+
+159
+00:12:02,596 --> 00:12:03,931
+¡Llévenlo abajo!
+
+160
+00:12:04,014 --> 00:12:07,393
+Una semana en soledad
+mejorará esos modales.
+
+161
+00:12:08,060 --> 00:12:11,605
+Trátenme con la misma cortesía
+que brindo,
+
+162
+00:12:11,689 --> 00:12:14,692
+y nos llevaremos muy bien.
+
+163
+00:12:15,317 --> 00:12:21,198
+Notarán que esta torre
+está hecha de metal.
+
+164
+00:12:21,282 --> 00:12:25,244
+Están lejísimos
+de cualquier pedazo de tierra.
+
+165
+00:12:25,327 --> 00:12:30,082
+Si se ilusionaron con usar esa brutalidad
+
+166
+00:12:30,166 --> 00:12:32,918
+que ustedes llaman dominar,
+
+167
+00:12:33,627 --> 00:12:35,087
+olvídenlo.
+
+168
+00:12:35,171 --> 00:12:37,965
+Es imposible.
+
+169
+00:12:39,216 --> 00:12:40,342
+Hasta luego.
+
+170
+00:13:05,743 --> 00:13:07,036
+¿Katara?
+
+171
+00:13:07,119 --> 00:13:09,371
+- ¡Haru!
+- ¿Qué haces aquí?
+
+172
+00:13:09,914 --> 00:13:13,501
+Te capturaron por mi culpa.
+Vine a rescatarte.
+
+173
+00:13:13,584 --> 00:13:15,544
+¿Y te hiciste arrestar?
+
+174
+00:13:15,628 --> 00:13:20,257
+- Era la única forma de encontrarte.
+- Katara, tienes coraje.
+
+175
+00:13:20,466 --> 00:13:22,968
+Quiero que conozcas a alguien.
+
+176
+00:13:24,720 --> 00:13:27,348
+Katara, él es Tyro, mi padre.
+
+177
+00:13:28,098 --> 00:13:30,559
+Papá, ella es Katara.
+
+178
+00:13:30,643 --> 00:13:31,936
+Es un honor.
+
+179
+00:13:34,063 --> 00:13:35,439
+Come, Katara.
+
+180
+00:13:37,858 --> 00:13:39,944
+No es tan malo.
+
+181
+00:13:43,572 --> 00:13:45,574
+Tampoco es tan bueno.
+
+182
+00:13:45,658 --> 00:13:49,161
+Tyro, no alcanzan las mantas.
+
+183
+00:13:49,245 --> 00:13:53,624
+Hablaré con los guardias.
+Cuiden a los ancianos.
+
+184
+00:13:53,707 --> 00:13:56,585
+Los demás esperaremos que haga calor.
+
+185
+00:13:56,669 --> 00:13:59,463
+Perdón, ¿tiene un plan de escape?
+
+186
+00:13:59,547 --> 00:14:00,547
+¿Cómo?
+
+187
+00:14:00,589 --> 00:14:05,052
+Un plan para salir de aquí.
+¿Será rebelión o sabotaje?
+
+188
+00:14:05,135 --> 00:14:10,140
+El plan es sobrevivir,
+esperar que termine la guerra.
+
+189
+00:14:10,224 --> 00:14:13,769
+Ojalá regresemos a casa
+y olvidemos todo esto.
+
+190
+00:14:13,853 --> 00:14:17,314
+¿Cómo dice eso? ¿Se dio por vencido?
+
+191
+00:14:17,398 --> 00:14:22,027
+Katara, admiro tu valor
+y envidio tu juventud,
+
+192
+00:14:22,778 --> 00:14:24,822
+pero hay vidas en juego.
+
+193
+00:14:25,322 --> 00:14:29,368
+El carcelero es cruel,
+no tolerará ninguna rebelión.
+
+194
+00:14:29,952 --> 00:14:32,872
+Perdón, pero estamos indefensos.
+
+195
+00:14:33,581 --> 00:14:34,582
+Ya veremos.
+
+196
+00:14:38,836 --> 00:14:43,257
+Maestros de Tierra, no me conocen,
+pero sé quiénes son.
+
+197
+00:14:43,340 --> 00:14:48,929
+En la tribu de Agua, nos dormíamos
+con las historias del reino de Tierra
+
+198
+00:14:49,013 --> 00:14:52,057
+y de los maestros que lo cuidaban.
+
+199
+00:14:52,808 --> 00:14:56,562
+Creen que la nación de Fuego
+los dejó indefensos.
+
+200
+00:14:56,645 --> 00:14:59,565
+Les quitaron el dominio de la Tierra,
+
+201
+00:14:59,648 --> 00:15:02,067
+pero no su coraje,
+
+202
+00:15:02,151 --> 00:15:04,486
+que ellos deberían temer,
+
+203
+00:15:04,570 --> 00:15:08,407
+y que es más profundo que cualquier mina
+
+204
+00:15:08,490 --> 00:15:11,118
+y océano que los separe del hogar.
+
+205
+00:15:11,201 --> 00:15:14,747
+La fortaleza de sus corazones
+está en su ser,
+
+206
+00:15:14,830 --> 00:15:19,335
+corazones inquebrantables
+ante las piedras erosionadas.
+
+207
+00:15:19,418 --> 00:15:22,338
+Es hora de luchar.
+
+208
+00:15:22,421 --> 00:15:25,257
+¡El Avatar ha regresado!
+
+209
+00:15:25,341 --> 00:15:27,676
+Recuerden su coraje, maestros.
+
+210
+00:15:27,760 --> 00:15:30,262
+¡Luchemos por la libertad!
+
+211
+00:16:09,802 --> 00:16:13,013
+Pasaron las 12 h. ¿Y Haru? Vámonos.
+
+212
+00:16:13,847 --> 00:16:14,974
+No puedo.
+
+213
+00:16:15,057 --> 00:16:17,518
+No queda tiempo, hay guardias.
+
+214
+00:16:17,601 --> 00:16:18,811
+Sube.
+
+215
+00:16:18,894 --> 00:16:20,604
+¿Qué pasa, Katara?
+
+216
+00:16:20,688 --> 00:16:22,314
+No me iré.
+
+217
+00:16:23,524 --> 00:16:25,985
+No abandonaré a estas personas.
+
+218
+00:16:31,671 --> 00:16:33,423
+Pero ¿qué dices?
+
+219
+00:16:33,506 --> 00:16:37,302
+No podemos abandonarlas,
+hay que ayudarlas.
+
+220
+00:16:37,385 --> 00:16:40,305
+Tiene razón. ¿Qué opinas, Sokka?
+
+221
+00:16:40,388 --> 00:16:42,015
+Que están locos.
+
+222
+00:16:43,808 --> 00:16:46,185
+Última oportunidad: vámonos.
+
+223
+00:16:46,269 --> 00:16:47,562
+No.
+
+224
+00:16:48,021 --> 00:16:49,897
+Odio que te pongas así.
+
+225
+00:16:50,356 --> 00:16:51,774
+Escondámonos.
+
+226
+00:16:59,365 --> 00:17:00,450
+¡Mira!
+
+227
+00:17:01,284 --> 00:17:03,995
+Dime qué viste exactamente.
+
+228
+00:17:04,078 --> 00:17:07,040
+- Parecía un bisonte volador.
+- ¿Cómo?
+
+229
+00:17:07,123 --> 00:17:10,126
+Un búfalo gigante con la silla vacía.
+
+230
+00:17:10,209 --> 00:17:13,296
+¿Un búfalo o un bisonte?
+
+231
+00:17:13,921 --> 00:17:18,176
+No los distingo,
+pero esa no es la cuestión, ¿no?
+
+232
+00:17:18,259 --> 00:17:21,262
+¡Yo decidiré eso, tonto!
+
+233
+00:17:24,932 --> 00:17:25,932
+¡Tú!
+
+234
+00:17:25,975 --> 00:17:29,103
+¡Despierta al capitán y revisa todo!
+
+235
+00:17:29,187 --> 00:17:30,396
+- Señor.
+- ¿Qué?
+
+236
+00:17:30,480 --> 00:17:33,983
+Acaba de tirar al capitán por la borda...
+
+237
+00:17:34,067 --> 00:17:37,695
+Busque a cualquier otro, y revisen todo.
+
+238
+00:17:37,779 --> 00:17:40,907
+Algo está pasando, y no me gusta.
+
+239
+00:17:48,164 --> 00:17:53,252
+- No hay tiempo. ¿Qué haremos?
+- Ojalá supiera causar un huracán.
+
+240
+00:17:54,671 --> 00:17:59,717
+- Tomaríamos las llaves del carcelero.
+- Él se las llevaría.
+
+241
+00:17:59,801 --> 00:18:01,844
+Solo fue una idea.
+
+242
+00:18:01,928 --> 00:18:05,306
+Les hablé para que lucharan,
+pero no sirvió.
+
+243
+00:18:05,390 --> 00:18:08,810
+Si lográramos ayudarlos
+para que se ayudasen.
+
+244
+00:18:08,893 --> 00:18:14,232
+Necesitarían tener tierra o piedras
+para dominar.
+
+245
+00:18:14,315 --> 00:18:16,109
+Este lugar es de metal.
+
+246
+00:18:19,237 --> 00:18:21,155
+No, miren el humo.
+
+247
+00:18:22,281 --> 00:18:24,033
+Seguro es carbón.
+
+248
+00:18:24,117 --> 00:18:26,577
+Es decir, tierra.
+
+249
+00:18:30,623 --> 00:18:35,086
+Ya casi amanece, no queda tiempo.
+¿Crees que saldrá bien?
+
+250
+00:18:35,169 --> 00:18:36,170
+Sí.
+
+251
+00:18:36,254 --> 00:18:42,385
+Con estos conductos, haremos
+el engaño de antes, pero a gran escala.
+
+252
+00:18:42,468 --> 00:18:45,012
+Hay un enorme depósito de carbón,
+
+253
+00:18:45,096 --> 00:18:46,973
+y todo está ventilado.
+
+254
+00:18:47,056 --> 00:18:49,851
+Aang cerró los conductos, salvo uno.
+
+255
+00:18:49,934 --> 00:18:53,813
+Cuando él use su poder,
+el carbón saldrá por aquí.
+
+256
+00:18:53,896 --> 00:18:55,273
+¡Intrusos!
+
+257
+00:18:55,898 --> 00:18:57,483
+¡Retrocedan!
+
+258
+00:18:57,692 --> 00:19:00,695
+Basta, Katara, no ganarás.
+
+259
+00:19:03,281 --> 00:19:05,742
+Escúchalo, niña.
+
+260
+00:19:05,825 --> 00:19:09,912
+Un error más, y morirás.
+
+261
+00:19:30,975 --> 00:19:35,521
+¡Es su oportunidad, maestros!
+¡Su destino está en sus manos!
+
+262
+00:19:44,572 --> 00:19:45,865
+Qué niña tonta.
+
+263
+00:19:45,948 --> 00:19:49,869
+¿Creíste que tus palabras inspiradores
+y el carbón
+
+264
+00:19:49,952 --> 00:19:52,330
+cambiarían a estas personas?
+
+265
+00:19:52,413 --> 00:19:56,501
+Mira esos rostros desesperanzados.
+
+266
+00:19:56,584 --> 00:19:59,712
+Les quebraron el espíritu hace mucho.
+
+267
+00:19:59,796 --> 00:20:02,965
+Pero aún crees en ellos.
+
+268
+00:20:03,466 --> 00:20:05,092
+Qué dulce.
+
+269
+00:20:05,718 --> 00:20:08,638
+Que desgaste de energía, chiquilla.
+
+270
+00:20:09,263 --> 00:20:11,432
+Fracasaste.
+
+271
+00:20:25,696 --> 00:20:27,156
+¡Sin piedad!
+
+272
+00:20:31,494 --> 00:20:34,247
+¡Por el reino de Tierra! ¡Ataquen!
+
+273
+00:21:10,074 --> 00:21:12,326
+¡Al barco! ¡Los frenaremos!
+
+274
+00:21:12,410 --> 00:21:13,911
+¡Que no escapen!
+
+275
+00:21:17,623 --> 00:21:19,333
+¡Chicos, denme carbón!
+
+276
+00:21:33,264 --> 00:21:35,141
+¡No, por favor!
+
+277
+00:21:35,224 --> 00:21:36,684
+¡No sé nadar!
+
+278
+00:21:36,767 --> 00:21:39,562
+No se preocupe. Los cobardes flotan.
+
+279
+00:21:50,348 --> 00:21:53,684
+Te agradezco por salvarme...
+por salvarnos.
+
+280
+00:21:53,768 --> 00:21:55,978
+Solo fue un poco de carbón.
+
+281
+00:21:56,062 --> 00:21:58,147
+No fue el carbón, Katara.
+
+282
+00:21:58,231 --> 00:21:59,232
+Fuiste tú.
+
+283
+00:21:59,899 --> 00:22:04,153
+Me ayudaste a tener coraje,
+Katara de la tribu de Agua.
+
+284
+00:22:04,862 --> 00:22:08,908
+Mi familia y los demás te debemos mucho.
+
+285
+00:22:08,991 --> 00:22:11,410
+Supongo que volverán a casa.
+
+286
+00:22:11,494 --> 00:22:14,247
+Sí, recuperaré mi pueblo.
+
+287
+00:22:14,330 --> 00:22:16,582
+¡Y todos los pueblos!
+
+288
+00:22:16,666 --> 00:22:21,003
+¡La nación de Fuego lamentará
+haber pisado nuestro hogar!
+
+289
+00:22:21,963 --> 00:22:23,297
+Ven con nosotros.
+
+290
+00:22:23,381 --> 00:22:26,801
+No puedo. Debes recuperar tu hogar.
+
+291
+00:22:26,884 --> 00:22:29,846
+Nosotros, llevar a Aang al Polo Norte.
+
+292
+00:22:30,096 --> 00:22:32,390
+Él es el Avatar, ¿no?
+
+293
+00:22:34,809 --> 00:22:40,273
+Katara, gracias por recuperar a mi padre.
+Creí que nunca más lo vería.
+
+294
+00:22:40,356 --> 00:22:42,441
+Ojala yo pudiera...
+
+295
+00:22:42,525 --> 00:22:43,525
+Lo sé.
+
+296
+00:22:44,068 --> 00:22:46,562
+¡Perdí el collar de mi madre!
+
