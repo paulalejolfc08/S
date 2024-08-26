@@ -1,0 +1,414 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0060,0110,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:25.60,0:01:29.19,Cart_A_Tre,,0000,0000,0000,,{\an8}AMIGO
+Dialogue: 0,0:01:35.32,0:01:36.45,Gen_Main,,0000,0000,0000,,Lo entiendo.
+Dialogue: 0,0:01:37.00,0:01:40.12,Gen_Main,,0000,0000,0000,,No puedo ser tu novio,\Npero… puedo actuar como tal.
+Dialogue: 0,0:01:41.22,0:01:42.74,Gen_Main,,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:01:42.94,0:01:45.79,Gen_Main,,0000,0000,0000,,Trataré de que te\Nenamores de mí. Lo prometo.
+Dialogue: 0,0:01:47.29,0:01:49.46,Gen_Main,,0000,0000,0000,,{\i1}Haré que conozca a L.{\i0}
+Dialogue: 0,0:01:49.66,0:01:53.86,Gen_Main,,0000,0000,0000,,{\i1}Me dirá su nombre, y eliminaré\Na toda la fuerza especial.{\i0}
+Dialogue: 0,0:01:54.30,0:01:56.44,Gen_Main,,0000,0000,0000,,{\i1}Después, la mataré.{\i0}
+Dialogue: 0,0:01:57.12,0:02:02.34,Gen_Main,,0000,0000,0000,,{\i1}Ella es la única persona que\Nconoce la verdadera identidad de Kira.{\i0}
+Dialogue: 0,0:02:02.54,0:02:05.25,Gen_Main,,0000,0000,0000,,{\i1}No puedo dejar que viva más tiempo.{\i0}
+Dialogue: 0,0:02:05.75,0:02:08.97,Gen_Main,,0000,0000,0000,,¿Fingirás ser mi novio? Supongo\Nque es un buen comienzo.
+Dialogue: 0,0:02:09.54,0:02:13.84,Gen_Main,,0000,0000,0000,,Ahora que lo hablamos, ¿me mostrarías\Na tu Shinigami? En verdad quiero verlo.
+Dialogue: 0,0:02:14.53,0:02:17.15,Gen_Main,,0000,0000,0000,,{\i1}Necesito que confíe en\Nmí. Tendré que hacerlo.{\i0}
+Dialogue: 0,0:02:17.35,0:02:18.70,Gen_Main,,0000,0000,0000,,Sí, seguro.
+Dialogue: 0,0:02:19.33,0:02:21.87,Gen_Main,,0000,0000,0000,,-¿Podrías darte la vuelta?\N-De acuerdo.
+Dialogue: 0,0:02:29.06,0:02:31.46,Gen_Main,,0000,0000,0000,,-Ya puedes voltear.\N-Bien.
+Dialogue: 0,0:02:33.37,0:02:34.42,Gen_Main,,0000,0000,0000,,Hola.
+Dialogue: 0,0:02:34.95,0:02:35.99,Gen_Main,,0000,0000,0000,,¡Qué sorpresa!
+Dialogue: 0,0:02:36.19,0:02:39.43,Gen_Main,,0000,0000,0000,,Eres un tipo de Shinigami diferente a Rem.
+Dialogue: 0,0:02:39.63,0:02:41.65,Gen_Main,,0000,0000,0000,,Ya sé tu nombre. Es Ryuk, ¿cierto?
+Dialogue: 0,0:02:41.85,0:02:42.95,Gen_Main,,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:02:43.15,0:02:44.43,Gen_Main,,0000,0000,0000,,Sí, igualmente.
+Dialogue: 0,0:02:45.45,0:02:48.87,Gen_Main,,0000,0000,0000,,Por cierto, Light, cariño, ¿sabes\Ncómo matar a un Shinigami?
+Dialogue: 0,0:02:49.70,0:02:51.76,Gen_Main,,0000,0000,0000,,¿Me llamaste "cariño"?
+Dialogue: 0,0:02:51.96,0:02:54.86,Gen_Main,,0000,0000,0000,,Bien, ¿te importa si\Nmejor te digo "caballero"?
+Dialogue: 0,0:02:55.06,0:02:57.82,Gen_Main,,0000,0000,0000,,Porque eres mi caballero\Nde armadura reluciente.
+Dialogue: 0,0:02:58.02,0:02:59.49,Gen_Main,,0000,0000,0000,,Será mejor Light.
+Dialogue: 0,0:03:00.57,0:03:03.65,Gen_Main,,0000,0000,0000,,¿Entonces pensabas revisar\Npersonalmente todos los videos
+Dialogue: 0,0:03:03.85,0:03:05.87,Gen_Main,,0000,0000,0000,,que obtuvimos de Aoyama el día 22?
+Dialogue: 0,0:03:06.14,0:03:06.91,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:03:07.11,0:03:11.46,Gen_Main,,0000,0000,0000,,Creo muy probable que Kira y el segundo\NKira estuvieran en contacto ese día.
+Dialogue: 0,0:03:11.66,0:03:13.90,Gen_Main,,0000,0000,0000,,Por eso quiero revisar las cintas.
+Dialogue: 0,0:03:14.62,0:03:16.75,Gen_Main,,0000,0000,0000,,-También, señor Yagami…\N-¿Sí?
+Dialogue: 0,0:03:17.35,0:03:21.18,Gen_Main,,0000,0000,0000,,Que el señor Mogi comience a seguir\Na Light para que sepamos qué hace.
+Dialogue: 0,0:03:21.41,0:03:22.94,Gen_Main,,0000,0000,0000,,¿Quieres que lo sigan?
+Dialogue: 0,0:03:23.42,0:03:25.74,Gen_Main,,0000,0000,0000,,Es poco probable, pero si Light es Kira,
+Dialogue: 0,0:03:25.94,0:03:29.96,Gen_Main,,0000,0000,0000,,es posible que el segundo Kira\Ntrate de ponerse en contacto con él.
+Dialogue: 0,0:03:30.77,0:03:31.85,Gen_Main,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:03:33.14,0:03:36.47,Gen_Main,,0000,0000,0000,,Empiezo a preguntarme si\NRyuzaki es humano. Nunca duerme.
+Dialogue: 0,0:03:36.67,0:03:40.04,Gen_Main,,0000,0000,0000,,Lo vi dormir en esa\Nmisma posición el otro día.
+Dialogue: 0,0:03:41.31,0:03:43.16,Gen_Main,,0000,0000,0000,,Hablo en serio.
+Dialogue: 0,0:03:45.75,0:03:48.13,Gen_Main,,0000,0000,0000,,Si un Shinigami siente algo por un humano
+Dialogue: 0,0:03:48.52,0:03:52.22,Gen_Main,,0000,0000,0000,,y mata a alguien más para prolongar\Nla vida más allá de lo estipulado,
+Dialogue: 0,0:03:52.42,0:03:54.32,Gen_Main,,0000,0000,0000,,¿el Shinigami muere?
+Dialogue: 0,0:03:54.52,0:03:55.51,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:03:57.77,0:04:01.28,Gen_Main,,0000,0000,0000,,Trata de encontrar a un\NShinigami que se ofrezca para eso.
+Dialogue: 0,0:04:01.48,0:04:05.28,Gen_Main,,0000,0000,0000,,Es verdad. No te imagino haciéndolo.
+Dialogue: 0,0:04:05.78,0:04:06.74,Gen_Main,,0000,0000,0000,,Dime,
+Dialogue: 0,0:04:06.97,0:04:10.18,Gen_Main,,0000,0000,0000,,¿desde dónde enviaste las\Ncintas a la estación de televisión?
+Dialogue: 0,0:04:10.57,0:04:14.28,Gen_Main,,0000,0000,0000,,Veamos… Osaka primero. Luego, Tokio.
+Dialogue: 0,0:04:14.48,0:04:15.90,Gen_Main,,0000,0000,0000,,Otra desde Nagano.
+Dialogue: 0,0:04:16.10,0:04:20.41,Gen_Main,,0000,0000,0000,,Tomé el tren bala cada vez así que la\NPolicía no pudo averiguar mi ubicación.
+Dialogue: 0,0:04:20.61,0:04:25.54,Gen_Main,,0000,0000,0000,,Una cosa más, ¿todavía tienes las cintas\Ny los sobres con las huellas de tu amiga?
+Dialogue: 0,0:04:25.74,0:04:26.62,Gen_Main,,0000,0000,0000,,Ajá.
+Dialogue: 0,0:04:26.87,0:04:30.98,Gen_Main,,0000,0000,0000,,Debes deshacerte de todo lo que se\Nusó para crear esas cintas, ¿entiendes?
+Dialogue: 0,0:04:31.63,0:04:36.89,Gen_Main,,0000,0000,0000,,Pero antes de eso, debes enviar una última\Ncinta desde un lugar que no hayas usado.
+Dialogue: 0,0:04:37.09,0:04:38.42,Gen_Main,,0000,0000,0000,,Dirá…
+Dialogue: 0,0:04:39.56,0:04:41.77,Gen_Main,,0000,0000,0000,,"Decidí dejar de buscar a Kira.
+Dialogue: 0,0:04:42.20,0:04:45.72,Gen_Main,,0000,0000,0000,,Quiero agradecer a la\NPolicía por su consejo.
+Dialogue: 0,0:04:46.12,0:04:50.33,Gen_Main,,0000,0000,0000,,Sin embargo, aún pienso\Nayudar a Kira en su misión,
+Dialogue: 0,0:04:50.76,0:04:53.61,Gen_Main,,0000,0000,0000,,esperando que con el\Ntiempo me vea como un aliado.
+Dialogue: 0,0:04:54.62,0:04:58.38,Gen_Main,,0000,0000,0000,,Comenzaré castigando a\Ncriminales que Kira no ha juzgado.
+Dialogue: 0,0:04:58.58,0:04:59.57,Gen_Main,,0000,0000,0000,,También…
+Dialogue: 0,0:05:00.44,0:05:04.99,Gen_Main,,0000,0000,0000,,compartiré mi poder con quienes sean\Ndignos y encomendaré que hagan lo mismo.
+Dialogue: 0,0:05:05.19,0:05:07.87,Gen_Main,,0000,0000,0000,,Juntos haremos de este un mejor lugar".
+Dialogue: 0,0:05:08.01,0:05:09.67,Gen_Main,,0000,0000,0000,,¿Compartir mi poder?
+Dialogue: 0,0:05:10.09,0:05:12.53,Gen_Main,,0000,0000,0000,,Lo usaremos para desviar su investigación.
+Dialogue: 0,0:05:12.73,0:05:15.47,Gen_Main,,0000,0000,0000,,Sospechan que hay dos\Npersonas con este poder,
+Dialogue: 0,0:05:15.67,0:05:17.91,Gen_Main,,0000,0000,0000,,así que es factible que haya más.
+Dialogue: 0,0:05:18.11,0:05:20.75,Gen_Main,,0000,0000,0000,,Si creen que el número\Naumenta, entrarán en pánico.
+Dialogue: 0,0:05:21.08,0:05:22.11,Gen_Main,,0000,0000,0000,,¿Puedes hacerlo?
+Dialogue: 0,0:05:22.31,0:05:25.11,Gen_Main,,0000,0000,0000,,No preguntes, solo dime\Nqué debo hacer y lo haré.
+Dialogue: 0,0:05:25.31,0:05:27.92,Gen_Main,,0000,0000,0000,,No importa qué sea,\Nharé cualquier cosa por ti.
+Dialogue: 0,0:05:28.12,0:05:30.15,Gen_Main,,0000,0000,0000,,Hay otra cosa que\Nes muy importante.
+Dialogue: 0,0:05:30.16,0:05:30.85,Gen_Main,,0000,0000,0000,,¿Qué es?
+Dialogue: 0,0:05:31.45,0:05:33.58,Gen_Main,,0000,0000,0000,,Si te arrestara la Policía,
+Dialogue: 0,0:05:33.78,0:05:35.94,Gen_Main,,0000,0000,0000,,o llegara a interrogarte,
+Dialogue: 0,0:05:36.14,0:05:39.25,Gen_Main,,0000,0000,0000,,nunca menciones nada\Nsobre nosotros o el Death Note.
+Dialogue: 0,0:05:39.74,0:05:43.34,Gen_Main,,0000,0000,0000,,Mientras no sepan de ese libro,\Nno habrá prueba de que hiciste algo.
+Dialogue: 0,0:05:44.06,0:05:45.94,Gen_Main,,0000,0000,0000,,¿Prometes no decir nada?
+Dialogue: 0,0:05:46.18,0:05:47.43,Gen_Main,,0000,0000,0000,,Lo prometo.
+Dialogue: 0,0:05:47.63,0:05:50.95,Gen_Main,,0000,0000,0000,,Eso significa que oficialmente\Nsomos novios, ¿no es así?
+Dialogue: 0,0:05:51.51,0:05:52.97,Gen_Main,,0000,0000,0000,,Seguro, eso creo.
+Dialogue: 0,0:05:53.48,0:05:55.29,Gen_Main,,0000,0000,0000,,Tengo una condición.
+Dialogue: 0,0:05:55.59,0:05:58.04,Gen_Main,,0000,0000,0000,,Saldrás conmigo al\Nmenos una vez por semana.
+Dialogue: 0,0:05:59.14,0:06:01.62,Gen_Main,,0000,0000,0000,,{\i1}Increíble. Aún no lo entiende.{\i0}
+Dialogue: 0,0:06:01.82,0:06:02.63,Gen_Main,,0000,0000,0000,,No podemos.
+Dialogue: 0,0:06:02.91,0:06:04.46,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:06:04.66,0:06:07.36,Gen_Main,,0000,0000,0000,,Parece que tendré que deletreártelo.
+Dialogue: 0,0:06:07.56,0:06:10.82,Gen_Main,,0000,0000,0000,,L ya sospecha que soy\NKira, ¿entiendes lo que digo?
+Dialogue: 0,0:06:11.02,0:06:14.62,Gen_Main,,0000,0000,0000,,¿En serio? L es asombroso.
+Dialogue: 0,0:06:14.82,0:06:19.31,Gen_Main,,0000,0000,0000,,Es decir… todos creen que no avanza con la\Ninvestigación y que es un completo idiota,
+Dialogue: 0,0:06:19.74,0:06:21.33,Gen_Main,,0000,0000,0000,,pero ¿ya sabe tanto?
+Dialogue: 0,0:06:21.53,0:06:26.82,Gen_Main,,0000,0000,0000,,Como sea, me ha ayudado porque\Ngracias a eso ahora puedo acercarme a L.
+Dialogue: 0,0:06:27.13,0:06:30.24,Gen_Main,,0000,0000,0000,,¿Tú y L están en contacto?
+Dialogue: 0,0:06:30.44,0:06:34.74,Gen_Main,,0000,0000,0000,,Eso es más asombroso.\NEsto es tan emocionante.
+Dialogue: 0,0:06:35.06,0:06:39.51,Gen_Main,,0000,0000,0000,,Aunque sospecha que soy Kira, L cree\Nestar a salvo mientras no sepa su nombre.
+Dialogue: 0,0:06:39.71,0:06:43.00,Gen_Main,,0000,0000,0000,,Me confesó quién era solo para atraparme.
+Dialogue: 0,0:06:45.15,0:06:49.20,Gen_Main,,0000,0000,0000,,Sin embargo, se enfoca en mí\Nporque no tiene otros sospechosos
+Dialogue: 0,0:06:49.40,0:06:50.84,Gen_Main,,0000,0000,0000,,y no tiene evidencia.
+Dialogue: 0,0:06:51.33,0:06:54.24,Gen_Main,,0000,0000,0000,,En este momento, trabajo con él en el caso,
+Dialogue: 0,0:06:54.44,0:06:57.04,Gen_Main,,0000,0000,0000,,y poco a poco gano su confianza.
+Dialogue: 0,0:06:57.24,0:07:01.86,Gen_Main,,0000,0000,0000,,Entonces solo tienes que llevarme\Ncon él y veré su verdadero nombre.
+Dialogue: 0,0:07:02.06,0:07:04.02,Gen_Main,,0000,0000,0000,,Temo que no es tan simple.
+Dialogue: 0,0:07:04.22,0:07:07.69,Gen_Main,,0000,0000,0000,,Escucha, fue muy difícil\Npara mí acercarme a él.
+Dialogue: 0,0:07:08.10,0:07:11.85,Gen_Main,,0000,0000,0000,,Además, si alguien a quien apenas\Nconocí se acerca al mismo tiempo
+Dialogue: 0,0:07:12.05,0:07:16.49,Gen_Main,,0000,0000,0000,,que la Policía detecta cambios en\Nel comportamiento de ambos Kiras,
+Dialogue: 0,0:07:16.69,0:07:19.02,Gen_Main,,0000,0000,0000,,sospecharán que esa\Npersona es el segundo Kira,
+Dialogue: 0,0:07:19.22,0:07:22.71,Gen_Main,,0000,0000,0000,,y eso me pondrá a mí\Nbajo una mayor sospecha.
+Dialogue: 0,0:07:23.34,0:07:25.65,Gen_Main,,0000,0000,0000,,No podemos dejar\Nque establezcan esa
+Dialogue: 0,0:07:25.66,0:07:28.49,Gen_Main,,0000,0000,0000,,conexión, por lo que\Nno podemos estar juntos.
+Dialogue: 0,0:07:28.93,0:07:30.30,Gen_Main,,0000,0000,0000,,¿Entiendes a qué me refiero?
+Dialogue: 0,0:07:30.69,0:07:34.97,Gen_Main,,0000,0000,0000,,Bueno… creo que entiendo.\N¿Por eso no podemos tener citas?
+Dialogue: 0,0:07:35.17,0:07:38.15,Gen_Main,,0000,0000,0000,,Salir en público, ¿porque\Nparecerá sospechoso?
+Dialogue: 0,0:07:38.35,0:07:42.21,Gen_Main,,0000,0000,0000,,Mira… tomemos tiempo\Npara idear un buen plan.
+Dialogue: 0,0:07:42.41,0:07:45.43,Gen_Main,,0000,0000,0000,,La forma de que veas a L\Nsin que sepa que existes.
+Dialogue: 0,0:07:45.63,0:07:46.52,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:07:46.94,0:07:49.10,Gen_Main,,0000,0000,0000,,No puedo eliminar a L sin ti.
+Dialogue: 0,0:07:49.30,0:07:52.42,Gen_Main,,0000,0000,0000,,Te llamaré y te veré tanto\Ncomo la situación lo permita.
+Dialogue: 0,0:07:52.62,0:07:53.78,Gen_Main,,0000,0000,0000,,¿Lo harás?
+Dialogue: 0,0:07:53.98,0:07:54.92,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:07:55.50,0:07:57.83,Gen_Main,,0000,0000,0000,,Nuestras reuniones no deben destacar.
+Dialogue: 0,0:07:58.03,0:08:00.70,Gen_Main,,0000,0000,0000,,Por ello debo ser visto\Nsaliendo con otras chicas.
+Dialogue: 0,0:08:00.90,0:08:04.81,Gen_Main,,0000,0000,0000,,¿Qué dices? ¿Vas a salir con otras chicas?
+Dialogue: 0,0:08:05.01,0:08:06.42,Gen_Main,,0000,0000,0000,,Sí, más o menos.
+Dialogue: 0,0:08:06.58,0:08:07.59,Gen_Main,,0000,0000,0000,,¡No quiero que lo hagas!
+Dialogue: 0,0:08:09.97,0:08:13.38,Gen_Main,,0000,0000,0000,,Si te veo con otra chica… la mataré.
+Dialogue: 0,0:08:13.81,0:08:15.29,Gen_Main,,0000,0000,0000,,Qué miedo.
+Dialogue: 0,0:08:15.49,0:08:17.10,Gen_Main,,0000,0000,0000,,Mira, cariño…
+Dialogue: 0,0:08:17.55,0:08:18.76,Gen_Main,,0000,0000,0000,,¿"Cariño"?
+Dialogue: 0,0:08:19.14,0:08:20.54,Gen_Main,,0000,0000,0000,,Esto no es un juego.
+Dialogue: 0,0:08:20.74,0:08:23.91,Gen_Main,,0000,0000,0000,,Ambos estamos arriesgando\Nla vida para cambiar al mundo.
+Dialogue: 0,0:08:24.53,0:08:29.14,Gen_Main,,0000,0000,0000,,Lo sé. Pero… te amo\Nmás que al mundo, Light.
+Dialogue: 0,0:08:29.78,0:08:31.15,Gen_Main,,0000,0000,0000,,Pareces confundida.
+Dialogue: 0,0:08:31.35,0:08:35.07,Gen_Main,,0000,0000,0000,,Tal vez así lo sientas tú, pero\Nestás aquí porque admiras a Kira.
+Dialogue: 0,0:08:35.58,0:08:38.30,Gen_Main,,0000,0000,0000,,Apenas nos conocimos. No sabes cómo soy.
+Dialogue: 0,0:08:38.75,0:08:40.71,Gen_Main,,0000,0000,0000,,¿No crees en el amor a primera vista?
+Dialogue: 0,0:08:40.91,0:08:41.87,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:08:42.22,0:08:44.17,Gen_Main,,0000,0000,0000,,Admito que lo que dices es verdad.
+Dialogue: 0,0:08:44.37,0:08:47.98,Gen_Main,,0000,0000,0000,,Quería conocer a Kira por\Ngratitud y respeto, no amor.
+Dialogue: 0,0:08:48.18,0:08:50.88,Gen_Main,,0000,0000,0000,,Pero desde el momento\Nen que te vi, lo supe.
+Dialogue: 0,0:08:51.08,0:08:53.07,Gen_Main,,0000,0000,0000,,{\i1}¿Qué le pasa a esta chica?{\i0}
+Dialogue: 0,0:08:53.27,0:08:55.43,Gen_Main,,0000,0000,0000,,Popular, como siempre.
+Dialogue: 0,0:08:55.85,0:08:59.14,Gen_Main,,0000,0000,0000,,Pues… demuéstrame tu amor obedeciéndome.
+Dialogue: 0,0:08:59.62,0:09:01.75,Gen_Main,,0000,0000,0000,,Dijiste que estaba bien que te usara.
+Dialogue: 0,0:09:01.95,0:09:04.62,Gen_Main,,0000,0000,0000,,Hace un minuto, juraste\Nhacer lo que te pidiera.
+Dialogue: 0,0:09:04.82,0:09:08.08,Gen_Main,,0000,0000,0000,,Sí, lo dije, pero no que\Npudieras salir con otras chicas.
+Dialogue: 0,0:09:08.28,0:09:10.64,Gen_Main,,0000,0000,0000,,Son dos cosas totalmente diferentes.
+Dialogue: 0,0:09:11.35,0:09:14.37,Gen_Main,,0000,0000,0000,,Creo que olvidas que tengo ambos libros.
+Dialogue: 0,0:09:14.81,0:09:17.41,Gen_Main,,0000,0000,0000,,Si no me obedeces, puedo matarte.
+Dialogue: 0,0:09:17.64,0:09:21.18,Gen_Main,,0000,0000,0000,,Nunca lo permitiré, Light Yagami.
+Dialogue: 0,0:09:21.89,0:09:25.26,Gen_Main,,0000,0000,0000,,Si haces algo que resulte\Nen la muerte de esta chica,
+Dialogue: 0,0:09:25.46,0:09:28.63,Gen_Main,,0000,0000,0000,,me encargaré de escribir\Ntu nombre en mi Death Note.
+Dialogue: 0,0:09:28.87,0:09:30.42,Gen_Main,,0000,0000,0000,,Yo te mataré.
+Dialogue: 0,0:09:31.77,0:09:35.01,Gen_Main,,0000,0000,0000,,Sin duda sabes que\Npuedo ver sus años de vida.
+Dialogue: 0,0:09:35.62,0:09:38.22,Gen_Main,,0000,0000,0000,,Si ella muriera antes de tiempo,
+Dialogue: 0,0:09:38.65,0:09:41.02,Gen_Main,,0000,0000,0000,,sabré que tú la mataste.
+Dialogue: 0,0:09:41.46,0:09:45.77,Gen_Main,,0000,0000,0000,,Pero si usas tu Death Note para\Nsalvarla, ¿no morirás tú también?
+Dialogue: 0,0:09:45.97,0:09:49.00,Gen_Main,,0000,0000,0000,,Es cierto. Si me salvas,\Ntú también morirás.
+Dialogue: 0,0:09:49.42,0:09:51.02,Gen_Main,,0000,0000,0000,,Sí, es correcto.
+Dialogue: 0,0:09:51.47,0:09:54.23,Gen_Main,,0000,0000,0000,,Pero estoy dispuesta a aceptar ese hecho.
+Dialogue: 0,0:09:55.14,0:09:58.37,Gen_Main,,0000,0000,0000,,{\i1}¿Este Shinigami habla\Nen serio? Es una locura.{\i0}
+Dialogue: 0,0:09:58.57,0:09:59.98,Gen_Main,,0000,0000,0000,,{\i1}Significa que desde ahora…{\i0}
+Dialogue: 0,0:10:01.01,0:10:02.12,Gen_Main,,0000,0000,0000,,¿Light?
+Dialogue: 0,0:10:03.45,0:10:05.16,Gen_Main,,0000,0000,0000,,¿Sí? ¿Qué pasa?
+Dialogue: 0,0:10:06.30,0:10:07.95,Gen_Main,,0000,0000,0000,,Son casi las 11:30.
+Dialogue: 0,0:10:08.15,0:10:10.78,Gen_Main,,0000,0000,0000,,Una chica no debería estar aquí tan tarde.
+Dialogue: 0,0:10:10.98,0:10:14.21,Gen_Main,,0000,0000,0000,,Claro. Perdimos la noción del tiempo.
+Dialogue: 0,0:10:14.65,0:10:16.66,Gen_Main,,0000,0000,0000,,Lo siento, señora Yagami.
+Dialogue: 0,0:10:18.83,0:10:21.79,Gen_Main,,0000,0000,0000,,Lamento haber venido a visitarte tan tarde.
+Dialogue: 0,0:10:21.99,0:10:24.47,Gen_Main,,0000,0000,0000,,-Nos vemos luego, Light.\N-Sí.
+Dialogue: 0,0:10:24.67,0:10:27.54,Gen_Main,,0000,0000,0000,,Light, acompáñala a la estación.
+Dialogue: 0,0:10:28.92,0:10:31.15,Gen_Main,,0000,0000,0000,,{\i1}No puedo arriesgarme a\Nque nos vean en público.{\i0}
+Dialogue: 0,0:10:32.67,0:10:35.68,Gen_Main,,0000,0000,0000,,No, estoy bien, gracias. Buenas noches.
+Dialogue: 0,0:10:39.32,0:10:40.95,Gen_Main,,0000,0000,0000,,Es adorable.
+Dialogue: 0,0:10:41.15,0:10:44.25,Gen_Main,,0000,0000,0000,,Lo sé. Cuando llegó no estaba\Nsegura, pero tienes razón.
+Dialogue: 0,0:10:44.45,0:10:46.64,Gen_Main,,0000,0000,0000,,Es adorable, mamá. Me agrada.
+Dialogue: 0,0:10:46.84,0:10:49.93,Gen_Main,,0000,0000,0000,,{\i1}¿Esa Shinigami me\Nmatará si mato a esa chica?{\i0}
+Dialogue: 0,0:10:50.29,0:10:54.04,Gen_Main,,0000,0000,0000,,{\i1}¿O sea que… la tendré a\Nmi lado hasta que muera?{\i0}
+Dialogue: 0,0:10:54.29,0:10:55.39,Gen_Main,,0000,0000,0000,,{\i1}Y para colmo,{\i0}
+Dialogue: 0,0:10:55.59,0:11:00.55,Gen_Main,,0000,0000,0000,,{\i1}significa que tendré que evitar que la\Ncapture la Policía el resto de su vida.{\i0}
+Dialogue: 0,0:11:03.18,0:11:07.38,Gen_Main,,0000,0000,0000,,Gracias a ti, Rem, Light será mi\Ncaballero de armadura reluciente.
+Dialogue: 0,0:11:07.58,0:11:08.93,Gen_Main,,0000,0000,0000,,Eso supongo.
+Dialogue: 0,0:11:11.30,0:11:14.15,Gen_Main,,0000,0000,0000,,Pero no puedes matarlo, ¿de acuerdo?
+Dialogue: 0,0:11:14.15,0:11:18.20,Cart_A_Tre,,0000,0000,0000,,{\an8}EL SUICIDIO ES UNA CAUSA VÁLIDA\NDE MUERTE. LA MAYORÍA DE LOS
+Dialogue: 0,0:11:18.22,0:11:22.11,Cart_A_Tre,,0000,0000,0000,,HUMANOS TIENEN LOS PENSAMIENTOS\NNECESARIOS PARA LLEVARLO A CABO.
+Dialogue: 0,0:11:22.11,0:11:26.10,Cart_A_Tre,,0000,0000,0000,,SEA QUE SE TRATE DE UN SUICIDIO O UN ACCIDENTE, LA MUERTE\NNO PUEDE AFECTAR EL DECESO DE OTRAS PERSONAS. SI ESTO ASÍ
+Dialogue: 0,0:11:26.11,0:11:30.12,Cart_A_Tre,,0000,0000,0000,,FUERA, LA PERSONA MORIRÁ DE UN ATAQUE AL CORAZÓN. ESTO ES\NPARA ASEGURAR QUE LAS VIDAS DE OTROS NO SEAN PERJUDICADAS.
+Dialogue: 0,0:11:32.17,0:11:33.97,Gen_Main,,0000,0000,0000,,{\i1}Para que un Shinigami muera,{\i0}
+Dialogue: 0,0:11:34.17,0:11:37.37,Gen_Main,,0000,0000,0000,,{\i1}debe usar su Death Note para\Nsalvar la vida de un humano.{\i0}
+Dialogue: 0,0:11:37.57,0:11:40.08,Gen_Main,,0000,0000,0000,,{\i1}Un humano de quien esté enamorado.{\i0}
+Dialogue: 0,0:11:41.10,0:11:42.94,Gen_Main,,0000,0000,0000,,{\i1}Idealmente, mataría a Rem primero.{\i0}
+Dialogue: 0,0:11:43.14,0:11:46.61,Gen_Main,,0000,0000,0000,,{\i1}Alguien a quien controle podría atacar\Na Misa, forzando a Rem a salvarla,{\i0}
+Dialogue: 0,0:11:46.81,0:11:47.97,Gen_Main,,0000,0000,0000,,{\i1}pero eso no funcionaría.{\i0}
+Dialogue: 0,0:11:48.57,0:11:51.28,Gen_Main,,0000,0000,0000,,{\i1}Si la vida de Misa corriera\Npeligro, Rem sospecharía{\i0}
+Dialogue: 0,0:11:51.29,0:11:53.40,Gen_Main,,0000,0000,0000,,{\i1}de mí y sería el\Nprimero a quien mataría.{\i0}
+Dialogue: 0,0:11:54.22,0:11:58.18,Gen_Main,,0000,0000,0000,,{\i1}Ella resultó ser una\Nmolestia más grande que L.{\i0}
+Dialogue: 0,0:11:59.55,0:12:01.46,Gen_Main,,0000,0000,0000,,{\i1}¿Es…{\i0}
+Dialogue: 0,0:12:01.98,0:12:03.89,Gen_Main,,0000,0000,0000,,{\i1}es famosa?{\i0}
+Dialogue: 0,0:12:04.20,0:12:07.20,Gen_Main,,0000,0000,0000,,{\i1}No quiero imaginar qué\Npasaría si nos descubrieran.{\i0}
+Dialogue: 0,0:12:07.87,0:12:10.78,Gen_Main,,0000,0000,0000,,{\i1}¡Maldición! No es más que problemas.{\i0}
+Dialogue: 0,0:12:10.98,0:12:12.25,Gen_Main,,0000,0000,0000,,{\i1}¿Qué debo hacer?{\i0}
+Dialogue: 0,0:12:12.51,0:12:15.71,Gen_Main,,0000,0000,0000,,{\i1}No, debo pensar cómo usar los ojos de Misa{\i0}
+Dialogue: 0,0:12:15.91,0:12:18.14,Gen_Main,,0000,0000,0000,,{\i1}para que me ayude a matar a L.{\i0}
+Dialogue: 0,0:12:18.73,0:12:20.32,Gen_Main,,0000,0000,0000,,{\i1}Si lo elimino a él…{\i0}
+Dialogue: 0,0:12:23.65,0:12:25.39,Gen_Main,,0000,0000,0000,,Buenos días, Light.
+Dialogue: 0,0:12:25.63,0:12:26.67,Gen_Main,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:12:26.87,0:12:32.17,Gen_Main,,0000,0000,0000,,Mamá, Sayu, ¿me harían un gran\Nfavor? No le hablen a papá de Misa.
+Dialogue: 0,0:12:32.62,0:12:33.60,Gen_Main,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:12:33.80,0:12:36.20,Gen_Main,,0000,0000,0000,,De hecho, no solo a papá.
+Dialogue: 0,0:12:36.63,0:12:38.48,Gen_Main,,0000,0000,0000,,Por favor, no se lo digan a nadie.
+Dialogue: 0,0:12:38.73,0:12:42.79,Gen_Main,,0000,0000,0000,,Verán, Misa es una modelo, así\Nque nadie debe saber de nosotros.
+Dialogue: 0,0:12:42.99,0:12:44.62,Gen_Main,,0000,0000,0000,,¿Qué? ¿En serio?
+Dialogue: 0,0:12:44.82,0:12:47.01,Gen_Main,,0000,0000,0000,,Pensé que era bonita, pero no tenía idea.
+Dialogue: 0,0:12:47.59,0:12:52.57,Gen_Main,,0000,0000,0000,,Es impresionante, incluso para ti,\NLight. No diré nada… por una cuota.
+Dialogue: 0,0:12:52.77,0:12:53.75,Gen_Main,,0000,0000,0000,,Basta.
+Dialogue: 0,0:12:55.79,0:12:57.67,Cart_A_Tre,,0000,0000,0000,,UNIVERSIDAD DE TO-OH
+Dialogue: 0,0:12:57.88,0:12:59.59,Gen_Main,,0000,0000,0000,,En la página número 246…
+Dialogue: 0,0:12:59.97,0:13:03.09,Gen_Main,,0000,0000,0000,,{\i1}El último mensaje de Misa debe llegar hoy.{\i0}
+Dialogue: 0,0:13:03.50,0:13:06.08,Gen_Main,,0000,0000,0000,,{\i1}Pero antes de que llegue a la estación,{\i0}
+Dialogue: 0,0:13:06.28,0:13:08.47,Gen_Main,,0000,0000,0000,,{\i1}lo verán primero en el\Ncuartel de la fuerza especial.{\i0}
+Dialogue: 0,0:13:09.12,0:13:11.43,Gen_Main,,0000,0000,0000,,{\i1}Tengo que ir ahí para ver\Ncómo reacciona L ante el video.{\i0}
+Dialogue: 0,0:13:11.63,0:13:14.26,Gen_Main,,0000,0000,0000,,¿Light? ¿Light?
+Dialogue: 0,0:13:15.18,0:13:18.42,Gen_Main,,0000,0000,0000,,Creí que tú y yo salíamos.\NSomos más que amigos, ¿no?
+Dialogue: 0,0:13:18.62,0:13:20.17,Gen_Main,,0000,0000,0000,,Sí. Lo somos.
+Dialogue: 0,0:13:20.37,0:13:24.22,Gen_Main,,0000,0000,0000,,Exacto. Por eso me siento\Njunto a ti, ¿estás de acuerdo?
+Dialogue: 0,0:13:24.42,0:13:25.15,Gen_Main,,0000,0000,0000,,Seguro.
+Dialogue: 0,0:13:25.43,0:13:28.10,Gen_Main,,0000,0000,0000,,Pero no parece que disfrutes estar conmigo.
+Dialogue: 0,0:13:28.30,0:13:30.30,Gen_Main,,0000,0000,0000,,Es decir, no me has mirado ni una vez.
+Dialogue: 0,0:13:30.71,0:13:32.45,Gen_Main,,0000,0000,0000,,Eso no es cierto.
+Dialogue: 0,0:13:32.97,0:13:36.46,Gen_Main,,0000,0000,0000,,Pensaba en cómo ahora\Ntodos van a hablar de nosotros.
+Dialogue: 0,0:13:36.66,0:13:40.42,Gen_Main,,0000,0000,0000,,Pensar que salgo con la señorita\NTakada, la famosa señorita Todai.
+Dialogue: 0,0:13:40.62,0:13:43.17,Gen_Main,,0000,0000,0000,,Eres la mujer más hermosa de la escuela.
+Dialogue: 0,0:13:45.43,0:13:47.86,Gen_Main,,0000,0000,0000,,¿Por qué te importan esas cosas?
+Dialogue: 0,0:13:48.06,0:13:51.65,Gen_Main,,0000,0000,0000,,Además, odio que me digan la\Nseñorita Todai. Es vergonzoso.
+Dialogue: 0,0:13:51.85,0:13:53.37,Gen_Main,,0000,0000,0000,,Sí, tienes razón.
+Dialogue: 0,0:13:53.91,0:13:56.89,Gen_Main,,0000,0000,0000,,{\i1}Quién lo pensaría… a ella\Nle gusta toda la atención.{\i0}
+Dialogue: 0,0:13:57.43,0:14:01.19,Gen_Main,,0000,0000,0000,,Deberíamos olvidar todo\Neso y estar tranquilos.
+Dialogue: 0,0:14:01.39,0:14:02.21,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:06.67,0:14:07.61,Gen_Main,,0000,0000,0000,,Hola.
+Dialogue: 0,0:14:08.21,0:14:11.24,Gen_Main,,0000,0000,0000,,Pasa, llegas en el momento preciso.
+Dialogue: 0,0:14:11.63,0:14:15.17,Gen_Main,,0000,0000,0000,,Recibimos un nuevo\Nmensaje del segundo Kira.
+Dialogue: 0,0:14:15.56,0:14:17.79,Gen_Main,,0000,0000,0000,,Eso fue muy rápido.
+Dialogue: 0,0:14:17.99,0:14:20.96,Gen_Main,,0000,0000,0000,,Sí. Creo que es el último.
+Dialogue: 0,0:14:21.16,0:14:23.21,Gen_Main,,0000,0000,0000,,Bien, veamos esto.
+Dialogue: 0,0:14:24.85,0:14:27.22,Gen_Main,,0000,0000,0000,,{\i1}Decidí dejar de buscar a Kira.{\i0}
+Dialogue: 0,0:14:27.42,0:14:30.80,Gen_Main,,0000,0000,0000,,{\i1}Quiero agradecer a la\NPolicía por su consejo.{\i0}
+Dialogue: 0,0:14:31.22,0:14:35.93,Gen_Main,,0000,0000,0000,,{\i1}Sin embargo, aún pienso ayudar a Kira\Nen su misión, esperando que con el tiempo{\i0}
+Dialogue: 0,0:14:36.26,0:14:38.22,Gen_Main,,0000,0000,0000,,{\i1}me vea como un aliado.{\i0}
+Dialogue: 0,0:14:38.42,0:14:42.15,Gen_Main,,0000,0000,0000,,{\i1}Comenzaré castigando a\Ncriminales que Kira no ha juzgado.{\i0}
+Dialogue: 0,0:14:42.71,0:14:44.57,Gen_Main,,0000,0000,0000,,{\i1}También compartiré mi\Npoder con quienes sean{\i0}
+Dialogue: 0,0:14:44.58,0:14:46.26,Gen_Main,,0000,0000,0000,,{\i1}dignos y encomendaré\Nque hagan lo mismo.{\i0}
+Dialogue: 0,0:14:46.46,0:14:48.81,Gen_Main,,0000,0000,0000,,{\i1}Juntos haremos de este un mejor lugar.{\i0}
+Dialogue: 0,0:14:51.33,0:14:52.74,Gen_Main,,0000,0000,0000,,Al ver esto,
+Dialogue: 0,0:14:53.10,0:14:56.75,Gen_Main,,0000,0000,0000,,solo puedo pensar que Kira y el\Nsegundo Kira se pusieron en contacto.
+Dialogue: 0,0:14:58.23,0:14:59.62,Gen_Main,,0000,0000,0000,,¿Por qué piensas eso?
+Dialogue: 0,0:15:00.01,0:15:01.80,Gen_Main,,0000,0000,0000,,Vamos, ¿no lo pensaste?
+Dialogue: 0,0:15:02.34,0:15:06.33,Gen_Main,,0000,0000,0000,,Creí que llegarías a la misma\Nconclusión después de ver esto.
+Dialogue: 0,0:15:08.68,0:15:13.59,Gen_Main,,0000,0000,0000,,Considera cuánto quería conocer\Na Kira. ¿Por qué de pronto cambió?
+Dialogue: 0,0:15:13.79,0:15:16.59,Gen_Main,,0000,0000,0000,,¿Ahora castigará a criminales\Nque Kira no ha castigado?
+Dialogue: 0,0:15:16.79,0:15:20.10,Gen_Main,,0000,0000,0000,,¿Solo quiere que Kira\Nlo vea como un aliado?
+Dialogue: 0,0:15:22.13,0:15:24.58,Gen_Main,,0000,0000,0000,,Hace que uno se pregunte\Npor qué no empezó con eso.
+Dialogue: 0,0:15:24.78,0:15:27.50,Gen_Main,,0000,0000,0000,,Supongo que no lo había considerado.
+Dialogue: 0,0:15:28.69,0:15:31.97,Gen_Main,,0000,0000,0000,,Conoció a Kira y se le dijo a\Nqué criminales podía juzgar.
+Dialogue: 0,0:15:33.01,0:15:37.34,Gen_Main,,0000,0000,0000,,Sospecho que el propósito del\Nmensaje es esconder que se conocieron.
+Dialogue: 0,0:15:37.54,0:15:38.70,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:15:39.09,0:15:42.54,Gen_Main,,0000,0000,0000,,Pero es extraño que\NKira sea tan descuidado.
+Dialogue: 0,0:15:42.70,0:15:43.61,Gen_Main,,0000,0000,0000,,Es cierto.
+Dialogue: 0,0:15:45.63,0:15:48.32,Gen_Main,,0000,0000,0000,,Pero, ¿Kira cometió un error esta vez?
+Dialogue: 0,0:15:48.52,0:15:51.22,Gen_Main,,0000,0000,0000,,O ¿es su forma de decirnos\Nque están en contacto?
+Dialogue: 0,0:15:51.42,0:15:53.88,Gen_Main,,0000,0000,0000,,Es una manera efectiva de provocarnos.
+Dialogue: 0,0:15:54.08,0:15:56.30,Gen_Main,,0000,0000,0000,,La idea de una unión es muy amenazadora.
+Dialogue: 0,0:15:56.74,0:16:00.70,Gen_Main,,0000,0000,0000,,Sin embargo, es una razón menos\Npara sospechar que Light sea Kira.
+Dialogue: 0,0:16:00.90,0:16:03.06,Gen_Main,,0000,0000,0000,,Ryuzaki, ¿qué quieres decir con eso?
+Dialogue: 0,0:16:04.12,0:16:05.77,Gen_Main,,0000,0000,0000,,Si Light es Kira,
+Dialogue: 0,0:16:05.97,0:16:08.34,Gen_Main,,0000,0000,0000,,este no sería el mensaje\Nque habría hecho que
+Dialogue: 0,0:16:08.35,0:16:10.54,Gen_Main,,0000,0000,0000,,el segundo Kira nos\Nenviara. No es lógico.
+Dialogue: 0,0:16:10.74,0:16:14.58,Gen_Main,,0000,0000,0000,,Habría continuado con el plan del segundo\NKira para que yo saliera en la televisión.
+Dialogue: 0,0:16:15.14,0:16:17.25,Gen_Main,,0000,0000,0000,,Y negaría que hicieron contacto,
+Dialogue: 0,0:16:17.45,0:16:19.94,Gen_Main,,0000,0000,0000,,dejando que el segundo Kira\Nfuera el culpable de mi muerte.
+Dialogue: 0,0:16:21.78,0:16:23.62,Gen_Main,,0000,0000,0000,,Le habría hecho decir algo como…
+Dialogue: 0,0:16:25.64,0:16:27.83,Gen_Main,,0000,0000,0000,,"Acepté no continuar, pero me di cuenta
+Dialogue: 0,0:16:28.03,0:16:31.65,Gen_Main,,0000,0000,0000,,de que no es la verdadera\Nintención de Kira que yo me detenga.
+Dialogue: 0,0:16:31.85,0:16:34.38,Gen_Main,,0000,0000,0000,,Estoy seguro de que Kira\Nhabría querido que L muriera.
+Dialogue: 0,0:16:34.58,0:16:37.01,Gen_Main,,0000,0000,0000,,Él no quiere que… pare ".
+Dialogue: 0,0:16:38.35,0:16:40.43,Gen_Main,,0000,0000,0000,,-¿Ryuzaki?\N-¿Sí, Light?
+Dialogue: 0,0:16:40.61,0:16:43.99,Gen_Main,,0000,0000,0000,,Te equivocas. Yo no\Nharía eso si fuera Kira.
+Dialogue: 0,0:16:44.46,0:16:45.44,Gen_Main,,0000,0000,0000,,¿Por qué no?
+Dialogue: 0,0:16:45.86,0:16:50.03,Gen_Main,,0000,0000,0000,,Si eres L y yo Kira, creo conocer\Ntu personalidad bastante bien.
+Dialogue: 0,0:16:50.87,0:16:54.78,Gen_Main,,0000,0000,0000,,L nunca habría aceptado salir en\Ntelevisión, sin importar la amenaza.
+Dialogue: 0,0:16:55.16,0:16:57.62,Gen_Main,,0000,0000,0000,,Y no permitiría que\Nalguien muriera en su lugar.
+Dialogue: 0,0:16:57.95,0:17:00.62,Gen_Main,,0000,0000,0000,,El L que conozco buscaría\Ncómo escapar de la situación.
+Dialogue: 0,0:17:02.15,0:17:03.71,Gen_Main,,0000,0000,0000,,Así que lo dedujiste.
+Dialogue: 0,0:17:03.90,0:17:06.26,Gen_Main,,0000,0000,0000,,Escucha, Light… debes detenerte.
+Dialogue: 0,0:17:06.46,0:17:09.46,Gen_Main,,0000,0000,0000,,No me gusta que creas ser\NKira, aun hipotéticamente.
+Dialogue: 0,0:17:09.69,0:17:11.83,Gen_Main,,0000,0000,0000,,Lo siento, papá.
+Dialogue: 0,0:17:12.47,0:17:16.18,Gen_Main,,0000,0000,0000,,Lo que quería era hacerle saber a\NRyuzaki lo que pienso de su plan.
+Dialogue: 0,0:17:17.08,0:17:19.28,Gen_Main,,0000,0000,0000,,Planteé esa situación porque\Nquiero resolver este caso.
+Dialogue: 0,0:17:19.48,0:17:21.64,Gen_Main,,0000,0000,0000,,Solo así podré limpiar mi nombre.
+Dialogue: 0,0:17:21.79,0:17:25.01,Gen_Main,,0000,0000,0000,,Además, la razón por la que\Npuedo decir cosas como esa,
+Dialogue: 0,0:17:25.21,0:17:27.16,Gen_Main,,0000,0000,0000,,es porque en verdad no soy Kira.
+Dialogue: 0,0:17:28.10,0:17:29.06,Gen_Main,,0000,0000,0000,,Buen argumento.
+Dialogue: 0,0:17:29.79,0:17:31.19,Gen_Main,,0000,0000,0000,,No eres Kira.
+Dialogue: 0,0:17:31.49,0:17:34.69,Gen_Main,,0000,0000,0000,,Es decir, sería un\Nproblema que fueras Kira…
+Dialogue: 0,0:17:35.51,0:17:36.82,Gen_Main,,0000,0000,0000,,porque siento…
+Dialogue: 0,0:17:38.82,0:17:41.91,Gen_Main,,0000,0000,0000,,que eres el primer amigo que tengo.
+Dialogue: 0,0:17:49.96,0:17:54.38,Gen_Main,,0000,0000,0000,,Sí… sé a qué te refieres. Ambos\Ntenemos mucho en común.
+Dialogue: 0,0:17:55.61,0:17:56.50,Gen_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:17:58.87,0:18:01.55,Gen_Main,,0000,0000,0000,,Es una lástima que ya\Nno vengas a la universidad.
+Dialogue: 0,0:18:02.36,0:18:04.62,Gen_Main,,0000,0000,0000,,Deberíamos jugar tenis otra vez.
+Dialogue: 0,0:18:05.55,0:18:07.27,Gen_Main,,0000,0000,0000,,Sí. Deberíamos.
+Dialogue: 0,0:18:14.91,0:18:18.10,Gen_Main,,0000,0000,0000,,¿Amigo? ¿Es tu amigo?
+Dialogue: 0,0:18:18.30,0:18:20.70,Gen_Main,,0000,0000,0000,,Eso es bueno, ¿o no, Light?
+Dialogue: 0,0:18:21.10,0:18:23.62,Gen_Main,,0000,0000,0000,,Al maldito Ryuzaki no\Nle resultó difícil descubrir
+Dialogue: 0,0:18:23.63,0:18:25.87,Gen_Main,,0000,0000,0000,,que Kira y el segundo\NKira están en contacto.
+Dialogue: 0,0:18:26.07,0:18:28.94,Gen_Main,,0000,0000,0000,,Debo eliminarlo de inmediato.
+Dialogue: 0,0:18:29.38,0:18:30.38,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:18:30.69,0:18:33.56,Gen_Main,,0000,0000,0000,,{\i1}Para como están las cosas,\Nno me pueden ver con Misa.{\i0}
+Dialogue: 0,0:18:33.98,0:18:36.34,Gen_Main,,0000,0000,0000,,¡Light!
+Dialogue: 0,0:18:37.85,0:18:40.21,Gen_Main,,0000,0000,0000,,Lo lamento, pero no pude\Nesperar las dos semanas que dijiste.
+Dialogue: 0,0:18:40.41,0:18:43.16,Gen_Main,,0000,0000,0000,,De hecho, iba camino\Na tu casa cuando te vi.
+Dialogue: 0,0:18:44.37,0:18:47.92,Gen_Main,,0000,0000,0000,,{\i1}Es la primera vez en\Nmi vida que tengo ganas{\i0}
+Dialogue: 0,0:18:48.12,0:18:49.98,Gen_Main,,0000,0000,0000,,{\i1}de golpear a una mujer.{\i0}
+Dialogue: 0,0:18:50.34,0:18:52.96,Gen_Main,,0000,0000,0000,,Yo… quería verte con desesperación.
+Dialogue: 0,0:18:53.83,0:18:56.40,Gen_Main,,0000,0000,0000,,Bueno… será mejor que entres.
+Dialogue: 0,0:18:56.60,0:18:57.61,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:19:01.53,0:19:03.12,Gen_Main,,0000,0000,0000,,¿Otra novia?
+Dialogue: 0,0:19:04.78,0:19:07.20,Gen_Main,,0000,0000,0000,,Qué bueno verte, Misa.
+Dialogue: 0,0:19:07.40,0:19:09.54,Gen_Main,,0000,0000,0000,,Estás en muchas revistas.
+Dialogue: 0,0:19:09.87,0:19:11.08,Gen_Main,,0000,0000,0000,,Por favor, adelante.
+Dialogue: 0,0:19:11.86,0:19:13.84,Gen_Main,,0000,0000,0000,,Lamento llegar sin avisar.
+Dialogue: 0,0:19:14.09,0:19:15.81,Gen_Main,,0000,0000,0000,,¿Nos prepararías té, mama?
+Dialogue: 0,0:19:19.18,0:19:20.06,Gen_Main,,0000,0000,0000,,Rem.
+Dialogue: 0,0:19:21.25,0:19:23.76,Gen_Main,,0000,0000,0000,,Eres aliada de Misa, ¿cierto?
+Dialogue: 0,0:19:23.96,0:19:28.89,Gen_Main,,0000,0000,0000,,Sí. La vi muchas veces\Ndesde el mundo Shinigami y…
+Dialogue: 0,0:19:29.39,0:19:32.50,Gen_Main,,0000,0000,0000,,ciertos eventos me\Nprovocaron sentimientos por ella.
+Dialogue: 0,0:19:32.70,0:19:34.74,Gen_Main,,0000,0000,0000,,¿Sentimientos? Pero eres una Shinigami.
+Dialogue: 0,0:19:36.35,0:19:41.78,Gen_Main,,0000,0000,0000,,No te agrada lo que mencioné antes\Nsobre matarte si intentas matar a Misa.
+Dialogue: 0,0:19:42.03,0:19:46.12,Gen_Main,,0000,0000,0000,,Pero si Misa es feliz, ¿significa\Nque tú serás feliz también?
+Dialogue: 0,0:19:46.27,0:19:48.66,Gen_Main,,0000,0000,0000,,Supongo que así es.
+Dialogue: 0,0:19:48.86,0:19:50.86,Gen_Main,,0000,0000,0000,,Definitivamente no quiero que sufra.
+Dialogue: 0,0:19:51.53,0:19:52.96,Gen_Main,,0000,0000,0000,,Como sabes…
+Dialogue: 0,0:19:54.98,0:19:56.57,Gen_Main,,0000,0000,0000,,Misa me ama.
+Dialogue: 0,0:19:56.77,0:19:57.75,Gen_Main,,0000,0000,0000,,Light.
+Dialogue: 0,0:19:58.19,0:19:59.96,Gen_Main,,0000,0000,0000,,-Misa…\N-¿Sí?
+Dialogue: 0,0:20:00.32,0:20:03.47,Gen_Main,,0000,0000,0000,,Si yo fuera feliz, ¿eso te haría feliz?
+Dialogue: 0,0:20:03.79,0:20:04.64,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:06.10,0:20:09.52,Gen_Main,,0000,0000,0000,,Entonces, ¿le pedirías a Rem que mate a L?
+Dialogue: 0,0:20:10.77,0:20:13.21,Gen_Main,,0000,0000,0000,,Rem dijo que tu felicidad es importante,
+Dialogue: 0,0:20:13.41,0:20:15.70,Gen_Main,,0000,0000,0000,,pero ¿qué pasaría si L\Natrapara a alguno de los dos?
+Dialogue: 0,0:20:15.90,0:20:18.27,Gen_Main,,0000,0000,0000,,Nuestra felicidad se arruinaría.
+Dialogue: 0,0:20:19.99,0:20:24.30,Gen_Main,,0000,0000,0000,,Es cierto que un Shinigami tiene prohibido\Ndecir el nombre de una persona a otra,
+Dialogue: 0,0:20:24.50,0:20:28.16,Gen_Main,,0000,0000,0000,,pero no hay una regla que\Nevite que Rem mate a cualquiera.
+Dialogue: 0,0:20:28.36,0:20:31.29,Gen_Main,,0000,0000,0000,,Así es, y si aceptas matar a L,
+Dialogue: 0,0:20:31.49,0:20:33.86,Gen_Main,,0000,0000,0000,,eso haría que amara a Misa aún más.
+Dialogue: 0,0:20:34.06,0:20:35.59,Gen_Main,,0000,0000,0000,,Además te lo agradecería.
+Dialogue: 0,0:20:35.79,0:20:38.29,Gen_Main,,0000,0000,0000,,Y lo más importante,\Nambos seremos felices juntos.
+Dialogue: 0,0:20:38.83,0:20:39.77,Gen_Main,,0000,0000,0000,,Rem…
+Dialogue: 0,0:20:40.33,0:20:42.00,Gen_Main,,0000,0000,0000,,quiero que Light me ame.
+Dialogue: 0,0:20:42.20,0:20:44.19,Gen_Main,,0000,0000,0000,,Sé que seríamos felices juntos.
+Dialogue: 0,0:20:44.39,0:20:46.76,Gen_Main,,0000,0000,0000,,Es lo que siempre he querido.
+Dialogue: 0,0:20:58.65,0:20:59.48,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:21:00.97,0:21:05.20,Gen_Main,,0000,0000,0000,,Como gustes, Light\NYagami. Pero no me agradas.
+Dialogue: 0,0:21:05.40,0:21:09.51,Gen_Main,,0000,0000,0000,,Esto no me matará aun si\Ntermina prolongando tu vida.
+Dialogue: 0,0:21:10.07,0:21:12.12,Gen_Main,,0000,0000,0000,,Mataré a L por ti.
+Dialogue: 0,0:21:12.55,0:21:16.12,Gen_Main,,0000,0000,0000,,En realidad, no me importa.\NPara mí es solo otro humano.
+Dialogue: 0,0:21:16.50,0:21:18.04,Gen_Main,,0000,0000,0000,,¡Hurra!
+Dialogue: 0,0:21:18.21,0:21:20.22,Gen_Main,,0000,0000,0000,,Rem, muchas gracias.
+Dialogue: 0,0:21:20.38,0:21:22.06,Gen_Main,,0000,0000,0000,,Sabía que podía contar contigo.
+Dialogue: 0,0:21:23.45,0:21:24.87,Gen_Main,,0000,0000,0000,,{\i1}L morirá.{\i0}
+Dialogue: 0,0:21:25.81,0:21:27.30,Gen_Main,,0000,0000,0000,,{\i1}¿Así de fácil?{\i0}
+Dialogue: 0,0:21:28.09,0:21:32.10,Cart_A_Tre,,0000,0000,0000,,{\an8}CONTINUARÁ
+Dialogue: 0,0:22:42.13,0:22:43.80,Cart_A_Tre,,0000,0000,0000,,AVANCE
+Dialogue: 0,0:22:43.06,0:22:46.76,Gen_Main,,0000,0000,0000,,Sí. Desde que Ryuzaki\Ndijo ser L, está condenado.
+Dialogue: 0,0:22:46.96,0:22:48.55,Gen_Main,,0000,0000,0000,,No puedo echarme atrás.
+Dialogue: 0,0:22:49.81,0:22:54.58,Gen_Main,,0000,0000,0000,,Mañana será la hora, tanto de L\Ncomo de Ryuzaki y Ryuga.
+Dialogue: 0,0:22:55.22,0:22:57.10,Cart_A_Tre,,0000,0000,0000,,APUESTA
+

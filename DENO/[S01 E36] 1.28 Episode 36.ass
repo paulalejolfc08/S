@@ -1,0 +1,274 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0060,0110,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:26.21,0:01:27.98,Gen_Main,,0000,0000,0000,,L, quiero verte.
+Dialogue: 0,0:01:29.19,0:01:32.57,Gen_Main,,0000,0000,0000,,En el muelle Daikoku hay un\Nalmacén abandonado, "la caja amarilla".
+Dialogue: 0,0:01:32.86,0:01:35.99,Gen_Main,,0000,0000,0000,,¿Qué tal dentro de tres días?\NEl día 28, a la 1:00 p.m.
+Dialogue: 0,0:01:36.37,0:01:37.40,Gen_Main,,0000,0000,0000,,Me parece bien.
+Dialogue: 0,0:01:37.81,0:01:40.99,Gen_Main,,0000,0000,0000,,{\i1}Quítese toda la ropa\Ny póngala en esa caja.{\i0}
+Dialogue: 0,0:01:41.73,0:01:43.24,Gen_Main,,0000,0000,0000,,{\i1}Puede cubrirse con esto.{\i0}
+Dialogue: 0,0:01:43.40,0:01:45.08,Gen_Main,,0000,0000,0000,,{\i1}Señorita Takada, ¿está bien?{\i0}
+Dialogue: 0,0:01:45.25,0:01:48.67,Gen_Main,,0000,0000,0000,,{\i1}Light, hice todo\Nlo que me dijiste que hiciera.{\i0}
+Dialogue: 0,0:01:48.85,0:01:52.84,Gen_Main,,0000,0000,0000,,{\i1}Mi prioridad fue sobrevivir\Ny… lo hice.{\i0}
+Dialogue: 0,0:01:53.00,0:01:55.21,Gen_Main,,0000,0000,0000,,{\i1}Ven pronto. Sálvame.{\i0}
+Dialogue: 0,0:01:55.50,0:02:00.02,Gen_Main,,0000,0000,0000,,{\i1}Kiyomi Takada, suicidio.\NEnero 26 del 2013,{\i0}
+Dialogue: 0,0:02:00.22,0:02:01.97,Gen_Main,,0000,0000,0000,,{\i1}a las 2:32 p.m.{\i0}
+Dialogue: 0,0:02:02.76,0:02:07.93,Gen_Main,,0000,0000,0000,,Muere calcinada al prender fuego a todo lo que\Nla rodea, incluyendo aquello en lo que escribió.
+Dialogue: 0,0:02:09.30,0:02:14.29,Gen_Main,,0000,0000,0000,,{\i1}Es con profunda pena que les comunicamos\Nel fallecimiento de una colega nuestra.{\i0}
+Dialogue: 0,0:02:14.49,0:02:20.95,Gen_Main,,0000,0000,0000,,{\i1}La Policía identificó uno de los cuerpos encontrados\Nen el sitio como el de la señorita Kiyomi Takada.{\i0}
+Dialogue: 0,0:02:21.75,0:02:26.45,Gen_Main,,0000,0000,0000,,{\i1}Hallaron un camión de 2 toneladas y una\Nmotocicleta en las ruinas de la iglesia.{\i0}
+Dialogue: 0,0:02:26.60,0:02:29.91,Gen_Main,,0000,0000,0000,,{\i1}Se sospecha que se usó gasolina\Npara iniciar el incendio.{\i0}
+Dialogue: 0,0:02:30.37,0:02:33.38,Cart_A_Tre,,0000,0000,0000,,28 DE ENERO
+Dialogue: 0,0:02:36.37,0:02:39.72,Gen_Main,,0000,0000,0000,,{\i1}Lo que quiero saber es quién\Nserá el próximo vocero de Kira.{\i0}
+Dialogue: 0,0:02:40.13,0:02:44.14,Gen_Main,,0000,0000,0000,,{\i1}La palabra de Kira debe ser difundida\Ny alguien tiene que hacerlo.{\i0}
+Dialogue: 0,0:02:44.55,0:02:47.98,Gen_Main,,0000,0000,0000,,{\i1}La muerte de la señorita Takada\Nfue una tragedia terrible,{\i0}
+Dialogue: 0,0:02:48.38,0:02:49.73,Gen_Main,,0000,0000,0000,,{\i1}pero no puedo evitar pensar{\i0}
+Dialogue: 0,0:02:49.93,0:02:53.11,Gen_Main,,0000,0000,0000,,{\i1}que si era tan descuidada entonces también tomaba\Na la ligera su papel como portavoz de Kira…{\i0}
+Dialogue: 0,0:02:53.31,0:02:56.18,Gen_Main,,0000,0000,0000,,{\i1}A decir verdad,\Nno es trabajo para una mujer.{\i0}
+Dialogue: 0,0:02:56.38,0:02:59.20,Gen_Main,,0000,0000,0000,,{\i1}Kira, permíteme\Nser tu nuevo representante.{\i0}
+Dialogue: 0,0:02:59.45,0:03:01.89,Gen_Main,,0000,0000,0000,,{\i1}No. El honor corresponde\Na Sakura TV.{\i0}
+Dialogue: 0,0:03:02.45,0:03:04.95,Gen_Main,,0000,0000,0000,,-Qué asco.\N-Sí, lo sé.
+Dialogue: 0,0:03:05.15,0:03:07.66,Gen_Main,,0000,0000,0000,,Acaban de anunciar su muerte\Ny ya comenzaron.
+Dialogue: 0,0:03:08.50,0:03:12.89,Gen_Main,,0000,0000,0000,,Todas las televisoras hablan\Nde quién debe reemplazarla.
+Dialogue: 0,0:03:14.55,0:03:17.36,Gen_Main,,0000,0000,0000,,{\i1}Los juicios de anoche\Nse dieron según lo planeado,{\i0}
+Dialogue: 0,0:03:17.56,0:03:21.18,Gen_Main,,0000,0000,0000,,{\i1}o sea que Takada y Mikami no tuvieron\Nproblemas para comunicarse.{\i0}
+Dialogue: 0,0:03:22.01,0:03:23.64,Gen_Main,,0000,0000,0000,,{\i1}No hay nada de qué preocuparse.{\i0}
+Dialogue: 0,0:03:26.30,0:03:27.22,Gen_Main,,0000,0000,0000,,¡Es Near!
+Dialogue: 0,0:03:29.58,0:03:31.18,Gen_Main,,0000,0000,0000,,-Hola, L.\N-{\i1}¿Sí?{\i0}
+Dialogue: 0,0:03:31.75,0:03:35.52,Gen_Main,,0000,0000,0000,,{\i1}No quiero molestarte continuamente,\Npero con respecto al encuentro…{\i0}
+Dialogue: 0,0:03:40.06,0:03:43.91,Gen_Main,,0000,0000,0000,,{\i1}quería confirmar que sigue en pie\Nel día 28 a la 1:00 p.m.{\i0}
+Dialogue: 0,0:03:44.81,0:03:45.67,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:03:46.14,0:03:50.06,Gen_Main,,0000,0000,0000,,{\i1}Tal como lo supuse:\Nno cambiará el horario original.{\i0}
+Dialogue: 0,0:03:50.26,0:03:51.91,Gen_Main,,0000,0000,0000,,{\i1}No cabe duda.{\i0}
+Dialogue: 0,0:03:52.71,0:03:56.42,Gen_Main,,0000,0000,0000,,Muy bien.\NEl 28, pasado mañana.
+Dialogue: 0,0:03:57.46,0:03:58.41,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:04:04.34,0:04:08.07,Gen_Main,,0000,0000,0000,,Entonces pasado mañana, ¿eh?\N¿No les parece emocionante?
+Dialogue: 0,0:04:08.27,0:04:11.89,Gen_Main,,0000,0000,0000,,Sí… no dejo de preguntarme\Nqué querrá enseñarnos Near.
+Dialogue: 0,0:04:12.57,0:04:14.62,Gen_Main,,0000,0000,0000,,{\i1}Matsuda, Ide.{\i0}
+Dialogue: 0,0:04:14.82,0:04:18.70,Gen_Main,,0000,0000,0000,,{\i1}Es muy probable\Nque ese día nos maten a todos.{\i0}
+Dialogue: 0,0:04:19.08,0:04:20.58,Gen_Main,,0000,0000,0000,,{\i1}¿Acaso no lo entienden?{\i0}
+Dialogue: 0,0:04:22.07,0:04:23.66,Gen_Main,,0000,0000,0000,,-Gevanni.\N-{\i1}¿Sí?{\i0}
+Dialogue: 0,0:04:23.86,0:04:25.34,Gen_Main,,0000,0000,0000,,¿Podrás llegar a tiempo?
+Dialogue: 0,0:04:25.71,0:04:28.03,Gen_Main,,0000,0000,0000,,{\i1}Sí. No faltaré.{\i0}
+Dialogue: 0,0:04:30.41,0:04:34.55,Gen_Main,,0000,0000,0000,,Comandante Rester.\NLidner. Gevanni.
+Dialogue: 0,0:04:35.69,0:04:37.42,Gen_Main,,0000,0000,0000,,Hagamos nuestro mejor esfuerzo.
+Dialogue: 0,0:04:50.56,0:04:54.18,Cart_A_Tre,,0000,0000,0000,,{\an8}28 DE ENERO DE 2013
+Dialogue: 0,0:05:04.30,0:05:07.02,Gen_Main,,0000,0000,0000,,{\i1}Buenos días a todos.{\i0}
+Dialogue: 0,0:05:07.67,0:05:09.62,Gen_Main,,0000,0000,0000,,Buenos… buenos días.
+Dialogue: 0,0:05:11.78,0:05:15.82,Gen_Main,,0000,0000,0000,,Antes que nada, ya hemos liberado a Amane.
+Dialogue: 0,0:05:16.25,0:05:17.88,Gen_Main,,0000,0000,0000,,Puedes llamarla para confirmarlo.
+Dialogue: 0,0:05:21.86,0:05:23.29,Gen_Main,,0000,0000,0000,,No sé que pasó,
+Dialogue: 0,0:05:23.49,0:05:29.03,Gen_Main,,0000,0000,0000,,pero me hospedaron en el {\i1}penthouse{\i0} del hotel Teito.\NCreo que están disculpándose. ¿Puedes creerlo?
+Dialogue: 0,0:05:29.23,0:05:31.01,Gen_Main,,0000,0000,0000,,Esto sí me gusta.
+Dialogue: 0,0:05:31.42,0:05:33.89,Gen_Main,,0000,0000,0000,,Escucha, Misa.
+Dialogue: 0,0:05:34.09,0:05:37.09,Gen_Main,,0000,0000,0000,,Por favor quédate\Nahí unas horas hasta que te llame.
+Dialogue: 0,0:05:37.29,0:05:38.77,Gen_Main,,0000,0000,0000,,{\i1}Claro.{\i0}
+Dialogue: 0,0:05:40.51,0:05:42.97,Gen_Main,,0000,0000,0000,,Ahora, Near,\Ncomunícame con Mogi.
+Dialogue: 0,0:05:43.17,0:05:45.36,Gen_Main,,0000,0000,0000,,La libreta está en una caja fuerte,
+Dialogue: 0,0:05:45.83,0:05:48.62,Gen_Main,,0000,0000,0000,,y para poder abrirla, necesito la clave\Nde cada miembro del equipo.
+Dialogue: 0,0:05:49.27,0:05:52.28,Gen_Main,,0000,0000,0000,,{\i1}Entendido.\NTe comunicaré de inmediato.{\i0}
+Dialogue: 0,0:05:54.58,0:05:59.29,Gen_Main,,0000,0000,0000,,Habla Mogi.\NLa clave es 62-324.
+Dialogue: 0,0:06:02.77,0:06:05.18,Gen_Main,,0000,0000,0000,,{\i1}Solo falta mi clave.{\i0}
+Dialogue: 0,0:06:13.94,0:06:15.85,Gen_Main,,0000,0000,0000,,{\i1}La libreta asesina.{\i0}
+Dialogue: 0,0:06:17.18,0:06:18.78,Gen_Main,,0000,0000,0000,,"Cómo usarla:
+Dialogue: 0,0:06:18.98,0:06:22.36,Gen_Main,,0000,0000,0000,,el humano cuyo nombre\Nsea escrito en esta libreta, morirá.
+Dialogue: 0,0:06:23.02,0:06:26.66,Gen_Main,,0000,0000,0000,,La libreta no surtirá efecto a menos que quien escribe tenga\Nen mente el rostro de la persona al escribir su nombre,
+Dialogue: 0,0:06:26.86,0:06:31.45,Gen_Main,,0000,0000,0000,,por lo tanto, otras personas\Ncon el mismo nombre no serán afectadas.
+Dialogue: 0,0:06:32.03,0:06:37.69,Gen_Main,,0000,0000,0000,,Si la causa de la muerte se escribe en los 40 segundos\Nposteriores a haber escrito un nombre, esta sucederá.
+Dialogue: 0,0:06:38.04,0:06:41.29,Gen_Main,,0000,0000,0000,,Si la causa de la muerte no se especifica,\Nla persona morirá de un ataque al corazón.
+Dialogue: 0,0:06:41.49,0:06:48.09,Gen_Main,,0000,0000,0000,,Tras escribir la causa de la muerte, los detalles deben\Nser escritos en los siguientes 6 minutos y 40 segundos".
+Dialogue: 0,0:06:52.82,0:06:57.72,Gen_Main,,0000,0000,0000,,Near, soy Aizawa. Hemos decidido\Nque seré yo quien lleve la libreta consigo.
+Dialogue: 0,0:06:58.04,0:07:01.73,Gen_Main,,0000,0000,0000,,L, ¿en verdad no te importa\Nque el señor Aizawa la lleve? Sé honesto.
+Dialogue: 0,0:07:02.52,0:07:06.87,Gen_Main,,0000,0000,0000,,Lo seré: elegí a Aizawa porque\Nsabíamos que lo preferías así.
+Dialogue: 0,0:07:07.07,0:07:08.78,Gen_Main,,0000,0000,0000,,No tengo inconveniente.
+Dialogue: 0,0:07:09.17,0:07:10.99,Gen_Main,,0000,0000,0000,,{\i1}Eres muy amable.\NGracias.{\i0}
+Dialogue: 0,0:07:11.56,0:07:13.37,Gen_Main,,0000,0000,0000,,{\i1}Nos veremos pronto.{\i0}
+Dialogue: 0,0:07:29.57,0:07:31.08,Gen_Main,,0000,0000,0000,,{\i1}Parece que este es el fin.{\i0}
+Dialogue: 0,0:07:31.50,0:07:34.61,Gen_Main,,0000,0000,0000,,{\i1}No, en realidad, el principio.{\i0}
+Dialogue: 0,0:07:37.00,0:07:39.28,Gen_Main,,0000,0000,0000,,{\i1}El mundo perfecto de Kira.{\i0}
+Dialogue: 0,0:07:41.90,0:07:44.56,Gen_Main,,0000,0000,0000,,{\i1}Y quienes saben\Nque la libreta existe…{\i0}
+Dialogue: 0,0:07:45.95,0:07:48.76,Gen_Main,,0000,0000,0000,,{\i1}todos ellos… morirán.{\i0}
+Dialogue: 0,0:07:56.93,0:08:00.12,Gen_Main,,0000,0000,0000,,Revisé el sitio y no hay duda:\NNear está adentro.
+Dialogue: 0,0:08:00.93,0:08:02.82,Gen_Main,,0000,0000,0000,,Bien, hagámoslo.
+Dialogue: 0,0:09:27.54,0:09:35.55,Cart_A_Tre,,0000,0000,0000,,EL HUMANO CUYO NOMBRE\NSE ESCRIBA EN ESTA LIBRETA, MORIRÁ
+Dialogue: 0,0:09:35.55,0:09:43.56,Cart_A_Tre,,0000,0000,0000,,EL HUMANO QUE USE ESTA LIBRETA\NNO IRÁ AL CIELO NI AL INFIERNO
+Dialogue: 0,0:10:01.45,0:10:05.16,Gen_Main,,0000,0000,0000,,{\i1}Near, eres muy inferior a L.{\i0}
+Dialogue: 0,0:10:05.62,0:10:08.60,Gen_Main,,0000,0000,0000,,{\i1}No tienes derecho a usar\Nuna máscara con su rostro.{\i0}
+Dialogue: 0,0:10:09.65,0:10:12.58,Gen_Main,,0000,0000,0000,,Son ellos.\NLos cuatro son el GEK
+Dialogue: 0,0:10:12.78,0:10:14.72,Gen_Main,,0000,0000,0000,,y el que usa la máscara es Near.
+Dialogue: 0,0:10:14.92,0:10:18.16,Gen_Main,,0000,0000,0000,,Momento.\N¿Soy al único al que le molesta?
+Dialogue: 0,0:10:18.36,0:10:20.65,Gen_Main,,0000,0000,0000,,Él puede ir por ahí acusando\Na la gente de ser Kira,
+Dialogue: 0,0:10:20.84,0:10:24.88,Gen_Main,,0000,0000,0000,,pero si usa una máscara es porque\Ntrata de protegerse a sí mismo.
+Dialogue: 0,0:10:26.75,0:10:28.23,Gen_Main,,0000,0000,0000,,Solo es una precaución.
+Dialogue: 0,0:10:28.51,0:10:30.95,Gen_Main,,0000,0000,0000,,Es probable que Kira\Nya haya visto los rostros
+Dialogue: 0,0:10:31.15,0:10:34.30,Gen_Main,,0000,0000,0000,,de todos los del almacén,\Nexcepto el mío.
+Dialogue: 0,0:10:34.50,0:10:37.52,Gen_Main,,0000,0000,0000,,Incluso podría estar escribiendo\Nsus nombres ahora.
+Dialogue: 0,0:10:38.34,0:10:39.94,Gen_Main,,0000,0000,0000,,Así que quisiera esperar una hora.
+Dialogue: 0,0:10:40.14,0:10:45.91,Gen_Main,,0000,0000,0000,,No, que sean 30 minutos. Bastará para darnos cuenta\Nsi alguien está siendo controlado antes de morir.
+Dialogue: 0,0:10:46.27,0:10:49.78,Gen_Main,,0000,0000,0000,,¿Qué?\N¿Esperarás a ver si morimos?
+Dialogue: 0,0:10:49.98,0:10:53.34,Gen_Main,,0000,0000,0000,,{\i1}No. No es imposible\Nque Light realmente sea Kira.{\i0}
+Dialogue: 0,0:10:53.66,0:10:56.86,Gen_Main,,0000,0000,0000,,{\i1}Especialmente,\Nen vista de que ya no le servimos.{\i0}
+Dialogue: 0,0:11:34.86,0:11:39.18,Gen_Main,,0000,0000,0000,,{\i1}Es tan solo un recurso\Npara ganar tiempo, ¿no es cierto?{\i0}
+Dialogue: 0,0:11:39.54,0:11:43.47,Gen_Main,,0000,0000,0000,,{\i1}Nunca creí que me sería\Ntan difícil contener las carcajadas.{\i0}
+Dialogue: 0,0:11:44.39,0:11:46.69,Gen_Main,,0000,0000,0000,,{\i1}Near debe estar esperando\Nque él venga.{\i0}
+Dialogue: 0,0:11:46.89,0:11:48.47,Gen_Main,,0000,0000,0000,,{\i1}Tal como lo anticipé.{\i0}
+Dialogue: 0,0:11:53.02,0:11:57.35,Gen_Main,,0000,0000,0000,,¡Near! Han pasado más\Nde 30 minutos. Nada ha sucedido.
+Dialogue: 0,0:11:57.55,0:12:00.74,Gen_Main,,0000,0000,0000,,Claro que no.\NPorque Kira no está con nosotros.
+Dialogue: 0,0:12:02.13,0:12:04.74,Gen_Main,,0000,0000,0000,,Muy bien.\NParece que estamos a salvo.
+Dialogue: 0,0:12:05.55,0:12:07.09,Gen_Main,,0000,0000,0000,,Me quitaré la máscara.
+Dialogue: 0,0:12:28.71,0:12:30.92,Gen_Main,,0000,0000,0000,,No hablas, Near.\N¿Qué ocurre?
+Dialogue: 0,0:12:31.63,0:12:33.73,Gen_Main,,0000,0000,0000,,¿Estás esperando algo?
+Dialogue: 0,0:12:35.22,0:12:38.35,Gen_Main,,0000,0000,0000,,¿Esperando?\NExcelente elección de palabras.
+Dialogue: 0,0:12:38.55,0:12:40.65,Gen_Main,,0000,0000,0000,,Sí, estoy esperando
+Dialogue: 0,0:12:40.91,0:12:44.11,Gen_Main,,0000,0000,0000,,la llegada de\Nquien resolverá esto en definitiva.
+Dialogue: 0,0:12:44.31,0:12:46.41,Gen_Main,,0000,0000,0000,,¿Se supone que alguien\Nmás lo resolverá?
+Dialogue: 0,0:12:46.70,0:12:50.16,Gen_Main,,0000,0000,0000,,Pronto estará aquí.\NSolo es cuestión de tiempo.
+Dialogue: 0,0:12:50.36,0:12:52.16,Gen_Main,,0000,0000,0000,,Únicamente hay una entrada…
+Dialogue: 0,0:12:52.69,0:12:56.17,Gen_Main,,0000,0000,0000,,y la única forma de asomarse\Nal interior es abriendo esa puerta.
+Dialogue: 0,0:12:56.57,0:13:01.16,Gen_Main,,0000,0000,0000,,Entrará por esa puerta o, cuando\Nmenos, la abrirá para asomarse.
+Dialogue: 0,0:13:02.05,0:13:03.42,Gen_Main,,0000,0000,0000,,¿Y quién rayos es esa persona?
+Dialogue: 0,0:13:04.38,0:13:08.78,Gen_Main,,0000,0000,0000,,X-Kira tiene la libreta en su\Npoder y asesina en nombre de Kira.
+Dialogue: 0,0:13:08.98,0:13:11.35,Gen_Main,,0000,0000,0000,,Vendrá y traerá la libreta consigo.
+Dialogue: 0,0:13:11.55,0:13:14.68,Gen_Main,,0000,0000,0000,,Me verá y escribirá mi nombre.
+Dialogue: 0,0:13:15.01,0:13:20.69,Gen_Main,,0000,0000,0000,,En realidad, escribirá los nombres de todos\Nlos que sabemos de la libreta y nos matará.
+Dialogue: 0,0:13:24.02,0:13:26.47,Gen_Main,,0000,0000,0000,,¿De qué estás hablando?\N¿Qué pretendes decirnos?
+Dialogue: 0,0:13:26.67,0:13:31.86,Gen_Main,,0000,0000,0000,,¿Que alguien más aparecerá con la libreta,\Nmeterá la cabeza por la puerta y nos matará?
+Dialogue: 0,0:13:32.06,0:13:34.36,Gen_Main,,0000,0000,0000,,¿Y quieres que esperemos\Na que eso pase?
+Dialogue: 0,0:13:34.95,0:13:37.44,Gen_Main,,0000,0000,0000,,Sí, así es.\NEscuchen con atención.
+Dialogue: 0,0:13:37.90,0:13:42.38,Gen_Main,,0000,0000,0000,,Si alguien más quiere entrar al\Nalmacén por esa puerta, no se lo impidan.
+Dialogue: 0,0:13:42.63,0:13:46.55,Gen_Main,,0000,0000,0000,,Si la puerta se abriera un poco, actúen\Ncomo si no notaran que hay alguien ahí.
+Dialogue: 0,0:13:46.81,0:13:49.26,Gen_Main,,0000,0000,0000,,Pero… pero eso es una locura.
+Dialogue: 0,0:13:51.18,0:13:52.39,Gen_Main,,0000,0000,0000,,Ya está aquí.
+Dialogue: 0,0:14:10.72,0:14:11.83,Gen_Main,,0000,0000,0000,,¡Dios!
+Dialogue: 0,0:14:22.54,0:14:23.30,Gen_Main,,0000,0000,0000,,Eliminar.
+Dialogue: 0,0:14:24.55,0:14:27.35,Gen_Main,,0000,0000,0000,,Eliminar. Eliminar.\NEliminar. Eliminar.
+Dialogue: 0,0:14:28.88,0:14:32.17,Gen_Main,,0000,0000,0000,,Eliminar. Eliminar. Eliminar.\NEliminar. ¡Eliminar!
+Dialogue: 0,0:14:32.74,0:14:35.27,Gen_Main,,0000,0000,0000,,Eliminar. Eliminar. Eliminar.
+Dialogue: 0,0:14:37.73,0:14:38.79,Gen_Main,,0000,0000,0000,,Detente. No hagas nada.
+Dialogue: 0,0:14:38.99,0:14:40.85,Gen_Main,,0000,0000,0000,,Todo está bien. No morirás.
+Dialogue: 0,0:14:41.18,0:14:43.68,Gen_Main,,0000,0000,0000,,¿Por qué estás tan seguro, Near?
+Dialogue: 0,0:14:44.27,0:14:45.77,Gen_Main,,0000,0000,0000,,Porque modifiqué la libreta.
+Dialogue: 0,0:14:46.57,0:14:50.16,Gen_Main,,0000,0000,0000,,Tomamos la libreta temporalmente\Ny sustituimos las páginas.
+Dialogue: 0,0:14:50.41,0:14:53.41,Gen_Main,,0000,0000,0000,,La persona tras la puerta\Nha estado matando en lugar de Kira.
+Dialogue: 0,0:14:53.61,0:14:55.86,Gen_Main,,0000,0000,0000,,Ha usado exactamente\Nuna página cada día.
+Dialogue: 0,0:14:56.16,0:15:00.99,Gen_Main,,0000,0000,0000,,Reemplacé la página que él usaría hoy y las\Nsubsecuentes para que nadie más muriera.
+Dialogue: 0,0:15:01.23,0:15:04.89,Gen_Main,,0000,0000,0000,,Eliminar. Eliminar. Eliminar.
+Dialogue: 0,0:15:05.09,0:15:11.01,Gen_Main,,0000,0000,0000,,¡Eliminar! ¡Eliminar! ¡Eliminar!
+Dialogue: 0,0:15:32.78,0:15:34.62,Gen_Main,,0000,0000,0000,,Del otro lado de la puerta\Nse encuentra X-Kira.
+Dialogue: 0,0:15:34.82,0:15:37.70,Gen_Main,,0000,0000,0000,,Supongo que en unos\N40 segundos se asomará
+Dialogue: 0,0:15:38.07,0:15:40.26,Gen_Main,,0000,0000,0000,,para ver si hemos muerto.
+Dialogue: 0,0:15:40.46,0:15:42.70,Gen_Main,,0000,0000,0000,,Lo arrestaremos\Ny le quitaremos la libreta.
+Dialogue: 0,0:15:43.29,0:15:46.96,Gen_Main,,0000,0000,0000,,Aquel cuyo nombre\Nno esté escrito debe ser Kira.
+Dialogue: 0,0:15:48.45,0:15:50.21,Gen_Main,,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:15:50.58,0:15:53.68,Gen_Main,,0000,0000,0000,,Kira sería el único\Nal que no trataría de matar.
+Dialogue: 0,0:15:54.10,0:15:55.27,Gen_Main,,0000,0000,0000,,Sin embargo…
+Dialogue: 0,0:16:08.73,0:16:11.57,Gen_Main,,0000,0000,0000,,{\i1}¡Lo sabía! ¡Lo sabía!\N¡Lo sabía!{\i0}
+Dialogue: 0,0:16:17.69,0:16:21.04,Gen_Main,,0000,0000,0000,,{\i1}Siempre supe\Nque alterarías la libreta.{\i0}
+Dialogue: 0,0:16:21.32,0:16:24.33,Gen_Main,,0000,0000,0000,,{\i1}Near, te he derrotado\Npor completo.{\i0}
+Dialogue: 0,0:16:25.19,0:16:29.00,Gen_Main,,0000,0000,0000,,{\i1}La libreta que modificaste era una\Nréplica que ordené a Mikami preparar.{\i0}
+Dialogue: 0,0:16:29.49,0:16:32.57,Gen_Main,,0000,0000,0000,,{\i1}Pero en la que Mikami\Nacaba de escribir sus nombres{\i0}
+Dialogue: 0,0:16:32.77,0:16:35.32,Gen_Main,,0000,0000,0000,,{\i1}es la libreta real,\Nque estuvo oculta hasta ahora.{\i0}
+Dialogue: 0,0:16:45.09,0:16:47.76,Gen_Main,,0000,0000,0000,,{\i1}Ordené a Mikami crear\Nuna libreta falsa que él usaría,{\i0}
+Dialogue: 0,0:16:47.96,0:16:51.74,Gen_Main,,0000,0000,0000,,{\i1}y enviar a Takada\Nvarias páginas de la auténtica,{\i0}
+Dialogue: 0,0:16:52.30,0:16:56.24,Gen_Main,,0000,0000,0000,,{\i1}de modo que era Takada no Mikami\Nquien ejecutaba los asesinatos.{\i0}
+Dialogue: 0,0:16:56.63,0:17:00.12,Gen_Main,,0000,0000,0000,,{\i1}A Mikami le pedí nombres\Nen lugares públicos usando la libreta falsa{\i0}
+Dialogue: 0,0:17:00.41,0:17:04.54,Gen_Main,,0000,0000,0000,,{\i1}para que lo notara quien\Nestuviera siguiéndolo,{\i0}
+Dialogue: 0,0:17:04.74,0:17:08.87,Gen_Main,,0000,0000,0000,,{\i1}pero Takada era la responsable\Nde las muertes.{\i0}
+Dialogue: 0,0:17:09.29,0:17:11.09,Gen_Main,,0000,0000,0000,,{\i1}Mikami le enviaba los rostros\Ny nombres por teléfono celular.{\i0}
+Dialogue: 0,0:17:11.56,0:17:14.37,Gen_Main,,0000,0000,0000,,{\i1}Con esa farsa logré que el GEK\Ncreyera que esa libreta era la real.{\i0}
+Dialogue: 0,0:17:15.79,0:17:20.01,Gen_Main,,0000,0000,0000,,{\i1}La rutina de Mikami es tan metódica\Nque parece obsesiva.{\i0}
+Dialogue: 0,0:17:20.34,0:17:24.46,Gen_Main,,0000,0000,0000,,{\i1}Llena exactamente una página\Ncon nombres todos los días,{\i0}
+Dialogue: 0,0:17:25.27,0:17:30.26,Gen_Main,,0000,0000,0000,,{\i1}y Near, notaste ese hábito suyo y creíste\Npoder aprovecharlo para alterar la libreta.{\i0}
+Dialogue: 0,0:17:31.08,0:17:35.63,Gen_Main,,0000,0000,0000,,{\i1}Las contaste para saber qué página\Nusaría el día de este encuentro,{\i0}
+Dialogue: 0,0:17:35.83,0:17:39.08,Gen_Main,,0000,0000,0000,,{\i1}y sustituiste todas las páginas\Ndesde esa fecha en adelante.{\i0}
+Dialogue: 0,0:17:40.26,0:17:44.11,Gen_Main,,0000,0000,0000,,{\i1}Confiabas en que podrías impedir\Nque alguien más muriera.{\i0}
+Dialogue: 0,0:17:44.31,0:17:46.32,Gen_Main,,0000,0000,0000,,{\i1}¡Ese era tu plan maestro!{\i0}
+Dialogue: 0,0:17:46.52,0:17:48.96,Gen_Main,,0000,0000,0000,,{\i1}Por eso no podías cambiar\Nla fecha del encuentro.{\i0}
+Dialogue: 0,0:17:49.78,0:17:53.84,Gen_Main,,0000,0000,0000,,{\i1}Pero yo iba\Nun paso adelante de ti, Near.{\i0}
+Dialogue: 0,0:17:54.38,0:17:58.26,Gen_Main,,0000,0000,0000,,{\i1}Supe que intentarías modificar la libreta, por\Neso pedí a Mikami que diariamente la revisara.{\i0}
+Dialogue: 0,0:17:59.47,0:18:00.72,Gen_Main,,0000,0000,0000,,{\i1}Lo he confirmado.{\i0}
+Dialogue: 0,0:18:07.29,0:18:09.93,Gen_Main,,0000,0000,0000,,{\i1}Supe que había ganado\Napenas recibí ese mensaje.{\i0}
+Dialogue: 0,0:18:10.70,0:18:12.86,Gen_Main,,0000,0000,0000,,{\i1}Mikami trajo la libreta auténtica,{\i0}
+Dialogue: 0,0:18:13.51,0:18:16.32,Gen_Main,,0000,0000,0000,,{\i1}que hasta hoy, estaba oculta.{\i0}
+Dialogue: 0,0:18:21.35,0:18:22.79,Gen_Main,,0000,0000,0000,,{\i1}¿Y sabes qué, Near?{\i0}
+Dialogue: 0,0:18:23.22,0:18:27.57,Gen_Main,,0000,0000,0000,,{\i1}Pudiste ganar,\Npero dejaste ir la oportunidad.{\i0}
+Dialogue: 0,0:18:28.54,0:18:30.50,Gen_Main,,0000,0000,0000,,{\i1}No puedes compararte con L.{\i0}
+Dialogue: 0,0:18:31.74,0:18:37.18,Gen_Main,,0000,0000,0000,,{\i1}Él habría considerado la posibilidad de una libreta\Nfalsa desde el principio y la habría puesto a prueba.{\i0}
+Dialogue: 0,0:18:37.57,0:18:39.51,Gen_Main,,0000,0000,0000,,{\i1}Tuviste una oportunidad\Ny la desperdiciaste.{\i0}
+Dialogue: 0,0:18:39.71,0:18:41.99,Gen_Main,,0000,0000,0000,,{\i1}Debo decir que me decepcionas\Nprofundamente.{\i0}
+Dialogue: 0,0:18:42.19,0:18:43.98,Gen_Main,,0000,0000,0000,,{\i1}Esta victoria no es disfrutable.{\i0}
+Dialogue: 0,0:18:44.53,0:18:47.43,Gen_Main,,0000,0000,0000,,{\i1}Te esforzaste\Nen ganar honorablemente.{\i0}
+Dialogue: 0,0:18:48.45,0:18:52.69,Gen_Main,,0000,0000,0000,,{\i1}Ni hablar, morirán todos\Naquí hoy, gracias a ti.{\i0}
+Dialogue: 0,0:18:53.24,0:18:54.93,Gen_Main,,0000,0000,0000,,{\i1}En cuanto a mí…{\i0}
+Dialogue: 0,0:18:55.64,0:18:58.20,Gen_Main,,0000,0000,0000,,{\i1}Yo, Kira,\Nobtendré una victoria perfecta.{\i0}
+Dialogue: 0,0:19:14.59,0:19:15.75,Gen_Main,,0000,0000,0000,,Tú, el de afuera.
+Dialogue: 0,0:19:17.80,0:19:19.96,Gen_Main,,0000,0000,0000,,¿Terminaste de escribir\Nlos nombres en la libreta?
+Dialogue: 0,0:19:21.46,0:19:22.72,Gen_Main,,0000,0000,0000,,{\i1}¡Dios!{\i0}
+Dialogue: 0,0:19:23.71,0:19:25.64,Gen_Main,,0000,0000,0000,,Sí, ya los escribí.
+Dialogue: 0,0:19:29.54,0:19:34.20,Gen_Main,,0000,0000,0000,,{\i1}No, no puedo reír aún.\NDebo contenerme.{\i0}
+Dialogue: 0,0:19:35.33,0:19:37.90,Gen_Main,,0000,0000,0000,,{\i1}Morirán 40 segundos después\Nde que escribió sus nombres.{\i0}
+Dialogue: 0,0:19:39.14,0:19:40.62,Gen_Main,,0000,0000,0000,,{\i1}Treinta y cinco segundos…{\i0}
+Dialogue: 0,0:19:41.11,0:19:43.74,Gen_Main,,0000,0000,0000,,{\i1}Entonces proclamaré mi victoria.{\i0}
+Dialogue: 0,0:19:44.18,0:19:45.53,Gen_Main,,0000,0000,0000,,¿No les parece extraño?
+Dialogue: 0,0:19:47.33,0:19:49.75,Gen_Main,,0000,0000,0000,,¿Por qué te respondería tan rápida,\Ncalmada y sinceramente
+Dialogue: 0,0:19:49.95,0:19:52.62,Gen_Main,,0000,0000,0000,,al preguntarle si ya había\Nescrito nuestros nombres?
+Dialogue: 0,0:19:52.90,0:19:57.76,Gen_Main,,0000,0000,0000,,No lo sé. Tal vez sea honesto\No confía en que moriremos.
+Dialogue: 0,0:19:57.96,0:20:00.69,Gen_Main,,0000,0000,0000,,Quizá adivinó tu plan brillante.
+Dialogue: 0,0:20:01.14,0:20:03.26,Gen_Main,,0000,0000,0000,,En ese caso, tenemos problemas.
+Dialogue: 0,0:20:03.98,0:20:05.64,Gen_Main,,0000,0000,0000,,Teru Mikami.
+Dialogue: 0,0:20:05.95,0:20:09.60,Gen_Main,,0000,0000,0000,,Si no es mucha molestia,\N¿podrías venir con nosotros?
+Dialogue: 0,0:20:11.29,0:20:15.52,Gen_Main,,0000,0000,0000,,Sé que eres tú quien juzga\Ny ejecuta gente por órdenes de Kira.
+Dialogue: 0,0:20:15.75,0:20:19.28,Gen_Main,,0000,0000,0000,,Si escribiste nuestros nombres,\Nentonces ya no corres peligro.
+Dialogue: 0,0:20:19.48,0:20:20.78,Gen_Main,,0000,0000,0000,,No hay razón para ocultarse.
+Dialogue: 0,0:20:23.91,0:20:25.23,Gen_Main,,0000,0000,0000,,Teru Mikami, ¿cierto?
+Dialogue: 0,0:20:25.43,0:20:28.77,Gen_Main,,0000,0000,0000,,Es verdad, no hay nada que temer.\NPuedes entrar.
+Dialogue: 0,0:20:29.65,0:20:30.95,Gen_Main,,0000,0000,0000,,{\i1}¡Dios!{\i0}
+Dialogue: 0,0:20:52.04,0:20:54.94,Gen_Main,,0000,0000,0000,,{\i1}¡Buen trabajo, Mikami!{\i0}
+Dialogue: 0,0:20:55.72,0:20:58.81,Gen_Main,,0000,0000,0000,,¿Cuánto tiempo ha pasado desde\Nque escribiste el primer nombre?
+Dialogue: 0,0:21:09.18,0:21:10.20,Gen_Main,,0000,0000,0000,,Treinta…
+Dialogue: 0,0:21:10.47,0:21:13.16,Gen_Main,,0000,0000,0000,,Treinta y uno… treinta y dos…
+Dialogue: 0,0:21:13.51,0:21:15.96,Gen_Main,,0000,0000,0000,,treinta y tres… treinta y cuatro…
+Dialogue: 0,0:21:16.29,0:21:18.71,Gen_Main,,0000,0000,0000,,treinta y cinco… treinta y seis…
+Dialogue: 0,0:21:18.91,0:21:20.09,Gen_Main,,0000,0000,0000,,treinta y siete…
+Dialogue: 0,0:21:20.29,0:21:21.46,Gen_Main,,0000,0000,0000,,treinta y ocho…
+Dialogue: 0,0:21:21.66,0:21:23.10,Gen_Main,,0000,0000,0000,,treinta y nueve…
+Dialogue: 0,0:21:23.30,0:21:25.68,Gen_Main,,0000,0000,0000,,Bien, Near.\NParece que he ganado.
+Dialogue: 0,0:21:25.88,0:21:27.51,Gen_Main,,0000,0000,0000,,¡Cuarenta!
+Dialogue: 0,0:21:27.51,0:21:31.72,Cart_A_Tre,,0000,0000,0000,,{\an8}CONTINUARÁ
+Dialogue: 0,0:22:41.71,0:22:43.71,Cart_A_Tre,,0000,0000,0000,,AVANCE
+Dialogue: 0,0:22:50.67,0:22:53.81,Gen_Main,,0000,0000,0000,,Eso es. Yo soy Kira.
+Dialogue: 0,0:22:53.81,0:22:56.68,Cart_A_Tre,,0000,0000,0000,,NUEVO MUNDO
+

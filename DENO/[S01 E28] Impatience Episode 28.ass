@@ -1,0 +1,295 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0060,0110,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:30.98,0:01:32.50,Gen_Main,,0000,0000,0000,,Ha pasado el tiempo.
+Dialogue: 0,0:01:32.70,0:01:34.90,Gen_Main,,0000,0000,0000,,Gracias por cuidar\Nde mi padre siempre.
+Dialogue: 0,0:01:35.13,0:01:38.70,Gen_Main,,0000,0000,0000,,Vaya, Sayu…\NCuánto has crecido.
+Dialogue: 0,0:01:38.84,0:01:41.03,Gen_Main,,0000,0000,0000,,-Habla Yagami.\N-{\i1}¿Señor Director?{\i0}
+Dialogue: 0,0:01:41.41,0:01:44.09,Gen_Main,,0000,0000,0000,,{\i1}Escuche, sobre el intercambio\Ndel director por la libreta… El trato se cancela.{\i0}
+Dialogue: 0,0:01:44.29,0:01:45.04,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:01:45.17,0:01:48.04,Gen_Main,,0000,0000,0000,,{\i1}El nuevo trato es este:\Nla libreta por Sayu Yagami.{\i0}
+Dialogue: 0,0:01:49.23,0:01:53.42,Gen_Main,,0000,0000,0000,,{\i1}Venga a Los Ángeles\Nusted solo en dos días, y traiga la libreta con usted.{\i0}
+Dialogue: 0,0:01:53.95,0:01:56.56,Gen_Main,,0000,0000,0000,,Me da gusto conocerte al fin,\NL número dos.
+Dialogue: 0,0:01:58.43,0:02:01.05,Gen_Main,,0000,0000,0000,,Estoy al mando de la GEK.
+Dialogue: 0,0:02:01.91,0:02:04.64,Gen_Main,,0000,0000,0000,,Puedes llamarme… N.
+Dialogue: 0,0:02:04.84,0:02:07.77,Gen_Main,,0000,0000,0000,,¿N? ¿Quién es este sujeto?\N¿Está bromeando?
+Dialogue: 0,0:02:08.01,0:02:13.38,Gen_Main,,0000,0000,0000,,Pero… esta extraña sensación…\N¿qué es?
+Dialogue: 0,0:02:13.77,0:02:16.78,Cart_A_Tre,,0000,0000,0000,,RENOVACIÓN
+Dialogue: 0,0:02:17.85,0:02:23.05,Gen_Main,,0000,0000,0000,,N… ¿Por qué siento que hablo con L?
+Dialogue: 0,0:02:23.25,0:02:25.52,Gen_Main,,0000,0000,0000,,{\i1}Te dije que no confiamos en L,\Npor decir lo menos.{\i0}
+Dialogue: 0,0:02:25.72,0:02:30.30,Gen_Main,,0000,0000,0000,,{\i1}El FBI y la CIA pidieron que sea yo\Nquien dirija la investigación,{\i0}
+Dialogue: 0,0:02:30.50,0:02:32.79,Gen_Main,,0000,0000,0000,,{\i1}no tú.{\i0}
+Dialogue: 0,0:02:33.22,0:02:38.22,Gen_Main,,0000,0000,0000,,{\i1}Una vez dicho eso, nos indigna el asesinato del director de la APN y creemos que algo debe hacerse.{\i0}
+Dialogue: 0,0:02:38.62,0:02:44.01,Gen_Main,,0000,0000,0000,,Tras revisar la información, creo que resolver este caso\Nconducirá al arresto de Kira,
+Dialogue: 0,0:02:44.21,0:02:46.63,Gen_Main,,0000,0000,0000,,por lo que estoy dispuesto\Na brindarte toda mi ayuda.
+Dialogue: 0,0:02:47.08,0:02:51.65,Gen_Main,,0000,0000,0000,,{\i1}¿"Conducirá al arresto de Kira"?\N¿Quién es él? Es tan seguro de sí.{\i0}
+Dialogue: 0,0:02:52.04,0:02:54.07,Gen_Main,,0000,0000,0000,,{\i1}¿Hay algún problema, L?{\i0}
+Dialogue: 0,0:02:54.27,0:02:55.27,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:02:55.78,0:02:58.10,Gen_Main,,0000,0000,0000,,Es solo que después\Nde la muerte de Takimura,
+Dialogue: 0,0:02:58.30,0:03:02.70,Gen_Main,,0000,0000,0000,,la hija del jefe Yagami fue secuestrada y creemos que el responsable es el mismo.
+Dialogue: 0,0:03:02.90,0:03:04.80,Gen_Main,,0000,0000,0000,,Quiere hacer el intercambio\Nen Los Ángeles.
+Dialogue: 0,0:03:04.95,0:03:08.22,Gen_Main,,0000,0000,0000,,{\i1}¿Un intercambio?\NSupongo que es la joven por la libreta.{\i0}
+Dialogue: 0,0:03:09.05,0:03:09.79,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:03:10.54,0:03:11.61,Gen_Main,,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:03:11.81,0:03:16.13,Gen_Main,,0000,0000,0000,,Tendré a un equipo listo\Nen Los Ángeles, pero aún no le daré los detalles de la misión.
+Dialogue: 0,0:03:16.33,0:03:19.34,Gen_Main,,0000,0000,0000,,También monitorearé\Nla ciudad vía satélite.
+Dialogue: 0,0:03:20.37,0:03:21.63,Gen_Main,,0000,0000,0000,,O… pensándolo mejor,
+Dialogue: 0,0:03:22.22,0:03:25.62,Gen_Main,,0000,0000,0000,,{\i1}dejaré que tengas\Nla autoridad en esto, L.{\i0}
+Dialogue: 0,0:03:29.02,0:03:31.75,Gen_Main,,0000,0000,0000,,Qué bien. Significa que estamos a cargo.
+Dialogue: 0,0:03:31.95,0:03:35.65,Gen_Main,,0000,0000,0000,,¿Pero por qué los americanos\Nya no confían en L?
+Dialogue: 0,0:03:37.73,0:03:41.58,Gen_Main,,0000,0000,0000,,Near, ¿es seguro dejar el caso\Nen las manos del falso L?
+Dialogue: 0,0:03:41.78,0:03:43.78,Gen_Main,,0000,0000,0000,,No ha podido atrapar\Na Kira hasta ahora.
+Dialogue: 0,0:03:44.62,0:03:46.77,Gen_Main,,0000,0000,0000,,Lo sé, por eso es buena idea.
+Dialogue: 0,0:03:47.23,0:03:49.79,Gen_Main,,0000,0000,0000,,Significa que tendremos oportunidad\Nde aprovecharnos de él.
+Dialogue: 0,0:03:50.23,0:03:55.80,Gen_Main,,0000,0000,0000,,Claro que salvar la vida de personas\Nes importante, pero el objetivo de la GEK es muy claro.
+Dialogue: 0,0:03:56.19,0:03:59.96,Gen_Main,,0000,0000,0000,,Buscamos la libreta…\NY capturar a Kira de una vez por todas.
+Dialogue: 0,0:04:01.75,0:04:02.90,Gen_Main,,0000,0000,0000,,Light…
+Dialogue: 0,0:04:04.77,0:04:06.89,Gen_Main,,0000,0000,0000,,Ahora ya no me importa\Nsi pierdo la vida…
+Dialogue: 0,0:04:08.01,0:04:10.98,Gen_Main,,0000,0000,0000,,Por favor, solo salva a Sayu.\NPromételo.
+Dialogue: 0,0:04:12.52,0:04:13.98,Gen_Main,,0000,0000,0000,,Deja de hablar así, papá.
+Dialogue: 0,0:04:14.87,0:04:17.12,Gen_Main,,0000,0000,0000,,Tal vez te hayas hecho\Na la idea de morir,
+Dialogue: 0,0:04:17.32,0:04:21.32,Gen_Main,,0000,0000,0000,,¿pero has pensado lo doloroso\Nque será para las personas que dejarás atrás?
+Dialogue: 0,0:04:21.90,0:04:25.32,Gen_Main,,0000,0000,0000,,Nunca podré perdonarte\Nque mueras frente a Sayu.
+Dialogue: 0,0:04:25.90,0:04:28.65,Gen_Main,,0000,0000,0000,,Escucha, es cierto que podrías\Nperder contacto con nosotros,
+Dialogue: 0,0:04:29.14,0:04:33.33,Gen_Main,,0000,0000,0000,,pero si así fuera y tuvieras\Nque tomar una decisión,
+Dialogue: 0,0:04:33.53,0:04:37.04,Gen_Main,,0000,0000,0000,,quiero que hagas todo lo necesario para que tú y Sayu\Nsalgan de esto con vida.
+Dialogue: 0,0:04:37.77,0:04:39.30,Gen_Main,,0000,0000,0000,,Promételo, papá.
+Dialogue: 0,0:04:39.83,0:04:41.28,Gen_Main,,0000,0000,0000,,Light…
+Dialogue: 0,0:04:43.24,0:04:44.32,Gen_Main,,0000,0000,0000,,¿Qué? ¡No puedo creerlo!
+Dialogue: 0,0:04:46.07,0:04:48.01,Gen_Main,,0000,0000,0000,,¿Quieres que vaya\Na Los Ángeles contigo?
+Dialogue: 0,0:04:48.50,0:04:53.02,Gen_Main,,0000,0000,0000,,Sí. Tal vez necesite usar tus ojos\Nesta vez, así que te quiero cerca.
+Dialogue: 0,0:04:55.14,0:04:58.09,Gen_Main,,0000,0000,0000,,¡Light! ¡Eres el mejor! ¡Gracias!
+Dialogue: 0,0:04:58.29,0:05:00.73,Gen_Main,,0000,0000,0000,,Cielos, será mejor\Nque empaque de una vez.
+Dialogue: 0,0:05:10.67,0:05:13.01,Gen_Main,,0000,0000,0000,,Veamos, ¿cuál debo llevar?\NNo puedo decidir.
+Dialogue: 0,0:05:13.49,0:05:16.79,Gen_Main,,0000,0000,0000,,¡Light! ¿A ti cuál te gusta?
+Dialogue: 0,0:05:30.66,0:05:34.68,Gen_Main,,0000,0000,0000,,Si las cosas salen mal,\Ntendré que matar a Sayu.
+Dialogue: 0,0:05:44.57,0:05:45.65,Gen_Main,,0000,0000,0000,,Papá,
+Dialogue: 0,0:05:45.85,0:05:48.99,Gen_Main,,0000,0000,0000,,viajaré a Los Ángeles\Nantes que tú y haré los preparativos.
+Dialogue: 0,0:05:49.41,0:05:51.50,Gen_Main,,0000,0000,0000,,Los demás llegarán poco después
+Dialogue: 0,0:05:52.33,0:05:54.52,Gen_Main,,0000,0000,0000,,pero, todos viajaremos en vuelos diferentes.
+Dialogue: 0,0:05:54.72,0:05:59.71,Gen_Main,,0000,0000,0000,,Aizawa, sigue a mi padre\Ny sube al avión con él, en caso de que algo salga mal.
+Dialogue: 0,0:06:00.01,0:06:00.88,Gen_Main,,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:06:01.33,0:06:04.38,Gen_Main,,0000,0000,0000,,Me cortaré el cabello\Npara que no me reconozcan.
+Dialogue: 0,0:06:06.31,0:06:08.84,Gen_Main,,0000,0000,0000,,Muy bien. Cuento con ustedes.
+Dialogue: 0,0:06:30.10,0:06:31.31,Gen_Main,,0000,0000,0000,,Señor Yagami.
+Dialogue: 0,0:06:31.51,0:06:33.66,Gen_Main,,0000,0000,0000,,¿Quién es usted?\N¿Uno de los secuestradores?
+Dialogue: 0,0:06:34.18,0:06:38.34,Gen_Main,,0000,0000,0000,,Abordará el vuelo SE3-33.\NTengo los boletos conmigo.
+Dialogue: 0,0:06:38.54,0:06:40.43,Gen_Main,,0000,0000,0000,,Sale de la sala 18.
+Dialogue: 0,0:06:40.63,0:06:42.33,Gen_Main,,0000,0000,0000,,Bien. Entiendo.
+Dialogue: 0,0:06:42.73,0:06:45.21,Gen_Main,,0000,0000,0000,,Alguien lo interceptó en el\Naeropuerto. ¿Lo arresto?
+Dialogue: 0,0:06:45.54,0:06:47.71,Gen_Main,,0000,0000,0000,,Cálmate, Aizawa.\NNo levantes sospechas.
+Dialogue: 0,0:06:48.06,0:06:51.90,Gen_Main,,0000,0000,0000,,Entiendo tu preocupación, pero arrestarlo ahora\Nno servirá de nada.
+Dialogue: 0,0:06:52.10,0:06:54.36,Gen_Main,,0000,0000,0000,,Guarda tu distancia\Ny no los pierdas de vista.
+Dialogue: 0,0:06:55.38,0:06:56.51,Gen_Main,,0000,0000,0000,,Maldición.
+Dialogue: 0,0:06:56.68,0:07:00.03,Gen_Main,,0000,0000,0000,,Abordan un vuelo diferente\Nal planeado.
+Dialogue: 0,0:07:00.23,0:07:03.52,Gen_Main,,0000,0000,0000,,-Les diré que soy oficial de policía.\N-{\i1}Contrólate.{\i0}
+Dialogue: 0,0:07:04.06,0:07:06.90,Gen_Main,,0000,0000,0000,,Revelarás tu identidad\Ny la operación se arruinará.
+Dialogue: 0,0:07:07.10,0:07:08.53,Gen_Main,,0000,0000,0000,,¿Puedes averiguar\Na dónde va el vuelo?
+Dialogue: 0,0:07:08.86,0:07:10.08,Gen_Main,,0000,0000,0000,,Veamos…
+Dialogue: 0,0:07:10.92,0:07:12.53,Gen_Main,,0000,0000,0000,,También vuela a Los Ángeles.
+Dialogue: 0,0:07:13.17,0:07:15.14,Gen_Main,,0000,0000,0000,,{\i1}¿Pudieron programar otro avión?{\i0}
+Dialogue: 0,0:07:15.54,0:07:17.12,Gen_Main,,0000,0000,0000,,{\i1}Esto está mal.{\i0}
+Dialogue: 0,0:07:27.25,0:07:31.73,Gen_Main,,0000,0000,0000,,{\i1}Vuelo SE3-33, vuelo SE3-33,\N¿me escucha?{\i0}
+Dialogue: 0,0:07:31.93,0:07:33.55,Gen_Main,,0000,0000,0000,,{\i1}Se ha desviado\Nde su plan de vuelo.{\i0}
+Dialogue: 0,0:07:34.05,0:07:38.14,Gen_Main,,0000,0000,0000,,Este es el vuelo SE3-33.\NLos escucho fuerte y claro.
+Dialogue: 0,0:07:38.61,0:07:42.53,Gen_Main,,0000,0000,0000,,Les aseguro que todo está bien.\NEs una desviación.
+Dialogue: 0,0:07:42.73,0:07:45.98,Gen_Main,,0000,0000,0000,,{\i1}¿Qué pasa? Necesita decirme\Nqué está sucediendo.{\i0}
+Dialogue: 0,0:07:46.66,0:07:48.41,Gen_Main,,0000,0000,0000,,No es un secuestro.
+Dialogue: 0,0:07:48.61,0:07:52.74,Gen_Main,,0000,0000,0000,,Solo es una desviación…\NUna parada para bajar a un pasajero.
+Dialogue: 0,0:07:53.59,0:07:55.43,Gen_Main,,0000,0000,0000,,{\i1}Pueden rastrearnos con el radar.{\i0}
+Dialogue: 0,0:07:55.63,0:07:58.74,Gen_Main,,0000,0000,0000,,{\i1}Sin embargo, si llaman\Na las autoridades para que interfieran,{\i0}
+Dialogue: 0,0:07:58.86,0:08:02.24,Gen_Main,,0000,0000,0000,,no dudaré en estrellar el avión\Ncon todos los pasajeros en él.
+Dialogue: 0,0:08:07.33,0:08:09.06,Gen_Main,,0000,0000,0000,,Esto está mal, Light. Es decir, L.
+Dialogue: 0,0:08:09.26,0:08:11.97,Gen_Main,,0000,0000,0000,,El vuelo del jefe\Nacaba de cambiar de dirección.
+Dialogue: 0,0:08:12.45,0:08:16.04,Gen_Main,,0000,0000,0000,,Un pasajero\Ndescenderá en algún lado. Solo puede ser él.
+Dialogue: 0,0:08:16.44,0:08:18.39,Gen_Main,,0000,0000,0000,,{\i1}Maldición, ¿qué está pasando?{\i0}
+Dialogue: 0,0:08:18.59,0:08:21.43,Gen_Main,,0000,0000,0000,,{\i1}Revisé a los pasajeros y pilotos\Nde los vuelos de hoy.{\i0}
+Dialogue: 0,0:08:21.56,0:08:23.45,Gen_Main,,0000,0000,0000,,{\i1}Nadie a bordo luce sospechoso.{\i0}
+Dialogue: 0,0:08:24.65,0:08:26.65,Gen_Main,,0000,0000,0000,,{\i1}El piloto es un veterano de 15 años{\i0}
+Dialogue: 0,0:08:26.85,0:08:28.86,Gen_Main,,0000,0000,0000,,{\i1}y el copiloto también es legítimo.{\i0}
+Dialogue: 0,0:08:29.27,0:08:32.24,Gen_Main,,0000,0000,0000,,{\i1}Los secuestradores son tan poderosos\Ncomo para controlar gente.{\i0}
+Dialogue: 0,0:08:33.95,0:08:35.91,Gen_Main,,0000,0000,0000,,{\i1}Parece que no tengo opción.{\i0}
+Dialogue: 0,0:08:39.67,0:08:42.58,Gen_Main,,0000,0000,0000,,{\i1}Director, habla L.\NComuníqueme con N.{\i0}
+Dialogue: 0,0:08:42.78,0:08:43.75,Gen_Main,,0000,0000,0000,,Correcto.
+Dialogue: 0,0:08:44.15,0:08:47.07,Gen_Main,,0000,0000,0000,,{\i1}N, sin duda conoces\Nnuestra situación actual.{\i0}
+Dialogue: 0,0:08:47.27,0:08:48.57,Gen_Main,,0000,0000,0000,,{\i1}Necesito que me hagas un favor.{\i0}
+Dialogue: 0,0:08:48.77,0:08:52.76,Gen_Main,,0000,0000,0000,,{\i1}Dile a las aerolíneas,\NPolicía y milicia que no tomen ninguna acción aún.{\i0}
+Dialogue: 0,0:08:53.33,0:08:56.57,Gen_Main,,0000,0000,0000,,¿Qué está pensando? Nunca imaginé\Nque sería tan poco confiable.
+Dialogue: 0,0:08:57.50,0:08:59.27,Gen_Main,,0000,0000,0000,,Bien, L, de acuerdo.
+Dialogue: 0,0:08:59.47,0:09:01.27,Gen_Main,,0000,0000,0000,,Ubicaremos el sitio de aterrizaje
+Dialogue: 0,0:09:01.67,0:09:04.43,Gen_Main,,0000,0000,0000,,y los vigilaremos\Nusando las imágenes del satélite.
+Dialogue: 0,0:09:05.17,0:09:08.23,Gen_Main,,0000,0000,0000,,Si podemos hacer más por ti,\Nháznoslo saber.
+Dialogue: 0,0:09:11.37,0:09:12.89,Gen_Main,,0000,0000,0000,,Tengo un mensaje para usted.
+Dialogue: 0,0:09:13.65,0:09:15.35,Gen_Main,,0000,0000,0000,,Póngalo en su oreja.
+Dialogue: 0,0:09:21.19,0:09:24.83,Gen_Main,,0000,0000,0000,,{\i1}Yagami, ahora es el único\Nque puede oír mi voz.{\i0}
+Dialogue: 0,0:09:25.49,0:09:26.79,Gen_Main,,0000,0000,0000,,{\i1}Escuche con atención.{\i0}
+Dialogue: 0,0:09:28.41,0:09:31.46,Gen_Main,,0000,0000,0000,,Soy quien secuestró a su hija,\Npero no me malinterprete.
+Dialogue: 0,0:09:32.73,0:09:37.25,Gen_Main,,0000,0000,0000,,No me interesa la vida de su hija\Nen lo absoluto. O en su caso, la suya.
+Dialogue: 0,0:09:37.71,0:09:40.93,Gen_Main,,0000,0000,0000,,Solo quiero una cosa,\Ny usted sabe qué es.
+Dialogue: 0,0:09:41.49,0:09:43.11,Gen_Main,,0000,0000,0000,,La libreta.
+Dialogue: 0,0:09:44.57,0:09:48.90,Gen_Main,,0000,0000,0000,,{\i1}Solo tiene que seguir\Nmis instrucciones. Si lo hace, nadie morirá.{\i0}
+Dialogue: 0,0:09:49.33,0:09:53.98,Gen_Main,,0000,0000,0000,,{\i1}En cuanto al intercambio,\Npreparé las cosas para que ambos quedemos satisfechos.{\i0}
+Dialogue: 0,0:09:54.63,0:09:56.28,Gen_Main,,0000,0000,0000,,{\i1}Haga lo que le digo\Ny no habrá problemas.{\i0}
+Dialogue: 0,0:09:56.99,0:09:59.59,Gen_Main,,0000,0000,0000,,{\i1}Voy a darle la libreta a un criminal{\i0}
+Dialogue: 0,0:09:59.79,0:10:02.31,Gen_Main,,0000,0000,0000,,{\i1}a cambio de la vida de mi hija.{\i0}
+Dialogue: 0,0:10:03.17,0:10:05.30,Gen_Main,,0000,0000,0000,,{\i1}Cuando llegue el momento,{\i0}
+Dialogue: 0,0:10:06.30,0:10:08.96,Gen_Main,,0000,0000,0000,,{\i1}será lo correcto.{\i0}
+Dialogue: 0,0:10:10.35,0:10:13.62,Gen_Main,,0000,0000,0000,,{\i1}Como oficial de Policía,\Ncomo ser humano{\i0}
+Dialogue: 0,0:10:14.44,0:10:16.14,Gen_Main,,0000,0000,0000,,{\i1}y como padre.{\i0}
+Dialogue: 0,0:10:16.72,0:10:24.72,Cart_A_Tre,,0000,0000,0000,,SI HAS HECHO INTERCAMBIO DE\NOJOS CON EL DIOS DE LA MUERTE, PODRÁS VER\NLO QUE LE RESTA DE VIDA A LAS PERSONAS QUE NO TENGAN\NRELACIÓN CON LA LIBRETA.
+Dialogue: 0,0:10:24.72,0:10:31.65,Cart_A_Tre,,0000,0000,0000,,LOS NOMBRES QUE VERÁS\NA TRAVÉS DEL DIOS DE LA MUERTE SON LOS QUE NECESITAS\NPARA MATAR A UN INDIVIDUO. TAMBIÉN PODRÁS VER\NEL NOMBRE DE LAS PERSONAS QUE NO HAN SIDO DADAS DE ALTA\NEN EL REGISTRO CIVIL
+Dialogue: 0,0:10:57.96,0:11:02.00,Gen_Main,,0000,0000,0000,,L, con el satélite\Nlogramos ubicar el lugar donde aterrizó el avión.
+Dialogue: 0,0:11:02.20,0:11:06.14,Gen_Main,,0000,0000,0000,,Te envío la imagen de lo que\Nestamos viendo nosotros aquí.
+Dialogue: 0,0:11:06.28,0:11:07.30,Gen_Main,,0000,0000,0000,,¡Papá!
+Dialogue: 0,0:11:08.91,0:11:10.48,Gen_Main,,0000,0000,0000,,¿Qué va a suceder?
+Dialogue: 0,0:11:10.68,0:11:13.04,Gen_Main,,0000,0000,0000,,¿Cómo hará el intercambio\Nen semejante sitio?
+Dialogue: 0,0:11:31.31,0:11:34.75,Gen_Main,,0000,0000,0000,,{\i1}Ve la entrada,\N¿no es así, Yagami? Entre.{\i0}
+Dialogue: 0,0:11:34.95,0:11:38.05,Gen_Main,,0000,0000,0000,,-¿Están bajo tierra?\N-Vaya, vaya. Eso es interesante.
+Dialogue: 0,0:11:41.77,0:11:43.98,Gen_Main,,0000,0000,0000,,{\i1}Maldición.\NUna estación subterránea.{\i0}
+Dialogue: 0,0:11:44.18,0:11:46.82,Gen_Main,,0000,0000,0000,,{\i1}El secuestrador sabía\Nque lo vigilaríamos con satélite.{\i0}
+Dialogue: 0,0:11:47.22,0:11:49.29,Gen_Main,,0000,0000,0000,,{\i1}No hay forma de ver a papá.{\i0}
+Dialogue: 0,0:12:13.08,0:12:15.93,Gen_Main,,0000,0000,0000,,{\i1}El cristal es a prueba de balas.{\i0}
+Dialogue: 0,0:12:17.21,0:12:22.63,Gen_Main,,0000,0000,0000,,{\i1}Este lugar era de un sindicato criminal. Solían hacer intercambios como este.{\i0}
+Dialogue: 0,0:12:22.85,0:12:24.97,Gen_Main,,0000,0000,0000,,{\i1}Le hicimos\Nunas pequeñas modificaciones.{\i0}
+Dialogue: 0,0:12:25.14,0:12:27.14,Gen_Main,,0000,0000,0000,,{\i1}Pase la libreta por aquí.{\i0}
+Dialogue: 0,0:12:27.66,0:12:30.98,Gen_Main,,0000,0000,0000,,{\i1}Hecho eso, liberaré el seguro,{\i0}
+Dialogue: 0,0:12:31.22,0:12:34.38,Gen_Main,,0000,0000,0000,,{\i1}daremos un paso atrás\Ny giraremos la puerta.{\i0}
+Dialogue: 0,0:12:34.58,0:12:38.02,Gen_Main,,0000,0000,0000,,{\i1}La libreta quedará de mi lado y la joven, del suyo.{\i0}
+Dialogue: 0,0:12:38.17,0:12:41.94,Gen_Main,,0000,0000,0000,,{\i1}Si no está de acuerdo\Ncon este trueque, le dispararé a su hija por este orificio.{\i0}
+Dialogue: 0,0:12:49.09,0:12:51.50,Gen_Main,,0000,0000,0000,,{\i1}L, ¿tienes un plan?{\i0}
+Dialogue: 0,0:12:51.64,0:12:57.65,Gen_Main,,0000,0000,0000,,No pensarás que entregar la libreta\Na alguien que no conoces es una buena idea, ¿o sí?
+Dialogue: 0,0:12:58.52,0:13:01.02,Gen_Main,,0000,0000,0000,,De acuerdo, Y-462, proceda.
+Dialogue: 0,0:13:01.62,0:13:03.28,Gen_Main,,0000,0000,0000,,Primero, abra la libreta
+Dialogue: 0,0:13:03.48,0:13:06.72,Gen_Main,,0000,0000,0000,,e introduzca la mitad por la rejilla de la puerta\Nde la izquierda.
+Dialogue: 0,0:13:12.69,0:13:15.41,Gen_Main,,0000,0000,0000,,{\i1}Maldición, maldición, maldición.\NUn contratiempo tras otro.{\i0}
+Dialogue: 0,0:13:15.83,0:13:17.69,Gen_Main,,0000,0000,0000,,{\i1}Y acabo de llegar a Norteamérica,{\i0}
+Dialogue: 0,0:13:17.89,0:13:22.05,Gen_Main,,0000,0000,0000,,{\i1}aún no estoy en posición\Nde dar órdenes a la Policía.{\i0}
+Dialogue: 0,0:13:22.60,0:13:25.28,Gen_Main,,0000,0000,0000,,{\i1}De seguir así, la libreta será…{\i0}
+Dialogue: 0,0:13:25.50,0:13:27.10,Gen_Main,,0000,0000,0000,,Light, ¿está todo bien?
+Dialogue: 0,0:13:27.30,0:13:28.90,Gen_Main,,0000,0000,0000,,¿Sucede algo? Luces algo…
+Dialogue: 0,0:13:29.10,0:13:31.70,Gen_Main,,0000,0000,0000,,¡Misa! Cállate\Ny haz lo que te dije, ¿sí?
+Dialogue: 0,0:13:33.64,0:13:37.04,Gen_Main,,0000,0000,0000,,Escucha… necesito que sigas\Nmatando criminales japoneses. Hazlo.
+Dialogue: 0,0:13:37.73,0:13:40.26,Gen_Main,,0000,0000,0000,,Él está investigando a Kira\Ny no se dará por vencido.
+Dialogue: 0,0:13:40.67,0:13:43.81,Gen_Main,,0000,0000,0000,,Si los asesinatos demoran,\Ntendremos problemas, ¿entiendes?
+Dialogue: 0,0:13:44.01,0:13:46.83,Gen_Main,,0000,0000,0000,,De acuerdo.\N¿Pero quién es él?
+Dialogue: 0,0:13:47.01,0:13:48.52,Gen_Main,,0000,0000,0000,,¡Solo hazlo y ya!
+Dialogue: 0,0:13:49.23,0:13:50.86,Gen_Main,,0000,0000,0000,,Desquitándote con ella, ¿eh?
+Dialogue: 0,0:13:58.06,0:13:59.64,Gen_Main,,0000,0000,0000,,{\i1}Todavía puedo lograrlo,{\i0}
+Dialogue: 0,0:14:00.07,0:14:04.32,Gen_Main,,0000,0000,0000,,{\i1}pero, de seguir así,\N¿será mi única opción… matar a Sayu?{\i0}
+Dialogue: 0,0:14:05.47,0:14:07.73,Gen_Main,,0000,0000,0000,,Ahora comprobaré la libreta.
+Dialogue: 0,0:14:07.90,0:14:10.50,Gen_Main,,0000,0000,0000,,¿Comprobarla? ¿Va a matar a alguien?\NNo, no lo permitiré. Es…
+Dialogue: 0,0:14:10.70,0:14:12.05,Gen_Main,,0000,0000,0000,,Oiga, oiga.
+Dialogue: 0,0:14:12.54,0:14:15.04,Gen_Main,,0000,0000,0000,,No podemos hacer el intercambio\Nsin probar que es auténtica.
+Dialogue: 0,0:14:15.96,0:14:18.13,Gen_Main,,0000,0000,0000,,¿Quiere ver a su hija morir?
+Dialogue: 0,0:14:30.94,0:14:32.07,Gen_Main,,0000,0000,0000,,{\i1}No puedo hacerlo.{\i0}
+Dialogue: 0,0:14:32.51,0:14:35.31,Gen_Main,,0000,0000,0000,,{\i1}Solo la Policía sabe de este caso.{\i0}
+Dialogue: 0,0:14:35.51,0:14:37.94,Gen_Main,,0000,0000,0000,,{\i1}Si Sayu muere,\Nno puedo culpar a Kira.{\i0}
+Dialogue: 0,0:14:43.11,0:14:45.11,Gen_Main,,0000,0000,0000,,¿Qué sucede?\N¿Estás bien, Miller?
+Dialogue: 0,0:14:45.64,0:14:49.55,Gen_Main,,0000,0000,0000,,Eso es lo que te sucede\Npor haber robado a mis espaldas.
+Dialogue: 0,0:14:49.74,0:14:53.62,Gen_Main,,0000,0000,0000,,Era un idiota\Nque al fin sirvió para algo.
+Dialogue: 0,0:14:53.76,0:14:56.79,Gen_Main,,0000,0000,0000,,Y-462, el objetivo está muerto.
+Dialogue: 0,0:14:58.53,0:15:00.79,Gen_Main,,0000,0000,0000,,Parece que la libreta es genuina,\Ndespués de todo.
+Dialogue: 0,0:15:01.13,0:15:04.84,Gen_Main,,0000,0000,0000,,Ahora, suéltela.\NHaremos el intercambio por su hija.
+Dialogue: 0,0:15:13.05,0:15:14.86,Gen_Main,,0000,0000,0000,,{\i1}¡Papá! ¡Sayu!{\i0}
+Dialogue: 0,0:15:15.06,0:15:17.47,Gen_Main,,0000,0000,0000,,Vaya. Lo lograron.
+Dialogue: 0,0:15:17.67,0:15:19.73,Gen_Main,,0000,0000,0000,,El sospechoso\Nse dirige a un helicóptero.
+Dialogue: 0,0:15:19.93,0:15:22.79,Gen_Main,,0000,0000,0000,,Según los reportes,\Nes el único medio de transporte.
+Dialogue: 0,0:15:23.47,0:15:27.49,Gen_Main,,0000,0000,0000,,Significa que podemos estar seguros\Nde que el intercambio se llevó a cabo.
+Dialogue: 0,0:15:30.04,0:15:33.99,Gen_Main,,0000,0000,0000,,Ten cuidado. No sabemos\Nqué piensen hacer ahora.
+Dialogue: 0,0:15:34.16,0:15:37.65,Gen_Main,,0000,0000,0000,,N, necesito que vigilen\Nal helicóptero hasta que aterrice.
+Dialogue: 0,0:15:37.99,0:15:40.45,Gen_Main,,0000,0000,0000,,{\i1}No lo pierdan de vista\Nsin importar qué pase.{\i0}
+Dialogue: 0,0:15:41.13,0:15:44.13,Gen_Main,,0000,0000,0000,,Parece que piensas\Nque eso es sencillo.
+Dialogue: 0,0:15:44.33,0:15:46.92,Gen_Main,,0000,0000,0000,,Sin embargo, haremos lo posible.
+Dialogue: 0,0:15:48.75,0:15:51.42,Gen_Main,,0000,0000,0000,,{\i1}Lo lamento,\Npero fuimos engañados.{\i0}
+Dialogue: 0,0:16:05.55,0:16:06.77,Gen_Main,,0000,0000,0000,,{\i1}Un misil.{\i0}
+Dialogue: 0,0:16:08.14,0:16:10.49,Gen_Main,,0000,0000,0000,,No podremos seguir eso\Ncon el radar.
+Dialogue: 0,0:16:10.86,0:16:12.82,Gen_Main,,0000,0000,0000,,{\i1}¿La libreta está en esa cosa?{\i0}
+Dialogue: 0,0:16:20.90,0:16:22.83,Gen_Main,,0000,0000,0000,,El misil fue lanzado.
+Dialogue: 0,0:16:23.83,0:16:26.63,Gen_Main,,0000,0000,0000,,{\i1}¿El misil o el helicóptero?\N¿Cuál de los dos?{\i0}
+Dialogue: 0,0:16:29.29,0:16:31.57,Gen_Main,,0000,0000,0000,,Jefe, sé que estaba observando.
+Dialogue: 0,0:16:31.77,0:16:34.24,Gen_Main,,0000,0000,0000,,Hice lo que pidió,\Ncomo lo planeamos.
+Dialogue: 0,0:16:35.02,0:16:36.94,Gen_Main,,0000,0000,0000,,Sí, lo vi. Buen trabajo.
+Dialogue: 0,0:16:37.14,0:16:40.59,Gen_Main,,0000,0000,0000,,{\i1}Esto borrará\Nmis errores anteriores, ¿cierto?{\i0}
+Dialogue: 0,0:16:40.79,0:16:43.36,Gen_Main,,0000,0000,0000,,Sí. Los borrará todos.
+Dialogue: 0,0:16:43.99,0:16:44.98,Gen_Main,,0000,0000,0000,,Hazlo.
+Dialogue: 0,0:16:50.40,0:16:53.40,Gen_Main,,0000,0000,0000,,-Near… el helicóptero.\N-Lo imaginé.
+Dialogue: 0,0:16:53.60,0:16:56.59,Gen_Main,,0000,0000,0000,,Eso significa\Nque la libreta está en el misil.
+Dialogue: 0,0:16:56.74,0:16:58.61,Gen_Main,,0000,0000,0000,,¡Maldición! No podemos seguirlo.
+Dialogue: 0,0:16:59.14,0:17:01.73,Gen_Main,,0000,0000,0000,,Perdimos la señal.\NPuede estar en cualquier parte.
+Dialogue: 0,0:17:54.50,0:17:57.04,Gen_Main,,0000,0000,0000,,{\i1}No será difícil recuperar el misil{\i0}
+Dialogue: 0,0:17:57.43,0:17:59.84,Gen_Main,,0000,0000,0000,,{\i1}cuando haya caído\Nen un área desolada.{\i0}
+Dialogue: 0,0:18:00.54,0:18:03.22,Gen_Main,,0000,0000,0000,,{\i1}Obtendrá la libreta\Nen cualquier momento.{\i0}
+Dialogue: 0,0:18:04.22,0:18:08.80,Gen_Main,,0000,0000,0000,,{\i1}Y cuando lo haga, tengo una buena idea\Nde qué pasará a continuación.{\i0}
+Dialogue: 0,0:19:14.90,0:19:15.92,Gen_Main,,0000,0000,0000,,{\i1}L.{\i0}
+Dialogue: 0,0:19:20.07,0:19:21.09,Gen_Main,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:19:21.29,0:19:22.57,Gen_Main,,0000,0000,0000,,{\i1}Nos atrapó.{\i0}
+Dialogue: 0,0:19:22.97,0:19:25.18,Gen_Main,,0000,0000,0000,,-¿Atrapó?\N-{\i1}Sí.{\i0}
+Dialogue: 0,0:19:25.74,0:19:30.18,Gen_Main,,0000,0000,0000,,{\i1}La mayoría de los miembros de la GEK\Nfueron asesinados con la libreta.{\i0}
+Dialogue: 0,0:19:32.83,0:19:39.03,Gen_Main,,0000,0000,0000,,L, tú fuiste quien entregó la libreta sin luchar. Tú y tu gente no pudieron hacer nada.
+Dialogue: 0,0:19:39.40,0:19:44.57,Gen_Main,,0000,0000,0000,,N, ¿estás diciendo\Nque si hubieras estado a cargo, no la habrías entregado?
+Dialogue: 0,0:19:44.77,0:19:50.18,Gen_Main,,0000,0000,0000,,No. Considerando su preparación,\Nhabría sido imposible evitar esto.
+Dialogue: 0,0:19:50.38,0:19:53.08,Gen_Main,,0000,0000,0000,,No tiene caso que peleemos.
+Dialogue: 0,0:19:53.79,0:19:57.65,Gen_Main,,0000,0000,0000,,{\i1}Propongo que trabajemos juntos, compartiendo\Nla información que tenemos.{\i0}
+Dialogue: 0,0:19:58.09,0:20:02.72,Gen_Main,,0000,0000,0000,,Empezaré por admitir\Nque creo saber quién podría ser el responsable de esto.
+Dialogue: 0,0:20:04.11,0:20:07.67,Gen_Main,,0000,0000,0000,,{\i1}Sospecho que la persona\Nque planeó el secuestro y el intercambio{\i0}
+Dialogue: 0,0:20:07.87,0:20:09.17,Gen_Main,,0000,0000,0000,,se llama… Mello.
+Dialogue: 0,0:20:09.37,0:20:11.73,Gen_Main,,0000,0000,0000,,¿Mello? ¿Quién es él?
+Dialogue: 0,0:20:12.28,0:20:15.39,Gen_Main,,0000,0000,0000,,No tengo su fotografía\Ny no sé su verdadero nombre.
+Dialogue: 0,0:20:15.59,0:20:19.83,Gen_Main,,0000,0000,0000,,Solo sé que hasta hace cuatro años,\Nvivía en un orfanato en Winchester, Inglaterra,
+Dialogue: 0,0:20:20.03,0:20:23.61,Gen_Main,,0000,0000,0000,,conocido como "La casa de Wammy".
+Dialogue: 0,0:20:23.81,0:20:25.49,Gen_Main,,0000,0000,0000,,{\i1}¿"La casa de Wammy"?{\i0}
+Dialogue: 0,0:20:25.69,0:20:27.61,Gen_Main,,0000,0000,0000,,{\i1}Es el lugar que fundó Watari.{\i0}
+Dialogue: 0,0:20:28.26,0:20:31.54,Gen_Main,,0000,0000,0000,,Creo que Mello\Nestá jugando conmigo.
+Dialogue: 0,0:20:31.74,0:20:35.71,Gen_Main,,0000,0000,0000,,Quiere ver quién de los dos\Nacabará con Kira. El reto final.
+Dialogue: 0,0:20:47.55,0:20:49.33,Gen_Main,,0000,0000,0000,,¿Armo Justin?
+Dialogue: 0,0:20:50.74,0:20:52.82,Gen_Main,,0000,0000,0000,,Es Armonia Justin.
+Dialogue: 0,0:20:53.34,0:20:58.40,Gen_Main,,0000,0000,0000,,Tengo un pequeño problema. Fui con el rey\Npara reportar que perdí mi libreta,
+Dialogue: 0,0:20:58.60,0:21:00.49,Gen_Main,,0000,0000,0000,,pero cuando la describí,
+Dialogue: 0,0:21:00.65,0:21:05.60,Gen_Main,,0000,0000,0000,,el viejo dijo que Ryuk le había dicho\Nque la libreta era suya y que la había dejado caer.
+Dialogue: 0,0:21:06.97,0:21:09.50,Gen_Main,,0000,0000,0000,,¿Qué debo hacer para recuperarla?
+Dialogue: 0,0:21:09.70,0:21:13.78,Gen_Main,,0000,0000,0000,,No tienes más opción que encontrar\Na Ryuk y preguntarle tú mismo.
+Dialogue: 0,0:21:14.23,0:21:16.31,Gen_Main,,0000,0000,0000,,Sí, eso pensé.
+Dialogue: 0,0:21:16.79,0:21:20.78,Gen_Main,,0000,0000,0000,,¿Entonces tengo que ir\Nal… mundo humano?
+Dialogue: 0,0:21:21.32,0:21:24.25,Gen_Main,,0000,0000,0000,,Sí, así es. Diviértete.
+Dialogue: 0,0:21:24.45,0:21:25.86,Gen_Main,,0000,0000,0000,,Eso apesta.
+Dialogue: 0,0:21:26.63,0:21:30.81,Cart_A_Tre,,0000,0000,0000,,{\an8}CONTINUARÁ
+Dialogue: 0,0:22:40.75,0:22:42.67,Cart_A_Tre,,0000,0000,0000,,AVANCE
+Dialogue: 0,0:22:41.25,0:22:42.67,Gen_Main,,0000,0000,0000,,Cálmense y escúchenme.
+Dialogue: 0,0:22:43.16,0:22:46.04,Gen_Main,,0000,0000,0000,,El 10 de noviembre a las 23:59,
+Dialogue: 0,0:22:46.26,0:22:48.00,Gen_Main,,0000,0000,0000,,toda la mafia morirá.
+Dialogue: 0,0:22:48.47,0:22:52.57,Gen_Main,,0000,0000,0000,,Es su última oportunidad\Npara devolvernos el cuaderno.
+Dialogue: 0,0:22:53.10,0:22:55.72,Cart_A_Tre,,0000,0000,0000,,PADRE
+

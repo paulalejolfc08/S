@@ -1,0 +1,381 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0060,0110,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:26.70,0:01:30.61,Gen_Main,,0000,0000,0000,,{\i1}Cuando estés convencida\Nde que lo soy, tú y yo nos casaremos.{\i0}
+Dialogue: 0,0:01:31.79,0:01:33.61,Gen_Main,,0000,0000,0000,,Así que…
+Dialogue: 0,0:01:33.95,0:01:35.57,Gen_Main,,0000,0000,0000,,Higuchi es Kira.
+Dialogue: 0,0:01:35.57,0:01:38.57,Cart_A_Tre,,0000,0000,0000,,GUÍA
+Dialogue: 0,0:01:50.06,0:01:51.97,Gen_Main,,0000,0000,0000,,{\i1}Si los criminales dejan de morir,{\i0}
+Dialogue: 0,0:01:52.17,0:01:55.69,Gen_Main,,0000,0000,0000,,{\i1}no habrá duda de que Higuchi\Ntiene los poderes de Kira.{\i0}
+Dialogue: 0,0:01:56.59,0:01:57.88,Gen_Main,,0000,0000,0000,,{\i1}Sin embargo,{\i0}
+Dialogue: 0,0:01:58.08,0:02:02.85,Gen_Main,,0000,0000,0000,,{\i1}sé que Amane\Nharía cualquier cosa por Light,{\i0}
+Dialogue: 0,0:02:03.05,0:02:05.06,Gen_Main,,0000,0000,0000,,{\i1}pero pensar que iría tan lejos…{\i0}
+Dialogue: 0,0:02:05.47,0:02:07.73,Gen_Main,,0000,0000,0000,,{\i1}Si los criminales no mueren,{\i0}
+Dialogue: 0,0:02:08.03,0:02:11.52,Gen_Main,,0000,0000,0000,,{\i1}será difícil determinar\Nsus asesinatos.{\i0}
+Dialogue: 0,0:02:11.88,0:02:14.21,Gen_Main,,0000,0000,0000,,{\i1}Tengo que idear un plan.{\i0}
+Dialogue: 0,0:02:15.16,0:02:18.53,Gen_Main,,0000,0000,0000,,Misa, ¿cómo lograste\Nque Higuchi confesara?
+Dialogue: 0,0:02:18.73,0:02:21.43,Gen_Main,,0000,0000,0000,,Fácil. Está enamorado de mí.
+Dialogue: 0,0:02:21.63,0:02:24.09,Gen_Main,,0000,0000,0000,,Solo le dije que me casaría\Ncon él si es Kira.
+Dialogue: 0,0:02:24.29,0:02:27.96,Gen_Main,,0000,0000,0000,,Además, lo convencí\Nde que yo soy el segundo Kira.
+Dialogue: 0,0:02:28.54,0:02:32.71,Gen_Main,,0000,0000,0000,,{\i1}Si no lo digo ahora, tal vez\Ncontradiga mi historia después.{\i0}
+Dialogue: 0,0:02:33.07,0:02:36.59,Gen_Main,,0000,0000,0000,,¡Misa, qué estupidez!\N¡Te dije que negaras eso!
+Dialogue: 0,0:02:36.74,0:02:39.77,Gen_Main,,0000,0000,0000,,Pero ahora sabemos\Nque Higuchi es Kira, ¿cierto?
+Dialogue: 0,0:02:39.97,0:02:42.01,Gen_Main,,0000,0000,0000,,¿No podemos atraparlo?
+Dialogue: 0,0:02:42.67,0:02:46.10,Gen_Main,,0000,0000,0000,,Es lo que llamarías una victoria,\NMatsuda.
+Dialogue: 0,0:02:47.26,0:02:49.09,Gen_Main,,0000,0000,0000,,Pero aún no sabemos
+Dialogue: 0,0:02:49.29,0:02:51.22,Gen_Main,,0000,0000,0000,,cómo asesina\Na sus víctimas, ¿o sí?
+Dialogue: 0,0:02:51.59,0:02:53.35,Gen_Main,,0000,0000,0000,,Es lo que estaba pensando.
+Dialogue: 0,0:02:53.55,0:02:55.61,Gen_Main,,0000,0000,0000,,Antes de arrestar a Higuchi…
+Dialogue: 0,0:02:56.03,0:02:58.49,Gen_Main,,0000,0000,0000,,quiero\Nsaber cómo mata a las personas.
+Dialogue: 0,0:02:58.62,0:03:01.21,Gen_Main,,0000,0000,0000,,Si los criminales dejan\Nde morir, no podremos
+Dialogue: 0,0:03:01.22,0:03:03.66,Gen_Main,,0000,0000,0000,,saberlo. Necesitamos\Notra idea, ¿correcto?
+Dialogue: 0,0:03:04.60,0:03:07.62,Gen_Main,,0000,0000,0000,,Sí. En cualquier caso,\Nincluso si arrestamos a Higuchi
+Dialogue: 0,0:03:07.82,0:03:10.93,Gen_Main,,0000,0000,0000,,será hasta estar seguros\Nde que los criminales dejan de morir.
+Dialogue: 0,0:03:11.94,0:03:13.83,Gen_Main,,0000,0000,0000,,Déjenme pensarlo un momento.
+Dialogue: 0,0:03:15.90,0:03:16.71,Gen_Main,,0000,0000,0000,,Wedy…
+Dialogue: 0,0:03:17.25,0:03:20.06,Gen_Main,,0000,0000,0000,,-{\i1}¿Sí?{\i0}\N-Reporte de la situación actual, por favor.
+Dialogue: 0,0:03:20.26,0:03:24.05,Gen_Main,,0000,0000,0000,,{\i1}Todo va muy bien. Podremos\Nseguir el 70% de sus movimientos{\i0}
+Dialogue: 0,0:03:24.25,0:03:27.02,Gen_Main,,0000,0000,0000,,con las cámaras, dentro del edificio.
+Dialogue: 0,0:03:27.22,0:03:28.93,Gen_Main,,0000,0000,0000,,¿Y afuera de las oficinas?
+Dialogue: 0,0:03:29.13,0:03:31.89,Gen_Main,,0000,0000,0000,,Será imposible\Nsi solo somos Watari y yo.
+Dialogue: 0,0:03:32.33,0:03:34.63,Gen_Main,,0000,0000,0000,,¿Si solo te enfocas en Higuchi?
+Dialogue: 0,0:03:34.83,0:03:35.86,Gen_Main,,0000,0000,0000,,¿Higuchi?
+Dialogue: 0,0:03:36.21,0:03:39.30,Gen_Main,,0000,0000,0000,,Hasta el momento, he logrado entrar\Nal hogar de cinco de los miembros.
+Dialogue: 0,0:03:39.50,0:03:44.23,Gen_Main,,0000,0000,0000,,Pero Mido, Namikawa y Higuchi\Ntienen sistemas de alta seguridad.
+Dialogue: 0,0:03:44.43,0:03:45.62,Gen_Main,,0000,0000,0000,,En especial Higuchi.
+Dialogue: 0,0:03:45.93,0:03:49.06,Gen_Main,,0000,0000,0000,,Construyó uno especial\Nque bloquea todas las señales.
+Dialogue: 0,0:03:49.26,0:03:52.12,Gen_Main,,0000,0000,0000,,Me tomó dos días\Nsolo entrar en el lugar.
+Dialogue: 0,0:03:52.32,0:03:54.71,Gen_Main,,0000,0000,0000,,El sujeto\Nsí que parece sospechoso.
+Dialogue: 0,0:03:55.58,0:03:56.61,Gen_Main,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:03:56.81,0:04:00.18,Gen_Main,,0000,0000,0000,,Comienza a instalar micrófonos,\Nrastreadores y cámaras.
+Dialogue: 0,0:04:00.38,0:04:02.89,Gen_Main,,0000,0000,0000,,En cambio,\Nponlos en cada automóvil.
+Dialogue: 0,0:04:03.09,0:04:05.01,Gen_Main,,0000,0000,0000,,{\i1}¿Qué?\N¿Tras haber llegado hasta aquí?{\i0}
+Dialogue: 0,0:04:05.21,0:04:08.10,Gen_Main,,0000,0000,0000,,{\i1}¿Sabes lo difícil que es entrar\Na la casa de alguien?{\i0}
+Dialogue: 0,0:04:08.33,0:04:10.99,Gen_Main,,0000,0000,0000,,{\i1}Además, ¿sabes cuántos\Nautomóviles tiene este sujeto?{\i0}
+Dialogue: 0,0:04:11.19,0:04:12.23,Gen_Main,,0000,0000,0000,,Sí, tiene seis.
+Dialogue: 0,0:04:13.50,0:04:16.98,Gen_Main,,0000,0000,0000,,{\i1}Está bien. Tendré que instalarlos\Nen todos sus autos, ¿cierto?{\i0}
+Dialogue: 0,0:04:18.23,0:04:19.60,Gen_Main,,0000,0000,0000,,Sí, gracias.
+Dialogue: 0,0:04:22.13,0:04:25.60,Gen_Main,,0000,0000,0000,,{\i1}Si hubieran monitoreado\Na Higuchi antes, tendría grandes problemas.{\i0}
+Dialogue: 0,0:04:30.43,0:04:33.58,Gen_Main,,0000,0000,0000,,{\i1}Light… lamento insistir tanto\Nen este tema.{\i0}
+Dialogue: 0,0:04:34.57,0:04:36.79,Gen_Main,,0000,0000,0000,,{\i1}Seré directo.{\i0}
+Dialogue: 0,0:04:36.99,0:04:38.00,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:04:38.65,0:04:41.88,Gen_Main,,0000,0000,0000,,¿Recuerdas haber…\Nmatado a alguien?
+Dialogue: 0,0:04:44.44,0:04:46.26,Gen_Main,,0000,0000,0000,,¿Todavía sigues con eso?
+Dialogue: 0,0:04:46.46,0:04:48.44,Gen_Main,,0000,0000,0000,,¡No soy Kira!\N¿Cuántas veces tengo que…?
+Dialogue: 0,0:04:48.60,0:04:50.68,Gen_Main,,0000,0000,0000,,Solo quiero que contestes\Nla pregunta.
+Dialogue: 0,0:04:51.35,0:04:53.11,Gen_Main,,0000,0000,0000,,¿Y bien? ¿Lo recuerdas?
+Dialogue: 0,0:04:54.87,0:04:56.19,Gen_Main,,0000,0000,0000,,No, no lo recuerdo.
+Dialogue: 0,0:04:56.39,0:04:57.81,Gen_Main,,0000,0000,0000,,Misa, ¿qué hay de ti?
+Dialogue: 0,0:04:58.01,0:05:01.20,Gen_Main,,0000,0000,0000,,No lo recuerdo. ¿Cómo podría?\NPorque no soy Kira.
+Dialogue: 0,0:05:02.74,0:05:05.74,Gen_Main,,0000,0000,0000,,Mira, Light…\Nescucha lo que voy a decir.
+Dialogue: 0,0:05:06.68,0:05:09.73,Gen_Main,,0000,0000,0000,,Quiero que analices\Ndetenidamente mi teoría.
+Dialogue: 0,0:05:10.21,0:05:14.17,Gen_Main,,0000,0000,0000,,Podría determinar\Ncómo vamos a atrapar a Kira.
+Dialogue: 0,0:05:16.41,0:05:18.40,Gen_Main,,0000,0000,0000,,Light Yagami solía ser Kira.
+Dialogue: 0,0:05:19.05,0:05:21.96,Gen_Main,,0000,0000,0000,,El poder de Kira de alguna forma\Npasó a manos de otra persona.
+Dialogue: 0,0:05:22.47,0:05:26.51,Gen_Main,,0000,0000,0000,,Ahora Light Yagami no tiene\Nrecuerdos de haber sido Kira.
+Dialogue: 0,0:05:26.87,0:05:29.14,Gen_Main,,0000,0000,0000,,Necesito tu análisis\Nbasado en esta premisa.
+Dialogue: 0,0:05:29.34,0:05:31.92,Gen_Main,,0000,0000,0000,,¿Puedes hacerlo para mí?
+Dialogue: 0,0:05:32.33,0:05:34.18,Gen_Main,,0000,0000,0000,,Sí, lo intentaré.
+Dialogue: 0,0:05:37.14,0:05:39.02,Gen_Main,,0000,0000,0000,,{\i1}Light Yagami solía ser Kira.{\i0}
+Dialogue: 0,0:05:39.22,0:05:41.59,Gen_Main,,0000,0000,0000,,{\i1}El poder de Kira de alguna forma\Npasó a manos de otra persona.{\i0}
+Dialogue: 0,0:05:42.07,0:05:44.90,Gen_Main,,0000,0000,0000,,{\i1}¿Fue porque Light Yagami\Nquería que así sucediera?{\i0}
+Dialogue: 0,0:05:45.44,0:05:47.32,Gen_Main,,0000,0000,0000,,{\i1}¿O había alguien más\Nque controlaba a Light,{\i0}
+Dialogue: 0,0:05:47.34,0:05:49.37,Gen_Main,,0000,0000,0000,,{\i1}escondido detrás, que\Nfue quien le dio el poder?{\i0}
+Dialogue: 0,0:05:49.50,0:05:53.24,Gen_Main,,0000,0000,0000,,{\i1}¿Fue esa persona la que le pasó\Nel poder de Light a alguien más?{\i0}
+Dialogue: 0,0:06:06.69,0:06:09.64,Gen_Main,,0000,0000,0000,,Dada tu premisa…\Nhabría sido yo.
+Dialogue: 0,0:06:13.64,0:06:15.02,Gen_Main,,0000,0000,0000,,Sí, por supuesto.
+Dialogue: 0,0:06:15.66,0:06:17.87,Gen_Main,,0000,0000,0000,,Si existiera una tercera\Npersona con la capacidad
+Dialogue: 0,0:06:17.88,0:06:19.75,Gen_Main,,0000,0000,0000,,de otorgar y transferir\Nel poder de Kira,
+Dialogue: 0,0:06:19.95,0:06:22.11,Gen_Main,,0000,0000,0000,,y no quisiera que su método\Nfuera descubierto,
+Dialogue: 0,0:06:22.55,0:06:24.27,Gen_Main,,0000,0000,0000,,No tiene sentido que\Nesperara tanto para
+Dialogue: 0,0:06:24.28,0:06:26.19,Gen_Main,,0000,0000,0000,,transferir el poder\Nde ti al siguiente Kira.
+Dialogue: 0,0:06:28.46,0:06:31.89,Gen_Main,,0000,0000,0000,,Si creemos que es obra\Nde un ser superior,
+Dialogue: 0,0:06:32.09,0:06:34.66,Gen_Main,,0000,0000,0000,,entonces debemos aceptar\Nque es imposible de atrapar.
+Dialogue: 0,0:06:35.05,0:06:37.49,Gen_Main,,0000,0000,0000,,Sin mencionar\Nque ya estaría muerto,
+Dialogue: 0,0:06:37.69,0:06:40.13,Gen_Main,,0000,0000,0000,,o que al menos soy\Nridiculizado bailando como
+Dialogue: 0,0:06:40.15,0:06:42.72,Gen_Main,,0000,0000,0000,,un títere en la palma de\Nla mano de alguien más.
+Dialogue: 0,0:06:43.08,0:06:46.00,Gen_Main,,0000,0000,0000,,Es muy improbable\Nque un ser así exista.
+Dialogue: 0,0:06:47.74,0:06:50.70,Gen_Main,,0000,0000,0000,,Aun si Light Yagami fue Kira…
+Dialogue: 0,0:06:52.25,0:06:56.89,Gen_Main,,0000,0000,0000,,el poder de Kira solo puede ser transferido\Npor la voluntad de quien lo posee.
+Dialogue: 0,0:06:57.62,0:07:01.90,Gen_Main,,0000,0000,0000,,Gracias, Light.\NAhora me siento 99% mejor.
+Dialogue: 0,0:07:12.69,0:07:16.58,Gen_Main,,0000,0000,0000,,Crearemos una situación donde Higuchi\Nno pueda transferir su poder a nadie más.
+Dialogue: 0,0:07:17.15,0:07:19.00,Gen_Main,,0000,0000,0000,,Nos mostrará cómo asesina.
+Dialogue: 0,0:07:19.24,0:07:20.38,Gen_Main,,0000,0000,0000,,¿Qué es lo que harás?
+Dialogue: 0,0:07:20.90,0:07:23.39,Gen_Main,,0000,0000,0000,,Engañaré a Higuchi,\Nusando a la televisora de Sakura.
+Dialogue: 0,0:07:23.59,0:07:25.88,Gen_Main,,0000,0000,0000,,-¡Como en {\i1}Cámara escondida{\i0}!\N-¿Qué?
+Dialogue: 0,0:07:26.41,0:07:29.72,Gen_Main,,0000,0000,0000,,Usaremos el especial de Kira que\NDemegawa transmite cada semana.
+Dialogue: 0,0:07:29.95,0:07:31.84,Gen_Main,,0000,0000,0000,,Una emisión de tres horas.
+Dialogue: 0,0:07:32.14,0:07:36.36,Gen_Main,,0000,0000,0000,,Anunciaremos que la identidad de Kira\Nserá revelada al final del especial.
+Dialogue: 0,0:07:36.81,0:07:40.73,Gen_Main,,0000,0000,0000,,¿Alguien va a creerlo? Hablamos\Nde la televisora de Sakura.
+Dialogue: 0,0:07:40.93,0:07:44.31,Gen_Main,,0000,0000,0000,,Es probable que Higuchi\Nno vea ese programa.
+Dialogue: 0,0:07:44.73,0:07:46.73,Gen_Main,,0000,0000,0000,,Haremos que Namikawa\Nle llame y diga:
+Dialogue: 0,0:07:47.03,0:07:49.32,Gen_Main,,0000,0000,0000,,"Está mal. Enciende el televisor".
+Dialogue: 0,0:07:49.77,0:07:51.50,Gen_Main,,0000,0000,0000,,Eso hará que lo vea.
+Dialogue: 0,0:07:52.10,0:07:54.76,Gen_Main,,0000,0000,0000,,Higuchi lo creerá una\Nvez que se dé cuenta de
+Dialogue: 0,0:07:54.77,0:07:57.62,Gen_Main,,0000,0000,0000,,que el invitado es alguien\Nque conoce su secreto.
+Dialogue: 0,0:07:57.82,0:08:00.16,Gen_Main,,0000,0000,0000,,Ya entiendo.\NAsí que usaremos a Aiber.
+Dialogue: 0,0:08:00.54,0:08:03.21,Gen_Main,,0000,0000,0000,,Revelará que actuaba\Ncomo un espía.
+Dialogue: 0,0:08:03.87,0:08:07.64,Gen_Main,,0000,0000,0000,,No, temo que te equivocas.\NNo usaremos a Aiber.
+Dialogue: 0,0:08:09.16,0:08:12.20,Gen_Main,,0000,0000,0000,,Quien aparezca en el programa…
+Dialogue: 0,0:08:12.68,0:08:15.66,Gen_Main,,0000,0000,0000,,debe ser alguien a quien Higuchi\Ncrea que puede matar.
+Dialogue: 0,0:08:16.71,0:08:19.25,Gen_Main,,0000,0000,0000,,En otras palabras,\Nalguien cuyo nombre…
+Dialogue: 0,0:08:19.45,0:08:21.64,Gen_Main,,0000,0000,0000,,averigüe fácilmente.
+Dialogue: 0,0:08:21.87,0:08:24.76,Gen_Main,,0000,0000,0000,,Pero no encontraremos\Na esa persona, ¿o sí?
+Dialogue: 0,0:08:26.34,0:08:28.78,Gen_Main,,0000,0000,0000,,-Eres el único que puede hacerlo.\N-¡Matsu!
+Dialogue: 0,0:08:28.98,0:08:30.23,Gen_Main,,0000,0000,0000,,Matsuda.
+Dialogue: 0,0:08:30.43,0:08:34.36,Gen_Main,,0000,0000,0000,,Higuchi cree que escuchaste\Nsu conversación acerca de matar a personas.
+Dialogue: 0,0:08:34.53,0:08:38.40,Gen_Main,,0000,0000,0000,,Tiene sentido que el representante de Misa,\Nsupuestamente muerto, revele su secreto.
+Dialogue: 0,0:08:38.94,0:08:39.82,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:08:40.02,0:08:42.24,Gen_Main,,0000,0000,0000,,Haremos que la\Ntelevisora use un filtro de
+Dialogue: 0,0:08:42.26,0:08:44.71,Gen_Main,,0000,0000,0000,,voz y una pantalla para\Nproteger tu identidad.
+Dialogue: 0,0:08:45.55,0:08:49.69,Gen_Main,,0000,0000,0000,,Higuchi pensará, por la silueta,\Nque es el representante, Taro Matsui.
+Dialogue: 0,0:08:50.60,0:08:53.08,Gen_Main,,0000,0000,0000,,Para asegurarnos, el\Nestudio accidentalmente
+Dialogue: 0,0:08:53.10,0:08:55.38,Gen_Main,,0000,0000,0000,,revelará tu rostro,\Ntirando la pantalla.
+Dialogue: 0,0:08:56.55,0:08:58.54,Gen_Main,,0000,0000,0000,,Suena emocionante.
+Dialogue: 0,0:08:58.74,0:09:00.54,Gen_Main,,0000,0000,0000,,En el transcurso del programa,
+Dialogue: 0,0:09:00.74,0:09:02.05,Gen_Main,,0000,0000,0000,,el anunciador dirá\Nque se revelará la
+Dialogue: 0,0:09:02.06,0:09:03.64,Gen_Main,,0000,0000,0000,,identidad de la persona\Nque actúa como Kira.
+Dialogue: 0,0:09:03.97,0:09:06.52,Gen_Main,,0000,0000,0000,,Higuchi se sentirá acorralado.\NTendrá que averiguar
+Dialogue: 0,0:09:06.54,0:09:09.06,Gen_Main,,0000,0000,0000,,el nombre del representante\Nlo más pronto posible.
+Dialogue: 0,0:09:09.49,0:09:11.78,Gen_Main,,0000,0000,0000,,Anticiparemos\Nqué acciones tomará.
+Dialogue: 0,0:09:12.03,0:09:13.93,Gen_Main,,0000,0000,0000,,Veremos su método para matar.
+Dialogue: 0,0:09:14.13,0:09:15.86,Gen_Main,,0000,0000,0000,,Después, lo arrestaremos.
+Dialogue: 0,0:09:18.15,0:09:20.82,Gen_Main,,0000,0000,0000,,Hay un problema\Npotencial con este plan.
+Dialogue: 0,0:09:21.49,0:09:23.91,Gen_Main,,0000,0000,0000,,Si Higuchi puede matar con solo\Nver el rostro,
+Dialogue: 0,0:09:24.11,0:09:26.44,Gen_Main,,0000,0000,0000,,como el segundo Kira…
+Dialogue: 0,0:09:27.28,0:09:29.01,Gen_Main,,0000,0000,0000,,Matsuda morirá.
+Dialogue: 0,0:09:29.97,0:09:32.93,Gen_Main,,0000,0000,0000,,Pero considerando el hecho\Nde que estás vivo
+Dialogue: 0,0:09:33.13,0:09:36.09,Gen_Main,,0000,0000,0000,,y cómo busca a Misa,\Ndudo que sea el caso.
+Dialogue: 0,0:09:36.44,0:09:39.61,Gen_Main,,0000,0000,0000,,Como sea, lo haremos hasta\Nque los criminales dejen de morir.
+Dialogue: 0,0:09:39.81,0:09:42.93,Gen_Main,,0000,0000,0000,,Debemos esperar unos días\Ny ver si eso sucede.
+Dialogue: 0,0:09:43.13,0:09:47.42,Gen_Main,,0000,0000,0000,,Mientras tanto, Matsuda decidirá\Nsi está dispuesto a aceptar el plan.
+Dialogue: 0,0:09:54.55,0:09:56.72,Gen_Main,,0000,0000,0000,,No necesito unos días\Npara decidirlo.
+Dialogue: 0,0:09:58.03,0:09:59.58,Gen_Main,,0000,0000,0000,,Quiero hacerlo.
+Dialogue: 0,0:09:59.91,0:10:03.69,Cart_A_Tre,,0000,0000,0000,,EL DIOS DE LA MUERTE DESAPARECERÁ, PERO EL\NDEATH NOTE SEGUIRÁ EXISTIENDO. LE PERTENECERÁ AL
+Dialogue: 0,0:10:03.70,0:10:07.87,Cart_A_Tre,,0000,0000,0000,,SIGUIENTE DIOS DE LA MUERTE QUE LO TOQUE. PERO LO\NMÁS SENSATO ES QUE SEA DEVUELTA AL DIOS SUPREMO.
+Dialogue: 0,0:10:07.87,0:10:11.62,Cart_A_Tre,,0000,0000,0000,,SOLO TOCANDO EL DEATH\NNOTE DE OTRO DUEÑO PODRÁS
+Dialogue: 0,0:10:11.63,0:10:15.88,Cart_A_Tre,,0000,0000,0000,,RECONOCER LA VOZ Y LA\NFORMA DE SU DIOS DE LA MUERTE.
+Dialogue: 0,0:10:25.23,0:10:27.44,Gen_Main,,0000,0000,0000,,Ya estoy aquí,\N¿para qué esta reunión privada?
+Dialogue: 0,0:10:28.41,0:10:31.40,Gen_Main,,0000,0000,0000,,Namikawa,\Ndime quién crees que sea Kira.
+Dialogue: 0,0:10:32.81,0:10:34.57,Gen_Main,,0000,0000,0000,,¿Por qué quieres saber lo que creo?
+Dialogue: 0,0:10:34.77,0:10:37.74,Gen_Main,,0000,0000,0000,,Además, por lo que sé,\Npodrías ser tú, Shimura.
+Dialogue: 0,0:10:37.94,0:10:39.95,Gen_Main,,0000,0000,0000,,O tal vez incluso Mido.
+Dialogue: 0,0:10:40.15,0:10:41.99,Gen_Main,,0000,0000,0000,,Shimura no puede ser Kira.
+Dialogue: 0,0:10:42.26,0:10:46.37,Gen_Main,,0000,0000,0000,,Él fue quien llegó llorando diciendo\Nque ya no soporta más crímenes de Kira.
+Dialogue: 0,0:10:46.57,0:10:50.25,Gen_Main,,0000,0000,0000,,¿En serio? Pero si Mido fuera Kira,\Nte habría matado.
+Dialogue: 0,0:10:50.45,0:10:54.43,Gen_Main,,0000,0000,0000,,No. Tú y Mido\Ntienen éxito por sí mismos.
+Dialogue: 0,0:10:54.63,0:10:58.12,Gen_Main,,0000,0000,0000,,No hay razón por la que ambos\Nquieran esas estúpidas reuniones.
+Dialogue: 0,0:10:58.60,0:11:00.47,Gen_Main,,0000,0000,0000,,Y menos con otros siete,\Nde eso estoy seguro.
+Dialogue: 0,0:11:00.67,0:11:04.46,Gen_Main,,0000,0000,0000,,Cooperamos con estas muertes\Npor temor a que Kira nos ejecute.
+Dialogue: 0,0:11:04.76,0:11:08.71,Gen_Main,,0000,0000,0000,,Es solo cuestión de tiempo\Nque el público lo averigüe.
+Dialogue: 0,0:11:08.91,0:11:12.25,Gen_Main,,0000,0000,0000,,Y esto no parará\Nhasta que eso suceda.
+Dialogue: 0,0:11:13.05,0:11:17.32,Gen_Main,,0000,0000,0000,,Bueno, Shimura, ahora te pregunto\Nyo. ¿Quién crees que pueda ser Kira?
+Dialogue: 0,0:11:18.53,0:11:20.36,Gen_Main,,0000,0000,0000,,Takahashi o Higuchi.
+Dialogue: 0,0:11:20.51,0:11:22.80,Gen_Main,,0000,0000,0000,,No. Takahashi es un señuelo.
+Dialogue: 0,0:11:23.46,0:11:26.37,Gen_Main,,0000,0000,0000,,Kira quiere a gente\Nmenos inteligente que él.
+Dialogue: 0,0:11:27.57,0:11:29.82,Gen_Main,,0000,0000,0000,,Parece que todos\Nsabemos la verdad.
+Dialogue: 0,0:11:30.82,0:11:32.21,Gen_Main,,0000,0000,0000,,Es Higuchi, ¿no es así?
+Dialogue: 0,0:11:32.63,0:11:36.63,Gen_Main,,0000,0000,0000,,Sí. Es el más obsesionado\Ncon el dinero y el éxito.
+Dialogue: 0,0:11:37.53,0:11:40.29,Gen_Main,,0000,0000,0000,,Siempre actúa como si\Nno le interesaran esas cosas,
+Dialogue: 0,0:11:40.49,0:11:42.70,Gen_Main,,0000,0000,0000,,pero eso lo prueba aun más.
+Dialogue: 0,0:11:42.90,0:11:46.64,Gen_Main,,0000,0000,0000,,Siempre insulta a quien está con él\Ny no sabe manejar a su personal.
+Dialogue: 0,0:11:47.00,0:11:50.77,Gen_Main,,0000,0000,0000,,Por eso no logró ser jefe\Ndel departamento de desarrollo.
+Dialogue: 0,0:11:51.01,0:11:54.18,Gen_Main,,0000,0000,0000,,Por cierto, ¿acaso fui al único\Nal que invitaron aquí?
+Dialogue: 0,0:11:54.38,0:11:56.57,Gen_Main,,0000,0000,0000,,También invité a Ooi,
+Dialogue: 0,0:11:56.89,0:12:00.65,Gen_Main,,0000,0000,0000,,pero dijo que no estaba interesado\Nen estúpidas reuniones privadas.
+Dialogue: 0,0:12:01.94,0:12:03.71,Gen_Main,,0000,0000,0000,,El viejo Ooi, siempre tan franco.
+Dialogue: 0,0:12:03.91,0:12:06.83,Gen_Main,,0000,0000,0000,,Tampoco contamos a Kira\Ncomo sospechoso. Él fue el
+Dialogue: 0,0:12:06.84,0:12:09.90,Gen_Main,,0000,0000,0000,,que contactó y puso el\Ndinero para contratar a Coil.
+Dialogue: 0,0:12:11.11,0:12:14.39,Gen_Main,,0000,0000,0000,,Namikawa, en la reunión\Ntras la muerte de Hatori…
+Dialogue: 0,0:12:14.59,0:12:17.59,Gen_Main,,0000,0000,0000,,recibiste una llamada.\NMe pregunto quién era.
+Dialogue: 0,0:12:18.29,0:12:21.63,Gen_Main,,0000,0000,0000,,¿Sabes? Shimura,\Nrealmente eres perspicaz.
+Dialogue: 0,0:12:21.83,0:12:25.47,Gen_Main,,0000,0000,0000,,Kira tal vez te seleccionó…\Nporque valora tu cautela.
+Dialogue: 0,0:12:32.52,0:12:33.60,Gen_Main,,0000,0000,0000,,Habla Namikawa.
+Dialogue: 0,0:12:33.88,0:12:37.23,Gen_Main,,0000,0000,0000,,Soy L. Antes de continuar,\N¿estás solo?
+Dialogue: 0,0:12:37.73,0:12:40.57,Gen_Main,,0000,0000,0000,,-No.\N-{\i1}Actúa como si fuera una llamada común.{\i0}
+Dialogue: 0,0:12:40.77,0:12:42.27,Gen_Main,,0000,0000,0000,,Creo que no es necesario.
+Dialogue: 0,0:12:42.47,0:12:46.91,Gen_Main,,0000,0000,0000,,Uno de los presentes me hablaba de\Nsu sospecha sobre tu última llamada.
+Dialogue: 0,0:12:47.11,0:12:49.20,Gen_Main,,0000,0000,0000,,¿Quién está en la línea,\NNamikawa?
+Dialogue: 0,0:12:50.12,0:12:50.87,Gen_Main,,0000,0000,0000,,Es L.
+Dialogue: 0,0:12:54.36,0:12:57.33,Gen_Main,,0000,0000,0000,,L, Mido y Shimura\Nestán aquí también.
+Dialogue: 0,0:12:57.61,0:13:01.59,Gen_Main,,0000,0000,0000,,Tengo razones para creer que ninguno es\NKira. De hecho, parecen estar hartos de él.
+Dialogue: 0,0:13:02.30,0:13:04.47,Gen_Main,,0000,0000,0000,,{\i1}En su nombre digo que\Nse mantendrán al margen{\i0}
+Dialogue: 0,0:13:04.48,0:13:06.72,Gen_Main,,0000,0000,0000,,{\i1}en tu enfrentamiento\Ncon Kira, como lo haré yo.{\i0}
+Dialogue: 0,0:13:07.81,0:13:08.70,Gen_Main,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:13:09.48,0:13:13.56,Gen_Main,,0000,0000,0000,,Esta noche atraparemos a Kira,\Npero necesito un favor de ti.
+Dialogue: 0,0:13:16.31,0:13:17.90,Gen_Main,,0000,0000,0000,,Entonces es el final de Higuchi.
+Dialogue: 0,0:13:18.10,0:13:19.29,Gen_Main,,0000,0000,0000,,¿Qué? ¿Sabes que es él?
+Dialogue: 0,0:13:21.14,0:13:23.19,Gen_Main,,0000,0000,0000,,Creo que engañé al gran L.
+Dialogue: 0,0:13:23.39,0:13:27.58,Gen_Main,,0000,0000,0000,,Basándome en tu reacción ahora,\Nestoy seguro de que Higuchi es Kira.
+Dialogue: 0,0:13:28.81,0:13:30.47,Gen_Main,,0000,0000,0000,,Namikawa es muy inteligente.
+Dialogue: 0,0:13:30.67,0:13:34.06,Gen_Main,,0000,0000,0000,,Pero a decir verdad, yo lo supe\Ndesde el momento en que lo vi.
+Dialogue: 0,0:13:34.26,0:13:37.11,Gen_Main,,0000,0000,0000,,No, eso fue porque Light\Nse equivocó.
+Dialogue: 0,0:13:37.88,0:13:42.80,Gen_Main,,0000,0000,0000,,Engañaré a Higuchi con un programa\Nde televisión por Sakura… esta noche.
+Dialogue: 0,0:13:43.41,0:13:45.34,Gen_Main,,0000,0000,0000,,A unos minutos de iniciado,
+Dialogue: 0,0:13:45.75,0:13:48.86,Gen_Main,,0000,0000,0000,,llamarás a Higuchi,\Ndiciéndole que lo vea.
+Dialogue: 0,0:13:49.06,0:13:51.72,Gen_Main,,0000,0000,0000,,Hazlo y no te arrestaré\Nni a ninguno de los cinco.
+Dialogue: 0,0:13:52.02,0:13:54.75,Gen_Main,,0000,0000,0000,,{\i1}En cuanto a los otros:\NKida, Takahashi y Ooi,{\i0}
+Dialogue: 0,0:13:54.76,0:13:57.39,Gen_Main,,0000,0000,0000,,{\i1}si tratan de hacer\Nalgo, debes impedírselo.{\i0}
+Dialogue: 0,0:13:57.59,0:13:59.13,Gen_Main,,0000,0000,0000,,Bien, entiendo.
+Dialogue: 0,0:14:02.54,0:14:04.39,Gen_Main,,0000,0000,0000,,Parece que sí es Higuchi.
+Dialogue: 0,0:14:05.34,0:14:07.78,Gen_Main,,0000,0000,0000,,Lo van a capturar… esta noche.
+Dialogue: 0,0:14:11.34,0:14:14.05,Gen_Main,,0000,0000,0000,,Hace tres días\Ndejé de matar a criminales.
+Dialogue: 0,0:14:14.25,0:14:16.08,Gen_Main,,0000,0000,0000,,Supongo que eso bastará.
+Dialogue: 0,0:14:16.89,0:14:20.46,Gen_Main,,0000,0000,0000,,Cuando me case con Misa Amane,\Nel segundo Kira…
+Dialogue: 0,0:14:20.83,0:14:22.96,Gen_Main,,0000,0000,0000,,tendré los ojos de Shinigami.
+Dialogue: 0,0:14:23.16,0:14:27.62,Gen_Main,,0000,0000,0000,,Con ese poder en mis manos,\NYotsuba estará bajo mi control.
+Dialogue: 0,0:14:35.99,0:14:39.90,Gen_Main,,0000,0000,0000,,Higuchi, tenemos un problema. Enciende\Nel televisor, la estación de Sakura.
+Dialogue: 0,0:14:42.57,0:14:45.37,Gen_Main,,0000,0000,0000,,{\i1}Dice que uno de ellos\Nes Kira, ¿cierto?{\i0}
+Dialogue: 0,0:14:45.57,0:14:48.24,Gen_Main,,0000,0000,0000,,{\i1}Sí, y también tengo evidencia\Npara probarlo.{\i0}
+Dialogue: 0,0:14:48.47,0:14:52.74,Gen_Main,,0000,0000,0000,,¿Qué rayos es esto? Vamos, es una estafa,\Nes la televisora de Sakura.
+Dialogue: 0,0:14:53.03,0:14:54.75,Gen_Main,,0000,0000,0000,,{\i1}Al inicio del programa{\i0}
+Dialogue: 0,0:14:54.95,0:14:58.55,Gen_Main,,0000,0000,0000,,{\i1}dijo haber escuchado una reunión\Nentre ocho personas.{\i0}
+Dialogue: 0,0:14:59.18,0:15:01.38,Gen_Main,,0000,0000,0000,,{\i1}¿Qué? ¿Alguien sabe\Nde las reuniones?{\i0}
+Dialogue: 0,0:15:01.58,0:15:04.00,Gen_Main,,0000,0000,0000,,{\i1}¿Quién es?\N¿Alguien nos traicionó?{\i0}
+Dialogue: 0,0:15:04.20,0:15:07.62,Gen_Main,,0000,0000,0000,,{\i1}Kira mató a uno de ellos,\Nahora solo quedan siete.{\i0}
+Dialogue: 0,0:15:07.82,0:15:10.05,Gen_Main,,0000,0000,0000,,{\i1}El que murió es el señor H.{\i0}
+Dialogue: 0,0:15:10.21,0:15:12.23,Gen_Main,,0000,0000,0000,,{\i1}¿Señor H? ¡Hatori!{\i0}
+Dialogue: 0,0:15:12.43,0:15:15.58,Gen_Main,,0000,0000,0000,,{\i1}Si sabe tanto,\Ntal vez sea uno de los otros seis.{\i0}
+Dialogue: 0,0:15:15.78,0:15:17.06,Gen_Main,,0000,0000,0000,,{\i1}No, quizá sea Coil.{\i0}
+Dialogue: 0,0:15:17.29,0:15:21.44,Gen_Main,,0000,0000,0000,,{\i1}El señor H quería terminarlo.{\i0}
+Dialogue: 0,0:15:21.58,0:15:25.42,Gen_Main,,0000,0000,0000,,{\i1}No, no pueden ser los otros.\NNo obtienen beneficio de esto.{\i0}
+Dialogue: 0,0:15:25.62,0:15:29.94,Gen_Main,,0000,0000,0000,,{\i1}Nadie más sabe de las reuniones,\N¿o sí? ¿Quién es? ¿Qué?{\i0}
+Dialogue: 0,0:15:30.14,0:15:31.90,Gen_Main,,0000,0000,0000,,{\i1}Espera, ¿podría ser…?{\i0}
+Dialogue: 0,0:15:36.49,0:15:38.24,Gen_Main,,0000,0000,0000,,Es… ¡es él!
+Dialogue: 0,0:15:41.42,0:15:43.87,Gen_Main,,0000,0000,0000,,Se llama Matsui.\NEl representante de Misa,
+Dialogue: 0,0:15:44.07,0:15:45.81,Gen_Main,,0000,0000,0000,,¿por qué sigue vivo?
+Dialogue: 0,0:15:49.13,0:15:53.53,Gen_Main,,0000,0000,0000,,{\i1}Explicó antes que creía que moriría.\NFingió caer de la terraza del apartamento{\i0}
+Dialogue: 0,0:15:53.73,0:15:57.18,Gen_Main,,0000,0000,0000,,{\i1}a un balcón\Nunos pisos más abajo.{\i0}
+Dialogue: 0,0:15:57.73,0:15:59.94,Gen_Main,,0000,0000,0000,,{\i1}No puede ser,\Npara estar seguro,{\i0}
+Dialogue: 0,0:16:00.14,0:16:04.26,Gen_Main,,0000,0000,0000,,{\i1}escribí en el Death Note el nombre\Ncomo venía en su tarjeta.{\i0}
+Dialogue: 0,0:16:04.69,0:16:05.86,Gen_Main,,0000,0000,0000,,{\i1}¿Por qué todavía está vivo?{\i0}
+Dialogue: 0,0:16:06.35,0:16:10.13,Gen_Main,,0000,0000,0000,,{\i1}Tal vez es un representante que fue\Nun artista y usa un nombre artístico.{\i0}
+Dialogue: 0,0:16:10.33,0:16:11.50,Gen_Main,,0000,0000,0000,,{\i1}¿Es posible?{\i0}
+Dialogue: 0,0:16:11.70,0:16:15.70,Gen_Main,,0000,0000,0000,,Y peor aun, dice que continuó\Nsu investigación de Yotsuba
+Dialogue: 0,0:16:15.90,0:16:17.99,Gen_Main,,0000,0000,0000,,y que descubrió\Nquién de nosotros es Kira.
+Dialogue: 0,0:16:18.42,0:16:20.61,Gen_Main,,0000,0000,0000,,Llamaré a todos para avisarles.
+Dialogue: 0,0:16:21.00,0:16:23.25,Gen_Main,,0000,0000,0000,,De acuerdo.\NHablaremos después.
+Dialogue: 0,0:16:24.79,0:16:27.88,Gen_Main,,0000,0000,0000,,{\i1}Señor, estamos muy apenados\Npor ese incidente. ¿Está bien?{\i0}
+Dialogue: 0,0:16:28.08,0:16:29.51,Gen_Main,,0000,0000,0000,,{\i1}Podemos parar si lo desea.{\i0}
+Dialogue: 0,0:16:29.88,0:16:32.26,Gen_Main,,0000,0000,0000,,{\i1}No, sabía que corría peligro\Nal hacer esto.{\i0}
+Dialogue: 0,0:16:32.76,0:16:37.19,Gen_Main,,0000,0000,0000,,{\i1}Lo hago por la justicia. Hasta el final,\Naunque signifique mi muerte.{\i0}
+Dialogue: 0,0:16:37.39,0:16:39.31,Gen_Main,,0000,0000,0000,,Sí, eso es perfecto.
+Dialogue: 0,0:16:39.51,0:16:43.89,Gen_Main,,0000,0000,0000,,Solo asegúrate de dejar el anuncio de\NKira hasta el último momento, ¿de acuerdo?
+Dialogue: 0,0:16:45.26,0:16:46.98,Gen_Main,,0000,0000,0000,,{\i1}¡Tengo que matarlo!{\i0}
+Dialogue: 0,0:16:47.18,0:16:52.49,Gen_Main,,0000,0000,0000,,{\i1}¿Pero cómo? Misa lo\Nconoce. Ella es el segundo Kira.{\i0}
+Dialogue: 0,0:16:57.91,0:16:58.80,Gen_Main,,0000,0000,0000,,Es él.
+Dialogue: 0,0:17:01.57,0:17:03.19,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:17:03.39,0:17:07.26,Gen_Main,,0000,0000,0000,,{\i1}Para ser honesto, pensé mucho en\Nsi debería o no hacer esta declaración.{\i0}
+Dialogue: 0,0:17:07.46,0:17:11.05,Gen_Main,,0000,0000,0000,,{\i1}Ahora que estoy aquí,\Nsé que hice lo correcto.{\i0}
+Dialogue: 0,0:17:11.25,0:17:14.38,Gen_Main,,0000,0000,0000,,{\i1}Esto esta mal. Quién sabe\Ncuándo hará su declaración.{\i0}
+Dialogue: 0,0:17:14.58,0:17:16.30,Gen_Main,,0000,0000,0000,,{\i1}No cambie su canal.{\i0}
+Dialogue: 0,0:17:17.70,0:17:20.84,Gen_Main,,0000,0000,0000,,{\i1}Cosme-Misa… Un encanto sensual.{\i0}
+Dialogue: 0,0:17:21.61,0:17:23.02,Gen_Main,,0000,0000,0000,,{\i1}Un brillo deslumbrante.{\i0}
+Dialogue: 0,0:17:23.22,0:17:26.54,Gen_Main,,0000,0000,0000,,{\i1}Los nuevos cosméticos de Misa.\NSolo para ti.{\i0}
+Dialogue: 0,0:17:26.74,0:17:29.71,Gen_Main,,0000,0000,0000,,Mido, soy yo.\N¿Ves la televisora de Sakura?
+Dialogue: 0,0:17:29.91,0:17:32.19,Gen_Main,,0000,0000,0000,,Llama a tu padre en el salón\Nde consejeros.
+Dialogue: 0,0:17:32.35,0:17:35.95,Gen_Main,,0000,0000,0000,,{\i1}Que use su influencia con el Ministerio\Npara detener esta transmisión.{\i0}
+Dialogue: 0,0:17:36.15,0:17:38.41,Gen_Main,,0000,0000,0000,,La veo,\Npero no podemos detenerla.
+Dialogue: 0,0:17:38.57,0:17:41.01,Gen_Main,,0000,0000,0000,,{\i1}Nadie cree en este programa.{\i0}
+Dialogue: 0,0:17:41.21,0:17:42.90,Gen_Main,,0000,0000,0000,,{\i1}Si lo detenemos,\Nsolo levantaremos sospechas.{\i0}
+Dialogue: 0,0:17:43.38,0:17:45.91,Gen_Main,,0000,0000,0000,,{\i1}Además,\Nno hay de qué preocuparse.{\i0}
+Dialogue: 0,0:17:46.27,0:17:48.29,Gen_Main,,0000,0000,0000,,{\i1}El sujeto reveló su rostro.{\i0}
+Dialogue: 0,0:17:48.53,0:17:50.92,Gen_Main,,0000,0000,0000,,{\i1}Todos sabemos que es Taro Matsui.{\i0}
+Dialogue: 0,0:17:51.33,0:17:54.68,Gen_Main,,0000,0000,0000,,{\i1}Namikawa ya habló con todos\Npara que vean el programa.{\i0}
+Dialogue: 0,0:17:55.58,0:17:58.14,Gen_Main,,0000,0000,0000,,Como uno de los siete\Ndebe ser Kira,
+Dialogue: 0,0:17:58.34,0:18:00.47,Gen_Main,,0000,0000,0000,,significa que Matsui pronto\Nestará muerto, ¿cierto?
+Dialogue: 0,0:18:00.67,0:18:06.71,Gen_Main,,0000,0000,0000,,{\i1}Claro, soy el único que sabe,\Nincluso que sospecha,{\i0}
+Dialogue: 0,0:18:07.24,0:18:11.02,Gen_Main,,0000,0000,0000,,{\i1}que Taro Matsui\Nno es su verdadero nombre.{\i0}
+Dialogue: 0,0:18:13.24,0:18:15.31,Gen_Main,,0000,0000,0000,,{\i1}Así es, no falta mucho\Npara que conozcamos…{\i0}
+Dialogue: 0,0:18:15.32,0:18:16.99,Gen_Main,,0000,0000,0000,,Sí, es cierto.\NHablaremos después.
+Dialogue: 0,0:18:17.22,0:18:18.99,Gen_Main,,0000,0000,0000,,{\i1}la identidad de Kira.{\i0}
+Dialogue: 0,0:18:19.12,0:18:20.45,Gen_Main,,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:18:21.56,0:18:25.11,Gen_Main,,0000,0000,0000,,{\i1}Ryuzaki, Mogi está en posición\Nfrente a Producciones Yoshida.{\i0}
+Dialogue: 0,0:18:25.31,0:18:27.35,Gen_Main,,0000,0000,0000,,{\i1}Recibió una llamada de Higuchi.{\i0}
+Dialogue: 0,0:18:27.55,0:18:30.50,Gen_Main,,0000,0000,0000,,Sí, es momento de la fase dos.\NTal como lo planeamos.
+Dialogue: 0,0:18:30.74,0:18:32.35,Gen_Main,,0000,0000,0000,,{\i1}Mogi, ¿dónde está Misa?{\i0}
+Dialogue: 0,0:18:32.55,0:18:35.14,Gen_Main,,0000,0000,0000,,{\i1}Señor Higuchi,\Nes un placer escucharlo.{\i0}
+Dialogue: 0,0:18:35.59,0:18:39.09,Gen_Main,,0000,0000,0000,,{\i1}Lo lamento, pero Misa-Misa\Ntomó unas merecidas vacaciones.{\i0}
+Dialogue: 0,0:18:39.26,0:18:41.45,Gen_Main,,0000,0000,0000,,{\i1}Deberá estar de regreso mañana.\NPodrá llamarle entonces.{\i0}
+Dialogue: 0,0:18:41.65,0:18:43.49,Gen_Main,,0000,0000,0000,,{\i1}Le pregunto dónde está ahora.{\i0}
+Dialogue: 0,0:18:43.69,0:18:47.48,Gen_Main,,0000,0000,0000,,{\i1}Esa es información privada.\NPidió que nadie supiera donde está.{\i0}
+Dialogue: 0,0:18:47.98,0:18:51.56,Gen_Main,,0000,0000,0000,,{\i1}Lo lamento, pero le diré\Nque le llame mañana en cuanto llegue.{\i0}
+Dialogue: 0,0:18:51.72,0:18:54.05,Gen_Main,,0000,0000,0000,,{\i1}¡Maldición! Conozco su rostro.{\i0}
+Dialogue: 0,0:18:54.25,0:18:56.70,Gen_Main,,0000,0000,0000,,{\i1}Lo mataría en cualquier momento\Ncon saber su nombre.{\i0}
+Dialogue: 0,0:18:57.95,0:19:00.83,Gen_Main,,0000,0000,0000,,{\i1}¿Sabe si el anterior representante\Nde Misa fue un artista?{\i0}
+Dialogue: 0,0:19:01.03,0:19:03.49,Gen_Main,,0000,0000,0000,,-¿Cómo dice?\N-{\i1}¡Hablo de Taro Matsui!{\i0}
+Dialogue: 0,0:19:04.01,0:19:07.68,Gen_Main,,0000,0000,0000,,Me contrataron hace poco,\Nasí que no sé mucho sobre él.
+Dialogue: 0,0:19:07.88,0:19:10.37,Gen_Main,,0000,0000,0000,,Si necesita información,\Nalguien de la oficina podría dársela,
+Dialogue: 0,0:19:10.57,0:19:13.19,Gen_Main,,0000,0000,0000,,solo que ahora todos están\Nen Okinawa.
+Dialogue: 0,0:19:13.39,0:19:15.88,Gen_Main,,0000,0000,0000,,Pero puede hablarle al presidente.
+Dialogue: 0,0:19:16.12,0:19:19.15,Gen_Main,,0000,0000,0000,,Esto va de acuerdo a mi plan.\NHasta me asusta.
+Dialogue: 0,0:19:19.35,0:19:22.01,Gen_Main,,0000,0000,0000,,No debería asustarte,\NLight, debería alegrarte.
+Dialogue: 0,0:19:22.21,0:19:25.60,Gen_Main,,0000,0000,0000,,{\i1}Tengo la llamada de Higuchi con el\Npresidente de Producciones Yoshida.{\i0}
+Dialogue: 0,0:19:25.89,0:19:30.19,Gen_Main,,0000,0000,0000,,{\i1}Habla Higuchi, de Yotsuba. El nombre\Ndel representante no es Taro Matsui, ¿o sí?{\i0}
+Dialogue: 0,0:19:30.35,0:19:33.20,Gen_Main,,0000,0000,0000,,Ya ni siquiera pretende esconder\Nlo que está preguntando.
+Dialogue: 0,0:19:33.40,0:19:34.88,Gen_Main,,0000,0000,0000,,Tonto Higuchi.
+Dialogue: 0,0:19:35.08,0:19:37.65,Gen_Main,,0000,0000,0000,,Su forma de actuar demuestra\Nque está entrando en pánico.
+Dialogue: 0,0:19:37.99,0:19:40.95,Gen_Main,,0000,0000,0000,,-¿Cuál es su verdadero nombre?\N-{\i1}Creo que era Yamata.{\i0}
+Dialogue: 0,0:19:41.15,0:19:42.27,Gen_Main,,0000,0000,0000,,{\i1}No, espere… Yamashita.{\i0}
+Dialogue: 0,0:19:42.47,0:19:46.21,Gen_Main,,0000,0000,0000,,{\i1}Y su nombre de pila era…\Nlo siento, no lo recuerdo.{\i0}
+Dialogue: 0,0:19:46.37,0:19:50.34,Gen_Main,,0000,0000,0000,,No juegue conmigo. ¿Cómo que no recuerda\Nlos nombres de las personas que contrata?
+Dialogue: 0,0:19:51.81,0:19:53.85,Gen_Main,,0000,0000,0000,,{\i1}Está bien,\Nno tiene por qué exaltarse.{\i0}
+Dialogue: 0,0:19:54.05,0:19:55.84,Gen_Main,,0000,0000,0000,,{\i1}Tengo su expediente en la oficina.{\i0}
+Dialogue: 0,0:19:56.13,0:19:57.88,Gen_Main,,0000,0000,0000,,Pues vaya a conseguirlo.
+Dialogue: 0,0:19:58.19,0:20:00.45,Gen_Main,,0000,0000,0000,,{\i1}Debe estar bromeando,\Nno puedo hacerlo.{\i0}
+Dialogue: 0,0:20:00.65,0:20:03.38,Gen_Main,,0000,0000,0000,,{\i1}Son las primeras vacaciones\Nen dos años.{\i0}
+Dialogue: 0,0:20:04.13,0:20:07.83,Gen_Main,,0000,0000,0000,,{\i1}Si le urge saberlo, le puedo dar el código\Npara entrar a la oficina.{\i0}
+Dialogue: 0,0:20:08.03,0:20:10.56,Gen_Main,,0000,0000,0000,,{\i1}Vaya y búsquelo usted mismo,\N¿qué le parece?{\i0}
+Dialogue: 0,0:20:10.82,0:20:13.04,Gen_Main,,0000,0000,0000,,{\i1}Los archivos están\Nen el escritorio de la{\i0}
+Dialogue: 0,0:20:13.05,0:20:15.50,Gen_Main,,0000,0000,0000,,{\i1}izquierda. Lo encontrará\Nen la última gaveta,{\i0}
+Dialogue: 0,0:20:15.89,0:20:18.18,Gen_Main,,0000,0000,0000,,{\i1}por orden alfabético.{\i0}
+Dialogue: 0,0:20:18.38,0:20:19.90,Gen_Main,,0000,0000,0000,,{\i1}Aunque creo que era Yamashita.{\i0}
+Dialogue: 0,0:20:20.86,0:20:23.25,Gen_Main,,0000,0000,0000,,{\i1}Lo anunciarán\Nal final del programa.{\i0}
+Dialogue: 0,0:20:23.45,0:20:25.27,Gen_Main,,0000,0000,0000,,{\i1}Tengo dos horas.{\i0}
+Dialogue: 0,0:20:29.69,0:20:31.09,Gen_Main,,0000,0000,0000,,¿Qué es lo que hará?
+Dialogue: 0,0:20:50.99,0:20:54.94,Gen_Main,,0000,0000,0000,,{\i1}Veo a Higuchi. Solo lleva un portafolios.\NLo persigo.{\i0}
+Dialogue: 0,0:20:58.10,0:21:01.19,Gen_Main,,0000,0000,0000,,-Todo va según lo planeado.\N-Sí.
+Dialogue: 0,0:21:05.98,0:21:08.70,Gen_Main,,0000,0000,0000,,{\i1}Lo mataré.\NNo importa cómo, lo mataré.{\i0}
+Dialogue: 0,0:21:08.90,0:21:11.54,Gen_Main,,0000,0000,0000,,{\i1}Llegué hasta aquí,\Nno dejaré que me detengan.{\i0}
+Dialogue: 0,0:21:11.95,0:21:15.02,Gen_Main,,0000,0000,0000,,{\i1}No me rendiré hasta tenerlo todo.{\i0}
+Dialogue: 0,0:21:27.89,0:21:29.51,Cart_A_Tre,,0000,0000,0000,,{\an8}CONTINUARÁ
+Dialogue: 0,0:22:39.50,0:22:41.29,Cart_A_Tre,,0000,0000,0000,,AVANCE
+Dialogue: 0,0:22:40.33,0:22:42.59,Gen_Main,,0000,0000,0000,,¡Ahora nadie me podrá detener!
+Dialogue: 0,0:22:42.99,0:22:46.13,Gen_Main,,0000,0000,0000,,-¡Manos a la cabeza!\N-No es peligroso, ¿verdad?
+Dialogue: 0,0:22:46.46,0:22:49.64,Gen_Main,,0000,0000,0000,,¡El programa superará\Nel 100% de audiencia!
+Dialogue: 0,0:22:50.68,0:22:52.13,Gen_Main,,0000,0000,0000,,¡Llegué a tiempo!
+Dialogue: 0,0:22:52.43,0:22:54.47,Cart_A_Tre,,0000,0000,0000,,FRENESÍ
+
